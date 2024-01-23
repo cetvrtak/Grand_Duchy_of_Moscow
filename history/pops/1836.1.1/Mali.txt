@@ -10,7 +10,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 4317
+		size= 7233
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 47496
+		size= 44580
 	}
 
 }
@@ -350,7 +350,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 4133
+		size= 1790
 	}
 
 	artisans=
@@ -392,7 +392,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 12379
+		size= 14722
 	}
 
 }

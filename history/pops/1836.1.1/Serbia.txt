@@ -52,7 +52,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 7233
+		size= 10333
 	}
 
 	artisans=
@@ -94,7 +94,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 6882
+		size= 3782
 	}
 
 }
@@ -152,7 +152,7 @@
 	{
 		culture = hungarian
 		religion = protestant
-		size= 1091
+		size= 4133
 	}
 
 	artisans=
@@ -194,7 +194,7 @@
 	{
 		culture = hungarian
 		religion = protestant
-		size= 28784
+		size= 25742
 	}
 
 }
@@ -507,7 +507,7 @@
 	{
 		culture = macedonian
 		religion = orthodox
-		size= 1678
+		size= 7233
 	}
 
 	artisans=
@@ -549,7 +549,7 @@
 	{
 		culture = macedonian
 		religion = orthodox
-		size= 48688
+		size= 43133
 	}
 
 }
@@ -725,7 +725,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 4595
+		size= 7233
 	}
 
 	artisans=
@@ -767,7 +767,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 78857
+		size= 76219
 	}
 
 	aristocrats=

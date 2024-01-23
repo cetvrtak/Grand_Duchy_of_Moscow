@@ -508,7 +508,7 @@
 	{
 		culture = surinamian
 		religion = protestant
-		size= 6793
+		size= 7260
 	}
 
 	slaves=
@@ -557,7 +557,7 @@
 	{
 		culture = surinamian
 		religion = protestant
-		size= 1033
+		size= 566
 	}
 
 }
@@ -899,7 +899,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -941,7 +941,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 9595
+		size= 6495
 	}
 
 	soldiers=
@@ -1777,14 +1777,14 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 7689
+		size= 8320
 	}
 
 	soldiers=
 	{
 		culture = yankee
 		religion = protestant
-		size= 1033
+		size= 402
 	}
 
 	artisans=

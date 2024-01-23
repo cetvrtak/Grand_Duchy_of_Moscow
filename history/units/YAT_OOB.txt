@@ -514,69 +514,9 @@ army = {
 	name="3rd Army"
 	location=1786
 	regiment = {
-		name="1st Podor Infantry"
+		name="1st Bandiagara Infantry"
 		type=infantry
-		home=1789
-	}
-	regiment = {
-		name="1st Wagadugu Infantry"
-		type=infantry
-		home=1901
-	}
-	regiment = {
-		name="1st Sia Infantry"
-		type=infantry
-		home=1905
-	}
-	regiment = {
-		name="1st Sikasso Infantry"
-		type=infantry
-		home=1799
-	}
-	regiment = {
-		name="1st Aleg Infantry"
-		type=infantry
-		home=1777
-	}
-	regiment = {
-		name="1st Araouane Artillery"
-		type=artillery
-		home=2609
-	}
-	regiment = {
-		name="1st Timbuktu Artillery"
-		type=artillery
-		home=1803
-	}
-	regiment = {
-		name="3rd Say Infantry"
-		type=infantry
-		home=1809
-	}
-	regiment = {
-		name="6th Bandiagara Artillery"
-		type=artillery
 		home=1804
-	}
-}
-
-army = {
-	name="5th Army"
-	location=1804
-	regiment = {
-		name="1st Nioro Infantry"
-		type=infantry
-		home=1796
-	}
-	regiment = {
-		name="1st Gao Infantry"
-		type=infantry
-		home=1805
-	}
-	regiment = {
-		name="1st Bambuhu Infantry"
-		type=infantry
-		home=1795
 	}
 	regiment = {
 		name="1st Segu Infantry"
@@ -584,29 +524,89 @@ army = {
 		home=1800
 	}
 	regiment = {
-		name="1st Say Infantry"
+		name="1st Wa Infantry"
 		type=infantry
-		home=1809
+		home=1912
 	}
 	regiment = {
-		name="1st Bougouni Artillery"
+		name="1st Bamako Infantry"
+		type=infantry
+		home=1794
+	}
+	regiment = {
+		name="1st Kita Infantry"
+		type=infantry
+		home=1797
+	}
+	regiment = {
+		name="1st Wahiguya Artillery"
 		type=artillery
+		home=1902
+	}
+	regiment = {
+		name="1st Gao Artillery"
+		type=artillery
+		home=1805
+	}
+	regiment = {
+		name="1st Podor Infantry"
+		type=infantry
+		home=1789
+	}
+	regiment = {
+		name="2nd Wahiguya Artillery"
+		type=artillery
+		home=1902
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1804
+	regiment = {
+		name="1st Sikasso Infantry"
+		type=infantry
+		home=1799
+	}
+	regiment = {
+		name="1st Wagadugu Infantry"
+		type=infantry
+		home=1901
+	}
+	regiment = {
+		name="1st Bougouni Infantry"
+		type=infantry
 		home=1798
 	}
 	regiment = {
-		name="1st Kumasi Artillery"
-		type=artillery
-		home=1910
-	}
-	regiment = {
-		name="2nd Kumasi Infantry"
+		name="2nd Sikasso Infantry"
 		type=infantry
-		home=1910
+		home=1799
 	}
 	regiment = {
-		name="7th Bandiagara Artillery"
+		name="1st Gao Infantry"
+		type=infantry
+		home=1805
+	}
+	regiment = {
+		name="1st Bamako Artillery"
 		type=artillery
-		home=1804
+		home=1794
+	}
+	regiment = {
+		name="1st Timbuktu Artillery"
+		type=artillery
+		home=1803
+	}
+	regiment = {
+		name="3rd Gao Infantry"
+		type=infantry
+		home=1805
+	}
+	regiment = {
+		name="3rd Gao Artillery"
+		type=artillery
+		home=1805
 	}
 }
 
@@ -614,14 +614,9 @@ army = {
 	name="8th Army"
 	location=1772
 	regiment = {
-		name="2nd Aleg Infantry"
+		name="1st Nioro Infantry"
 		type=infantry
-		home=1777
-	}
-	regiment = {
-		name="1st Bandiagara Infantry"
-		type=infantry
-		home=1804
+		home=1796
 	}
 	regiment = {
 		name="2nd Bandiagara Infantry"
@@ -629,9 +624,9 @@ army = {
 		home=1804
 	}
 	regiment = {
-		name="1st Ziguinchor Artillery"
-		type=artillery
-		home=1792
+		name="1st Timbuktu Infantry"
+		type=infantry
+		home=1803
 	}
 	regiment = {
 		name="1st Bandiagara Artillery"
@@ -639,20 +634,30 @@ army = {
 		home=1804
 	}
 	regiment = {
-		name="1st Kita Artillery"
+		name="2nd Bamako Artillery"
 		type=artillery
-		home=1797
+		home=1794
 	}
 	regiment = {
-		name="4th Bandiagara Infantry"
-		type=infantry
+		name="2nd Bandiagara Artillery"
+		type=artillery
 		home=1804
+	}
+	regiment = {
+		name="2nd Dori Infantry"
+		type=infantry
+		home=1903
 	}
 }
 
 army = {
 	name="7th Army"
 	location=1801
+	regiment = {
+		name="1st Say Infantry"
+		type=infantry
+		home=1809
+	}
 	regiment = {
 		name="1st Dori Infantry"
 		type=infantry
@@ -664,19 +669,14 @@ army = {
 		home=1804
 	}
 	regiment = {
-		name="2nd Wagadugu Infantry"
+		name="4th Bandiagara Infantry"
 		type=infantry
-		home=1901
-	}
-	regiment = {
-		name="3rd Wagadugu Infantry"
-		type=infantry
-		home=1901
-	}
-	regiment = {
-		name="2nd Bandiagara Artillery"
-		type=artillery
 		home=1804
+	}
+	regiment = {
+		name="2nd Timbuktu Artillery"
+		type=artillery
+		home=1803
 	}
 	regiment = {
 		name="3rd Bandiagara Artillery"
@@ -684,19 +684,19 @@ army = {
 		home=1804
 	}
 	regiment = {
-		name="1st Gao Artillery"
-		type=artillery
-		home=1805
-	}
-	regiment = {
 		name="4th Bandiagara Artillery"
 		type=artillery
 		home=1804
 	}
 	regiment = {
-		name="4th Gao Artillery"
+		name="1st Dori Artillery"
 		type=artillery
-		home=1805
+		home=1903
+	}
+	regiment = {
+		name="3rd Dori Artillery"
+		type=artillery
+		home=1903
 	}
 }
 
@@ -709,14 +709,19 @@ army = {
 		home=1800
 	}
 	regiment = {
-		name="1st Bakel Infantry"
+		name="2nd Say Infantry"
 		type=infantry
-		home=1791
+		home=1809
 	}
 	regiment = {
-		name="1st Tessalit Infantry"
+		name="2nd Gao Infantry"
 		type=infantry
-		home=1807
+		home=1805
+	}
+	regiment = {
+		name="2nd Timbuktu Infantry"
+		type=infantry
+		home=1803
 	}
 	regiment = {
 		name="1st Bondouku Infantry"
@@ -724,14 +729,9 @@ army = {
 		home=1899
 	}
 	regiment = {
-		name="1st Timbo Infantry"
+		name="1st Maghama Infantry"
 		type=infantry
-		home=1880
-	}
-	regiment = {
-		name="1st Timbuktu Infantry"
-		type=infantry
-		home=1803
+		home=1778
 	}
 }
 
@@ -739,51 +739,47 @@ navy = {
 	name="1st Fleet"
 	location=1877
 	ship = {
+		name="1st Kahone Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bissau Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Banjul Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Dakar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Grand Bassam Man'o'war"
+		type=manowar
+	}
+	ship = {
 		name="1st Baraka Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="2nd Baraka Man'o'war"
+		name="2nd Kahone Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Kribi Man'o'war"
+		name="1st Douala Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Grand Bassam Man'o'war"
+		name="3rd Grand Bassam Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Ziguinchor Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Sekondi Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Baraka Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Kribi Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Ziguinchor Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Ziguinchor Clipper Transport"
+		name="1st Banjul Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Bata Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Saint-Louis Clipper Transport"
+		name="1st Kahone Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -791,19 +787,23 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Saint-Louis Clipper Transport"
+		name="1st Kribi Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Bissau Clipper Transport"
+		name="2nd Banjul Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Grand Bassam Clipper Transport"
+		name="2nd Grand Bassam Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Mboul Clipper Transport"
+		name="3rd Banjul Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Sekondi Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -812,19 +812,19 @@ navy = {
 	name="2nd Fleet"
 	location=2917
 	ship = {
+		name="1st Saint-Louis Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Banjul Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Banjul Frigate"
+		type=frigate
+	}
+	ship = {
 		name="1st Cabinda Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Bissau Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Sekondi Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Bissau Frigate"
 		type=frigate
 	}
 }
@@ -833,39 +833,39 @@ army = {
 	name="2nd Army"
 	location=1807
 	regiment = {
-		name="1st Kumasi Infantry"
+		name="3rd Timbuktu Infantry"
 		type=infantry
-		home=1910
+		home=1803
 	}
 	regiment = {
-		name="3rd Aleg Infantry"
+		name="1st Aleg Infantry"
 		type=infantry
 		home=1777
 	}
 	regiment = {
-		name="2nd Gao Infantry"
+		name="1st Mourdiah Infantry"
 		type=infantry
-		home=1805
+		home=1801
+	}
+	regiment = {
+		name="1st Kumasi Artillery"
+		type=artillery
+		home=1910
+	}
+	regiment = {
+		name="1st Tessalit Artillery"
+		type=artillery
+		home=1807
+	}
+	regiment = {
+		name="2nd Aleg Infantry"
+		type=infantry
+		home=1777
 	}
 	regiment = {
 		name="2nd Gao Artillery"
 		type=artillery
 		home=1805
-	}
-	regiment = {
-		name="1st Nioro Artillery"
-		type=artillery
-		home=1796
-	}
-	regiment = {
-		name="2nd Timbuktu Infantry"
-		type=infantry
-		home=1803
-	}
-	regiment = {
-		name="1st Orodaro Artillery"
-		type=artillery
-		home=1906
 	}
 }
 
@@ -873,24 +873,29 @@ army = {
 	name="4th Army"
 	location=1799
 	regiment = {
+		name="1st Fada Ngourma Infantry"
+		type=infantry
+		home=1904
+	}
+	regiment = {
 		name="2nd Bondouku Infantry"
 		type=infantry
 		home=1899
 	}
 	regiment = {
-		name="1st Kong Infantry"
+		name="1st Akoupe Infantry"
 		type=infantry
-		home=1898
+		home=1897
 	}
 	regiment = {
-		name="1st Wa Infantry"
-		type=infantry
-		home=1912
-	}
-	regiment = {
-		name="2nd Timbuktu Artillery"
+		name="2nd Kumasi Artillery"
 		type=artillery
-		home=1803
+		home=1910
+	}
+	regiment = {
+		name="2nd Dori Artillery"
+		type=artillery
+		home=1903
 	}
 	regiment = {
 		name="5th Bandiagara Artillery"
@@ -898,24 +903,19 @@ army = {
 		home=1804
 	}
 	regiment = {
-		name="3rd Gao Artillery"
+		name="1st Araouane Artillery"
 		type=artillery
-		home=1805
+		home=2609
 	}
 	regiment = {
-		name="3rd Timbuktu Artillery"
-		type=artillery
-		home=1803
-	}
-	regiment = {
-		name="2nd Say Infantry"
+		name="5th Bandiagara Infantry"
 		type=infantry
-		home=1809
+		home=1804
 	}
 	regiment = {
-		name="1st Fada Ngourma Artillery"
+		name="6th Bandiagara Artillery"
 		type=artillery
-		home=1904
+		home=1804
 	}
 }
 

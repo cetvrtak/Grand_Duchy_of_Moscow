@@ -252,7 +252,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 4133
+		size= 7233
 	}
 
 	artisans=
@@ -294,7 +294,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 8956
+		size= 5856
 	}
 
 }
@@ -978,7 +978,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 1849
+		size= 4133
 	}
 
 	artisans=
@@ -1006,7 +1006,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 14935
+		size= 12651
 	}
 
 	soldiers=

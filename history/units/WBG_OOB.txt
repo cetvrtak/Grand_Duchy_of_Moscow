@@ -529,24 +529,19 @@ army = {
 	name="Erste Fränkische Armee"
 	location=595
 	regiment = {
-		name="1st Munich Infantry"
+		name="1st Bayreuth Infantry"
 		type=infantry
-		home=599
+		home=598
+	}
+	regiment = {
+		name="1st Regensburg Infantry"
+		type=infantry
+		home=602
 	}
 	regiment = {
 		name="1st Heilbronn Infantry"
 		type=infantry
 		home=590
-	}
-	regiment = {
-		name="1st Würzburg Infantry"
-		type=infantry
-		home=597
-	}
-	regiment = {
-		name="2nd Würzburg Infantry"
-		type=infantry
-		home=597
 	}
 	regiment = {
 		name="2nd Heilbronn Infantry"
@@ -555,6 +550,11 @@ army = {
 	}
 	regiment = {
 		name="3rd Heilbronn Infantry"
+		type=infantry
+		home=590
+	}
+	regiment = {
+		name="4th Heilbronn Infantry"
 		type=infantry
 		home=590
 	}
@@ -569,124 +569,9 @@ army = {
 		home=600
 	}
 	regiment = {
-		name="2nd Landshut Artillery"
-		type=artillery
-		home=600
-	}
-	regiment = {
-		name="2nd Bayreuth Artillery"
-		type=artillery
-		home=598
-	}
-	regiment = {
 		name="1st Meiningen Artillery"
 		type=artillery
 		home=563
-	}
-	regiment = {
-		name="1st Stuttgart Artillery"
-		type=artillery
-		home=589
-	}
-	regiment = {
-		name="6th Bayreuth Artillery"
-		type=artillery
-		home=598
-	}
-}
-
-army = {
-	name="Armee von Rothenburg"
-	location=602
-	regiment = {
-		name="4th Heilbronn Infantry"
-		type=infantry
-		home=590
-	}
-	regiment = {
-		name="1st Bayreuth Infantry"
-		type=infantry
-		home=598
-	}
-	regiment = {
-		name="5th Heilbronn Infantry"
-		type=infantry
-		home=590
-	}
-	regiment = {
-		name="1st Landshut Infantry"
-		type=infantry
-		home=600
-	}
-	regiment = {
-		name="1st Nuremberg Infantry"
-		type=infantry
-		home=595
-	}
-	regiment = {
-		name="1st Regensburg Artillery"
-		type=artillery
-		home=602
-	}
-	regiment = {
-		name="3rd Bayreuth Artillery"
-		type=artillery
-		home=598
-	}
-	regiment = {
-		name="4th Bayreuth Artillery"
-		type=artillery
-		home=598
-	}
-	regiment = {
-		name="5th Bayreuth Artillery"
-		type=artillery
-		home=598
-	}
-	regiment = {
-		name="2nd Munich Infantry"
-		type=infantry
-		home=599
-	}
-	regiment = {
-		name="7th Bayreuth Artillery"
-		type=artillery
-		home=598
-	}
-}
-
-army = {
-	name="Armee von Würzburg"
-	location=598
-	regiment = {
-		name="2nd Landshut Infantry"
-		type=infantry
-		home=600
-	}
-	regiment = {
-		name="6th Heilbronn Infantry"
-		type=infantry
-		home=590
-	}
-	regiment = {
-		name="7th Heilbronn Infantry"
-		type=infantry
-		home=590
-	}
-	regiment = {
-		name="3rd Landshut Infantry"
-		type=infantry
-		home=600
-	}
-	regiment = {
-		name="2nd Regensburg Artillery"
-		type=artillery
-		home=602
-	}
-	regiment = {
-		name="1st Heilbronn Artillery"
-		type=artillery
-		home=590
 	}
 	regiment = {
 		name="1st Nuremberg Artillery"
@@ -694,9 +579,124 @@ army = {
 		home=595
 	}
 	regiment = {
-		name="4th Landshut Infantry"
+		name="1st Würzburg Artillery"
+		type=artillery
+		home=597
+	}
+	regiment = {
+		name="2nd Bayreuth Artillery"
+		type=artillery
+		home=598
+	}
+	regiment = {
+		name="3rd Würzburg Artillery"
+		type=artillery
+		home=597
+	}
+}
+
+army = {
+	name="Armee von Rothenburg"
+	location=602
+	regiment = {
+		name="5th Heilbronn Infantry"
 		type=infantry
-		home=600
+		home=590
+	}
+	regiment = {
+		name="6th Heilbronn Infantry"
+		type=infantry
+		home=590
+	}
+	regiment = {
+		name="1st Würzburg Infantry"
+		type=infantry
+		home=597
+	}
+	regiment = {
+		name="1st Nuremberg Infantry"
+		type=infantry
+		home=595
+	}
+	regiment = {
+		name="7th Heilbronn Infantry"
+		type=infantry
+		home=590
+	}
+	regiment = {
+		name="1st Munich Artillery"
+		type=artillery
+		home=599
+	}
+	regiment = {
+		name="2nd Munich Artillery"
+		type=artillery
+		home=599
+	}
+	regiment = {
+		name="1st Heilbronn Artillery"
+		type=artillery
+		home=590
+	}
+	regiment = {
+		name="3rd Bayreuth Artillery"
+		type=artillery
+		home=598
+	}
+	regiment = {
+		name="10th Heilbronn Infantry"
+		type=infantry
+		home=590
+	}
+	regiment = {
+		name="2nd Heilbronn Artillery"
+		type=artillery
+		home=590
+	}
+}
+
+army = {
+	name="Armee von Würzburg"
+	location=598
+	regiment = {
+		name="2nd Bayreuth Infantry"
+		type=infantry
+		home=598
+	}
+	regiment = {
+		name="8th Heilbronn Infantry"
+		type=infantry
+		home=590
+	}
+	regiment = {
+		name="2nd Nuremberg Infantry"
+		type=infantry
+		home=595
+	}
+	regiment = {
+		name="9th Heilbronn Infantry"
+		type=infantry
+		home=590
+	}
+	regiment = {
+		name="4th Bayreuth Artillery"
+		type=artillery
+		home=598
+	}
+	regiment = {
+		name="1st Regensburg Artillery"
+		type=artillery
+		home=602
+	}
+	regiment = {
+		name="2nd Würzburg Artillery"
+		type=artillery
+		home=597
+	}
+	regiment = {
+		name="3rd Nuremberg Infantry"
+		type=infantry
+		home=595
 	}
 }
 

@@ -3,7 +3,7 @@
 	{
 		culture = andalucian
 		religion = sunni
-		size= 31
+		size= 1033
 	}
 
 	clergymen=
@@ -38,14 +38,14 @@
 	{
 		culture = andalucian
 		religion = sunni
-		size= 1461
+		size= 459
 	}
 
 	soldiers=
 	{
 		culture = spanish
 		religion = catholic
-		size= 41
+		size= 1033
 	}
 
 	clergymen=
@@ -80,7 +80,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 1859
+		size= 867
 	}
 
 }

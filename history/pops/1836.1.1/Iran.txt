@@ -473,7 +473,7 @@
 	{
 		culture = turkish
 		religion = sunni
-		size= 4133
+		size= 16533
 	}
 
 	artisans=
@@ -515,7 +515,7 @@
 	{
 		culture = turkish
 		religion = sunni
-		size= 30452
+		size= 18052
 	}
 
 	soldiers=
@@ -806,7 +806,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 1570
+		size= 4133
 	}
 
 	artisans=
@@ -848,7 +848,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 25797
+		size= 23234
 	}
 
 	slaves=
@@ -1199,7 +1199,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 19633
+		size= 4133
 	}
 
 	artisans=
@@ -1241,7 +1241,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 9708
+		size= 25208
 	}
 
 	slaves=
@@ -1306,7 +1306,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 4133
+		size= 1033
 	}
 
 	artisans=
@@ -1341,7 +1341,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 14462
+		size= 17562
 	}
 
 	soldiers=
@@ -1455,7 +1455,7 @@
 	{
 		culture = kurdish
 		religion = sunni
-		size= 4133
+		size= 633
 	}
 
 	artisans=
@@ -1497,7 +1497,7 @@
 	{
 		culture = kurdish
 		religion = sunni
-		size= 14595
+		size= 18095
 	}
 
 }
@@ -1629,7 +1629,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 874
+		size= 1033
 	}
 
 	artisans=
@@ -1671,7 +1671,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 25370
+		size= 25211
 	}
 
 	clergymen=
@@ -1985,7 +1985,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 4924
+		size= 7233
 	}
 
 	artisans=
@@ -2027,7 +2027,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 38677
+		size= 36368
 	}
 
 }
@@ -2036,7 +2036,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 4133
+		size= 951
 	}
 
 	artisans=
@@ -2078,7 +2078,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 6593
+		size= 9775
 	}
 
 }
@@ -2094,7 +2094,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 19633
+		size= 11083
 	}
 
 	artisans=
@@ -2136,7 +2136,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 64038
+		size= 72588
 	}
 
 	clergymen=
@@ -2159,7 +2159,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 1484
+		size= 4133
 	}
 
 	artisans=
@@ -2201,7 +2201,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 11659
+		size= 9010
 	}
 
 }
@@ -2210,7 +2210,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 10333
+		size= 19633
 	}
 
 	artisans=
@@ -2252,7 +2252,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 14920
+		size= 5620
 	}
 
 	artisans=
@@ -2275,7 +2275,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 2796
+		size= 10333
 	}
 
 	artisans=
@@ -2317,7 +2317,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 28488
+		size= 20951
 	}
 
 	clergymen=
@@ -2719,7 +2719,7 @@
 	{
 		culture = kurdish
 		religion = shiite
-		size= 1033
+		size= 471
 	}
 
 	artisans=
@@ -2761,7 +2761,7 @@
 	{
 		culture = kurdish
 		religion = shiite
-		size= 5598
+		size= 6160
 	}
 
 	slaves=
@@ -2775,7 +2775,7 @@
 	{
 		culture = kurdish
 		religion = sunni
-		size= 1033
+		size= 408
 	}
 
 	artisans=
@@ -2817,7 +2817,7 @@
 	{
 		culture = kurdish
 		religion = sunni
-		size= 5166
+		size= 5791
 	}
 
 	slaves=
@@ -2987,7 +2987,7 @@
 	{
 		culture = persian
 		religion = shiite
-		size= 780
+		size= 1033
 	}
 
 	artisans=
@@ -3029,7 +3029,7 @@
 	{
 		culture = persian
 		religion = shiite
-		size= 9750
+		size= 9497
 	}
 
 	soldiers=
@@ -3543,7 +3543,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 621
+		size= 1033
 	}
 
 	artisans=
@@ -3585,7 +3585,7 @@
 	{
 		culture = persian
 		religion = sunni
-		size= 7057
+		size= 6645
 	}
 
 	soldiers=

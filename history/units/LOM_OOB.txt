@@ -504,14 +504,14 @@ army = {
 		home=734
 	}
 	regiment = {
-		name="1st Verona Infantry"
+		name="2nd Trent Infantry"
 		type=infantry
-		home=730
+		home=734
 	}
 	regiment = {
-		name="2nd Verona Infantry"
+		name="3rd Trent Infantry"
 		type=infantry
-		home=730
+		home=734
 	}
 }
 

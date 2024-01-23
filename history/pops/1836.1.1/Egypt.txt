@@ -1073,7 +1073,7 @@
 	{
 		culture = misri
 		religion = orthodox
-		size= 633
+		size= 1033
 	}
 
 	artisans=
@@ -1115,7 +1115,7 @@
 	{
 		culture = misri
 		religion = orthodox
-		size= 8208
+		size= 7808
 	}
 
 }
@@ -1217,7 +1217,7 @@
 	{
 		culture = bedouin
 		religion = shiite
-		size= 1033
+		size= 48
 	}
 
 	artisans=
@@ -1259,14 +1259,14 @@
 	{
 		culture = bedouin
 		religion = shiite
-		size= 1309
+		size= 2294
 	}
 
 	soldiers=
 	{
 		culture = bedouin
 		religion = orthodox
-		size= 1033
+		size= 79
 	}
 
 	artisans=
@@ -1308,7 +1308,7 @@
 	{
 		culture = bedouin
 		religion = orthodox
-		size= 2631
+		size= 3585
 	}
 
 }
@@ -1854,7 +1854,7 @@
 	{
 		culture = misri
 		religion = shiite
-		size= 636
+		size= 1033
 	}
 
 	artisans=
@@ -1896,7 +1896,7 @@
 	{
 		culture = misri
 		religion = shiite
-		size= 10241
+		size= 9844
 	}
 
 	soldiers=
@@ -2352,7 +2352,7 @@
 	{
 		culture = misri
 		religion = orthodox
-		size= 1033
+		size= 210
 	}
 
 	artisans=
@@ -2394,7 +2394,7 @@
 	{
 		culture = misri
 		religion = orthodox
-		size= 7077
+		size= 7900
 	}
 
 }
@@ -2452,7 +2452,7 @@
 	{
 		culture = misri
 		religion = orthodox
-		size= 147
+		size= 1033
 	}
 
 	artisans=
@@ -2494,7 +2494,7 @@
 	{
 		culture = misri
 		religion = orthodox
-		size= 5532
+		size= 4646
 	}
 
 }
@@ -2538,7 +2538,7 @@
 	{
 		culture = bedouin
 		religion = orthodox
-		size= 29
+		size= 1033
 	}
 
 	artisans=
@@ -2580,7 +2580,7 @@
 	{
 		culture = bedouin
 		religion = orthodox
-		size= 1283
+		size= 279
 	}
 
 }
@@ -2745,7 +2745,7 @@
 	{
 		culture = bedouin
 		religion = orthodox
-		size= 30
+		size= 1033
 	}
 
 	artisans=
@@ -2787,7 +2787,7 @@
 	{
 		culture = bedouin
 		religion = orthodox
-		size= 1376
+		size= 373
 	}
 
 }

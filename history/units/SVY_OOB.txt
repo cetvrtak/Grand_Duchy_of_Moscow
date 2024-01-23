@@ -506,14 +506,29 @@ army = {
 	name="Armata di Eger"
 	location=2568
 	regiment = {
+		name="1st Basel Infantry"
+		type=infantry
+		home=604
+	}
+	regiment = {
 		name="1st Besançon Infantry"
 		type=infantry
 		home=432
 	}
 	regiment = {
-		name="2nd Besançon Infantry"
+		name="1st Lugano Infantry"
 		type=infantry
-		home=432
+		home=2568
+	}
+	regiment = {
+		name="2nd Basel Infantry"
+		type=infantry
+		home=604
+	}
+	regiment = {
+		name="1st Geneva Infantry"
+		type=infantry
+		home=607
 	}
 	regiment = {
 		name="1st Annecy Infantry"
@@ -521,7 +536,37 @@ army = {
 		home=465
 	}
 	regiment = {
-		name="1st Geneva Infantry"
+		name="1st Besançon Artillery"
+		type=artillery
+		home=432
+	}
+	regiment = {
+		name="1st Chur Artillery"
+		type=artillery
+		home=611
+	}
+	regiment = {
+		name="1st Lugano Artillery"
+		type=artillery
+		home=2568
+	}
+	regiment = {
+		name="2nd Lugano Artillery"
+		type=artillery
+		home=2568
+	}
+}
+
+army = {
+	name="1st Army"
+	location=611
+	regiment = {
+		name="3rd Basel Infantry"
+		type=infantry
+		home=604
+	}
+	regiment = {
+		name="2nd Geneva Infantry"
 		type=infantry
 		home=607
 	}
@@ -531,62 +576,17 @@ army = {
 		home=466
 	}
 	regiment = {
-		name="2nd Annecy Infantry"
+		name="3rd Geneva Infantry"
 		type=infantry
-		home=465
+		home=607
 	}
 	regiment = {
-		name="1st Chambéry Artillery"
-		type=artillery
-		home=466
-	}
-	regiment = {
-		name="1st Lugano Artillery"
-		type=artillery
-		home=2568
-	}
-	regiment = {
-		name="1st Annecy Artillery"
-		type=artillery
-		home=465
-	}
-	regiment = {
-		name="1st Chur Artillery"
-		type=artillery
-		home=611
-	}
-}
-
-army = {
-	name="1st Army"
-	location=611
-	regiment = {
-		name="3rd Annecy Infantry"
+		name="1st Neuchâtel Infantry"
 		type=infantry
-		home=465
+		home=608
 	}
 	regiment = {
-		name="2nd Chambéry Infantry"
-		type=infantry
-		home=466
-	}
-	regiment = {
-		name="1st Lugano Infantry"
-		type=infantry
-		home=2568
-	}
-	regiment = {
-		name="2nd Lugano Infantry"
-		type=infantry
-		home=2568
-	}
-	regiment = {
-		name="3rd Besançon Infantry"
-		type=infantry
-		home=432
-	}
-	regiment = {
-		name="2nd Lugano Artillery"
+		name="3rd Lugano Artillery"
 		type=artillery
 		home=2568
 	}
@@ -596,7 +596,7 @@ army = {
 		home=609
 	}
 	regiment = {
-		name="3rd Lugano Artillery"
+		name="4th Lugano Artillery"
 		type=artillery
 		home=2568
 	}
@@ -606,14 +606,14 @@ army = {
 	name="Armata di Bresse"
 	location=611
 	regiment = {
-		name="1st Lucerne Infantry"
-		type=infantry
-		home=606
-	}
-	regiment = {
-		name="3rd Lugano Infantry"
+		name="2nd Lugano Infantry"
 		type=infantry
 		home=2568
+	}
+	regiment = {
+		name="2nd Besançon Infantry"
+		type=infantry
+		home=432
 	}
 	regiment = {
 		name="2nd Chur Artillery"
@@ -626,14 +626,14 @@ army = {
 		home=611
 	}
 	regiment = {
-		name="2nd Lucerne Infantry"
+		name="1st Lucerne Infantry"
 		type=infantry
 		home=606
 	}
 	regiment = {
-		name="1st Bern Artillery"
+		name="1st Zurich Artillery"
 		type=artillery
-		home=605
+		home=603
 	}
 }
 

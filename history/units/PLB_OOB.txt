@@ -517,24 +517,9 @@ army = {
 		home=1399
 	}
 	regiment = {
-		name="1st Lampung Irregulars"
+		name="2nd Palembang Irregulars"
 		type=irregular
-		home=1403
-	}
-	regiment = {
-		name="1st Palembang Cavalry"
-		type=cavalry
 		home=1399
-	}
-	regiment = {
-		name="1st Palembang Artillery"
-		type=artillery
-		home=1399
-	}
-	regiment = {
-		name="1st Palak Pinang Irregulars"
-		type=irregular
-		home=1404
 	}
 	regiment = {
 		name="1st Lampung Cavalry"
@@ -546,6 +531,21 @@ army = {
 		type=artillery
 		home=1404
 	}
+	regiment = {
+		name="3rd Palembang Irregulars"
+		type=irregular
+		home=1399
+	}
+	regiment = {
+		name="2nd Lampung Cavalry"
+		type=cavalry
+		home=1403
+	}
+	regiment = {
+		name="1st Palembang Artillery"
+		type=artillery
+		home=1399
+	}
 }
 
 navy = {
@@ -556,15 +556,15 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Lampung Frigate"
+		name="4th Plymouth Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Palak Pinang Clipper Transport"
+		name="1st Palembang Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Palembang Clipper Transport"
+		name="1st Palak Pinang Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -572,7 +572,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Palak Pinang Clipper Transport"
+		name="3rd Palembang Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {

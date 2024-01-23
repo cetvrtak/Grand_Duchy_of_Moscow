@@ -489,14 +489,19 @@ army = {
 	name="3rd Army"
 	location=1534
 	regiment = {
-		name="1st Bayan Tumen Irregulars"
-		type=irregular
-		home=1467
-	}
-	regiment = {
 		name="1st Guihua Tumed Irregulars"
 		type=irregular
 		home=1532
+	}
+	regiment = {
+		name="1st Sainshand Irregulars"
+		type=irregular
+		home=2207
+	}
+	regiment = {
+		name="1st Dalandzadgad Irregulars"
+		type=irregular
+		home=1466
 	}
 	regiment = {
 		name="1st Uriankhai Irregulars"
@@ -504,24 +509,19 @@ army = {
 		home=1469
 	}
 	regiment = {
-		name="2nd Guihua Tumed Irregulars"
-		type=irregular
-		home=1532
-	}
-	regiment = {
 		name="1st Uriankhai Artillery"
 		type=artillery
 		home=1469
 	}
 	regiment = {
-		name="2nd Bayan Tumen Irregulars"
+		name="4th Guihua Tumed Irregulars"
 		type=irregular
-		home=1467
+		home=1532
 	}
 	regiment = {
-		name="1st Dalandzadgad Artillery"
+		name="2nd Urga Artillery"
 		type=artillery
-		home=1466
+		home=1465
 	}
 }
 
@@ -539,19 +539,19 @@ army = {
 		home=1465
 	}
 	regiment = {
-		name="2nd Urga Irregulars"
+		name="2nd Guihua Tumed Irregulars"
 		type=irregular
-		home=1465
+		home=1532
 	}
 	regiment = {
-		name="1st Bulgan Irregulars"
+		name="3rd Guihua Tumed Irregulars"
 		type=irregular
-		home=2678
+		home=1532
 	}
 	regiment = {
-		name="1st Urga Cavalry"
+		name="1st Bulgan Cavalry"
 		type=cavalry
-		home=1465
+		home=2678
 	}
 	regiment = {
 		name="1st Yeke Juu Chuulghan Artillery"
@@ -564,19 +564,19 @@ army = {
 		home=1465
 	}
 	regiment = {
-		name="3rd Guihua Tumed Irregulars"
+		name="2nd Yeke Juu Chuulghan Irregulars"
 		type=irregular
-		home=1532
+		home=1535
 	}
 	regiment = {
-		name="2nd Urga Cavalry"
+		name="2nd Bulgan Cavalry"
 		type=cavalry
-		home=1465
+		home=2678
 	}
 	regiment = {
-		name="1st Guihua Tumed Artillery"
+		name="1st Bulgan Artillery"
 		type=artillery
-		home=1532
+		home=2678
 	}
 }
 
@@ -584,9 +584,9 @@ army = {
 	name="7th Army"
 	location=1466
 	regiment = {
-		name="1st Sainshand Irregulars"
+		name="2nd Dalandzadgad Irregulars"
 		type=irregular
-		home=2207
+		home=1466
 	}
 }
 

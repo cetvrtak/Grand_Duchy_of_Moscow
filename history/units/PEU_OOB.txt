@@ -506,14 +506,14 @@ army = {
 	name="4th Army"
 	location=2296
 	regiment = {
-		name="1st Ica Infantry"
+		name="1st Tacna Infantry"
 		type=infantry
-		home=2297
+		home=2578
 	}
 	regiment = {
-		name="1st La Paz Infantry"
+		name="2nd Tacna Infantry"
 		type=infantry
-		home=2310
+		home=2578
 	}
 	regiment = {
 		name="1st Puno Cavalry"
@@ -521,14 +521,14 @@ army = {
 		home=2303
 	}
 	regiment = {
-		name="1st Tacna Infantry"
+		name="1st Ica Infantry"
 		type=infantry
-		home=2578
+		home=2297
 	}
 	regiment = {
-		name="1st Arequipa Cavalry"
+		name="1st Tacna Cavalry"
 		type=cavalry
-		home=2304
+		home=2578
 	}
 }
 

@@ -548,14 +548,14 @@ army = {
 		home=1554
 	}
 	regiment = {
-		name="1st Qiqihar Irregulars"
+		name="4th Ninguta Irregulars"
 		type=irregular
-		home=1552
+		home=1554
 	}
 	regiment = {
-		name="2nd Qiqihar Cavalry"
+		name="1st Ninguta Cavalry"
 		type=cavalry
-		home=1552
+		home=1554
 	}
 	regiment = {
 		name="2nd Ninguta Artillery"

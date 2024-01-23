@@ -521,7 +521,7 @@ navy = {
 
 army = {
 	name="1st Army"
-	location=4
+	location=2630
 	regiment = {
 		name="1st Tucson Infantry"
 		type=infantry

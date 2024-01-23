@@ -1219,7 +1219,7 @@
 	{
 		culture = szekely
 		religion = catholic
-		size= 7233
+		size= 3134
 	}
 
 	artisans=
@@ -1261,7 +1261,7 @@
 	{
 		culture = szekely
 		religion = catholic
-		size= 47880
+		size= 51979
 	}
 
 	slaves=
@@ -1577,58 +1577,58 @@
 670 = {
 	slaves=
 	{
-		culture = afro_slavic
+		culture = afro_carpathian
 		religion = orthodox
-		size= 9017
+		size= 8905
 	}
 
 	soldiers=
 	{
-		culture = western_slavic
+		culture = romanian
 		religion = orthodox
-		size= 2945
+		size= 4143
 	}
 
 	artisans=
 	{
-		culture = western_slavic
+		culture = romanian
 		religion = orthodox
-		size= 13102
+		size= 20613
 	}
 
 	clergymen=
 	{
-		culture = western_slavic
+		culture = romanian
 		religion = orthodox
-		size= 1042
+		size= 1036
 	}
 
 	bureaucrats=
 	{
-		culture = western_slavic
+		culture = romanian
 		religion = orthodox
-		size= 426
+		size= 303
 	}
 
 	officers=
 	{
-		culture = western_slavic
+		culture = romanian
 		religion = orthodox
-		size= 22
+		size= 142
 	}
 
 	aristocrats=
 	{
-		culture = western_slavic
+		culture = romanian
 		religion = orthodox
-		size= 1392
+		size= 2446
 	}
 
 	farmers=
 	{
-		culture = western_slavic
+		culture = romanian
 		religion = orthodox
-		size= 107545
+		size= 97185
 	}
 
 	aristocrats=
@@ -1946,7 +1946,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 7233
+		size= 1033
 	}
 
 	artisans=
@@ -1988,7 +1988,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 1478
+		size= 7678
 	}
 
 }

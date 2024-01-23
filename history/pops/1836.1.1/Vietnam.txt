@@ -329,7 +329,7 @@
 	{
 		culture = zhuang
 		religion = theravada
-		size= 646
+		size= 1033
 	}
 
 	artisans=
@@ -371,7 +371,7 @@
 	{
 		culture = zhuang
 		religion = theravada
-		size= 28881
+		size= 28494
 	}
 
 	slaves=
@@ -2383,7 +2383,7 @@
 	{
 		culture = khmer
 		religion = hindu
-		size= 935
+		size= 1033
 	}
 
 	artisans=
@@ -2425,7 +2425,7 @@
 	{
 		culture = khmer
 		religion = hindu
-		size= 11544
+		size= 11446
 	}
 
 	soldiers=

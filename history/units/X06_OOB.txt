@@ -514,11 +514,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="2nd Naples Clipper Transport"
+		name="1st Naples Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Naples Clipper Transport"
+		name="2nd Naples Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -556,14 +556,14 @@ army = {
 		home=754
 	}
 	regiment = {
-		name="2nd Salerno Cavalry"
+		name="1st Naples Cavalry"
 		type=cavalry
-		home=755
+		home=754
 	}
 	regiment = {
-		name="1st Salerno Artillery"
+		name="2nd Naples Artillery"
 		type=artillery
-		home=755
+		home=754
 	}
 }
 

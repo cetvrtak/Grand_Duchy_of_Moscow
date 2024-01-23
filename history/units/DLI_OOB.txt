@@ -525,18 +525,14 @@ army = {
 
 navy = {
 	name="1st Fleet"
-	location=2803
+	location=2804
+	ship = {
+		name="1st Padang Frigate"
+		type=frigate
+	}
 	ship = {
 		name="1st Delian Frigate"
 		type=frigate
-	}
-	ship = {
-		name="2nd Delian Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Padang Clipper Transport"
-		type=clipper_transport
 	}
 	ship = {
 		name="1st Delian Clipper Transport"
@@ -547,11 +543,15 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Delian Frigate"
+		name="3rd Delian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Padang Frigate"
 		type=frigate
 	}
 	ship = {
-		name="3rd Delian Clipper Transport"
+		name="1st Padang Clipper Transport"
 		type=clipper_transport
 	}
 }

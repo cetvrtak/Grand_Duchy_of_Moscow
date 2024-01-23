@@ -308,14 +308,14 @@
 	{
 		culture = sonoran
 		religion = totemism
-		size= 1033
+		size= 46
 	}
 
 	farmers=
 	{
 		culture = sonoran
 		religion = totemism
-		size= 1294
+		size= 2281
 	}
 
 	artisans=
@@ -678,7 +678,7 @@
 	{
 		culture = texan
 		religion = protestant
-		size= 4600
+		size= 7700
 	}
 
 	artisans=
@@ -720,7 +720,7 @@
 	{
 		culture = texan
 		religion = protestant
-		size= 4133
+		size= 1033
 	}
 
 }
@@ -2650,14 +2650,14 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 13640
+		size= 19840
 	}
 
 	soldiers=
 	{
 		culture = yankee
 		religion = protestant
-		size= 7233
+		size= 1033
 	}
 
 	artisans=
@@ -2843,7 +2843,7 @@
 	{
 		culture = native_american_minor
 		religion = protestant
-		size= 1849
+		size= 4133
 	}
 
 	artisans=
@@ -2885,7 +2885,7 @@
 	{
 		culture = native_american_minor
 		religion = protestant
-		size= 24770
+		size= 22486
 	}
 
 	clergymen=
@@ -3076,7 +3076,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 4133
+		size= 3342
 	}
 
 	artisans=
@@ -3118,7 +3118,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 44317
+		size= 45108
 	}
 
 	artisans=
@@ -3474,7 +3474,7 @@
 	{
 		culture = nahua
 		religion = protestant
-		size= 305
+		size= 1033
 	}
 
 	artisans=
@@ -3502,7 +3502,7 @@
 	{
 		culture = nahua
 		religion = protestant
-		size= 12927
+		size= 12199
 	}
 
 	soldiers=
@@ -5311,7 +5311,7 @@
 	{
 		culture = meashighcaw
 		religion = protestant
-		size= 4133
+		size= 1033
 	}
 
 	artisans=
@@ -5353,7 +5353,7 @@
 	{
 		culture = meashighcaw
 		religion = protestant
-		size= 11293
+		size= 14393
 	}
 
 	soldiers=
@@ -5716,7 +5716,7 @@
 	{
 		culture = zapotec
 		religion = catholic
-		size= 28933
+		size= 35133
 	}
 
 	artisans=
@@ -5758,7 +5758,7 @@
 	{
 		culture = zapotec
 		religion = catholic
-		size= 19127
+		size= 12927
 	}
 
 	soldiers=
@@ -6305,7 +6305,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 1033
+		size= 181
 	}
 
 	artisans=
@@ -6347,7 +6347,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 5552
+		size= 6404
 	}
 
 	farmers=

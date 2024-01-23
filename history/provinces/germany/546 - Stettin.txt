@@ -1,6 +1,8 @@
-owner=SCA
-controller=SCA
-add_core=SCA
+owner=LUZ
+controller=LUZ
+add_core=HLR
+add_core=LUZ
 trade_goods = fish
 life_rating = 40
 naval_base = 1
+fort = 1

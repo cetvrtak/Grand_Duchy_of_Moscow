@@ -532,14 +532,19 @@ army = {
 	name="1st Army"
 	location=449
 	regiment = {
-		name="1st Genoa Infantry"
+		name="1st Turin Infantry"
 		type=infantry
-		home=724
+		home=720
 	}
 	regiment = {
-		name="2nd Genoa Infantry"
+		name="2nd Turin Infantry"
 		type=infantry
-		home=724
+		home=720
+	}
+	regiment = {
+		name="3rd Turin Infantry"
+		type=infantry
+		home=720
 	}
 	regiment = {
 		name="1st Alessandria Infantry"
@@ -547,28 +552,28 @@ army = {
 		home=723
 	}
 	regiment = {
-		name="1st Leghorn Infantry"
-		type=infantry
-		home=745
-	}
-	regiment = {
-		name="2nd Alessandria Infantry"
-		type=infantry
-		home=723
-	}
-	regiment = {
-		name="1st Turin Infantry"
+		name="4th Turin Infantry"
 		type=infantry
 		home=720
 	}
 	regiment = {
-		name="3rd Genoa Infantry"
+		name="5th Turin Infantry"
 		type=infantry
-		home=724
+		home=720
+	}
+	regiment = {
+		name="1st Sassari Infantry"
+		type=infantry
+		home=766
 	}
 	regiment = {
 		name="1st Genoa Cavalry"
 		type=cavalry
+		home=724
+	}
+	regiment = {
+		name="1st Genoa Artillery"
+		type=artillery
 		home=724
 	}
 	regiment = {
@@ -577,29 +582,24 @@ army = {
 		home=725
 	}
 	regiment = {
-		name="1st Genoa Artillery"
-		type=artillery
-		home=724
-	}
-	regiment = {
 		name="1st Alessandria Artillery"
 		type=artillery
 		home=723
 	}
 	regiment = {
-		name="1st Turin Artillery"
+		name="1st Aosta Artillery"
 		type=artillery
-		home=720
+		home=721
 	}
 	regiment = {
-		name="1st Milan Infantry"
+		name="1st Aosta Infantry"
 		type=infantry
-		home=726
+		home=721
 	}
 	regiment = {
-		name="1st Massa Infantry"
+		name="2nd Sassari Infantry"
 		type=infantry
-		home=740
+		home=766
 	}
 	regiment = {
 		name="2nd Genoa Cavalry"
@@ -607,9 +607,9 @@ army = {
 		home=724
 	}
 	regiment = {
-		name="2nd Genoa Artillery"
+		name="1st Turin Artillery"
 		type=artillery
-		home=724
+		home=720
 	}
 	regiment = {
 		name="2nd Turin Artillery"
@@ -617,9 +617,9 @@ army = {
 		home=720
 	}
 	regiment = {
-		name="3rd Turin Artillery"
+		name="1st Modena Artillery"
 		type=artillery
-		home=720
+		home=739
 	}
 }
 
@@ -627,7 +627,7 @@ navy = {
 	name="2nd Fleet"
 	location=2731
 	ship = {
-		name="1st Bizerte Man'o'war"
+		name="1st Algiers Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -643,31 +643,11 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Savona Man'o'war"
+		name="3rd Gabes Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Algiers Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Bougie Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Bône Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Rome Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Genoa Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Bizerte Man'o'war"
+		name="1st Misratah Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -675,11 +655,47 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="3rd Gabes Man'o'war"
+		name="1st Bône Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Bône Frigate"
+		name="4th Gabes Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Grosseto Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bizerte Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bougie Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Algiers Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Reggio di Calabria Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Catania Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Catania Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Reggio di Calabria Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Gabes Frigate"
 		type=frigate
 	}
 	ship = {
@@ -687,23 +703,23 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="2nd Bougie Frigate"
-		type=frigate
+		name="1st Gabes Clipper Transport"
+		type=clipper_transport
 	}
 	ship = {
-		name="1st Reggio di Calabria Frigate"
-		type=frigate
+		name="1st Salerno Clipper Transport"
+		type=clipper_transport
 	}
 	ship = {
-		name="1st Sassari Frigate"
-		type=frigate
+		name="1st Bône Clipper Transport"
+		type=clipper_transport
 	}
 	ship = {
-		name="3rd Bougie Frigate"
-		type=frigate
+		name="1st Rome Clipper Transport"
+		type=clipper_transport
 	}
 	ship = {
-		name="1st Massa Clipper Transport"
+		name="1st Bizerte Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -711,7 +727,43 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
+		name="1st Misratah Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Malta Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Sassari Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Misratah Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bougie Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Pescara Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Sassari Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
 		name="2nd Genoa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Genoa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Sassari Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -723,39 +775,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Bône Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Genoa Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Bône Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Algiers Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Rome Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="4th Genoa Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Bari Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Gabes Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="5th Genoa Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -763,43 +783,23 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Gabes Clipper Transport"
+		name="1st Palermo Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Bône Clipper Transport"
+		name="1st Viterbo Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="6th Genoa Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Savona Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Naples Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Pescara Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Massa Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Reggio di Calabria Frigate"
+		name="1st Bône Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Bougie Clipper Transport"
+		name="5th Genoa Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Gabes Clipper Transport"
+		name="1st Massa Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -808,9 +808,9 @@ army = {
 	name="Armata di Genova"
 	location=405
 	regiment = {
-		name="2nd Turin Infantry"
+		name="1st Novara Infantry"
 		type=infantry
-		home=720
+		home=722
 	}
 	regiment = {
 		name="1st Modena Infantry"

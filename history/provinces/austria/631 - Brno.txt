@@ -1,9 +1,8 @@
-owner=LUZ
+owner=HUN
 controller=HUN
-add_core=BOH
 add_core=CZE
 add_core=HLR
-add_core=LUZ
+add_core=HUN
 add_core=WSF
 trade_goods = coal
 life_rating = 35

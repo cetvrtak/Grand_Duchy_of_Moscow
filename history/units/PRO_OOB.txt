@@ -499,15 +499,15 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Toulon Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Toulon Frigate"
-		type=frigate
-	}
-	ship = {
 		name="2nd Nice Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Marseilles Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Toulon Frigate"
 		type=frigate
 	}
 	ship = {
@@ -528,14 +528,14 @@ army = {
 	name="Armée de Forcalquier"
 	location=470
 	regiment = {
-		name="1st Nice Infantry"
-		type=infantry
-		home=472
-	}
-	regiment = {
 		name="1st Avignon Infantry"
 		type=infantry
 		home=468
+	}
+	regiment = {
+		name="1st Nice Infantry"
+		type=infantry
+		home=472
 	}
 	regiment = {
 		name="1st Marseilles Cavalry"
@@ -543,9 +543,9 @@ army = {
 		home=467
 	}
 	regiment = {
-		name="1st Grenoble Artillery"
+		name="1st Frejus Artillery"
 		type=artillery
-		home=454
+		home=471
 	}
 	regiment = {
 		name="2nd Avignon Infantry"
@@ -553,14 +553,14 @@ army = {
 		home=468
 	}
 	regiment = {
-		name="3rd Marseilles Cavalry"
+		name="1st Toulon Cavalry"
 		type=cavalry
-		home=467
+		home=470
 	}
 	regiment = {
-		name="2nd Grenoble Artillery"
+		name="2nd Toulon Artillery"
 		type=artillery
-		home=454
+		home=470
 	}
 }
 
@@ -578,9 +578,9 @@ army = {
 		home=467
 	}
 	regiment = {
-		name="2nd Marseilles Cavalry"
+		name="1st Avignon Cavalry"
 		type=cavalry
-		home=467
+		home=468
 	}
 	regiment = {
 		name="1st Toulon Artillery"
@@ -588,19 +588,19 @@ army = {
 		home=470
 	}
 	regiment = {
-		name="1st Avignon Artillery"
-		type=artillery
-		home=468
-	}
-	regiment = {
-		name="4th Marseilles Cavalry"
-		type=cavalry
-		home=467
-	}
-	regiment = {
 		name="1st Marseilles Artillery"
 		type=artillery
 		home=467
+	}
+	regiment = {
+		name="2nd Avignon Cavalry"
+		type=cavalry
+		home=468
+	}
+	regiment = {
+		name="3rd Toulon Artillery"
+		type=artillery
+		home=470
 	}
 }
 
@@ -608,15 +608,15 @@ navy = {
 	name="2nd Fleet"
 	location=2750
 	ship = {
-		name="1st Marseilles Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Toulon Frigate"
-		type=frigate
-	}
-	ship = {
 		name="6th Nice Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Toulon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bizerte Frigate"
 		type=frigate
 	}
 }
