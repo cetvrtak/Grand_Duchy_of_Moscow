@@ -505,8 +505,28 @@ army = {
 	name="Leger van Namur"
 	location=394
 	regiment = {
+		name="1st Charleroi Infantry"
+		type=infantry
+		home=394
+	}
+	regiment = {
 		name="1st Namur Infantry"
 		type=infantry
+		home=392
+	}
+	regiment = {
+		name="1st Charleroi Cavalry"
+		type=cavalry
+		home=394
+	}
+	regiment = {
+		name="1st Tournai Artillery"
+		type=artillery
+		home=393
+	}
+	regiment = {
+		name="1st Namur Artillery"
+		type=artillery
 		home=392
 	}
 	regiment = {
@@ -515,34 +535,14 @@ army = {
 		home=392
 	}
 	regiment = {
-		name="1st Namur Cavalry"
+		name="1st Tournai Cavalry"
 		type=cavalry
-		home=392
+		home=393
 	}
 	regiment = {
-		name="1st Charleroi Artillery"
-		type=artillery
-		home=394
-	}
-	regiment = {
-		name="1st Namur Artillery"
+		name="2nd Namur Artillery"
 		type=artillery
 		home=392
-	}
-	regiment = {
-		name="3rd Namur Infantry"
-		type=infantry
-		home=392
-	}
-	regiment = {
-		name="2nd Namur Cavalry"
-		type=cavalry
-		home=392
-	}
-	regiment = {
-		name="2nd Charleroi Artillery"
-		type=artillery
-		home=394
 	}
 }
 

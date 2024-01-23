@@ -510,31 +510,31 @@ leader = {
 #Armies
 army = {
 	name="2nd Army"
-	location=1428
+	location=1427
 	regiment = {
 		name="1st Tarakan Irregulars"
 		type=irregular
 		home=1425
 	}
 	regiment = {
-		name="1st Banjarmasin Irregulars"
+		name="1st Samarinda Irregulars"
 		type=irregular
-		home=1423
+		home=1429
+	}
+	regiment = {
+		name="1st Muraleve Artillery"
+		type=artillery
+		home=1422
+	}
+	regiment = {
+		name="3rd Tarakan Irregulars"
+		type=irregular
+		home=1425
 	}
 	regiment = {
 		name="1st Tarakan Artillery"
 		type=artillery
 		home=1425
-	}
-	regiment = {
-		name="2nd Kota Waringin Irregulars"
-		type=irregular
-		home=1427
-	}
-	regiment = {
-		name="1st Sintang Artillery"
-		type=artillery
-		home=1428
 	}
 }
 
@@ -554,19 +554,19 @@ navy = {
 		type=frigate
 	}
 	ship = {
+		name="1st Samarinda Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Samarinda Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
 		name="1st Tarakan Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Tarakan Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Tarakan Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="4th Tarakan Clipper Transport"
+		name="3rd Samarinda Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -583,19 +583,19 @@ army = {
 	name="1st Army"
 	location=1423
 	regiment = {
+		name="1st Banjarmasin Irregulars"
+		type=irregular
+		home=1423
+	}
+	regiment = {
+		name="2nd Samarinda Irregulars"
+		type=irregular
+		home=1429
+	}
+	regiment = {
 		name="2nd Tarakan Irregulars"
 		type=irregular
 		home=1425
-	}
-	regiment = {
-		name="3rd Tarakan Irregulars"
-		type=irregular
-		home=1425
-	}
-	regiment = {
-		name="1st Kota Waringin Irregulars"
-		type=irregular
-		home=1427
 	}
 	regiment = {
 		name="1st Samarinda Artillery"
@@ -603,9 +603,9 @@ army = {
 		home=1429
 	}
 	regiment = {
-		name="1st Sintang Irregulars"
+		name="2nd Banjarmasin Irregulars"
 		type=irregular
-		home=1428
+		home=1423
 	}
 }
 

@@ -494,7 +494,7 @@ navy = {
 	name="3rd Fleet"
 	location=1083
 	ship = {
-		name="1st Boli Frigate"
+		name="1st Utchan Frigate"
 		type=frigate
 	}
 	ship = {
@@ -506,7 +506,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Pogobi Frigate"
+		name="3rd Utchan Frigate"
 		type=frigate
 	}
 }
@@ -530,7 +530,7 @@ navy = {
 	name="2nd Fleet"
 	location=2833
 	ship = {
-		name="1st Utchan Frigate"
+		name="2nd Utchan Frigate"
 		type=frigate
 	}
 	ship = {
@@ -538,7 +538,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="3rd Pogobi Frigate"
+		name="4th Utchan Frigate"
 		type=frigate
 	}
 }

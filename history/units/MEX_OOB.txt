@@ -518,19 +518,9 @@ army = {
 	name="2nd Army"
 	location=3
 	regiment = {
-		name="1st Fort Washita Infantry"
-		type=infantry
-		home=131
-	}
-	regiment = {
 		name="1st Oaxaca Infantry"
 		type=infantry
 		home=2177
-	}
-	regiment = {
-		name="1st Santa Fe Infantry"
-		type=infantry
-		home=105
 	}
 	regiment = {
 		name="1st Morelia Infantry"
@@ -538,14 +528,24 @@ army = {
 		home=2170
 	}
 	regiment = {
-		name="1st Guadalajara Artillery"
-		type=artillery
+		name="1st Guadalajara Infantry"
+		type=infantry
 		home=2166
 	}
 	regiment = {
-		name="1st Oaxaca Artillery"
-		type=artillery
+		name="2nd Oaxaca Infantry"
+		type=infantry
 		home=2177
+	}
+	regiment = {
+		name="1st Santa Fe Artillery"
+		type=artillery
+		home=105
+	}
+	regiment = {
+		name="1st Houston Artillery"
+		type=artillery
+		home=132
 	}
 	regiment = {
 		name="1st Morelia Artillery"
@@ -553,9 +553,9 @@ army = {
 		home=2170
 	}
 	regiment = {
-		name="1st Guanajuato Artillery"
+		name="1st Llano Estacado Artillery"
 		type=artillery
-		home=2167
+		home=135
 	}
 	regiment = {
 		name="6th Oaxaca Infantry"
@@ -568,34 +568,34 @@ army = {
 	name="1st Army"
 	location=2219
 	regiment = {
-		name="1st Guadalajara Infantry"
-		type=infantry
-		home=2166
-	}
-	regiment = {
-		name="1st Puerto Vallarta Infantry"
-		type=infantry
-		home=2168
-	}
-	regiment = {
 		name="1st Guanajuato Infantry"
 		type=infantry
 		home=2167
 	}
 	regiment = {
-		name="2nd Guadalajara Artillery"
-		type=artillery
+		name="1st Ciudad Acuña Infantry"
+		type=infantry
+		home=2147
+	}
+	regiment = {
+		name="2nd Guadalajara Infantry"
+		type=infantry
 		home=2166
 	}
 	regiment = {
-		name="2nd Oaxaca Artillery"
+		name="1st Fort Washita Artillery"
 		type=artillery
-		home=2177
+		home=131
 	}
 	regiment = {
-		name="3rd Oaxaca Artillery"
+		name="1st Puerto Vallarta Artillery"
 		type=artillery
-		home=2177
+		home=2168
+	}
+	regiment = {
+		name="1st Guanajuato Artillery"
+		type=artillery
+		home=2167
 	}
 	regiment = {
 		name="7th Oaxaca Infantry"
@@ -603,7 +603,7 @@ army = {
 		home=2177
 	}
 	regiment = {
-		name="4th Oaxaca Artillery"
+		name="1st Oaxaca Artillery"
 		type=artillery
 		home=2177
 	}
@@ -613,6 +613,10 @@ navy = {
 	name="5th Fleet"
 	location=2188
 	ship = {
+		name="1st Houston Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
 		name="1st Laredo Clipper Transport"
 		type=clipper_transport
 	}
@@ -621,22 +625,18 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Colima Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Mérida Clipper Transport"
+		name="1st Tepic Clipper Transport"
 		type=clipper_transport
 	}
 }
 
 army = {
 	name="4th Army"
-	location=2151
+	location=2150
 	regiment = {
-		name="2nd Oaxaca Infantry"
+		name="3rd Guadalajara Infantry"
 		type=infantry
-		home=2177
+		home=2166
 	}
 	regiment = {
 		name="3rd Oaxaca Infantry"
@@ -676,19 +676,19 @@ navy = {
 		type=frigate
 	}
 	ship = {
+		name="2nd Laredo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
 		name="1st Tapachula Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Tapachula Clipper Transport"
+		name="1st San Antonio Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Tapachula Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Colima Clipper Transport"
+		name="1st Cololo Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -704,7 +704,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="3rd Colima Clipper Transport"
+		name="1st Colima Clipper Transport"
 		type=clipper_transport
 	}
 }

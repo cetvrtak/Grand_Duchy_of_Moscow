@@ -556,14 +556,9 @@ army = {
 	name="37th Army"
 	location=1863
 	regiment = {
-		name="1st Mecca Irregulars"
+		name="1st Riyadh Irregulars"
 		type=irregular
-		home=1151
-	}
-	regiment = {
-		name="1st Halaban Irregulars"
-		type=irregular
-		home=1159
+		home=1157
 	}
 	regiment = {
 		name="1st Ankober Irregulars"
@@ -571,44 +566,14 @@ army = {
 		home=1859
 	}
 	regiment = {
-		name="2nd Ankober Irregulars"
-		type=irregular
-		home=1859
-	}
-	regiment = {
-		name="2nd Mecca Irregulars"
-		type=irregular
-		home=1151
-	}
-	regiment = {
-		name="1st Mecca Artillery"
-		type=artillery
-		home=1151
-	}
-	regiment = {
-		name="1st Suez Artillery"
-		type=artillery
-		home=1755
-	}
-	regiment = {
-		name="2nd Mecca Artillery"
-		type=artillery
-		home=1151
-	}
-	regiment = {
 		name="1st Djibuti Irregulars"
 		type=irregular
 		home=1875
 	}
-}
-
-army = {
-	name="1st Army"
-	location=1151
 	regiment = {
-		name="1st Bayda Irregulars"
+		name="2nd Ankober Irregulars"
 		type=irregular
-		home=1176
+		home=1859
 	}
 	regiment = {
 		name="1st Jeddah Irregulars"
@@ -616,84 +581,54 @@ army = {
 		home=1152
 	}
 	regiment = {
-		name="1st Aden Irregulars"
-		type=irregular
-		home=1412
-	}
-	regiment = {
-		name="3rd Ankober Irregulars"
-		type=irregular
-		home=1859
-	}
-	regiment = {
-		name="2nd Bayda Irregulars"
-		type=irregular
-		home=1176
-	}
-	regiment = {
 		name="1st Jeddah Artillery"
 		type=artillery
 		home=1152
 	}
 	regiment = {
-		name="3rd Mecca Artillery"
+		name="1st Sharurah Artillery"
 		type=artillery
-		home=1151
+		home=1161
 	}
 	regiment = {
-		name="1st Debre Markos Artillery"
+		name="1st Ankober Artillery"
 		type=artillery
-		home=1855
+		home=1859
 	}
 	regiment = {
-		name="5th Bayda Irregulars"
+		name="1st Qusayr Irregulars"
 		type=irregular
-		home=1176
-	}
-	regiment = {
-		name="1st Alexandria Artillery"
-		type=artillery
-		home=1751
+		home=1770
 	}
 }
 
 army = {
-	name="4th Army"
-	location=1755
+	name="1st Army"
+	location=1151
 	regiment = {
-		name="1st Medina Irregulars"
-		type=irregular
-		home=1153
-	}
-	regiment = {
-		name="1st Bahrain Irregulars"
-		type=irregular
-		home=1162
-	}
-	regiment = {
-		name="3rd Mecca Irregulars"
+		name="1st Mecca Irregulars"
 		type=irregular
 		home=1151
 	}
 	regiment = {
-		name="1st Riyadh Irregulars"
+		name="1st Bayda Irregulars"
 		type=irregular
-		home=1157
+		home=1176
 	}
 	regiment = {
-		name="1st Sharurah Irregulars"
+		name="2nd Mecca Irregulars"
 		type=irregular
-		home=1161
+		home=1151
 	}
 	regiment = {
-		name="1st Bonga Artillery"
-		type=artillery
-		home=1862
-	}
-	regiment = {
-		name="2nd Debre Markos Artillery"
-		type=artillery
+		name="1st Debre Markos Irregulars"
+		type=irregular
 		home=1855
+	}
+	regiment = {
+		name="1st Aden Irregulars"
+		type=irregular
+		home=1412
 	}
 	regiment = {
 		name="1st Ras Gharib Artillery"
@@ -701,9 +636,74 @@ army = {
 		home=1772
 	}
 	regiment = {
-		name="1st Matamma Artillery"
+		name="1st Abha Artillery"
 		type=artillery
-		home=1854
+		home=1155
+	}
+	regiment = {
+		name="1st Mecca Artillery"
+		type=artillery
+		home=1151
+	}
+	regiment = {
+		name="2nd Bonga Irregulars"
+		type=irregular
+		home=1862
+	}
+	regiment = {
+		name="3rd Jeddah Artillery"
+		type=artillery
+		home=1152
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1755
+	regiment = {
+		name="3rd Mecca Irregulars"
+		type=irregular
+		home=1151
+	}
+	regiment = {
+		name="1st Medina Irregulars"
+		type=irregular
+		home=1153
+	}
+	regiment = {
+		name="4th Mecca Irregulars"
+		type=irregular
+		home=1151
+	}
+	regiment = {
+		name="1st Bahrain Irregulars"
+		type=irregular
+		home=1162
+	}
+	regiment = {
+		name="5th Mecca Irregulars"
+		type=irregular
+		home=1151
+	}
+	regiment = {
+		name="2nd Mecca Artillery"
+		type=artillery
+		home=1151
+	}
+	regiment = {
+		name="2nd Jeddah Artillery"
+		type=artillery
+		home=1152
+	}
+	regiment = {
+		name="1st Medina Artillery"
+		type=artillery
+		home=1153
+	}
+	regiment = {
+		name="4th Jeddah Artillery"
+		type=artillery
+		home=1152
 	}
 }
 
@@ -735,7 +735,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="3rd Abha Frigate"
+		name="1st Aden Frigate"
 		type=frigate
 	}
 }
@@ -776,7 +776,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="9th Jeddah Frigate"
+		name="2nd Hobyo Frigate"
 		type=frigate
 	}
 }
@@ -785,34 +785,29 @@ army = {
 	name="6th Army"
 	location=1736
 	regiment = {
-		name="1st Qusayr Irregulars"
-		type=irregular
-		home=1770
-	}
-	regiment = {
-		name="1st Bonga Irregulars"
-		type=irregular
-		home=1862
-	}
-	regiment = {
 		name="2nd Medina Irregulars"
 		type=irregular
 		home=1153
 	}
 	regiment = {
-		name="4th Mecca Irregulars"
+		name="6th Mecca Irregulars"
 		type=irregular
 		home=1151
 	}
 	regiment = {
-		name="3rd Bayda Irregulars"
+		name="2nd Bayda Irregulars"
 		type=irregular
 		home=1176
 	}
 	regiment = {
-		name="1st Medina Artillery"
-		type=artillery
-		home=1153
+		name="1st Aksum Irregulars"
+		type=irregular
+		home=1856
+	}
+	regiment = {
+		name="2nd Jeddah Irregulars"
+		type=irregular
+		home=1152
 	}
 	regiment = {
 		name="2nd Medina Artillery"
@@ -820,14 +815,19 @@ army = {
 		home=1153
 	}
 	regiment = {
-		name="4th Mecca Artillery"
+		name="1st Gaza Artillery"
 		type=artillery
-		home=1151
+		home=920
 	}
 	regiment = {
-		name="2nd Bonga Irregulars"
+		name="2nd Abha Artillery"
+		type=artillery
+		home=1155
+	}
+	regiment = {
+		name="1st Abha Irregulars"
 		type=irregular
-		home=1862
+		home=1155
 	}
 	regiment = {
 		name="1st Taizz Artillery"
@@ -844,7 +844,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="10th Jeddah Frigate"
+		name="7th Jeddah Frigate"
 		type=frigate
 	}
 }
@@ -853,49 +853,49 @@ army = {
 	name="7th Army"
 	location=1172
 	regiment = {
-		name="4th Ankober Irregulars"
+		name="1st Bonga Irregulars"
 		type=irregular
-		home=1859
+		home=1862
 	}
 	regiment = {
-		name="1st Qina Irregulars"
+		name="1st Berbera Irregulars"
 		type=irregular
-		home=1769
+		home=1873
 	}
 	regiment = {
-		name="1st Gaza Irregulars"
-		type=irregular
-		home=920
-	}
-	regiment = {
-		name="5th Ankober Irregulars"
-		type=irregular
-		home=1859
-	}
-	regiment = {
-		name="5th Mecca Irregulars"
+		name="7th Mecca Irregulars"
 		type=irregular
 		home=1151
 	}
 	regiment = {
-		name="3rd Debre Markos Artillery"
+		name="1st Al Arish Irregulars"
+		type=irregular
+		home=1756
+	}
+	regiment = {
+		name="2nd Berbera Irregulars"
+		type=irregular
+		home=1873
+	}
+	regiment = {
+		name="3rd Mecca Artillery"
+		type=artillery
+		home=1151
+	}
+	regiment = {
+		name="4th Mecca Artillery"
+		type=artillery
+		home=1151
+	}
+	regiment = {
+		name="1st Debre Markos Artillery"
 		type=artillery
 		home=1855
 	}
 	regiment = {
-		name="2nd Jeddah Artillery"
+		name="2nd Ankober Artillery"
 		type=artillery
-		home=1152
-	}
-	regiment = {
-		name="1st Jimma Artillery"
-		type=artillery
-		home=1863
-	}
-	regiment = {
-		name="1st Mukalla Artillery"
-		type=artillery
-		home=1173
+		home=1859
 	}
 }
 
@@ -931,11 +931,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Assab Frigate"
+		name="1st Suez Frigate"
 		type=frigate
 	}
 	ship = {
-		name="5th Hodeida Frigate"
+		name="8th Jeddah Frigate"
 		type=frigate
 	}
 }
@@ -944,39 +944,39 @@ army = {
 	name="29th Army"
 	location=1864
 	regiment = {
-		name="1st Minya Irregulars"
+		name="1st Debre Tabor Irregulars"
 		type=irregular
-		home=1764
+		home=1853
 	}
 	regiment = {
-		name="1st Ogaden Irregulars"
+		name="2nd Debre Tabor Irregulars"
 		type=irregular
-		home=1867
+		home=1853
 	}
 	regiment = {
-		name="6th Mecca Irregulars"
+		name="8th Mecca Irregulars"
 		type=irregular
 		home=1151
-	}
-	regiment = {
-		name="1st Bosaso Irregulars"
-		type=irregular
-		home=1872
-	}
-	regiment = {
-		name="4th Bayda Irregulars"
-		type=irregular
-		home=1176
-	}
-	regiment = {
-		name="1st Abha Artillery"
-		type=artillery
-		home=1155
 	}
 	regiment = {
 		name="1st Hobyo Irregulars"
 		type=irregular
 		home=1871
+	}
+	regiment = {
+		name="3rd Jeddah Irregulars"
+		type=irregular
+		home=1152
+	}
+	regiment = {
+		name="2nd Sharurah Artillery"
+		type=artillery
+		home=1161
+	}
+	regiment = {
+		name="3rd Ankober Irregulars"
+		type=irregular
+		home=1859
 	}
 }
 
@@ -1004,7 +1004,19 @@ navy = {
 		type=manowar
 	}
 	ship = {
+		name="2nd Ghayda Man'o'war"
+		type=manowar
+	}
+	ship = {
 		name="1st Jeddah Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Massawa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Hodeida Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1016,19 +1028,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Mukalla Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th Jeddah Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th Abha Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Hodeida Man'o'war"
+		name="2nd Aden Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1056,27 +1056,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Jeddah Clipper Transport"
+		name="1st Duqm Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Ghayda Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Socotra Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Jeddah Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Ghayda Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Mukalla Clipper Transport"
+		name="2nd Duqm Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -1084,7 +1068,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Bayda Clipper Transport"
+		name="1st Jeddah Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -1096,31 +1080,23 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Hodeida Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Dubai Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="2nd Abha Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Bayda Clipper Transport"
+		name="1st Ghayda Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Mukalla Clipper Transport"
+		name="1st Mukalla Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Mukalla Clipper Transport"
+		name="1st Al Arish Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Hodeida Clipper Transport"
+		name="1st Aden Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -1128,23 +1104,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Massawa Clipper Transport"
+		name="2nd Ghayda Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Abu Dhabi Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="4th Abha Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Zeyla Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Abu Dhabi Clipper Transport"
+		name="2nd Jeddah Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -1152,15 +1116,51 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
+		name="4th Jeddah Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Jeddah Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Massawa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
 		name="2nd Berbera Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="9th Abha Man'o'war"
+		name="2nd Hodeida Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Jeddah Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Ghayda Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Abha Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Hodeida Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Jeddah Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="9th Jeddah Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="2nd Bahrain Frigate"
+		name="5th Hufuf Frigate"
 		type=frigate
 	}
 }
@@ -1169,7 +1169,23 @@ navy = {
 	name="10th Fleet"
 	location=1155
 	ship = {
-		name="5th Abha Man'o'war"
+		name="4th Jeddah Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Hodeida Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Abha Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Hodeida Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Hodeida Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1181,31 +1197,15 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="6th Abha Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="7th Abha Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Hodeida Man'o'war"
-		type=manowar
-	}
-	ship = {
 		name="7th Jeddah Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="4th Hodeida Man'o'war"
+		name="5th Hodeida Man'o'war"
 		type=manowar
 	}
 	ship = {
 		name="8th Jeddah Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="8th Abha Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1217,19 +1217,19 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Gaza Clipper Transport"
+		name="1st Dumyat Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="9th Jeddah Man'o'war"
+		name="10th Jeddah Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="11th Jeddah Frigate"
+		name="2nd Massawa Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Gaza Clipper Transport"
+		name="4th Ghayda Clipper Transport"
 		type=clipper_transport
 	}
 }

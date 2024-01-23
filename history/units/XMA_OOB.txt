@@ -603,49 +603,49 @@ army = {
 	name="5th Army"
 	location=1506
 	regiment = {
-		name="1st Sittwe Irregulars"
-		type=irregular
-		home=1345
-	}
-	regiment = {
-		name="1st Chittagong Irregulars"
-		type=irregular
-		home=1257
-	}
-	regiment = {
-		name="1st Jubbulpore Irregulars"
-		type=irregular
-		home=1275
-	}
-	regiment = {
-		name="2nd Chittagong Irregulars"
-		type=irregular
-		home=1257
-	}
-	regiment = {
-		name="1st Colombo Cavalry"
-		type=cavalry
-		home=1321
-	}
-	regiment = {
-		name="1st Kolhapur Artillery"
-		type=artillery
-		home=1301
-	}
-	regiment = {
-		name="1st Jessore Artillery"
-		type=artillery
-		home=1256
-	}
-	regiment = {
-		name="1st Rewa Artillery"
-		type=artillery
-		home=1274
-	}
-	regiment = {
 		name="1st Pegu Irregulars"
 		type=irregular
 		home=1332
+	}
+	regiment = {
+		name="1st Bardwan Irregulars"
+		type=irregular
+		home=1253
+	}
+	regiment = {
+		name="1st Allahabad Irregulars"
+		type=irregular
+		home=1243
+	}
+	regiment = {
+		name="1st Tanjore Irregulars"
+		type=irregular
+		home=1309
+	}
+	regiment = {
+		name="1st Keunjahr Cavalry"
+		type=cavalry
+		home=1262
+	}
+	regiment = {
+		name="1st Nellore Artillery"
+		type=artillery
+		home=1307
+	}
+	regiment = {
+		name="2nd Nellore Artillery"
+		type=artillery
+		home=1307
+	}
+	regiment = {
+		name="1st Bijapur Artillery"
+		type=artillery
+		home=1300
+	}
+	regiment = {
+		name="5th Allahabad Irregulars"
+		type=irregular
+		home=1243
 	}
 }
 
@@ -653,9 +653,14 @@ army = {
 	name="21st Army"
 	location=1340
 	regiment = {
-		name="1st Bangkok Irregulars"
+		name="1st Jubbulpore Irregulars"
 		type=irregular
-		home=1346
+		home=1275
+	}
+	regiment = {
+		name="1st Mergui Irregulars"
+		type=irregular
+		home=1344
 	}
 	regiment = {
 		name="1st Imphal Irregulars"
@@ -663,14 +668,9 @@ army = {
 		home=1259
 	}
 	regiment = {
-		name="1st Kandy Irregulars"
+		name="1st Gulbarga Irregulars"
 		type=irregular
-		home=1323
-	}
-	regiment = {
-		name="2nd Bangkok Irregulars"
-		type=irregular
-		home=1346
+		home=1286
 	}
 	regiment = {
 		name="1st Kolhapur Cavalry"
@@ -678,69 +678,69 @@ army = {
 		home=1301
 	}
 	regiment = {
+		name="1st Goa Artillery"
+		type=artillery
+		home=1303
+	}
+	regiment = {
 		name="1st Jubbulpore Artillery"
 		type=artillery
 		home=1275
 	}
 	regiment = {
-		name="1st Bardwan Artillery"
-		type=artillery
-		home=1253
-	}
-	regiment = {
-		name="1st Mergui Irregulars"
+		name="3rd Gulbarga Irregulars"
 		type=irregular
-		home=1344
+		home=1286
 	}
 }
 
 army = {
 	name="20th Army"
-	location=1383
-	regiment = {
-		name="1st Allahabad Irregulars"
-		type=irregular
-		home=1243
-	}
+	location=1382
 	regiment = {
 		name="2nd Allahabad Irregulars"
 		type=irregular
 		home=1243
 	}
 	regiment = {
-		name="1st Jagdalpur Irregulars"
+		name="1st Kolhapur Irregulars"
 		type=irregular
-		home=1279
+		home=1301
 	}
 	regiment = {
-		name="1st Bhagalpur Irregulars"
+		name="3rd Allahabad Irregulars"
 		type=irregular
-		home=1250
+		home=1243
 	}
 	regiment = {
-		name="1st Bombay Cavalry"
-		type=cavalry
-		home=1297
-	}
-	regiment = {
-		name="1st Chhatarpur Artillery"
-		type=artillery
-		home=1273
-	}
-	regiment = {
-		name="1st Taunggyi Artillery"
-		type=artillery
-		home=1338
-	}
-	regiment = {
-		name="5th Bardwan Irregulars"
+		name="4th Allahabad Irregulars"
 		type=irregular
-		home=1253
+		home=1243
 	}
 	regiment = {
 		name="1st Phnom Penh Cavalry"
 		type=cavalry
 		home=1364
+	}
+	regiment = {
+		name="1st Rewa Artillery"
+		type=artillery
+		home=1274
+	}
+	regiment = {
+		name="2nd Rewa Artillery"
+		type=artillery
+		home=1274
+	}
+	regiment = {
+		name="7th Kolhapur Irregulars"
+		type=irregular
+		home=1301
+	}
+	regiment = {
+		name="1st Bombay Cavalry"
+		type=cavalry
+		home=1297
 	}
 	regiment = {
 		name="1st Gulbarga Artillery"
@@ -753,64 +753,9 @@ army = {
 	name="22nd Army"
 	location=1257
 	regiment = {
-		name="1st Hà Tiên Irregulars"
+		name="1st Kurnool Irregulars"
 		type=irregular
-		home=1382
-	}
-	regiment = {
-		name="1st Masulipatnam Irregulars"
-		type=irregular
-		home=1306
-	}
-	regiment = {
-		name="1st Kolhapur Irregulars"
-		type=irregular
-		home=1301
-	}
-	regiment = {
-		name="2nd Hà Tiên Irregulars"
-		type=irregular
-		home=1382
-	}
-	regiment = {
-		name="1st Xiangabouli Cavalry"
-		type=cavalry
-		home=1360
-	}
-	regiment = {
-		name="1st Kurnool Artillery"
-		type=artillery
 		home=1308
-	}
-	regiment = {
-		name="1st Madras Artillery"
-		type=artillery
-		home=1304
-	}
-	regiment = {
-		name="1st Vinhlong Irregulars"
-		type=irregular
-		home=1383
-	}
-	regiment = {
-		name="1st Rewa Cavalry"
-		type=cavalry
-		home=1274
-	}
-}
-
-army = {
-	name="26th Army"
-	location=1305
-	regiment = {
-		name="1st Thimpu Irregulars"
-		type=irregular
-		home=1329
-	}
-	regiment = {
-		name="1st Lashio Irregulars"
-		type=irregular
-		home=1340
 	}
 	regiment = {
 		name="2nd Jubbulpore Irregulars"
@@ -818,29 +763,84 @@ army = {
 		home=1275
 	}
 	regiment = {
-		name="1st Prachinburi Irregulars"
+		name="1st Gauhati Irregulars"
 		type=irregular
-		home=1351
+		home=1258
 	}
 	regiment = {
-		name="1st Vizagapatnam Cavalry"
+		name="1st Bombay Irregulars"
+		type=irregular
+		home=1297
+	}
+	regiment = {
+		name="1st Gulbarga Cavalry"
 		type=cavalry
-		home=1305
+		home=1286
 	}
 	regiment = {
-		name="1st Coimbatore Artillery"
+		name="1st Madras Artillery"
 		type=artillery
-		home=1311
+		home=1304
 	}
 	regiment = {
-		name="2nd Madurai Irregulars"
-		type=irregular
+		name="1st Madurai Artillery"
+		type=artillery
 		home=1310
 	}
 	regiment = {
-		name="2nd Jessore Artillery"
+		name="2nd Sittwe Irregulars"
+		type=irregular
+		home=1345
+	}
+	regiment = {
+		name="2nd Bardwan Cavalry"
+		type=cavalry
+		home=1253
+	}
+}
+
+army = {
+	name="26th Army"
+	location=1305
+	regiment = {
+		name="1st Lashio Irregulars"
+		type=irregular
+		home=1340
+	}
+	regiment = {
+		name="1st Keunjahr Irregulars"
+		type=irregular
+		home=1262
+	}
+	regiment = {
+		name="2nd Keunjahr Irregulars"
+		type=irregular
+		home=1262
+	}
+	regiment = {
+		name="3rd Jubbulpore Irregulars"
+		type=irregular
+		home=1275
+	}
+	regiment = {
+		name="1st Raigarh Cavalry"
+		type=cavalry
+		home=1282
+	}
+	regiment = {
+		name="1st Bardwan Artillery"
 		type=artillery
-		home=1256
+		home=1253
+	}
+	regiment = {
+		name="1st Calcutta Irregulars"
+		type=irregular
+		home=1251
+	}
+	regiment = {
+		name="1st Keunjahr Artillery"
+		type=artillery
+		home=1262
 	}
 }
 
@@ -848,31 +848,31 @@ navy = {
 	name="7th Fleet"
 	location=3068
 	ship = {
-		name="1st Tanjore Frigate"
+		name="3rd Bangor Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Tamilakami Frigate"
+		name="3rd Trivandrum Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Bangor Frigate"
+		name="1st Masulipatnam Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Trivandrum Frigate"
+		name="4th Trivandrum Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Chittagong Frigate"
+		name="1st Maldives Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Calicut Frigate"
+		name="1st Mangalore Frigate"
 		type=frigate
 	}
 	ship = {
-		name="4th Masulipatnam Frigate"
+		name="6th Masulipatnam Frigate"
 		type=frigate
 	}
 }
@@ -881,29 +881,29 @@ army = {
 	name="4th Army"
 	location=1261
 	regiment = {
-		name="1st Dong Quai Irregulars"
+		name="1st Jagdalpur Irregulars"
 		type=irregular
-		home=1381
+		home=1279
 	}
 	regiment = {
-		name="1st Mangalore Irregulars"
+		name="2nd Kurnool Irregulars"
 		type=irregular
-		home=1316
+		home=1308
 	}
 	regiment = {
-		name="1st Katmandu Irregulars"
+		name="1st Nellore Irregulars"
 		type=irregular
-		home=1326
+		home=1307
 	}
 	regiment = {
-		name="1st Vizagapatnam Irregulars"
+		name="1st Benares Irregulars"
 		type=irregular
-		home=1305
+		home=1245
 	}
 	regiment = {
-		name="1st Prome Irregulars"
+		name="1st Masulipatnam Irregulars"
 		type=irregular
-		home=1337
+		home=1306
 	}
 	regiment = {
 		name="1st Gorakhpur Irregulars"
@@ -911,54 +911,9 @@ army = {
 		home=1246
 	}
 	regiment = {
-		name="1st Cochin Cavalry"
-		type=cavalry
-		home=1318
-	}
-	regiment = {
-		name="1st Masulipatnam Artillery"
-		type=artillery
-		home=1306
-	}
-	regiment = {
-		name="1st Raigarh Cavalry"
+		name="2nd Raigarh Cavalry"
 		type=cavalry
 		home=1282
-	}
-	regiment = {
-		name="5th Jubbulpore Artillery"
-		type=artillery
-		home=1275
-	}
-}
-
-army = {
-	name="14th Army"
-	location=1247
-	regiment = {
-		name="1st Bardwan Irregulars"
-		type=irregular
-		home=1253
-	}
-	regiment = {
-		name="1st Sukhothai Irregulars"
-		type=irregular
-		home=1349
-	}
-	regiment = {
-		name="1st Phnom Penh Irregulars"
-		type=irregular
-		home=1364
-	}
-	regiment = {
-		name="1st Madras Irregulars"
-		type=irregular
-		home=1304
-	}
-	regiment = {
-		name="1st Bilaspur Cavalry"
-		type=cavalry
-		home=1281
 	}
 	regiment = {
 		name="2nd Jubbulpore Artillery"
@@ -966,89 +921,39 @@ army = {
 		home=1275
 	}
 	regiment = {
-		name="1st Kyaukse Irregulars"
-		type=irregular
-		home=1335
-	}
-	regiment = {
-		name="4th Kolhapur Cavalry"
+		name="3rd Raigarh Cavalry"
 		type=cavalry
-		home=1301
+		home=1282
 	}
 	regiment = {
-		name="3rd Bardwan Artillery"
+		name="3rd Bombay Artillery"
 		type=artillery
-		home=1253
+		home=1297
 	}
 }
 
 army = {
-	name="25th Army"
-	location=1590
+	name="14th Army"
+	location=1247
 	regiment = {
-		name="2nd Kolhapur Irregulars"
+		name="1st Sukhothai Irregulars"
 		type=irregular
-		home=1301
+		home=1349
 	}
 	regiment = {
-		name="3rd Kolhapur Irregulars"
+		name="1st Kampot Irregulars"
 		type=irregular
-		home=1301
+		home=1367
 	}
 	regiment = {
-		name="3rd Allahabad Irregulars"
+		name="1st Madras Irregulars"
 		type=irregular
-		home=1243
+		home=1304
 	}
 	regiment = {
-		name="4th Kolhapur Irregulars"
+		name="1st Sittwe Irregulars"
 		type=irregular
-		home=1301
-	}
-	regiment = {
-		name="1st Cao Bang Cavalry"
-		type=cavalry
-		home=1371
-	}
-	regiment = {
-		name="1st Kandy Artillery"
-		type=artillery
-		home=1323
-	}
-	regiment = {
-		name="1st Son La Cavalry"
-		type=cavalry
-		home=1372
-	}
-	regiment = {
-		name="2nd Gulbarga Artillery"
-		type=artillery
-		home=1286
-	}
-}
-
-army = {
-	name="10th Army"
-	location=1374
-	regiment = {
-		name="1st Cawnpore Irregulars"
-		type=irregular
-		home=1241
-	}
-	regiment = {
-		name="1st Chhatarpur Irregulars"
-		type=irregular
-		home=1273
-	}
-	regiment = {
-		name="4th Allahabad Irregulars"
-		type=irregular
-		home=1243
-	}
-	regiment = {
-		name="1st Xiangabouli Irregulars"
-		type=irregular
-		home=1360
+		home=1345
 	}
 	regiment = {
 		name="2nd Kolhapur Cavalry"
@@ -1056,39 +961,39 @@ army = {
 		home=1301
 	}
 	regiment = {
-		name="2nd Chhatarpur Artillery"
+		name="1st Allahabad Artillery"
 		type=artillery
-		home=1273
+		home=1243
 	}
 	regiment = {
-		name="2nd Madras Artillery"
-		type=artillery
+		name="7th Madras Irregulars"
+		type=irregular
 		home=1304
+	}
+	regiment = {
+		name="5th Kolhapur Cavalry"
+		type=cavalry
+		home=1301
+	}
+	regiment = {
+		name="3rd Rewa Artillery"
+		type=artillery
+		home=1274
 	}
 }
 
 army = {
-	name="37th Army"
-	location=1243
+	name="25th Army"
+	location=1587
 	regiment = {
-		name="5th Kolhapur Irregulars"
+		name="2nd Kampot Irregulars"
 		type=irregular
-		home=1301
+		home=1367
 	}
 	regiment = {
-		name="1st Darjeeling Irregulars"
+		name="1st Nakhon Ratchasima Irregulars"
 		type=irregular
-		home=1252
-	}
-	regiment = {
-		name="6th Kolhapur Irregulars"
-		type=irregular
-		home=1301
-	}
-	regiment = {
-		name="1st Moulmein Irregulars"
-		type=irregular
-		home=1343
+		home=1350
 	}
 	regiment = {
 		name="1st Taunggyi Irregulars"
@@ -1096,24 +1001,119 @@ army = {
 		home=1338
 	}
 	regiment = {
+		name="1st Patna Irregulars"
+		type=irregular
+		home=1247
+	}
+	regiment = {
+		name="1st Bardwan Cavalry"
+		type=cavalry
+		home=1253
+	}
+	regiment = {
+		name="2nd Madurai Artillery"
+		type=artillery
+		home=1310
+	}
+	regiment = {
+		name="1st Bilaspur Cavalry"
+		type=cavalry
+		home=1281
+	}
+	regiment = {
+		name="3rd Madurai Artillery"
+		type=artillery
+		home=1310
+	}
+}
+
+army = {
+	name="10th Army"
+	location=1374
+	regiment = {
+		name="3rd Kurnool Irregulars"
+		type=irregular
+		home=1308
+	}
+	regiment = {
+		name="1st Cawnpore Irregulars"
+		type=irregular
+		home=1241
+	}
+	regiment = {
+		name="2nd Kolhapur Irregulars"
+		type=irregular
+		home=1301
+	}
+	regiment = {
+		name="1st Madurai Irregulars"
+		type=irregular
+		home=1310
+	}
+	regiment = {
+		name="3rd Kolhapur Cavalry"
+		type=cavalry
+		home=1301
+	}
+	regiment = {
+		name="1st Chhatarpur Artillery"
+		type=artillery
+		home=1273
+	}
+	regiment = {
+		name="1st Gaya Artillery"
+		type=artillery
+		home=1248
+	}
+}
+
+army = {
+	name="37th Army"
+	location=1243
+	regiment = {
+		name="2nd Gulbarga Irregulars"
+		type=irregular
+		home=1286
+	}
+	regiment = {
+		name="1st Prome Irregulars"
+		type=irregular
+		home=1337
+	}
+	regiment = {
+		name="1st Moulmein Irregulars"
+		type=irregular
+		home=1343
+	}
+	regiment = {
+		name="1st Agartala Irregulars"
+		type=irregular
+		home=2566
+	}
+	regiment = {
+		name="2nd Madurai Irregulars"
+		type=irregular
+		home=1310
+	}
+	regiment = {
 		name="1st Jubbulpore Cavalry"
 		type=cavalry
 		home=1275
 	}
 	regiment = {
+		name="3rd Jubbulpore Artillery"
+		type=artillery
+		home=1275
+	}
+	regiment = {
+		name="1st Dali Irregulars"
+		type=irregular
+		home=1602
+	}
+	regiment = {
 		name="2nd Kolhapur Artillery"
 		type=artillery
 		home=1301
-	}
-	regiment = {
-		name="2nd Agartala Irregulars"
-		type=irregular
-		home=2566
-	}
-	regiment = {
-		name="2nd Bardwan Artillery"
-		type=artillery
-		home=1253
 	}
 }
 
@@ -1121,39 +1121,39 @@ navy = {
 	name="3rd Fleet"
 	location=2789
 	ship = {
-		name="2nd Madras Frigate"
+		name="1st Goa Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Mangalore Frigate"
+		name="1st Kolhapur Frigate"
 		type=frigate
 	}
 	ship = {
-		name="3rd Calicut Frigate"
+		name="6th Rajkot Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Madurai Frigate"
+		name="2nd Nantong Frigate"
 		type=frigate
 	}
 	ship = {
-		name="5th Rajkot Frigate"
+		name="1st Hangzhou Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Rangoon Frigate"
+		name="7th Rajkot Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Jiaxing Frigate"
+		name="2nd Wenzhou Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Tongzhou Frigate"
+		name="5th Trivandrum Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Pegu Frigate"
+		name="4th Jiaxing Frigate"
 		type=frigate
 	}
 }
@@ -1162,44 +1162,44 @@ army = {
 	name="11th Army"
 	location=1285
 	regiment = {
-		name="1st Udon Thani Irregulars"
+		name="1st Warangal Irregulars"
 		type=irregular
-		home=1358
+		home=1287
 	}
 	regiment = {
-		name="1st Kampot Irregulars"
+		name="2nd Bardwan Irregulars"
 		type=irregular
-		home=1367
+		home=1253
 	}
 	regiment = {
-		name="1st Agartala Irregulars"
+		name="2nd Madras Irregulars"
 		type=irregular
-		home=2566
+		home=1304
 	}
 	regiment = {
-		name="2nd Masulipatnam Irregulars"
+		name="2nd Warangal Irregulars"
 		type=irregular
-		home=1306
+		home=1287
 	}
 	regiment = {
-		name="1st Madurai Irregulars"
+		name="3rd Madras Irregulars"
 		type=irregular
-		home=1310
+		home=1304
 	}
 	regiment = {
-		name="1st Chhatarpur Cavalry"
+		name="1st Chitaldroog Cavalry"
 		type=cavalry
-		home=1273
+		home=1315
 	}
 	regiment = {
-		name="3rd Jubbulpore Artillery"
+		name="1st Kolhapur Artillery"
 		type=artillery
-		home=1275
+		home=1301
 	}
 	regiment = {
-		name="1st Bombay Artillery"
+		name="1st Bhagalpur Artillery"
 		type=artillery
-		home=1297
+		home=1250
 	}
 	regiment = {
 		name="4th Jubbulpore Artillery"
@@ -1212,64 +1212,64 @@ army = {
 	name="28th Army"
 	location=1286
 	regiment = {
-		name="1st Sambalpur Irregulars"
+		name="2nd Bombay Irregulars"
 		type=irregular
-		home=1263
+		home=1297
 	}
 	regiment = {
-		name="7th Kolhapur Irregulars"
+		name="4th Madras Irregulars"
 		type=irregular
-		home=1301
+		home=1304
 	}
 	regiment = {
-		name="2nd Cawnpore Irregulars"
+		name="2nd Tanjore Irregulars"
 		type=irregular
-		home=1241
-	}
-	regiment = {
-		name="1st Rewa Irregulars"
-		type=irregular
-		home=1274
-	}
-	regiment = {
-		name="8th Kolhapur Irregulars"
-		type=irregular
-		home=1301
-	}
-	regiment = {
-		name="2nd Bardwan Irregulars"
-		type=irregular
-		home=1253
-	}
-	regiment = {
-		name="1st Jaffna Irregulars"
-		type=irregular
-		home=1322
-	}
-	regiment = {
-		name="1st Thanh Hoa Cavalry"
-		type=cavalry
-		home=1374
-	}
-	regiment = {
-		name="1st Goa Artillery"
-		type=artillery
-		home=1303
-	}
-	regiment = {
-		name="2nd Goa Artillery"
-		type=artillery
-		home=1303
-	}
-	regiment = {
-		name="1st Tanjore Artillery"
-		type=artillery
 		home=1309
 	}
 	regiment = {
-		name="2nd Thanh Hoa Cavalry"
+		name="1st Bijapur Irregulars"
+		type=irregular
+		home=1300
+	}
+	regiment = {
+		name="3rd Bombay Irregulars"
+		type=irregular
+		home=1297
+	}
+	regiment = {
+		name="3rd Kolhapur Irregulars"
+		type=irregular
+		home=1301
+	}
+	regiment = {
+		name="5th Madras Irregulars"
+		type=irregular
+		home=1304
+	}
+	regiment = {
+		name="4th Kolhapur Cavalry"
 		type=cavalry
-		home=1374
+		home=1301
+	}
+	regiment = {
+		name="1st Bombay Artillery"
+		type=artillery
+		home=1297
+	}
+	regiment = {
+		name="1st Mysore Artillery"
+		type=artillery
+		home=1314
+	}
+	regiment = {
+		name="2nd Bombay Artillery"
+		type=artillery
+		home=1297
+	}
+	regiment = {
+		name="1st Chittagong Cavalry"
+		type=cavalry
+		home=1257
 	}
 }
 
@@ -1277,47 +1277,7 @@ navy = {
 	name="1st Fleet"
 	location=1302
 	ship = {
-		name="1st Madras Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Taizhou Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Madras Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Pondicherry Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Trivandrum Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Madras Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Madurai Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Tanjore Man'o'war"
-		type=manowar
-	}
-	ship = {
 		name="1st Jessore Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Maldives Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Cochin Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1325,7 +1285,11 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Mandvi Man'o'war"
+		name="1st Fuzhou Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Fuzhou Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1333,11 +1297,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="2nd Mandvi Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Tanjore Man'o'war"
+		name="1st Mangalore Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1345,7 +1305,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Tamilakami Man'o'war"
+		name="2nd Mangalore Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1353,55 +1313,11 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="2nd Trivandrum Man'o'war"
+		name="4th Tanjore Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="2nd Tamilakami Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Trivandrum Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Trincomalee Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Calicut Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th Trivandrum Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Calicut Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Cochin Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Maldives Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Mangalore Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th Calicut Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="5th Calicut Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Mangalore Man'o'war"
+		name="1st Pondicherry Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1409,55 +1325,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="3rd Cochin Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th Tanjore Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Tamilakami Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Mandvi Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Fuzhou Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Trincomalee Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th Mandvi Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Maldives Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Pondicherry Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Penghu Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="6th Calicut Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Chaozhou Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="5th Madurai Man'o'war"
+		name="2nd Calicut Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1465,35 +1333,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="4th Cochin Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="5th Trivandrum Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th Madras Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="5th Cochin Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="6th Madurai Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="6th Tanjore Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="7th Madurai Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="6th Trivandrum Man'o'war"
+		name="3rd Calicut Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1501,35 +1341,47 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="5th Madras Man'o'war"
+		name="3rd Masulipatnam Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="7th Calicut Man'o'war"
+		name="1st Trivandrum Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="6th Madras Man'o'war"
+		name="4th Calicut Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="7th Madras Man'o'war"
+		name="2nd Wenzhou Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="8th Calicut Man'o'war"
+		name="2nd Matsuyama Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="3rd Pondicherry Man'o'war"
+		name="2nd Trivandrum Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="8th Madurai Man'o'war"
+		name="5th Calicut Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="9th Madurai Man'o'war"
+		name="6th Tanjore Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Maldives Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Madurai Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Pondicherry Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1537,7 +1389,79 @@ navy = {
 		type=manowar
 	}
 	ship = {
+		name="4th Masulipatnam Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Maldives Man'o'war"
+		type=manowar
+	}
+	ship = {
 		name="8th Tanjore Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Calicut Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Pondicherry Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Chaozhou Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Madurai Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Pondicherry Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Cochin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Calicut Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Madurai Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Taizhou Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Cuttack Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Cochin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Matsuyama Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Cochin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Cochin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Madras Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Tanjore Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1545,11 +1469,31 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="7th Cochin Man'o'war"
+		name="5th Pondicherry Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="3rd Masulipatnam Man'o'war"
+		name="8th Madurai Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="10th Tanjore Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Madras Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Mangalore Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Cuttack Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="11th Tanjore Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1557,15 +1501,75 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="8th Cochin Man'o'war"
+		name="9th Madurai Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="9th Cochin Man'o'war"
+		name="8th Calicut Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="2nd Mindoro Frigate"
+		name="1st Shaoxing Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="10th Madurai Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Madras Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Masulipatnam Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Madras Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Madras Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Trincomalee Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Wenzhou Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Madras Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Masulipatnam Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tamilakami Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Calicut Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Pondicherry Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="10th Calicut Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Macao Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Hangzhou Frigate"
 		type=frigate
 	}
 	ship = {
@@ -1573,11 +1577,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Huizhou Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Tainan Frigate"
+		name="4th Vigan Frigate"
 		type=frigate
 	}
 }
@@ -1586,27 +1586,7 @@ army = {
 	name="7th Army"
 	location=1367
 	regiment = {
-		name="1st Tranquebar Irregulars"
-		type=irregular
-		home=2591
-	}
-	regiment = {
-		name="5th Allahabad Irregulars"
-		type=irregular
-		home=1243
-	}
-	regiment = {
-		name="2nd Sambalpur Irregulars"
-		type=irregular
-		home=1263
-	}
-	regiment = {
-		name="1st Bilaspur Irregulars"
-		type=irregular
-		home=1281
-	}
-	regiment = {
-		name="2nd Rewa Irregulars"
+		name="1st Rewa Irregulars"
 		type=irregular
 		home=1274
 	}
@@ -1616,14 +1596,39 @@ army = {
 		home=1355
 	}
 	regiment = {
-		name="3rd Rewa Irregulars"
+		name="6th Madras Irregulars"
 		type=irregular
-		home=1274
+		home=1304
 	}
 	regiment = {
-		name="1st Colombo Irregulars"
+		name="2nd Chiang Mai Irregulars"
 		type=irregular
-		home=1321
+		home=1355
+	}
+	regiment = {
+		name="1st Tranquebar Irregulars"
+		type=irregular
+		home=2591
+	}
+	regiment = {
+		name="1st Kegudo Irregulars"
+		type=irregular
+		home=1558
+	}
+	regiment = {
+		name="1st Dibrugarh Irregulars"
+		type=irregular
+		home=1260
+	}
+	regiment = {
+		name="1st Gaya Irregulars"
+		type=irregular
+		home=1248
+	}
+	regiment = {
+		name="1st Qui Nhon Cavalry"
+		type=cavalry
+		home=1379
 	}
 	regiment = {
 		name="1st Kurnool Cavalry"
@@ -1631,29 +1636,24 @@ army = {
 		home=1308
 	}
 	regiment = {
-		name="2nd Kurnool Cavalry"
-		type=cavalry
-		home=1308
+		name="1st Warangal Artillery"
+		type=artillery
+		home=1287
 	}
 	regiment = {
-		name="2nd Masulipatnam Artillery"
+		name="1st Masulipatnam Artillery"
 		type=artillery
 		home=1306
 	}
 	regiment = {
-		name="3rd Masulipatnam Artillery"
-		type=artillery
-		home=1306
-	}
-	regiment = {
-		name="1st Kharswari Irregulars"
+		name="5th Bardwan Irregulars"
 		type=irregular
-		home=1249
+		home=1253
 	}
 	regiment = {
-		name="1st Allahabad Artillery"
+		name="4th Bombay Artillery"
 		type=artillery
-		home=1243
+		home=1297
 	}
 }
 
@@ -1670,14 +1670,14 @@ army = {
 	name="24th Army"
 	location=2591
 	regiment = {
-		name="3rd Jubbulpore Irregulars"
+		name="2nd Cawnpore Irregulars"
 		type=irregular
-		home=1275
+		home=1241
 	}
 	regiment = {
-		name="1st Coimbatore Irregulars"
+		name="4th Jubbulpore Irregulars"
 		type=irregular
-		home=1311
+		home=1275
 	}
 	regiment = {
 		name="3rd Bardwan Irregulars"
@@ -1685,24 +1685,24 @@ army = {
 		home=1253
 	}
 	regiment = {
-		name="1st Cochin Irregulars"
+		name="4th Kolhapur Irregulars"
 		type=irregular
-		home=1318
+		home=1301
 	}
 	regiment = {
-		name="1st Raigarh Artillery"
+		name="2nd Allahabad Artillery"
 		type=artillery
-		home=1282
+		home=1243
 	}
 	regiment = {
-		name="4th Rewa Irregulars"
+		name="6th Kolhapur Irregulars"
 		type=irregular
-		home=1274
+		home=1301
 	}
 	regiment = {
-		name="2nd Raigarh Artillery"
+		name="4th Allahabad Artillery"
 		type=artillery
-		home=1282
+		home=1243
 	}
 }
 
@@ -1710,11 +1710,11 @@ navy = {
 	name="8th Fleet"
 	location=2906
 	ship = {
-		name="1st Pondicherry Frigate"
+		name="2nd Madras Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Belgaum Frigate"
+		name="2nd Maldives Frigate"
 		type=frigate
 	}
 }
@@ -1723,11 +1723,11 @@ navy = {
 	name="5th Fleet"
 	location=2818
 	ship = {
-		name="1st Goa Frigate"
+		name="1st Colombo Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Vizagapatnam Frigate"
+		name="2nd Colombo Frigate"
 		type=frigate
 	}
 }
@@ -1736,14 +1736,49 @@ army = {
 	name="8th Army"
 	location=1321
 	regiment = {
-		name="1st Patna Irregulars"
+		name="2nd Rewa Irregulars"
 		type=irregular
-		home=1247
+		home=1274
 	}
 	regiment = {
-		name="1st Bijapur Irregulars"
+		name="5th Kolhapur Irregulars"
+		type=irregular
+		home=1301
+	}
+	regiment = {
+		name="1st Cochin Irregulars"
+		type=irregular
+		home=1318
+	}
+	regiment = {
+		name="3rd Madurai Irregulars"
+		type=irregular
+		home=1310
+	}
+	regiment = {
+		name="2nd Bijapur Irregulars"
 		type=irregular
 		home=1300
+	}
+	regiment = {
+		name="3rd Rewa Irregulars"
+		type=irregular
+		home=1274
+	}
+	regiment = {
+		name="1st Hanoi Cavalry"
+		type=cavalry
+		home=1369
+	}
+	regiment = {
+		name="5th Jubbulpore Artillery"
+		type=artillery
+		home=1275
+	}
+	regiment = {
+		name="3rd Allahabad Artillery"
+		type=artillery
+		home=1243
 	}
 	regiment = {
 		name="4th Bardwan Irregulars"
@@ -1751,47 +1786,12 @@ army = {
 		home=1253
 	}
 	regiment = {
-		name="1st Dibrugarh Irregulars"
-		type=irregular
-		home=1260
-	}
-	regiment = {
-		name="2nd Dibrugarh Irregulars"
-		type=irregular
-		home=1260
-	}
-	regiment = {
-		name="1st Bombay Irregulars"
-		type=irregular
-		home=1297
-	}
-	regiment = {
-		name="3rd Kolhapur Cavalry"
+		name="1st Lashio Cavalry"
 		type=cavalry
-		home=1301
+		home=1340
 	}
 	regiment = {
-		name="1st Cochin Artillery"
-		type=artillery
-		home=1318
-	}
-	regiment = {
-		name="2nd Cochin Artillery"
-		type=artillery
-		home=1318
-	}
-	regiment = {
-		name="1st Dali Irregulars"
-		type=irregular
-		home=1602
-	}
-	regiment = {
-		name="1st Madurai Cavalry"
-		type=cavalry
-		home=1310
-	}
-	regiment = {
-		name="2nd Bombay Artillery"
+		name="5th Bombay Artillery"
 		type=artillery
 		home=1297
 	}
@@ -1801,7 +1801,7 @@ navy = {
 	name="2nd Fleet"
 	location=2790
 	ship = {
-		name="2nd Madurai Frigate"
+		name="1st Nellore Frigate"
 		type=frigate
 	}
 }
@@ -1810,135 +1810,31 @@ navy = {
 	name="6th Fleet"
 	location=2794
 	ship = {
+		name="1st Weihaiwei Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Sittwe Man'o'war"
+		type=manowar
+	}
+	ship = {
 		name="1st Nellore Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="3rd Shaoxing Man'o'war"
+		name="1st Prachinburi Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="2nd Chittagong Man'o'war"
+		name="2nd Prachinburi Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="4th Shaoxing Man'o'war"
+		name="3rd Cuttack Man'o'war"
 		type=manowar
-	}
-	ship = {
-		name="1st Pegu Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Nellore Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Trivandrum Frigate"
-		type=frigate
 	}
 	ship = {
 		name="1st Cuttack Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Madurai Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Vizagapatnam Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Masulipatnam Frigate"
-		type=frigate
-	}
-	ship = {
-		name="4th Trivandrum Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Tranquebar Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Pondicherry Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Cuttack Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Maldives Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Tolanaro Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Cochin Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Cuttack Frigate"
-		type=frigate
-	}
-	ship = {
-		name="5th Trivandrum Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Maldives Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Masulipatnam Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Belgaum Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Nellore Frigate"
-		type=frigate
-	}
-	ship = {
-		name="4th Fuzhou Frigate"
-		type=frigate
-	}
-	ship = {
-		name="4th Madurai Frigate"
-		type=frigate
-	}
-	ship = {
-		name="4th Cuttack Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Cochin Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Trincomalee Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Tolanaro Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Cochin Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Kolhapur Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Pondicherry Frigate"
 		type=frigate
 	}
 	ship = {
@@ -1946,7 +1842,51 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="4th Cochin Frigate"
+		name="2nd Nellore Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Mangalore Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Madurai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Cochin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Madras Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Calcutta Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Trincomalee Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Cochin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Trivandrum Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Trincomalee Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Cuttack Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Masulipatnam Frigate"
 		type=frigate
 	}
 	ship = {
@@ -1954,11 +1894,71 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="3rd Nellore Man'o'war"
+		name="1st Tanjore Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Fuzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Nellore Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Cuttack Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Madurai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Pondicherry Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Vizagapatnam Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tanjore Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Madurai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Jaffna Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Cuttack Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Cochin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Calcutta Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Trivandrum Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Belgaum Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Chengde Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="3rd Vizagapatnam Frigate"
+		name="4th Cochin Frigate"
 		type=frigate
 	}
 }
@@ -1966,18 +1966,6 @@ navy = {
 navy = {
 	name="10th Fleet"
 	location=2795
-	ship = {
-		name="1st Hangzhou Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Madurai Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Masulipatnam Clipper Transport"
-		type=clipper_transport
-	}
 	ship = {
 		name="1st Cochin Clipper Transport"
 		type=clipper_transport
@@ -1987,23 +1975,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Calicut Clipper Transport"
+		name="1st Madurai Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Pondicherry Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Calicut Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Cochin Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Cochin Clipper Transport"
+		name="3rd Hangzhou Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -2011,11 +1987,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Madurai Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Masulipatnam Clipper Transport"
+		name="1st Mangalore Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -2023,15 +1995,43 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="4th Cochin Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="2nd Tanjore Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Xuzhou Clipper Transport"
+		name="2nd Calicut Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Tanjore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Hangzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Tanjore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Tanjore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Maldives Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Maldives Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Calicut Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Calicut Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -2040,83 +2040,63 @@ navy = {
 	name="9th Fleet"
 	location=2793
 	ship = {
-		name="9th Calicut Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="10th Madurai Man'o'war"
-		type=manowar
-	}
-	ship = {
 		name="11th Madurai Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="10th Calicut Man'o'war"
+		name="1st Jaffna Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="12th Madurai Man'o'war"
+		name="11th Calicut Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="13th Madurai Man'o'war"
+		name="1st Belgaum Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="2nd Tranquebar Frigate"
+		name="12th Calicut Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Goa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Masulipatnam Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Goa Frigate"
+		name="3rd Tanjore Frigate"
 		type=frigate
 	}
 	ship = {
-		name="5th Madurai Frigate"
+		name="4th Nellore Frigate"
 		type=frigate
 	}
 	ship = {
-		name="6th Madurai Frigate"
+		name="4th Mangalore Frigate"
 		type=frigate
 	}
 	ship = {
-		name="4th Calicut Frigate"
+		name="5th Masulipatnam Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Jaffna Frigate"
+		name="5th Mangalore Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Trincomalee Clipper Transport"
+		name="6th Tanjore Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Tanjore Clipper Transport"
+		name="2nd Cochin Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="5th Cochin Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Pondicherry Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="4th Madurai Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="4th Tanjore Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="4th Calicut Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="5th Tanjore Clipper Transport"
+		name="7th Tanjore Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -2124,15 +2104,35 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="6th Cochin Clipper Transport"
+		name="1st Madras Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="11th Calicut Man'o'war"
+		name="8th Tanjore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="9th Tanjore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Trivandrum Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Madurai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="10th Tanjore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Cochin Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="5th Madurai Clipper Transport"
+		name="2nd Matsuyama Clipper Transport"
 		type=clipper_transport
 	}
 }

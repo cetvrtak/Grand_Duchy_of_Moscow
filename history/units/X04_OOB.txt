@@ -511,8 +511,13 @@ army = {
 	name="13th Army"
 	location=1197
 	regiment = {
-		name="1st Khorug Irregulars"
+		name="1st Bishkek Irregulars"
 		type=irregular
+		home=1189
+	}
+	regiment = {
+		name="1st Khorug Artillery"
+		type=artillery
 		home=1208
 	}
 	regiment = {
@@ -521,19 +526,14 @@ army = {
 		home=1597
 	}
 	regiment = {
-		name="2nd Aksu Artillery"
-		type=artillery
-		home=1597
+		name="1st Khorug Irregulars"
+		type=irregular
+		home=1208
 	}
 	regiment = {
-		name="1st Bishkek Irregulars"
+		name="2nd Khorug Irregulars"
 		type=irregular
-		home=1189
-	}
-	regiment = {
-		name="1st Khotan Irregulars"
-		type=irregular
-		home=1598
+		home=1208
 	}
 	regiment = {
 		name="1st Naryn Artillery"
@@ -551,6 +551,11 @@ army = {
 		home=1597
 	}
 	regiment = {
+		name="1st Khotan Irregulars"
+		type=irregular
+		home=1598
+	}
+	regiment = {
 		name="2nd Aksu Irregulars"
 		type=irregular
 		home=1597
@@ -559,11 +564,6 @@ army = {
 		name="3rd Aksu Irregulars"
 		type=irregular
 		home=1597
-	}
-	regiment = {
-		name="1st Kashgar Irregulars"
-		type=irregular
-		home=1594
 	}
 }
 

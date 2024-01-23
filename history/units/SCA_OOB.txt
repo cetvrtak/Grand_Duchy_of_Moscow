@@ -547,9 +547,9 @@ army = {
 	name="18th Army"
 	location=309
 	regiment = {
-		name="1st Christianssand Infantry"
+		name="1st Malmö Infantry"
 		type=infantry
-		home=310
+		home=334
 	}
 	regiment = {
 		name="1st Borås Infantry"
@@ -557,59 +557,59 @@ army = {
 		home=330
 	}
 	regiment = {
-		name="1st Malmö Infantry"
+		name="1st Stockholm Infantry"
 		type=infantry
-		home=334
+		home=322
 	}
 	regiment = {
-		name="2nd Christianssand Infantry"
+		name="1st Växjö Infantry"
 		type=infantry
-		home=310
-	}
-	regiment = {
-		name="1st Bodo Infantry"
-		type=infantry
-		home=306
-	}
-	regiment = {
-		name="1st Gävle Infantry"
-		type=infantry
-		home=317
-	}
-	regiment = {
-		name="1st Göteborg Infantry"
-		type=infantry
-		home=329
-	}
-	regiment = {
-		name="1st Växjö Artillery"
-		type=artillery
 		home=333
 	}
 	regiment = {
-		name="1st Trondheim Artillery"
-		type=artillery
-		home=305
-	}
-	regiment = {
-		name="2nd Trondheim Artillery"
-		type=artillery
-		home=305
-	}
-	regiment = {
-		name="2nd Växjö Artillery"
-		type=artillery
-		home=333
-	}
-	regiment = {
-		name="2nd Gävle Infantry"
+		name="1st Iceland Infantry"
 		type=infantry
-		home=317
+		home=252
 	}
 	regiment = {
-		name="3rd Malmö Artillery"
+		name="1st Norrköping Infantry"
+		type=infantry
+		home=325
+	}
+	regiment = {
+		name="1st Stralsund Infantry"
+		type=infantry
+		home=548
+	}
+	regiment = {
+		name="1st Örebro Artillery"
+		type=artillery
+		home=327
+	}
+	regiment = {
+		name="1st Malmö Artillery"
 		type=artillery
 		home=334
+	}
+	regiment = {
+		name="1st Kalmar Artillery"
+		type=artillery
+		home=332
+	}
+	regiment = {
+		name="2nd Kalmar Artillery"
+		type=artillery
+		home=332
+	}
+	regiment = {
+		name="3rd Borås Infantry"
+		type=infantry
+		home=330
+	}
+	regiment = {
+		name="2nd Norrköping Artillery"
+		type=artillery
+		home=325
 	}
 }
 
@@ -654,64 +654,64 @@ army = {
 	name="1st Army"
 	location=327
 	regiment = {
-		name="2nd Malmö Infantry"
-		type=infantry
-		home=334
-	}
-	regiment = {
-		name="1st Norrköping Infantry"
-		type=infantry
-		home=325
-	}
-	regiment = {
 		name="1st Örebro Infantry"
 		type=infantry
 		home=327
 	}
 	regiment = {
-		name="1st Karlstad Infantry"
+		name="1st Karlskrona Infantry"
 		type=infantry
-		home=328
+		home=335
 	}
 	regiment = {
-		name="1st Stockholm Infantry"
+		name="2nd Örebro Infantry"
 		type=infantry
-		home=322
+		home=327
 	}
 	regiment = {
-		name="2nd Karlstad Infantry"
+		name="1st Falun Infantry"
 		type=infantry
-		home=328
+		home=323
 	}
 	regiment = {
-		name="1st Malmö Artillery"
+		name="2nd Borås Infantry"
+		type=infantry
+		home=330
+	}
+	regiment = {
+		name="1st Christianssand Infantry"
+		type=infantry
+		home=310
+	}
+	regiment = {
+		name="2nd Örebro Artillery"
+		type=artillery
+		home=327
+	}
+	regiment = {
+		name="1st Karlskrona Artillery"
+		type=artillery
+		home=335
+	}
+	regiment = {
+		name="2nd Malmö Artillery"
 		type=artillery
 		home=334
 	}
 	regiment = {
-		name="1st Borås Artillery"
+		name="1st Karlstad Artillery"
 		type=artillery
-		home=330
+		home=328
 	}
 	regiment = {
-		name="2nd Borås Artillery"
-		type=artillery
-		home=330
-	}
-	regiment = {
-		name="1st Kalmar Artillery"
-		type=artillery
-		home=332
-	}
-	regiment = {
-		name="1st Trondheim Infantry"
+		name="2nd Christianssand Infantry"
 		type=infantry
-		home=305
+		home=310
 	}
 	regiment = {
-		name="3rd Borås Artillery"
+		name="1st Västerås Artillery"
 		type=artillery
-		home=330
+		home=326
 	}
 }
 
@@ -719,19 +719,9 @@ army = {
 	name="2nd Army"
 	location=306
 	regiment = {
-		name="1st Falun Infantry"
+		name="2nd Norrköping Infantry"
 		type=infantry
-		home=323
-	}
-	regiment = {
-		name="3rd Karlstad Infantry"
-		type=infantry
-		home=328
-	}
-	regiment = {
-		name="2nd Örebro Infantry"
-		type=infantry
-		home=327
+		home=325
 	}
 	regiment = {
 		name="1st Luleå Infantry"
@@ -744,27 +734,37 @@ army = {
 		home=323
 	}
 	regiment = {
-		name="1st Växjö Infantry"
+		name="2nd Växjö Infantry"
 		type=infantry
 		home=333
 	}
 	regiment = {
-		name="1st Örebro Artillery"
+		name="2nd Malmö Infantry"
+		type=infantry
+		home=334
+	}
+	regiment = {
+		name="3rd Norrköping Infantry"
+		type=infantry
+		home=325
+	}
+	regiment = {
+		name="1st Norrköping Artillery"
+		type=artillery
+		home=325
+	}
+	regiment = {
+		name="3rd Malmö Artillery"
+		type=artillery
+		home=334
+	}
+	regiment = {
+		name="3rd Örebro Artillery"
 		type=artillery
 		home=327
 	}
 	regiment = {
-		name="1st Sundsvall Artillery"
-		type=artillery
-		home=318
-	}
-	regiment = {
-		name="2nd Örebro Artillery"
-		type=artillery
-		home=327
-	}
-	regiment = {
-		name="2nd Malmö Artillery"
+		name="4th Malmö Artillery"
 		type=artillery
 		home=334
 	}
@@ -774,9 +774,24 @@ army = {
 	name="4th Army"
 	location=333
 	regiment = {
-		name="2nd Växjö Infantry"
+		name="3rd Falun Infantry"
 		type=infantry
-		home=333
+		home=323
+	}
+	regiment = {
+		name="1st Kalmar Infantry"
+		type=infantry
+		home=332
+	}
+	regiment = {
+		name="2nd Karlskrona Infantry"
+		type=infantry
+		home=335
+	}
+	regiment = {
+		name="2nd Kalmar Infantry"
+		type=infantry
+		home=332
 	}
 	regiment = {
 		name="3rd Malmö Infantry"
@@ -784,29 +799,14 @@ army = {
 		home=334
 	}
 	regiment = {
-		name="3rd Falun Infantry"
+		name="3rd Kalmar Infantry"
 		type=infantry
-		home=323
-	}
-	regiment = {
-		name="1st Västerås Infantry"
-		type=infantry
-		home=326
-	}
-	regiment = {
-		name="4th Karlstad Infantry"
-		type=infantry
-		home=328
-	}
-	regiment = {
-		name="1st Alesund Infantry"
-		type=infantry
-		home=308
-	}
-	regiment = {
-		name="2nd Kalmar Artillery"
-		type=artillery
 		home=332
+	}
+	regiment = {
+		name="4th Örebro Artillery"
+		type=artillery
+		home=327
 	}
 	regiment = {
 		name="3rd Kalmar Artillery"
@@ -814,12 +814,12 @@ army = {
 		home=332
 	}
 	regiment = {
-		name="1st Falun Artillery"
+		name="5th Örebro Artillery"
 		type=artillery
-		home=323
+		home=327
 	}
 	regiment = {
-		name="3rd Växjö Artillery"
+		name="1st Växjö Artillery"
 		type=artillery
 		home=333
 	}
@@ -870,27 +870,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Stralsund Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Malmö Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Kalmar Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Luleå Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Groningen Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Stockholm Clipper Transport"
+		name="1st Hammerfest Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -898,35 +878,19 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Scandinavian Clipper Transport"
+		name="2nd Gotland Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Kalmar Clipper Transport"
+		name="1st Oldenburg Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Malmö Clipper Transport"
+		name="1st Drammen Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Scandinavian Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Luleå Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Göteborg Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="4th Malmö Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Hammerfest Clipper Transport"
+		name="1st Stockholm Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -938,35 +902,71 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Hammerfest Clipper Transport"
+		name="2nd Malmö Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Gävle Clipper Transport"
+		name="2nd Norrköping Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="5th Malmö Clipper Transport"
+		name="1st Iceland Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Sundsvall Clipper Transport"
+		name="1st Bergen Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Kalmar Clipper Transport"
+		name="1st Uppsala Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Skien Clipper Transport"
+		name="1st Stralsund Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="6th Malmö Clipper Transport"
+		name="3rd Gotland Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Faroe Islands Clipper Transport"
+		name="1st Bodo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Frederiksstad Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Scandinavian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Christiania Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Orkney & Shetland Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Groningen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Karlskrona Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Gotland Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Norrköping Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Luleå Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -978,7 +978,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="7th Malmö Clipper Transport"
+		name="1st Kalmar Clipper Transport"
 		type=clipper_transport
 	}
 }

@@ -1447,7 +1447,7 @@
 	{
 		culture = shan
 		religion = theravada
-		size= 4133
+		size= 2247
 	}
 
 	artisans=
@@ -1489,7 +1489,7 @@
 	{
 		culture = shan
 		religion = theravada
-		size= 28663
+		size= 30549
 	}
 
 	slaves=
@@ -3127,7 +3127,7 @@
 	{
 		culture = burmese
 		religion = theravada
-		size= 1395
+		size= 4133
 	}
 
 	artisans=
@@ -3169,7 +3169,7 @@
 	{
 		culture = burmese
 		religion = theravada
-		size= 23037
+		size= 20299
 	}
 
 	soldiers=

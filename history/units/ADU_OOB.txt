@@ -482,17 +482,17 @@ YZD = {
 #Armies
 navy = {
 	name="Balaeric Sea Squadron"
-	location=2551
+	location=2553
 	ship = {
 		name="Fas"
 		type=manowar
 	}
 	ship = {
-		name="1st Tahiti Clipper Transport"
+		name="1st Cape Verde Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Tacna Clipper Transport"
+		name="2nd Cape Verde Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {

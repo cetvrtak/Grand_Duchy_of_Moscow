@@ -1036,7 +1036,7 @@
 	{
 		culture = oldpommeranian
 		religion = catholic
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -1078,7 +1078,7 @@
 	{
 		culture = oldpommeranian
 		religion = catholic
-		size= 20137
+		size= 17037
 	}
 
 	soldiers=
@@ -1283,7 +1283,7 @@
 	{
 		culture = oldpommeranian
 		religion = protestant
-		size= 1048
+		size= 4133
 	}
 
 	artisans=
@@ -1325,7 +1325,7 @@
 	{
 		culture = oldpommeranian
 		religion = protestant
-		size= 12918
+		size= 9833
 	}
 
 }
@@ -1334,7 +1334,7 @@
 	{
 		culture = pruthenian
 		religion = catholic
-		size= 1033
+		size= 530
 	}
 
 	artisans=
@@ -1376,7 +1376,7 @@
 	{
 		culture = pruthenian
 		religion = catholic
-		size= 17509
+		size= 18012
 	}
 
 	soldiers=
@@ -1730,7 +1730,7 @@
 	{
 		culture = pruthenian
 		religion = catholic
-		size= 19633
+		size= 1690
 	}
 
 	artisans=
@@ -1772,7 +1772,7 @@
 	{
 		culture = pruthenian
 		religion = catholic
-		size= 25046
+		size= 42989
 	}
 
 	soldiers=
@@ -2322,7 +2322,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 4133
+		size= 7233
 	}
 
 	artisans=
@@ -2364,7 +2364,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 11338
+		size= 8238
 	}
 
 	soldiers=
@@ -3649,7 +3649,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 1942
+		size= 13433
 	}
 
 	artisans=
@@ -3691,7 +3691,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 46030
+		size= 34539
 	}
 
 	soldiers=
@@ -3898,7 +3898,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 1033
+		size= 956
 	}
 
 	artisans=
@@ -3940,7 +3940,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 32296
+		size= 32373
 	}
 
 	soldiers=
@@ -4594,7 +4594,7 @@
 	{
 		culture = dynamic-polish-culture-num1
 		religion = catholic
-		size= 680
+		size= 7233
 	}
 
 	artisans=
@@ -4636,7 +4636,7 @@
 	{
 		culture = dynamic-polish-culture-num1
 		religion = catholic
-		size= 16848
+		size= 10295
 	}
 
 	soldiers=
@@ -5081,7 +5081,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 957
+		size= 1033
 	}
 
 	artisans=
@@ -5123,7 +5123,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 31869
+		size= 31793
 	}
 
 	soldiers=

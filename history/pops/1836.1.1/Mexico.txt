@@ -473,14 +473,14 @@
 	{
 		culture = sonoran
 		religion = totemism
-		size= 255
+		size= 1033
 	}
 
 	farmers=
 	{
 		culture = sonoran
 		religion = totemism
-		size= 11342
+		size= 10564
 	}
 
 	artisans=
@@ -678,7 +678,7 @@
 	{
 		culture = texan
 		religion = protestant
-		size= 7700
+		size= 8520
 	}
 
 	artisans=
@@ -720,7 +720,7 @@
 	{
 		culture = texan
 		religion = protestant
-		size= 1033
+		size= 213
 	}
 
 }
@@ -1183,14 +1183,14 @@
 	{
 		culture = na_dene
 		religion = totemism
-		size= 62
+		size= 1033
 	}
 
 	farmers=
 	{
 		culture = na_dene
 		religion = totemism
-		size= 2920
+		size= 1949
 	}
 
 	farmers=
@@ -2650,14 +2650,14 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 19840
+		size= 10540
 	}
 
 	soldiers=
 	{
 		culture = yankee
 		religion = protestant
-		size= 1033
+		size= 10333
 	}
 
 	artisans=
@@ -2843,7 +2843,7 @@
 	{
 		culture = native_american_minor
 		religion = protestant
-		size= 4133
+		size= 1849
 	}
 
 	artisans=
@@ -2885,7 +2885,7 @@
 	{
 		culture = native_american_minor
 		religion = protestant
-		size= 22486
+		size= 24770
 	}
 
 	clergymen=
@@ -3474,7 +3474,7 @@
 	{
 		culture = nahua
 		religion = protestant
-		size= 1033
+		size= 305
 	}
 
 	artisans=
@@ -3502,7 +3502,7 @@
 	{
 		culture = nahua
 		religion = protestant
-		size= 12199
+		size= 12927
 	}
 
 	soldiers=
@@ -5716,7 +5716,7 @@
 	{
 		culture = zapotec
 		religion = catholic
-		size= 35133
+		size= 25833
 	}
 
 	artisans=
@@ -5758,7 +5758,7 @@
 	{
 		culture = zapotec
 		religion = catholic
-		size= 12927
+		size= 22227
 	}
 
 	soldiers=

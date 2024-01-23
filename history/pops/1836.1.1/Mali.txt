@@ -10,7 +10,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 7233
+		size= 4317
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 44580
+		size= 47496
 	}
 
 }
@@ -580,7 +580,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 5136
+		size= 13433
 	}
 
 	artisans=
@@ -622,7 +622,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 42393
+		size= 34096
 	}
 
 }
@@ -868,7 +868,7 @@
 	{
 		culture = bambara
 		religion = shamanism
-		size= 10333
+		size= 3110
 	}
 
 	artisans=
@@ -910,7 +910,7 @@
 	{
 		culture = bambara
 		religion = shamanism
-		size= 28136
+		size= 35359
 	}
 
 }
@@ -926,7 +926,7 @@
 	{
 		culture = bambara
 		religion = sunni
-		size= 28933
+		size= 16533
 	}
 
 	artisans=
@@ -968,7 +968,7 @@
 	{
 		culture = bambara
 		religion = sunni
-		size= 21775
+		size= 34175
 	}
 
 	slaves=
@@ -1257,7 +1257,7 @@
 	{
 		culture = bambara
 		religion = sunni
-		size= 13433
+		size= 7233
 	}
 
 	artisans=
@@ -1299,7 +1299,7 @@
 	{
 		culture = bambara
 		religion = sunni
-		size= 6968
+		size= 13168
 	}
 
 }
@@ -1392,7 +1392,7 @@
 	{
 		culture = songhai
 		religion = sunni
-		size= 83
+		size= 1033
 	}
 
 	artisans=
@@ -1434,7 +1434,7 @@
 	{
 		culture = songhai
 		religion = sunni
-		size= 1304
+		size= 354
 	}
 
 }

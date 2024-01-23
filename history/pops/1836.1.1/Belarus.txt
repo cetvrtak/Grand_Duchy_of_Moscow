@@ -45,7 +45,7 @@
 	{
 		culture = lithuanian
 		religion = catholic
-		size= 4133
+		size= 1053
 	}
 
 	artisans=
@@ -80,7 +80,7 @@
 	{
 		culture = lithuanian
 		religion = catholic
-		size= 40469
+		size= 43549
 	}
 
 	soldiers=
@@ -1185,7 +1185,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 2991
+		size= 4133
 	}
 
 	artisans=
@@ -1227,7 +1227,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 115006
+		size= 113864
 	}
 
 	clergymen=

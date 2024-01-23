@@ -375,7 +375,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 7233
+		size= 13433
 	}
 
 	artisans=
@@ -417,7 +417,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 25235
+		size= 19035
 	}
 
 	soldiers=
@@ -731,7 +731,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 7233
+		size= 4133
 	}
 
 	artisans=
@@ -773,7 +773,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 43329
+		size= 46429
 	}
 
 }
@@ -1124,7 +1124,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 16533
+		size= 4133
 	}
 
 	artisans=
@@ -1159,7 +1159,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 7289
+		size= 19689
 	}
 
 	soldiers=
@@ -1501,7 +1501,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 743
+		size= 1033
 	}
 
 	artisans=
@@ -1543,7 +1543,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 9220
+		size= 8930
 	}
 
 }
@@ -1552,7 +1552,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 485
+		size= 1033
 	}
 
 	artisans=
@@ -1594,7 +1594,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 4341
+		size= 3793
 	}
 
 	soldiers=
@@ -1701,7 +1701,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 4133
+		size= 7233
 	}
 
 	artisans=
@@ -1743,7 +1743,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 7473
+		size= 4373
 	}
 
 }
@@ -1801,7 +1801,7 @@
 	{
 		culture = western_slavic
 		religion = protestant
-		size= 22733
+		size= 19633
 	}
 
 	artisans=
@@ -1843,7 +1843,7 @@
 	{
 		culture = western_slavic
 		religion = protestant
-		size= 29652
+		size= 32752
 	}
 
 }
@@ -2548,7 +2548,7 @@
 	{
 		culture = western_slavic
 		religion = protestant
-		size= 13433
+		size= 4133
 	}
 
 	artisans=
@@ -2590,7 +2590,7 @@
 	{
 		culture = western_slavic
 		religion = protestant
-		size= 11820
+		size= 21120
 	}
 
 }
@@ -3344,7 +3344,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 4133
+		size= 2045
 	}
 
 	artisans=
@@ -3386,7 +3386,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 12849
+		size= 14937
 	}
 
 }
@@ -3965,7 +3965,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 5041
+		size= 7233
 	}
 
 	artisans=
@@ -4007,7 +4007,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 40539
+		size= 38347
 	}
 
 	soldiers=
@@ -4065,7 +4065,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 267
+		size= 4133
 	}
 
 	artisans=
@@ -4100,14 +4100,14 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 5922
+		size= 2056
 	}
 
 	soldiers=
 	{
 		culture = north_german
 		religion = protestant
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -4142,7 +4142,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 4541
+		size= 1441
 	}
 
 }
@@ -4600,7 +4600,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 4133
+		size= 1750
 	}
 
 	artisans=
@@ -4642,7 +4642,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 23183
+		size= 25566
 	}
 
 }
@@ -4800,7 +4800,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 4133
+		size= 22733
 	}
 
 	artisans=
@@ -4842,7 +4842,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 58494
+		size= 39894
 	}
 
 }
@@ -5000,7 +5000,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 4133
+		size= 7233
 	}
 
 	artisans=
@@ -5042,7 +5042,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 30675
+		size= 27575
 	}
 
 }
@@ -5100,7 +5100,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 13433
+		size= 7233
 	}
 
 	artisans=
@@ -5142,7 +5142,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 12197
+		size= 18397
 	}
 
 }
@@ -5300,7 +5300,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 25833
+		size= 13433
 	}
 
 	artisans=
@@ -5384,7 +5384,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 16760
+		size= 29160
 	}
 
 }
@@ -6042,7 +6042,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 4133
+		size= 7233
 	}
 
 	artisans=
@@ -6084,7 +6084,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 8654
+		size= 5554
 	}
 
 }
@@ -6693,7 +6693,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 35133
+		size= 13433
 	}
 
 	artisans=
@@ -6735,7 +6735,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 37472
+		size= 59172
 	}
 
 	soldiers=
@@ -7512,7 +7512,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 10333
+		size= 7303
 	}
 
 	artisans=
@@ -7554,7 +7554,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 55769
+		size= 58799
 	}
 
 	soldiers=
@@ -7612,7 +7612,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 16533
+		size= 28933
 	}
 
 	artisans=
@@ -7654,7 +7654,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 101012
+		size= 88612
 	}
 
 	soldiers=
@@ -7812,7 +7812,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 3178
+		size= 7233
 	}
 
 	artisans=
@@ -7854,7 +7854,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 32965
+		size= 28910
 	}
 
 	soldiers=
@@ -8154,7 +8154,7 @@
 	{
 		culture = western_slavic
 		religion = catholic
-		size= 10333
+		size= 1510
 	}
 
 	artisans=
@@ -8196,14 +8196,14 @@
 	{
 		culture = western_slavic
 		religion = catholic
-		size= 14241
+		size= 23064
 	}
 
 	soldiers=
 	{
 		culture = western_slavic
 		religion = protestant
-		size= 22733
+		size= 13433
 	}
 
 	artisans=
@@ -8245,7 +8245,7 @@
 	{
 		culture = western_slavic
 		religion = protestant
-		size= 6767
+		size= 16067
 	}
 
 }
@@ -8303,7 +8303,7 @@
 	{
 		culture = pruthenian
 		religion = orthodox
-		size= 4133
+		size= 1984
 	}
 
 	artisans=
@@ -8345,7 +8345,7 @@
 	{
 		culture = pruthenian
 		religion = orthodox
-		size= 60083
+		size= 62232
 	}
 
 }
@@ -8652,7 +8652,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 4133
+		size= 2530
 	}
 
 	artisans=
@@ -8694,7 +8694,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 37385
+		size= 38988
 	}
 
 }

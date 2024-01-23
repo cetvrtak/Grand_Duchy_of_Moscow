@@ -511,34 +511,9 @@ army = {
 	name="1st Army"
 	location=372
 	regiment = {
-		name="1st Copenhagen Infantry"
-		type=infantry
-		home=372
-	}
-	regiment = {
-		name="1st Odense Infantry"
-		type=infantry
-		home=373
-	}
-	regiment = {
 		name="1st Ribe Infantry"
 		type=infantry
 		home=368
-	}
-	regiment = {
-		name="1st Copenhagen Cavalry"
-		type=cavalry
-		home=372
-	}
-	regiment = {
-		name="1st Copenhagen Artillery"
-		type=artillery
-		home=372
-	}
-	regiment = {
-		name="1st Esbjerg Artillery"
-		type=artillery
-		home=2557
 	}
 	regiment = {
 		name="1st Aalborg Infantry"
@@ -546,20 +521,45 @@ army = {
 		home=367
 	}
 	regiment = {
-		name="2nd Copenhagen Cavalry"
+		name="2nd Aalborg Infantry"
+		type=infantry
+		home=367
+	}
+	regiment = {
+		name="1st Odense Cavalry"
+		type=cavalry
+		home=373
+	}
+	regiment = {
+		name="1st Flensburg Artillery"
+		type=artillery
+		home=370
+	}
+	regiment = {
+		name="1st Odense Artillery"
+		type=artillery
+		home=373
+	}
+	regiment = {
+		name="1st Odense Infantry"
+		type=infantry
+		home=373
+	}
+	regiment = {
+		name="1st Copenhagen Cavalry"
 		type=cavalry
 		home=372
 	}
 	regiment = {
-		name="1st Aalborg Artillery"
+		name="2nd Odense Artillery"
 		type=artillery
-		home=367
+		home=373
 	}
 }
 
 navy = {
 	name="1st Fleet"
-	location=2727
+	location=2726
 	ship = {
 		name="Najaden"
 		type=frigate
@@ -610,11 +610,19 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Danish Clipper Transport"
+		name="1st Copenhagen Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Copenhagen Clipper Transport"
+		name="1st Bornholm Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Copenhagen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Norrköping Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -622,19 +630,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Aalborg Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Luleå Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="Dronning Marie"
 		type=manowar
 	}
 	ship = {
-		name="2nd Copenhagen Clipper Transport"
+		name="1st Ribe Clipper Transport"
 		type=clipper_transport
 	}
 }

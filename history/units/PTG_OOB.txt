@@ -567,17 +567,17 @@ army = {
 		home=2348
 	}
 	regiment = {
-		name="3rd Montevideo Infantry"
-		type=infantry
-		home=2344
-	}
-	regiment = {
 		name="3rd Córdoba de Argentina Infantry"
 		type=infantry
 		home=2379
 	}
 	regiment = {
-		name="4th Córdoba de Argentina Artillery"
+		name="4th Córdoba de Argentina Infantry"
+		type=infantry
+		home=2379
+	}
+	regiment = {
+		name="5th Córdoba de Argentina Artillery"
 		type=artillery
 		home=2379
 	}
@@ -592,6 +592,16 @@ army = {
 		home=2379
 	}
 	regiment = {
+		name="1st Santiago Infantry"
+		type=infantry
+		home=2324
+	}
+	regiment = {
+		name="1st Paraná Infantry"
+		type=infantry
+		home=2360
+	}
+	regiment = {
 		name="1st Montevideo Infantry"
 		type=infantry
 		home=2344
@@ -602,29 +612,19 @@ army = {
 		home=2344
 	}
 	regiment = {
-		name="1st Desterro Infantry"
-		type=infantry
-		home=2461
-	}
-	regiment = {
-		name="1st São Miguel Infantry"
-		type=infantry
-		home=2462
-	}
-	regiment = {
-		name="1st Santiago Infantry"
-		type=infantry
-		home=2324
-	}
-	regiment = {
-		name="1st Paraná Artillery"
-		type=artillery
-		home=2360
-	}
-	regiment = {
 		name="2nd Córdoba de Argentina Infantry"
 		type=infantry
 		home=2379
+	}
+	regiment = {
+		name="2nd Córdoba de Argentina Artillery"
+		type=artillery
+		home=2379
+	}
+	regiment = {
+		name="1st Copiapó Infantry"
+		type=infantry
+		home=2322
 	}
 	regiment = {
 		name="3rd Córdoba de Argentina Artillery"
@@ -632,9 +632,9 @@ army = {
 		home=2379
 	}
 	regiment = {
-		name="1st Santa Maria Artillery"
+		name="6th Córdoba de Argentina Artillery"
 		type=artillery
-		home=2466
+		home=2379
 	}
 }
 
@@ -711,25 +711,25 @@ army = {
 	name="2nd Army"
 	location=2342
 	regiment = {
-		name="2nd Córdoba de Argentina Artillery"
+		name="1st Montevideo Artillery"
+		type=artillery
+		home=2344
+	}
+	regiment = {
+		name="4th Córdoba de Argentina Artillery"
 		type=artillery
 		home=2379
 	}
 	regiment = {
-		name="1st Copiapó Artillery"
+		name="7th Córdoba de Argentina Artillery"
 		type=artillery
-		home=2322
-	}
-	regiment = {
-		name="2nd Copiapó Artillery"
-		type=artillery
-		home=2322
+		home=2379
 	}
 }
 
 navy = {
 	name="7th Fleet"
-	location=3032
+	location=3033
 	ship = {
 		name="Aisén"
 		type=frigate

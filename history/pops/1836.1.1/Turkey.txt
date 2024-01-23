@@ -728,7 +728,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -770,7 +770,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 19095
+		size= 15995
 	}
 
 	soldiers=
@@ -930,7 +930,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 7233
+		size= 4133
 	}
 
 	artisans=
@@ -972,7 +972,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 64654
+		size= 67754
 	}
 
 	aristocrats=
@@ -1118,7 +1118,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1033
+		size= 251
 	}
 
 	artisans=
@@ -1160,7 +1160,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 22597
+		size= 23379
 	}
 
 }
@@ -1176,7 +1176,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 7233
+		size= 4133
 	}
 
 	artisans=
@@ -1218,7 +1218,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 80095
+		size= 83195
 	}
 
 }
@@ -1329,7 +1329,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 4133
+		size= 1741
 	}
 
 	artisans=
@@ -1371,7 +1371,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 47785
+		size= 50177
 	}
 
 }
@@ -1380,7 +1380,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 933
+		size= 1033
 	}
 
 	artisans=
@@ -1422,7 +1422,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 26977
+		size= 26877
 	}
 
 	soldiers=
@@ -1791,7 +1791,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1391
+		size= 7233
 	}
 
 	artisans=
@@ -1833,7 +1833,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 45087
+		size= 39245
 	}
 
 }

@@ -873,7 +873,7 @@
 	{
 		culture = thai
 		religion = sunni
-		size= 1928
+		size= 4133
 	}
 
 	artisans=
@@ -915,7 +915,7 @@
 	{
 		culture = thai
 		religion = sunni
-		size= 22385
+		size= 20180
 	}
 
 }
@@ -1674,7 +1674,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 4133
+		size= 7233
 	}
 
 	artisans=
@@ -1716,7 +1716,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 16501
+		size= 13401
 	}
 
 }

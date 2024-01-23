@@ -3,7 +3,7 @@
 	{
 		culture = estonian
 		religion = orthodox
-		size= 1033
+		size= 7233
 	}
 
 	artisans=
@@ -45,7 +45,7 @@
 	{
 		culture = estonian
 		religion = orthodox
-		size= 46382
+		size= 40182
 	}
 
 	aristocrats=
@@ -368,7 +368,7 @@
 	{
 		culture = latvian
 		religion = orthodox
-		size= 4133
+		size= 637
 	}
 
 	artisans=
@@ -410,7 +410,7 @@
 	{
 		culture = latvian
 		religion = orthodox
-		size= 25807
+		size= 29303
 	}
 
 	clergymen=
@@ -447,7 +447,7 @@
 	{
 		culture = latvian
 		religion = orthodox
-		size= 1033
+		size= 408
 	}
 
 	artisans=
@@ -489,7 +489,7 @@
 	{
 		culture = latvian
 		religion = orthodox
-		size= 19480
+		size= 20105
 	}
 
 	clergymen=

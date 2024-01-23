@@ -523,17 +523,17 @@ army = {
 	name="3rd Army"
 	location=1554
 	regiment = {
+		name="1st Qiqihar Irregulars"
+		type=irregular
+		home=1552
+	}
+	regiment = {
 		name="1st Ninguta Irregulars"
 		type=irregular
 		home=1554
 	}
 	regiment = {
 		name="2nd Ninguta Irregulars"
-		type=irregular
-		home=1554
-	}
-	regiment = {
-		name="3rd Ninguta Irregulars"
 		type=irregular
 		home=1554
 	}
@@ -548,9 +548,9 @@ army = {
 		home=1554
 	}
 	regiment = {
-		name="4th Ninguta Irregulars"
+		name="1st Aigun Irregulars"
 		type=irregular
-		home=1554
+		home=1553
 	}
 	regiment = {
 		name="1st Ninguta Cavalry"

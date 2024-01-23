@@ -103,7 +103,7 @@
 	{
 		culture = georgian
 		religion = coptic
-		size= 679
+		size= 1033
 	}
 
 	artisans=
@@ -145,7 +145,7 @@
 	{
 		culture = georgian
 		religion = coptic
-		size= 10424
+		size= 10070
 	}
 
 	soldiers=
@@ -750,7 +750,7 @@
 	{
 		culture = georgian
 		religion = coptic
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -792,7 +792,7 @@
 	{
 		culture = georgian
 		religion = coptic
-		size= 10627
+		size= 7527
 	}
 
 	soldiers=

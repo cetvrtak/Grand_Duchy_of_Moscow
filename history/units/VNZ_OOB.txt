@@ -511,7 +511,7 @@ leader = {
 #Armies
 army = {
 	name="1st Army"
-	location=2401
+	location=2407
 	regiment = {
 		name="1st Coro Infantry"
 		type=infantry
@@ -523,14 +523,14 @@ army = {
 		home=2270
 	}
 	regiment = {
-		name="1st Barquisimeto Cavalry"
+		name="1st Valera Cavalry"
 		type=cavalry
-		home=2273
+		home=2271
 	}
 	regiment = {
-		name="1st Valera Artillery"
+		name="1st Maracaibo Artillery"
 		type=artillery
-		home=2271
+		home=2270
 	}
 	regiment = {
 		name="2nd Maracaibo Infantry"
@@ -543,9 +543,9 @@ army = {
 		home=2270
 	}
 	regiment = {
-		name="2nd Valera Artillery"
+		name="2nd Maracaibo Artillery"
 		type=artillery
-		home=2271
+		home=2270
 	}
 }
 
@@ -604,7 +604,7 @@ navy = {
 
 navy = {
 	name="4th Fleet"
-	location=3208
+	location=3036
 	ship = {
 		name="Lara"
 		type=frigate

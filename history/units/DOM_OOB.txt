@@ -546,14 +546,14 @@ army = {
 		home=2214
 	}
 	regiment = {
+		name="1st Santo Domingo Artillery"
+		type=artillery
+		home=2214
+	}
+	regiment = {
 		name="1st Puerto Rico Artillery"
 		type=artillery
 		home=2222
-	}
-	regiment = {
-		name="1st Port Au Prince Artillery"
-		type=artillery
-		home=2213
 	}
 	regiment = {
 		name="2nd Port Au Prince Infantry"
@@ -571,9 +571,9 @@ army = {
 		home=2214
 	}
 	regiment = {
-		name="1st Santo Domingo Artillery"
+		name="1st Port Au Prince Artillery"
 		type=artillery
-		home=2214
+		home=2213
 	}
 }
 

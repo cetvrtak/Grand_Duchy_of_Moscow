@@ -516,19 +516,19 @@ army = {
 		home=2578
 	}
 	regiment = {
-		name="1st Puno Cavalry"
-		type=cavalry
-		home=2303
-	}
-	regiment = {
-		name="1st Ica Infantry"
-		type=infantry
-		home=2297
-	}
-	regiment = {
 		name="1st Tacna Cavalry"
 		type=cavalry
 		home=2578
+	}
+	regiment = {
+		name="3rd Tacna Infantry"
+		type=infantry
+		home=2578
+	}
+	regiment = {
+		name="1st Puno Cavalry"
+		type=cavalry
+		home=2303
 	}
 }
 

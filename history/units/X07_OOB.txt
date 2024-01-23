@@ -511,11 +511,6 @@ army = {
 	name="1st Army"
 	location=786
 	regiment = {
-		name="1st Tuzla Infantry"
-		type=infantry
-		home=786
-	}
-	regiment = {
 		name="1st Bihac Infantry"
 		type=infantry
 		home=784
@@ -526,17 +521,22 @@ army = {
 		home=784
 	}
 	regiment = {
-		name="1st Banja Luka Artillery"
-		type=artillery
-		home=785
-	}
-	regiment = {
 		name="3rd Bihac Infantry"
 		type=infantry
 		home=784
 	}
 	regiment = {
-		name="2nd Banja Luka Artillery"
+		name="1st Bihac Artillery"
+		type=artillery
+		home=784
+	}
+	regiment = {
+		name="4th Bihac Infantry"
+		type=infantry
+		home=784
+	}
+	regiment = {
+		name="1st Banja Luka Artillery"
 		type=artillery
 		home=785
 	}

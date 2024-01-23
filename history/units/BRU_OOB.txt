@@ -514,14 +514,9 @@ army = {
 	name="1st Army"
 	location=1395
 	regiment = {
-		name="1st Davao Irregulars"
+		name="1st Sandakan Irregulars"
 		type=irregular
-		home=1463
-	}
-	regiment = {
-		name="1st Makassar Irregulars"
-		type=irregular
-		home=1430
+		home=1397
 	}
 	regiment = {
 		name="1st Menado Irregulars"
@@ -529,18 +524,38 @@ army = {
 		home=1433
 	}
 	regiment = {
+		name="1st Zamboanga Irregulars"
+		type=irregular
+		home=1462
+	}
+	regiment = {
+		name="1st Iloilo Irregulars"
+		type=irregular
+		home=1460
+	}
+	regiment = {
+		name="2nd Iloilo Irregulars"
+		type=irregular
+		home=1460
+	}
+	regiment = {
 		name="2nd Menado Irregulars"
 		type=irregular
 		home=1433
 	}
 	regiment = {
-		name="2nd Davao Irregulars"
-		type=irregular
-		home=1463
+		name="1st Luwuk Artillery"
+		type=artillery
+		home=1434
 	}
 	regiment = {
-		name="1st Bone Irregulars"
-		type=irregular
+		name="1st Makassar Artillery"
+		type=artillery
+		home=1430
+	}
+	regiment = {
+		name="1st Bone Artillery"
+		type=artillery
 		home=1431
 	}
 	regiment = {
@@ -549,27 +564,12 @@ army = {
 		home=1433
 	}
 	regiment = {
-		name="1st Mamuju Artillery"
-		type=artillery
-		home=1432
+		name="3rd Bone Irregulars"
+		type=irregular
+		home=1431
 	}
 	regiment = {
 		name="2nd Menado Artillery"
-		type=artillery
-		home=1433
-	}
-	regiment = {
-		name="3rd Menado Artillery"
-		type=artillery
-		home=1433
-	}
-	regiment = {
-		name="5th Davao Irregulars"
-		type=irregular
-		home=1463
-	}
-	regiment = {
-		name="5th Menado Artillery"
 		type=artillery
 		home=1433
 	}
@@ -623,14 +623,24 @@ army = {
 		home=1435
 	}
 	regiment = {
-		name="3rd Davao Irregulars"
+		name="1st Kuching Irregulars"
 		type=irregular
-		home=1463
+		home=1394
 	}
 	regiment = {
-		name="1st Luwuk Irregulars"
+		name="1st Bone Irregulars"
 		type=irregular
-		home=1434
+		home=1431
+	}
+	regiment = {
+		name="2nd Bone Irregulars"
+		type=irregular
+		home=1431
+	}
+	regiment = {
+		name="2nd Kuching Irregulars"
+		type=irregular
+		home=1394
 	}
 	regiment = {
 		name="2nd Palu Irregulars"
@@ -638,24 +648,14 @@ army = {
 		home=1435
 	}
 	regiment = {
-		name="1st Mamuju Irregulars"
-		type=irregular
-		home=1432
-	}
-	regiment = {
-		name="3rd Menado Irregulars"
-		type=irregular
-		home=1433
-	}
-	regiment = {
-		name="2nd Mamuju Artillery"
-		type=artillery
-		home=1432
-	}
-	regiment = {
 		name="1st Palu Artillery"
 		type=artillery
 		home=1435
+	}
+	regiment = {
+		name="1st Mamuju Artillery"
+		type=artillery
+		home=1432
 	}
 	regiment = {
 		name="1st Iloilo Artillery"
@@ -663,24 +663,24 @@ army = {
 		home=1460
 	}
 	regiment = {
-		name="2nd Palu Artillery"
-		type=artillery
-		home=1435
-	}
-	regiment = {
-		name="3rd Mamuju Artillery"
+		name="2nd Mamuju Artillery"
 		type=artillery
 		home=1432
-	}
-	regiment = {
-		name="1st Zamboanga Irregulars"
-		type=irregular
-		home=1462
 	}
 	regiment = {
 		name="2nd Iloilo Artillery"
 		type=artillery
 		home=1460
+	}
+	regiment = {
+		name="5th Menado Irregulars"
+		type=irregular
+		home=1433
+	}
+	regiment = {
+		name="1st Brunei Artillery"
+		type=artillery
+		home=1393
 	}
 }
 
@@ -693,12 +693,12 @@ army = {
 		home=1435
 	}
 	regiment = {
-		name="4th Palu Irregulars"
+		name="3rd Menado Irregulars"
 		type=irregular
-		home=1435
+		home=1433
 	}
 	regiment = {
-		name="5th Menado Irregulars"
+		name="6th Menado Irregulars"
 		type=irregular
 		home=1433
 	}
@@ -708,9 +708,9 @@ army = {
 	name="2nd Army"
 	location=1459
 	regiment = {
-		name="4th Davao Irregulars"
+		name="4th Palu Irregulars"
 		type=irregular
-		home=1463
+		home=1435
 	}
 	regiment = {
 		name="4th Menado Irregulars"
@@ -718,14 +718,14 @@ army = {
 		home=1433
 	}
 	regiment = {
-		name="4th Menado Artillery"
+		name="1st Davao Artillery"
 		type=artillery
-		home=1433
+		home=1463
 	}
 	regiment = {
-		name="1st Bintulu Artillery"
+		name="2nd Davao Artillery"
 		type=artillery
-		home=1395
+		home=1463
 	}
 }
 
@@ -757,35 +757,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Oviedo Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Kuching Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Lake Charles Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Oviedo Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Jolo Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Sandakan Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Palawan Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Tanjungpinang Clipper Transport"
+		name="1st Bogor Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -793,7 +765,15 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Davao Clipper Transport"
+		name="1st Palawan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Palawan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mahajanga Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -801,19 +781,39 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Kuching Clipper Transport"
+		name="2nd Bogor Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Tanjungpinang Clipper Transport"
+		name="1st New Caledonia Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Kuching Clipper Transport"
+		name="1st Brunei Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Sandakan Clipper Transport"
+		name="1st Jolo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Semarang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Menado Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Brunei Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Maore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Oviedo Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -825,7 +825,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="2nd Palawan Clipper Transport"
+		name="1st Palu Clipper Transport"
 		type=clipper_transport
 	}
 }
