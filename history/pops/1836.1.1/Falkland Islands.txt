@@ -1,0 +1,58 @@
+2131 = {
+	soldiers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = falklander
+		religion = protestant
+		size= 32
+	}
+
+	artisans=
+	{
+		culture = falklander
+		religion = protestant
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 21
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = shiite
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = shiite
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = shiite
+		size= 15
+	}
+
+}

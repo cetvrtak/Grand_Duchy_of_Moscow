@@ -1,0 +1,407 @@
+2197 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 62
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 6226
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 209
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 133
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 9
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 408
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = protestant
+		size= 1763
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = protestant
+		size= 287
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 132
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 57
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 370
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 37735
+	}
+
+}
+2198 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1246
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 44
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 27
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 81
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = protestant
+		size= 352
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = protestant
+		size= 57
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 26
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 74
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 7544
+	}
+
+}
+2199 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 33
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1633
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 9189
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 468
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 75
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 98
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 23
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 15
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 199
+	}
+
+}
+2200 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 69
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 287
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 1064
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 284
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 33
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 460
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 17
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 6
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = protestant
+		size= 103
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = protestant
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 2
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 422
+	}
+
+}

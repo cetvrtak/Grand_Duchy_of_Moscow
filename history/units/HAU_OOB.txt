@@ -1,0 +1,847 @@
+#Sphere of Influence
+
+ADU = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+AQU = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+AUG = {
+	value = 0
+	level = 2
+}
+BAL = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 28
+	level = 2
+}
+BRA = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSK = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+BXR = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CIR = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+COL = {
+	value = 0
+	level = 2
+}
+CRS = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CYP = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DES = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DLI = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 0
+	level = 2
+}
+EJZ = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FLA = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+GLR = {
+	value = 0
+	level = 2
+}
+GRA = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+GUJ = {
+	value = 29
+	level = 2
+}
+HAT = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HDJ = {
+	value = 178
+	influence_value = 32
+	level = 4
+}
+HES = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = 0
+	level = 2
+}
+HON = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+IPR = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KLK = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KTI = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LUZ = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MJZ = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MRK = {
+	value = 194
+	influence_value = 36
+	level = 4
+}
+MRT = {
+	value = 0
+	level = 2
+}
+NHX = {
+	value = 0
+	level = 2
+}
+NNG = {
+	value = 0
+	level = 2
+}
+NVK = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PLB = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRI = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PTG = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+STY = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SYC = {
+	value = 0
+	level = 2
+}
+TBZ = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TIR = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WBG = {
+	value = 0
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+WHA = {
+	value = 98
+	influence_value = 12
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = -80
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 36
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+YAT = {
+	value = 0
+	level = 2
+}
+YZD = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Savur Kuti"
+	date="1816.11.2"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Kazuru Mamami"
+	date="1817.5.29"
+	type=sea
+	personality="persistant"
+	background="bureaucrat_speed"
+}
+
+
+#Armies
+army = {
+	name="13th Army"
+	location=1838
+	regiment = {
+		name="1st Khartoum Irregulars"
+		type=irregular
+		home=1827
+	}
+	regiment = {
+		name="2nd Khartoum Irregulars"
+		type=irregular
+		home=1827
+	}
+	regiment = {
+		name="1st Fashoda Irregulars"
+		type=irregular
+		home=1832
+	}
+	regiment = {
+		name="3rd Khartoum Irregulars"
+		type=irregular
+		home=1827
+	}
+	regiment = {
+		name="2nd Fashoda Irregulars"
+		type=irregular
+		home=1832
+	}
+	regiment = {
+		name="1st Rabak Irregulars"
+		type=irregular
+		home=1831
+	}
+	regiment = {
+		name="1st Fashoda Artillery"
+		type=artillery
+		home=1832
+	}
+	regiment = {
+		name="2nd Fashoda Artillery"
+		type=artillery
+		home=1832
+	}
+	regiment = {
+		name="19th Khartoum Irregulars"
+		type=irregular
+		home=1827
+	}
+	regiment = {
+		name="11th Khartoum Artillery"
+		type=artillery
+		home=1827
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1939
+	regiment = {
+		name="3rd Fashoda Irregulars"
+		type=irregular
+		home=1832
+	}
+	regiment = {
+		name="4th Fashoda Irregulars"
+		type=irregular
+		home=1832
+	}
+	regiment = {
+		name="5th Fashoda Irregulars"
+		type=irregular
+		home=1832
+	}
+	regiment = {
+		name="2nd Rabak Irregulars"
+		type=irregular
+		home=1831
+	}
+	regiment = {
+		name="3rd Rabak Irregulars"
+		type=irregular
+		home=1831
+	}
+	regiment = {
+		name="4th Rabak Irregulars"
+		type=irregular
+		home=1831
+	}
+	regiment = {
+		name="1st Rabak Artillery"
+		type=artillery
+		home=1831
+	}
+	regiment = {
+		name="2nd Rabak Artillery"
+		type=artillery
+		home=1831
+	}
+	regiment = {
+		name="1st Khartoum Artillery"
+		type=artillery
+		home=1827
+	}
+	regiment = {
+		name="10th Khartoum Artillery"
+		type=artillery
+		home=1827
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1821
+	regiment = {
+		name="4th Khartoum Irregulars"
+		type=irregular
+		home=1827
+	}
+	regiment = {
+		name="5th Khartoum Irregulars"
+		type=irregular
+		home=1827
+	}
+	regiment = {
+		name="6th Khartoum Irregulars"
+		type=irregular
+		home=1827
+	}
+	regiment = {
+		name="7th Khartoum Irregulars"
+		type=irregular
+		home=1827
+	}
+	regiment = {
+		name="8th Khartoum Irregulars"
+		type=irregular
+		home=1827
+	}
+	regiment = {
+		name="9th Khartoum Irregulars"
+		type=irregular
+		home=1827
+	}
+	regiment = {
+		name="2nd Khartoum Artillery"
+		type=artillery
+		home=1827
+	}
+	regiment = {
+		name="3rd Khartoum Artillery"
+		type=artillery
+		home=1827
+	}
+	regiment = {
+		name="4th Khartoum Artillery"
+		type=artillery
+		home=1827
+	}
+	regiment = {
+		name="17th Khartoum Irregulars"
+		type=irregular
+		home=1827
+	}
+	regiment = {
+		name="9th Khartoum Artillery"
+		type=artillery
+		home=1827
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=1923
+	ship = {
+		name="1st Sassandra Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Monrovia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Lagos Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Monrovia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Lagos Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Lagos Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Grand Lahou Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Monrovia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Lagos Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Freetown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rosso Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Freetown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Lagos Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cotonou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Rosso Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Lagos Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Harper Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Monrovia Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1812
+	regiment = {
+		name="10th Khartoum Irregulars"
+		type=irregular
+		home=1827
+	}
+	regiment = {
+		name="11th Khartoum Irregulars"
+		type=irregular
+		home=1827
+	}
+	regiment = {
+		name="12th Khartoum Irregulars"
+		type=irregular
+		home=1827
+	}
+	regiment = {
+		name="13th Khartoum Irregulars"
+		type=irregular
+		home=1827
+	}
+	regiment = {
+		name="14th Khartoum Irregulars"
+		type=irregular
+		home=1827
+	}
+	regiment = {
+		name="15th Khartoum Irregulars"
+		type=irregular
+		home=1827
+	}
+	regiment = {
+		name="5th Khartoum Artillery"
+		type=artillery
+		home=1827
+	}
+	regiment = {
+		name="6th Khartoum Artillery"
+		type=artillery
+		home=1827
+	}
+	regiment = {
+		name="7th Khartoum Artillery"
+		type=artillery
+		home=1827
+	}
+	regiment = {
+		name="8th Khartoum Artillery"
+		type=artillery
+		home=1827
+	}
+	regiment = {
+		name="18th Khartoum Irregulars"
+		type=irregular
+		home=1827
+	}
+}
+
+army = {
+	name="60th Army"
+	location=1841
+	regiment = {
+		name="16th Khartoum Irregulars"
+		type=irregular
+		home=1827
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2921
+	ship = {
+		name="1st Warri Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Warri Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2924
+	ship = {
+		name="1st Freetown Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Accra Frigate"
+		type=frigate
+	}
+}
+

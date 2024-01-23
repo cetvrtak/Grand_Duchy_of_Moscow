@@ -1,0 +1,65 @@
+1097 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 889
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 3555
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 191
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 14
+	}
+
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 77
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 3
+	}
+
+}

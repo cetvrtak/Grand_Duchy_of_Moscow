@@ -1,0 +1,9 @@
+owner=PRO
+controller=PRO
+add_core=FRA
+add_core=HLR
+add_core=OCC
+add_core=PRO
+trade_goods = fruit
+life_rating = 32
+fort = 1

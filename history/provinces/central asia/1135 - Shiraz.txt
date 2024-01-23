@@ -1,0 +1,8 @@
+owner=X08
+controller=X08
+add_core=PER
+add_core=X08
+add_core=YZD
+trade_goods = opium
+life_rating = 35
+fort = 1

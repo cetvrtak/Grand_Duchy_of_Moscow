@@ -1,0 +1,8 @@
+owner=BOL
+controller=BOL
+add_core=BOL
+add_core=PTG
+add_core=X14
+trade_goods = cattle
+life_rating = 31
+terrain = savanna

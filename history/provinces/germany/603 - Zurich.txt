@@ -1,0 +1,7 @@
+owner=SVY
+controller=SVY
+add_core=HLR
+add_core=SVY
+add_core=SWI
+trade_goods = iron
+life_rating = 34

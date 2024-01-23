@@ -1,0 +1,8 @@
+owner=LUZ
+controller=LUZ
+add_core=HLR
+add_core=LUZ
+add_core=POL
+add_core=WSF
+trade_goods = grain
+life_rating = 40

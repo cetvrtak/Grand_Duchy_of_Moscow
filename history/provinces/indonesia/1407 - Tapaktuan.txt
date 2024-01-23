@@ -1,0 +1,8 @@
+owner=MLC
+controller=FRA
+add_core=IPR
+add_core=MLY
+trade_goods = fish
+life_rating = 35
+naval_base = 1
+fort = 1

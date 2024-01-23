@@ -1,0 +1,5 @@
+owner=X12
+controller=X12
+add_core=TKS
+trade_goods = timber
+life_rating = 30

@@ -1,0 +1,128 @@
+203 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = sunni
+		size= 244
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 25
+	}
+
+	craftsmen=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 1501
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 31
+	}
+
+	clerks=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 44
+	}
+
+	capitalists=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 8
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 5
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 1098
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 111
+	}
+
+	craftsmen=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 6672
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 309
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 33
+	}
+
+	clerks=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 448
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 4
+	}
+
+	capitalists=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 80
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 56
+	}
+
+}

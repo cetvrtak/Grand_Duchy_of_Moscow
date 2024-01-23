@@ -1,0 +1,8 @@
+owner=HDJ
+controller=HDJ
+add_core=HDJ
+add_core=IRQ
+trade_goods = fruit
+life_rating = 35
+naval_base = 2
+fort = 1

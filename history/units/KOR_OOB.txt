@@ -1,0 +1,1023 @@
+#Sphere of Influence
+
+ADU = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+AQU = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+AUG = {
+	value = 0
+	level = 2
+}
+BAL = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRA = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSK = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+BXR = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CIR = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+COL = {
+	value = 0
+	level = 2
+}
+CRS = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 228
+	military_access = yes
+	influence_value = 64
+	level = 5
+}
+CWU = {
+	value = -25
+	level = 2
+}
+CYP = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DES = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DLI = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 0
+	level = 2
+}
+EJZ = {
+	value = 154
+	military_access = yes
+	influence_value = 46
+	level = 5
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FLA = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+GLR = {
+	value = 0
+	level = 2
+}
+GRA = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HAT = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HDJ = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = 0
+	level = 2
+}
+HON = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+IPR = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KLK = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KTI = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LUZ = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 42
+	level = 2
+}
+MJZ = {
+	value = 194
+	influence_value = 36
+	level = 4
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 182
+	military_access = yes
+	influence_value = 53
+	level = 5
+}
+MRK = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+NHX = {
+	value = 220
+	military_access = yes
+	influence_value = 62
+	level = 5
+}
+NNG = {
+	value = 194
+	influence_value = 36
+	level = 4
+}
+NVK = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PLB = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRI = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PTG = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+STY = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SYC = {
+	value = 0
+	level = 2
+}
+TBZ = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TIR = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WBG = {
+	value = 0
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+WHA = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+YAT = {
+	value = 0
+	level = 2
+}
+YZD = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Sun-sin Jeong"
+	date="1825.1.9"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Byeon An"
+	date="1827.12.7"
+	type=sea
+	personality="persistant"
+	background="natural_born_leader"
+}
+
+
+#Armies
+army = {
+	name="5th Army"
+	location=1628
+	regiment = {
+		name="1st Taejon Irregulars"
+		type=irregular
+		home=1636
+	}
+	regiment = {
+		name="1st Hanseong Irregulars"
+		type=irregular
+		home=1624
+	}
+	regiment = {
+		name="1st Kangnung Irregulars"
+		type=irregular
+		home=1630
+	}
+	regiment = {
+		name="1st Pyongyang Irregulars"
+		type=irregular
+		home=1619
+	}
+	regiment = {
+		name="1st Wonju Irregulars"
+		type=irregular
+		home=1631
+	}
+	regiment = {
+		name="2nd Taejon Irregulars"
+		type=irregular
+		home=1636
+	}
+	regiment = {
+		name="1st Sariwon Artillery"
+		type=artillery
+		home=1627
+	}
+	regiment = {
+		name="1st Wonju Artillery"
+		type=artillery
+		home=1631
+	}
+	regiment = {
+		name="3rd Wonju Artillery"
+		type=artillery
+		home=1631
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1082
+	regiment = {
+		name="2nd Kangnung Irregulars"
+		type=irregular
+		home=1630
+	}
+	regiment = {
+		name="1st Hamhung Irregulars"
+		type=irregular
+		home=1621
+	}
+	regiment = {
+		name="3rd Kangnung Irregulars"
+		type=irregular
+		home=1630
+	}
+	regiment = {
+		name="1st Wonsan Irregulars"
+		type=irregular
+		home=1629
+	}
+	regiment = {
+		name="4th Kangnung Irregulars"
+		type=irregular
+		home=1630
+	}
+	regiment = {
+		name="5th Kangnung Irregulars"
+		type=irregular
+		home=1630
+	}
+	regiment = {
+		name="1st Hanseong Artillery"
+		type=artillery
+		home=1624
+	}
+	regiment = {
+		name="1st Inchon Artillery"
+		type=artillery
+		home=1628
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1634
+	regiment = {
+		name="2nd Hamhung Irregulars"
+		type=irregular
+		home=1621
+	}
+	regiment = {
+		name="1st Kwangju Irregulars"
+		type=irregular
+		home=1635
+	}
+	regiment = {
+		name="2nd Wonsan Irregulars"
+		type=irregular
+		home=1629
+	}
+	regiment = {
+		name="1st Pohang Irregulars"
+		type=irregular
+		home=1634
+	}
+	regiment = {
+		name="1st Mukden Irregulars"
+		type=irregular
+		home=1479
+	}
+	regiment = {
+		name="3rd Taejon Irregulars"
+		type=irregular
+		home=1636
+	}
+	regiment = {
+		name="1st Hamhung Artillery"
+		type=artillery
+		home=1621
+	}
+	regiment = {
+		name="2nd Hamhung Artillery"
+		type=artillery
+		home=1621
+	}
+	regiment = {
+		name="2nd Hanseong Artillery"
+		type=artillery
+		home=1624
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1555
+	regiment = {
+		name="2nd Pohang Irregulars"
+		type=irregular
+		home=1634
+	}
+	regiment = {
+		name="1st Chonchon Irregulars"
+		type=irregular
+		home=1620
+	}
+	regiment = {
+		name="2nd Chonchon Irregulars"
+		type=irregular
+		home=1620
+	}
+	regiment = {
+		name="1st Haeju Irregulars"
+		type=irregular
+		home=1626
+	}
+	regiment = {
+		name="3rd Chonchon Irregulars"
+		type=irregular
+		home=1620
+	}
+	regiment = {
+		name="1st Kaesong Irregulars"
+		type=irregular
+		home=1625
+	}
+	regiment = {
+		name="1st Pohang Artillery"
+		type=artillery
+		home=1634
+	}
+	regiment = {
+		name="3rd Hamhung Artillery"
+		type=artillery
+		home=1621
+	}
+	regiment = {
+		name="2nd Sariwon Artillery"
+		type=artillery
+		home=1627
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1613
+	regiment = {
+		name="2nd Haeju Irregulars"
+		type=irregular
+		home=1626
+	}
+	regiment = {
+		name="1st Inchon Irregulars"
+		type=irregular
+		home=1628
+	}
+	regiment = {
+		name="6th Kangnung Irregulars"
+		type=irregular
+		home=1630
+	}
+	regiment = {
+		name="1st Jirim Chuulgan Irregulars"
+		type=irregular
+		home=1533
+	}
+	regiment = {
+		name="2nd Hanseong Irregulars"
+		type=irregular
+		home=1624
+	}
+	regiment = {
+		name="2nd Jirim Chuulgan Irregulars"
+		type=irregular
+		home=1533
+	}
+	regiment = {
+		name="4th Hamhung Artillery"
+		type=artillery
+		home=1621
+	}
+	regiment = {
+		name="1st Kaesong Artillery"
+		type=artillery
+		home=1625
+	}
+	regiment = {
+		name="3rd Sariwon Artillery"
+		type=artillery
+		home=1627
+	}
+	regiment = {
+		name="1st Haeju Artillery"
+		type=artillery
+		home=1626
+	}
+	regiment = {
+		name="2nd Kaesong Irregulars"
+		type=irregular
+		home=1625
+	}
+	regiment = {
+		name="4th Sariwon Artillery"
+		type=artillery
+		home=1627
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2844
+	ship = {
+		name="Baekdu"
+		type=frigate
+	}
+	ship = {
+		name="Baekje"
+		type=frigate
+	}
+	ship = {
+		name="Taebaek"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2827
+	ship = {
+		name="Changbai"
+		type=manowar
+	}
+	ship = {
+		name="Duman"
+		type=manowar
+	}
+	ship = {
+		name="Daedeok"
+		type=manowar
+	}
+	ship = {
+		name="Dongmyeongseong"
+		type=manowar
+	}
+	ship = {
+		name="1st Inchon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Inchon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Peking Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Haeju Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Wonsan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kangnung Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kwangju Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Hamhung Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Inchon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Sariwon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Inchon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Sariwon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Sariwon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Inchon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Tokushima Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Pyongyang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Sariwon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Jinzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Tokushima Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Wonsan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Inchon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Inchon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Haishenwai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Pusan Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1002
+	regiment = {
+		name="3rd Hamhung Irregulars"
+		type=irregular
+		home=1621
+	}
+	regiment = {
+		name="4th Hamhung Irregulars"
+		type=irregular
+		home=1621
+	}
+	regiment = {
+		name="7th Kangnung Irregulars"
+		type=irregular
+		home=1630
+	}
+	regiment = {
+		name="4th Taejon Irregulars"
+		type=irregular
+		home=1636
+	}
+	regiment = {
+		name="2nd Kwangju Irregulars"
+		type=irregular
+		home=1635
+	}
+	regiment = {
+		name="1st Chonchon Artillery"
+		type=artillery
+		home=1620
+	}
+	regiment = {
+		name="1st Kangnung Artillery"
+		type=artillery
+		home=1630
+	}
+	regiment = {
+		name="2nd Wonju Artillery"
+		type=artillery
+		home=1631
+	}
+	regiment = {
+		name="2nd Inchon Irregulars"
+		type=irregular
+		home=1628
+	}
+	regiment = {
+		name="1st Kwangju Artillery"
+		type=artillery
+		home=1635
+	}
+}
+
+navy = {
+	name="10th Fleet"
+	location=2842
+	ship = {
+		name="Gayasan"
+		type=frigate
+	}
+	ship = {
+		name="Taejo"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2821
+	ship = {
+		name="Geumgang"
+		type=manowar
+	}
+	ship = {
+		name="Geumho"
+		type=manowar
+	}
+	ship = {
+		name="Goguryeo"
+		type=manowar
+	}
+	ship = {
+		name="Gyeon Hwon"
+		type=manowar
+	}
+	ship = {
+		name="Jirisan"
+		type=manowar
+	}
+	ship = {
+		name="Jeongjong"
+		type=manowar
+	}
+	ship = {
+		name="Kumgangsan"
+		type=manowar
+	}
+	ship = {
+		name="Nakdong"
+		type=manowar
+	}
+	ship = {
+		name="Sincheon"
+		type=manowar
+	}
+	ship = {
+		name="Silla"
+		type=frigate
+	}
+	ship = {
+		name="Sobaek"
+		type=manowar
+	}
+	ship = {
+		name="Hanseong"
+		type=frigate
+	}
+}
+

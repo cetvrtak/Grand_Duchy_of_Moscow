@@ -1,0 +1,7 @@
+owner=BRA
+controller=BRA
+add_core=BRA
+add_core=HLR
+add_core=NET
+trade_goods = fish
+life_rating = 40

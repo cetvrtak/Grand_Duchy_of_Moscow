@@ -1,0 +1,7 @@
+owner=XMA
+controller=XMA
+add_core=TIB
+add_core=XMA
+trade_goods = wool
+life_rating = 25
+fort = 1

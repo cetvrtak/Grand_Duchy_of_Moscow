@@ -1,0 +1,10 @@
+owner=LUZ
+controller=LUZ
+add_core=BOH
+add_core=CZE
+add_core=HLR
+add_core=LUZ
+add_core=WSF
+trade_goods = iron
+life_rating = 35
+fort = 1

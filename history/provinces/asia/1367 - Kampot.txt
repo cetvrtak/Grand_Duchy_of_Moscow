@@ -1,0 +1,8 @@
+owner=XMA
+controller=XMA
+add_core=CAM
+add_core=IDO
+add_core=XMA
+trade_goods = fish
+life_rating = 35
+naval_base = 2

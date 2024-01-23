@@ -1,0 +1,13 @@
+owner=GLC
+controller=GLC
+add_core=GLC
+add_core=SPA
+trade_goods = grain
+life_rating = 35
+naval_base = 2
+state_building=
+{
+	level=1
+	building = canned_food_factory
+	upgrade = yes
+}

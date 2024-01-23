@@ -1,0 +1,8 @@
+owner=BUL
+controller=BUL
+add_core=IRQ
+trade_goods = grain
+life_rating = 10
+terrain = desert
+colonial=2
+fort = 1

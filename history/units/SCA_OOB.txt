@@ -1,0 +1,985 @@
+#Sphere of Influence
+
+ADU = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+AQU = {
+	value = 2
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+AUG = {
+	value = 0
+	level = 2
+}
+BAL = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRA = {
+	value = 2
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSK = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 45
+	level = 2
+}
+BXR = {
+	value = 176
+	influence_value = 31
+	level = 4
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CIR = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+COL = {
+	value = 0
+	level = 2
+}
+CRS = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CYP = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+DES = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DLI = {
+	value = -44
+	level = 2
+}
+DOM = {
+	value = 0
+	level = 2
+}
+EJZ = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FLA = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 164
+	influence_value = 28
+	level = 4
+}
+GEN = {
+	value = 182
+	influence_value = 33
+	level = 4
+}
+GLC = {
+	value = 0
+	level = 2
+}
+GLR = {
+	value = -24
+	level = 2
+}
+GRA = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HAT = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HDJ = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = 0
+	level = 2
+}
+HON = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 28
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+IPR = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KLK = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KTI = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LUZ = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MJZ = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MRK = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+NHX = {
+	value = 0
+	level = 2
+}
+NNG = {
+	value = 0
+	level = 2
+}
+NVK = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PLB = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRI = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 186
+	influence_value = 34
+	level = 4
+}
+PTG = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 44
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+STY = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SYC = {
+	value = 0
+	level = 2
+}
+TBZ = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TIR = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WBG = {
+	value = 181
+	influence_value = 32
+	level = 4
+}
+WES = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+WHA = {
+	value = 1
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+YAT = {
+	value = 0
+	level = 2
+}
+YZD = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Adolf II"
+	date="1828.11.3"
+	type=land
+	personality="resolute"
+	background="artillerist"
+}
+
+leader = {
+	name="Nils Gyllenhielm"
+	date="1828.11.6"
+	type=land
+	personality="intuitive"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Simon Åkerhielm"
+	date="1828.11.9"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+leader = {
+	name="Adolf Ahlefeldt"
+	date="1830.1.27"
+	type=sea
+	personality="earnest"
+	background="aristocrat"
+}
+
+leader = {
+	name="Karl Rantzau"
+	date="1831.11.16"
+	type=land
+	personality="persistant"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Erik Falkenskjold"
+	date="1835.2.14"
+	type=sea
+	personality="intuitive"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Sigvard Ehrenstrahl"
+	date="1835.11.21"
+	type=sea
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+
+#Armies
+army = {
+	name="18th Army"
+	location=309
+	regiment = {
+		name="1st Falun Infantry"
+		type=infantry
+		home=323
+	}
+	regiment = {
+		name="1st Hamar Infantry"
+		type=infantry
+		home=314
+	}
+	regiment = {
+		name="1st Christianssand Infantry"
+		type=infantry
+		home=310
+	}
+	regiment = {
+		name="1st Gävle Infantry"
+		type=infantry
+		home=317
+	}
+	regiment = {
+		name="1st Borås Infantry"
+		type=infantry
+		home=330
+	}
+	regiment = {
+		name="1st Stralsund Infantry"
+		type=infantry
+		home=548
+	}
+	regiment = {
+		name="2nd Stralsund Infantry"
+		type=infantry
+		home=548
+	}
+	regiment = {
+		name="1st Falun Artillery"
+		type=artillery
+		home=323
+	}
+	regiment = {
+		name="1st Malmö Artillery"
+		type=artillery
+		home=334
+	}
+	regiment = {
+		name="1st Växjö Artillery"
+		type=artillery
+		home=333
+	}
+	regiment = {
+		name="1st Stockholm Artillery"
+		type=artillery
+		home=322
+	}
+	regiment = {
+		name="2nd Hamar Infantry"
+		type=infantry
+		home=314
+	}
+	regiment = {
+		name="1st Trondheim Artillery"
+		type=artillery
+		home=305
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2705
+	ship = {
+		name="Packa"
+		type=frigate
+	}
+	ship = {
+		name="Svarta Örn"
+		type=frigate
+	}
+	ship = {
+		name="Jarramas"
+		type=frigate
+	}
+	ship = {
+		name="Vainqueur"
+		type=frigate
+	}
+	ship = {
+		name="Delphin"
+		type=frigate
+	}
+	ship = {
+		name="Illerim"
+		type=frigate
+	}
+	ship = {
+		name="Lilla Phoenix"
+		type=frigate
+	}
+	ship = {
+		name="Växjö"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=327
+	regiment = {
+		name="2nd Falun Infantry"
+		type=infantry
+		home=323
+	}
+	regiment = {
+		name="1st Örebro Infantry"
+		type=infantry
+		home=327
+	}
+	regiment = {
+		name="1st Malmö Infantry"
+		type=infantry
+		home=334
+	}
+	regiment = {
+		name="2nd Malmö Infantry"
+		type=infantry
+		home=334
+	}
+	regiment = {
+		name="3rd Malmö Infantry"
+		type=infantry
+		home=334
+	}
+	regiment = {
+		name="2nd Örebro Infantry"
+		type=infantry
+		home=327
+	}
+	regiment = {
+		name="2nd Malmö Artillery"
+		type=artillery
+		home=334
+	}
+	regiment = {
+		name="3rd Malmö Artillery"
+		type=artillery
+		home=334
+	}
+	regiment = {
+		name="1st Örebro Artillery"
+		type=artillery
+		home=327
+	}
+	regiment = {
+		name="1st Karlstad Artillery"
+		type=artillery
+		home=328
+	}
+	regiment = {
+		name="1st Växjö Infantry"
+		type=infantry
+		home=333
+	}
+	regiment = {
+		name="6th Malmö Artillery"
+		type=artillery
+		home=334
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=306
+	regiment = {
+		name="1st Luleå Infantry"
+		type=infantry
+		home=321
+	}
+	regiment = {
+		name="3rd Falun Infantry"
+		type=infantry
+		home=323
+	}
+	regiment = {
+		name="1st Västerås Infantry"
+		type=infantry
+		home=326
+	}
+	regiment = {
+		name="4th Malmö Infantry"
+		type=infantry
+		home=334
+	}
+	regiment = {
+		name="4th Falun Infantry"
+		type=infantry
+		home=323
+	}
+	regiment = {
+		name="5th Malmö Infantry"
+		type=infantry
+		home=334
+	}
+	regiment = {
+		name="4th Malmö Artillery"
+		type=artillery
+		home=334
+	}
+	regiment = {
+		name="1st Karlskrona Artillery"
+		type=artillery
+		home=335
+	}
+	regiment = {
+		name="5th Malmö Artillery"
+		type=artillery
+		home=334
+	}
+	regiment = {
+		name="7th Malmö Artillery"
+		type=artillery
+		home=334
+	}
+}
+
+army = {
+	name="4th Army"
+	location=333
+	regiment = {
+		name="6th Malmö Infantry"
+		type=infantry
+		home=334
+	}
+	regiment = {
+		name="1st Norrköping Infantry"
+		type=infantry
+		home=325
+	}
+	regiment = {
+		name="5th Falun Infantry"
+		type=infantry
+		home=323
+	}
+	regiment = {
+		name="2nd Borås Infantry"
+		type=infantry
+		home=330
+	}
+	regiment = {
+		name="1st Sundsvall Infantry"
+		type=infantry
+		home=318
+	}
+	regiment = {
+		name="1st Kalmar Infantry"
+		type=infantry
+		home=332
+	}
+	regiment = {
+		name="1st Kalmar Artillery"
+		type=artillery
+		home=332
+	}
+	regiment = {
+		name="2nd Kalmar Artillery"
+		type=artillery
+		home=332
+	}
+	regiment = {
+		name="2nd Växjö Artillery"
+		type=artillery
+		home=333
+	}
+	regiment = {
+		name="1st Christianssand Artillery"
+		type=artillery
+		home=310
+	}
+	regiment = {
+		name="7th Malmö Infantry"
+		type=infantry
+		home=334
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=334
+	ship = {
+		name="Carl XIII"
+		type=manowar
+	}
+	ship = {
+		name="Karl XIV Johan"
+		type=manowar
+	}
+	ship = {
+		name="Prins Oscar"
+		type=manowar
+	}
+	ship = {
+		name="Gustav den Store"
+		type=manowar
+	}
+	ship = {
+		name="Stockholm"
+		type=manowar
+	}
+	ship = {
+		name="Försiktigheten"
+		type=manowar
+	}
+	ship = {
+		name="Tapperheten"
+		type=manowar
+	}
+	ship = {
+		name="Kung Adolph Fredric"
+		type=manowar
+	}
+	ship = {
+		name="1st Trondheim Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Karlskrona Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kalmar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Gotland Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Malmö Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Christianssand Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Uppsala Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Stockholm Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Christiania Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Stockholm Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Norrköping Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Scandinavian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Hammerfest Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kalmar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Gävle Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Malmö Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Malmö Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Christianssand Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Norrköping Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Kalmar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Trondheim Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Stockholm Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Frederiksstad Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Malmö Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Malmö Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Frederiksstad Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Henrik"
+		type=manowar
+	}
+	ship = {
+		name="Tomas"
+		type=manowar
+	}
+	ship = {
+		name="1st Göteborg Clipper Transport"
+		type=clipper_transport
+	}
+}
+

@@ -1,0 +1,6 @@
+owner=XMA
+controller=XMA
+add_core=CHI
+add_core=XMA
+trade_goods = tea
+life_rating = 32

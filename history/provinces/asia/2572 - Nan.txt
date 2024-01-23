@@ -1,0 +1,7 @@
+owner=XMA
+controller=XMA
+add_core=IDO
+add_core=SIA
+add_core=XMA
+trade_goods = wool
+life_rating = 35

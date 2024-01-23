@@ -1,0 +1,8 @@
+owner=HDJ
+controller=HDJ
+add_core=ARA
+add_core=HDJ
+trade_goods = grain
+life_rating = 10
+terrain = desert
+naval_base = 1

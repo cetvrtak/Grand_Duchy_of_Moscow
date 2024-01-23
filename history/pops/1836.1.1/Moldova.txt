@@ -1,0 +1,158 @@
+676 = {
+	soldiers=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 4584
+	}
+
+	artisans=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 5887
+	}
+
+	clergymen=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 549
+	}
+
+	bureaucrats=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 83
+	}
+
+	officers=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 133
+	}
+
+	aristocrats=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 1398
+	}
+
+	farmers=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 62194
+	}
+
+	farmers=
+	{
+		culture = gypsy
+		religion = orthodox
+		size= 400
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1600
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 75
+	}
+
+}
+677 = {
+	soldiers=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 4413
+	}
+
+	artisans=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 5413
+	}
+
+	clergymen=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 526
+	}
+
+	bureaucrats=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 80
+	}
+
+	officers=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 128
+	}
+
+	aristocrats=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 1346
+	}
+
+	farmers=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 58876
+	}
+
+	farmers=
+	{
+		culture = gypsy
+		religion = orthodox
+		size= 400
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1800
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 75
+	}
+
+}

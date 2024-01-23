@@ -1,0 +1,13 @@
+owner=LUZ
+controller=LUZ
+add_core=HLR
+add_core=LUZ
+add_core=WSF
+trade_goods = sulphur
+life_rating = 40
+state_building=
+{
+	level=1
+	building = ammunition_factory
+	upgrade = yes
+}

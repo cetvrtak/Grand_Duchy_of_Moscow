@@ -1,0 +1,8 @@
+owner=KOR
+controller=EJZ
+add_core=CHI
+add_core=EJZ
+add_core=KOR
+add_core=MCK
+trade_goods = grain
+life_rating = 32

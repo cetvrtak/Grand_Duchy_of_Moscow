@@ -1,0 +1,15 @@
+owner=ENG
+controller=ENG
+add_core=ENG
+add_core=SCO
+trade_goods = iron
+life_rating = 35
+terrain = mining_district
+naval_base = 2
+fort = 1
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

@@ -1,0 +1,123 @@
+251 = {
+	soldiers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 262
+	}
+
+	farmers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 968
+	}
+
+	artisans=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 54
+	}
+
+	soldiers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 30
+	}
+
+	clergymen=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 10
+	}
+
+}
+2636 = {
+	soldiers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 91
+	}
+
+	artisans=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 18
+	}
+
+	soldiers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 330
+	}
+
+}

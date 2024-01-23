@@ -1,0 +1,7 @@
+owner=SCA
+controller=SCA
+add_core=LUZ
+add_core=SCA
+add_core=WSF
+trade_goods = fish
+life_rating = 40

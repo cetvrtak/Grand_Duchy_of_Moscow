@@ -1,0 +1,12 @@
+owner=PTG
+controller=PTG
+add_core=PTG
+trade_goods = tropical_wood
+life_rating = 15
+terrain = savanna
+state_building=
+{
+	level=1
+	building = explosives_factory
+	upgrade = yes
+}

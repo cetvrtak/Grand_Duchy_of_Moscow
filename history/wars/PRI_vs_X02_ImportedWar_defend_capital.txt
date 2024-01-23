@@ -1,0 +1,33 @@
+name = "Léonese West Indian War for Independence"
+
+1834.10.14 = {
+	add_attacker = PRI
+	add_attacker = PTG
+	add_attacker = BOL
+	add_attacker = HES
+	add_attacker = FLA
+	add_attacker = GLR
+	add_attacker = GLC
+	add_attacker = VNZ
+	add_attacker = DOM
+	add_attacker = BRU
+	add_defender = X02
+	add_defender = FRA
+	add_defender = USA
+	add_defender = TEX
+	add_defender = MEX
+	add_defender = CAN
+	add_defender = DES
+	add_defender = GEN
+	add_defender = WHA
+	add_defender = BRZ
+	add_defender = CWU
+	add_defender = MIN
+
+	war_goal = {
+		casus_belli = become_independent
+		actor = PRI
+		receiver = X02
+		country = PRI
+	}
+}

@@ -1,0 +1,6 @@
+owner=X01
+controller=X01
+add_core=SRN
+add_core=X01
+trade_goods = cotton
+life_rating = 35

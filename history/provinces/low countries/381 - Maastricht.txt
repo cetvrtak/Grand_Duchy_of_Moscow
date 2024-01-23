@@ -1,0 +1,10 @@
+owner=GLR
+controller=FRA
+add_core=GER
+add_core=GLR
+add_core=HLR
+add_core=X03
+trade_goods = coal
+life_rating = 35
+terrain = mining_district
+fort = 1

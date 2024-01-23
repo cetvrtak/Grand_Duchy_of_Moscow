@@ -1,0 +1,7 @@
+owner=ADU
+controller=ADU
+add_core=ADU
+trade_goods = fish
+life_rating = 15
+terrain = small_island
+fort = 2

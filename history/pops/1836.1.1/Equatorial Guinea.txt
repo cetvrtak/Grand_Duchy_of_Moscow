@@ -1,0 +1,193 @@
+1955 = {
+	slaves=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 146
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 373
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 883
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 384
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size= 77
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 16
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 3
+	}
+
+}
+1973 = {
+	slaves=
+	{
+		culture = fang
+		religion = shamanism
+		size= 374
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 1503
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = shamanism
+		size= 1019
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 23506
+	}
+
+	slaves=
+	{
+		culture = fang
+		religion = catholic
+		size= 63
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = catholic
+		size= 257
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = catholic
+		size= 238
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = catholic
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = fang
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = catholic
+		size= 4044
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = shamanism
+		size= 191
+	}
+
+	aristocrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 214
+	}
+
+	bureaucrats=
+	{
+		culture = fang
+		religion = catholic
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 50
+	}
+
+	officers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 41
+	}
+
+	officers=
+	{
+		culture = fang
+		religion = catholic
+		size= 9
+	}
+
+}

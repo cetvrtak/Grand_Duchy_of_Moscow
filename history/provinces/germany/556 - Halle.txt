@@ -1,0 +1,7 @@
+owner=LUZ
+controller=LUZ
+add_core=HLR
+add_core=LUZ
+add_core=WSF
+trade_goods = fruit
+life_rating = 40

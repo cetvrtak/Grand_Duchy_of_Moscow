@@ -1,0 +1,8 @@
+owner=HDJ
+controller=HDJ
+add_core=ARA
+add_core=HDJ
+trade_goods = opium
+life_rating = 32
+terrain = semidesert
+fort = 1

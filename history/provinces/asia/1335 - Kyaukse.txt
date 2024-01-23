@@ -1,0 +1,7 @@
+owner=XMA
+controller=XMA
+add_core=BUR
+add_core=IDO
+add_core=XMA
+trade_goods = opium
+life_rating = 35

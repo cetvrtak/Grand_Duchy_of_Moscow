@@ -1,0 +1,986 @@
+#Sphere of Influence
+
+ADU = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+AQU = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+AUG = {
+	value = 0
+	level = 2
+}
+BAL = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRA = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSK = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+BXR = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = -3
+	level = 2
+}
+CAN = {
+	value = 30
+	level = 3
+}
+CIR = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+COL = {
+	value = -15
+	level = 2
+}
+CRS = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CYP = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DES = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DLI = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 0
+	level = 2
+}
+EJZ = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FLA = {
+	value = -2
+	level = 2
+}
+FRA = {
+	value = 76
+	military_access = yes
+	influence_value = 6
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+GLR = {
+	value = 0
+	level = 2
+}
+GRA = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HAT = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HDJ = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = 0
+	level = 2
+}
+HON = {
+	value = -3
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+IPR = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KLK = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KTI = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LUZ = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MJZ = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MRK = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+NHX = {
+	value = 0
+	level = 2
+}
+NNG = {
+	value = 0
+	level = 2
+}
+NVK = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 15
+	level = 2
+}
+PEU = {
+	value = -1
+	level = 2
+}
+PLB = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRI = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PTG = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+STY = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SYC = {
+	value = 0
+	level = 2
+}
+TBZ = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 50
+	level = 3
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TIR = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WBG = {
+	value = 0
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+WHA = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = -5
+	level = 2
+}
+X14 = {
+	value = -5
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+YAT = {
+	value = 0
+	level = 2
+}
+YZD = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Boson de Villeneuve"
+	date="1799.5.16"
+	type=land
+	personality="earnest"
+	background="aristocrat"
+}
+
+leader = {
+	name="Boson de Broglie"
+	date="1834.10.16"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Hugues du Valentinois"
+	date="1834.10.17"
+	type=land
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Théoderic d'Entraigues"
+	date="1834.10.20"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Julien de Boissieu"
+	date="1834.10.23"
+	type=land
+	personality="active_p"
+	background="engineer"
+}
+
+
+#Armies
+army = {
+	name="8th Army"
+	location=2149
+	regiment = {
+		name="1st Wheeling Infantry"
+		type=infantry
+		home=218
+	}
+	regiment = {
+		name="2nd Wheeling Infantry"
+		type=infantry
+		home=218
+	}
+	regiment = {
+		name="1st Pittsfield Infantry"
+		type=infantry
+		home=245
+	}
+	regiment = {
+		name="1st Savannah Infantry"
+		type=infantry
+		home=204
+	}
+	regiment = {
+		name="1st Pittsfield Artillery"
+		type=artillery
+		home=245
+	}
+	regiment = {
+		name="1st Williamsport Artillery"
+		type=artillery
+		home=225
+	}
+	regiment = {
+		name="1st Charleston Infantry"
+		type=infantry
+		home=205
+	}
+	regiment = {
+		name="2nd Williamsport Artillery"
+		type=artillery
+		home=225
+	}
+}
+
+army = {
+	name="5th Army"
+	location=124
+	regiment = {
+		name="1st Dover Infantry"
+		type=infantry
+		home=222
+	}
+	regiment = {
+		name="1st Asheville Infantry"
+		type=infantry
+		home=2556
+	}
+	regiment = {
+		name="1st St Augustine Infantry"
+		type=infantry
+		home=199
+	}
+	regiment = {
+		name="2nd Asheville Infantry"
+		type=infantry
+		home=2556
+	}
+	regiment = {
+		name="1st Columbus Artillery"
+		type=artillery
+		home=179
+	}
+	regiment = {
+		name="1st Harrisburg Artillery"
+		type=artillery
+		home=226
+	}
+	regiment = {
+		name="1st Asheville Artillery"
+		type=artillery
+		home=2556
+	}
+	regiment = {
+		name="2nd Savannah Infantry"
+		type=infantry
+		home=204
+	}
+	regiment = {
+		name="1st Montgomery Artillery"
+		type=artillery
+		home=195
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2409
+	regiment = {
+		name="1st Philadelphia Infantry"
+		type=infantry
+		home=223
+	}
+	regiment = {
+		name="1st Tampa Infantry"
+		type=infantry
+		home=200
+	}
+	regiment = {
+		name="3rd Wheeling Infantry"
+		type=infantry
+		home=218
+	}
+	regiment = {
+		name="1st Williamsport Infantry"
+		type=infantry
+		home=225
+	}
+	regiment = {
+		name="2nd Asheville Artillery"
+		type=artillery
+		home=2556
+	}
+	regiment = {
+		name="1st Philadelphia Artillery"
+		type=artillery
+		home=223
+	}
+	regiment = {
+		name="1st Concord Infantry"
+		type=infantry
+		home=247
+	}
+	regiment = {
+		name="3rd Harrisburg Artillery"
+		type=artillery
+		home=226
+	}
+}
+
+army = {
+	name="11th Army"
+	location=5
+	regiment = {
+		name="1st Cincinnati Infantry"
+		type=infantry
+		home=182
+	}
+	regiment = {
+		name="1st Nashville Infantry"
+		type=infantry
+		home=188
+	}
+	regiment = {
+		name="2nd Williamsport Infantry"
+		type=infantry
+		home=225
+	}
+	regiment = {
+		name="2nd Pittsfield Artillery"
+		type=artillery
+		home=245
+	}
+	regiment = {
+		name="3rd Pittsfield Artillery"
+		type=artillery
+		home=245
+	}
+	regiment = {
+		name="1st Burlington Infantry"
+		type=infantry
+		home=246
+	}
+}
+
+army = {
+	name="18th Army"
+	location=2209
+	regiment = {
+		name="1st Lewiston Infantry"
+		type=infantry
+		home=248
+	}
+	regiment = {
+		name="3rd Williamsport Infantry"
+		type=infantry
+		home=225
+	}
+	regiment = {
+		name="2nd Pittsfield Infantry"
+		type=infantry
+		home=245
+	}
+	regiment = {
+		name="4th Wheeling Infantry"
+		type=infantry
+		home=218
+	}
+	regiment = {
+		name="1st Valdosta Infantry"
+		type=infantry
+		home=202
+	}
+	regiment = {
+		name="1st Columbia Infantry"
+		type=infantry
+		home=206
+	}
+	regiment = {
+		name="1st Albany Artillery"
+		type=artillery
+		home=234
+	}
+	regiment = {
+		name="1st Lexington Artillery"
+		type=artillery
+		home=186
+	}
+	regiment = {
+		name="2nd Harrisburg Artillery"
+		type=artillery
+		home=226
+	}
+	regiment = {
+		name="4th Williamsport Artillery"
+		type=artillery
+		home=225
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=249
+	ship = {
+		name="Adams"
+		type=frigate
+	}
+	ship = {
+		name="Boston"
+		type=frigate
+	}
+	ship = {
+		name="Brandywine"
+		type=frigate
+	}
+	ship = {
+		name="Chesapeake"
+		type=frigate
+	}
+	ship = {
+		name="Columbia"
+		type=frigate
+	}
+}
+
+navy = {
+	name="11th Fleet"
+	location=2952
+	ship = {
+		name="Congress"
+		type=frigate
+	}
+	ship = {
+		name="Cumberland"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2955
+	ship = {
+		name="America"
+		type=manowar
+	}
+	ship = {
+		name="Columbus"
+		type=manowar
+	}
+	ship = {
+		name="Franklin"
+		type=manowar
+	}
+	ship = {
+		name="Independence"
+		type=manowar
+	}
+	ship = {
+		name="Washington"
+		type=manowar
+	}
+	ship = {
+		name="Chipewa"
+		type=manowar
+	}
+	ship = {
+		name="Constellation"
+		type=frigate
+	}
+	ship = {
+		name="Martha Custis Washington"
+		type=clipper_transport
+	}
+	ship = {
+		name="Abigail Adams"
+		type=clipper_transport
+	}
+	ship = {
+		name="Martha Jefferson"
+		type=clipper_transport
+	}
+	ship = {
+		name="Dolley Todd Madison"
+		type=clipper_transport
+	}
+	ship = {
+		name="Elizabeth Monroe"
+		type=clipper_transport
+	}
+	ship = {
+		name="Louisa Catherine Adams"
+		type=clipper_transport
+	}
+	ship = {
+		name="Rachel Robards Jackson"
+		type=clipper_transport
+	}
+	ship = {
+		name="Hannah Van Buren"
+		type=clipper_transport
+	}
+	ship = {
+		name="Anna Harrison"
+		type=clipper_transport
+	}
+	ship = {
+		name="Letitia Tyler"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Puerto Lempira Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Oporto Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd St Augustine Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Long Island Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tampa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bangor Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Barbados Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="New Orleans"
+		type=manowar
+	}
+	ship = {
+		name="Constitution"
+		type=frigate
+	}
+}
+
+army = {
+	name="13th Army"
+	location=2227
+	regiment = {
+		name="5th Wheeling Infantry"
+		type=infantry
+		home=218
+	}
+	regiment = {
+		name="2nd Nashville Infantry"
+		type=infantry
+		home=188
+	}
+	regiment = {
+		name="1st Dover Artillery"
+		type=artillery
+		home=222
+	}
+	regiment = {
+		name="2nd Columbus Artillery"
+		type=artillery
+		home=179
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=19
+	regiment = {
+		name="1st Hartford Infantry"
+		type=infantry
+		home=241
+	}
+	regiment = {
+		name="3rd Philadelphia Infantry"
+		type=infantry
+		home=223
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2599
+	regiment = {
+		name="2nd Philadelphia Infantry"
+		type=infantry
+		home=223
+	}
+	regiment = {
+		name="2nd Dover Infantry"
+		type=infantry
+		home=222
+	}
+	regiment = {
+		name="1st Lynchburg Artillery"
+		type=artillery
+		home=211
+	}
+}
+
+army = {
+	name="6th Army"
+	location=2227
+	regiment = {
+		name="1st Dayton Infantry"
+		type=infantry
+		home=181
+	}
+	regiment = {
+		name="2nd Philadelphia Artillery"
+		type=artillery
+		home=223
+	}
+	regiment = {
+		name="2nd Cincinnati Infantry"
+		type=infantry
+		home=182
+	}
+	regiment = {
+		name="3rd Williamsport Artillery"
+		type=artillery
+		home=225
+	}
+}
+

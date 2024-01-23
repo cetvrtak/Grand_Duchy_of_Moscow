@@ -1,0 +1,116 @@
+1877 = {
+	slaves=
+	{
+		culture = wolof
+		religion = sunni
+		size= 2129
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 1491
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = sunni
+		size= 3729
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = sunni
+		size= 200
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = sunni
+		size= 75
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = sunni
+		size= 336
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 18630
+	}
+
+}
+1878 = {
+	slaves=
+	{
+		culture = wolof
+		religion = sunni
+		size= 1929
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 1215
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = sunni
+		size= 3037
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = sunni
+		size= 163
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = sunni
+		size= 61
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = sunni
+		size= 273
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 14981
+	}
+
+}

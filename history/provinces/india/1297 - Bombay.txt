@@ -1,0 +1,8 @@
+owner=XMA
+controller=XMA
+add_core=HND
+add_core=MRT
+add_core=XMA
+trade_goods = tobacco
+life_rating = 32
+naval_base = 2

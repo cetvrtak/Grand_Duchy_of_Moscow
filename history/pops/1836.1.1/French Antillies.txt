@@ -1,0 +1,356 @@
+45 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 21
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 14
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 143
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 2
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 79
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 244
+	}
+
+}
+2228 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 3390
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 208
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 124
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 21079
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 225
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 350
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 33
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 25
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 1067
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 2066
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 149
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 46
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 193
+	}
+
+}
+2230 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 3474
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 215
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 157
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 25243
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 335
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 196
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 41
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 1230
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 1075
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 175
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 65
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 226
+	}
+
+}

@@ -1,0 +1,176 @@
+vassal=
+{
+	first="FRA"
+	second="USA"
+	start_date="1550.2.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="FRA"
+	second="TEX"
+	start_date="1587.5.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="FRA"
+	second="MEX"
+	start_date="1602.5.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="FRA"
+	second="CAN"
+	start_date="1624.5.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="FRA"
+	second="DES"
+	start_date="1631.7.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="GLC"
+	second="VNZ"
+	start_date="1601.4.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="GLC"
+	second="DOM"
+	start_date="1771.8.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="ENG"
+	second="HON"
+	start_date="1534.6.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="ENG"
+	second="CLM"
+	start_date="1563.2.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="ENG"
+	second="X13"
+	start_date="1610.11.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="ENG"
+	second="CAL"
+	start_date="1627.11.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="ENG"
+	second="X14"
+	start_date="1737.12.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="ENG"
+	second="PEU"
+	start_date="1787.6.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="ENG"
+	second="ARG"
+	start_date="1829.11.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="HES"
+	second="FLA"
+	start_date="1749.9.15"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X02"
+	second="COL"
+	start_date="1836.1.3"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="MLC"
+	second="LAN"
+	start_date="1831.7.13"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="RUS"
+	second="BSK"
+	start_date="1823.12.23"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="RUS"
+	second="CIR"
+	start_date="1833.12.25"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="RUS"
+	second="X12"
+	start_date="1835.10.15"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="WHA"
+	second="BRZ"
+	start_date="1613.10.2"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="CWU"
+	second="MIN"
+	start_date="1822.8.12"
+	end_date="1936.1.1"
+}
+

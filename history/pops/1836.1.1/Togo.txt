@@ -1,0 +1,328 @@
+1914 = {
+	aristocrats=
+	{
+		culture = ewe
+		religion = animist
+		size= 775
+	}
+
+	clergymen=
+	{
+		culture = ewe
+		religion = animist
+		size= 400
+	}
+
+	artisans=
+	{
+		culture = ewe
+		religion = animist
+		size= 1575
+	}
+
+	soldiers=
+	{
+		culture = ewe
+		religion = animist
+		size= 400
+	}
+
+	farmers=
+	{
+		culture = ewe
+		religion = animist
+		size= 30850
+	}
+
+	aristocrats=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 275
+	}
+
+	clergymen=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 600
+	}
+
+	soldiers=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 150
+	}
+
+	farmers=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 11825
+	}
+
+	slaves=
+	{
+		culture = east_kwa
+		religion = animist
+		size= 7000
+	}
+
+}
+1917 = {
+	slaves=
+	{
+		culture = akan
+		religion = sunni
+		size= 690
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = sunni
+		size= 618
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = sunni
+		size= 221
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = sunni
+		size= 41
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = sunni
+		size= 11
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = sunni
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = sunni
+		size= 46
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = sunni
+		size= 9397
+	}
+
+	slaves=
+	{
+		culture = yoruba
+		religion = sunni
+		size= 1029
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = sunni
+		size= 922
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = sunni
+		size= 880
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = sunni
+		size= 165
+	}
+
+	bureaucrats=
+	{
+		culture = yoruba
+		religion = sunni
+		size= 44
+	}
+
+	officers=
+	{
+		culture = yoruba
+		religion = sunni
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = sunni
+		size= 185
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = sunni
+		size= 13211
+	}
+
+}
+1918 = {
+	soldiers=
+	{
+		culture = fon
+		religion = sunni
+		size= 118
+	}
+
+	artisans=
+	{
+		culture = fon
+		religion = sunni
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = fon
+		religion = sunni
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = fon
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = fon
+		religion = sunni
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = fon
+		religion = sunni
+		size= 1966
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = sunni
+		size= 171
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = sunni
+		size= 147
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = sunni
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = yoruba
+		religion = sunni
+		size= 7
+	}
+
+	officers=
+	{
+		culture = yoruba
+		religion = sunni
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = sunni
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = sunni
+		size= 2665
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = kharijite
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = kharijite
+		size= 51
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = kharijite
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = yoruba
+		religion = kharijite
+		size= 3
+	}
+
+	officers=
+	{
+		culture = yoruba
+		religion = kharijite
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = kharijite
+		size= 11
+	}
+
+}

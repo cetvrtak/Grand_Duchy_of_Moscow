@@ -1,0 +1,9 @@
+owner=KLK
+controller=KLK
+add_core=CSH
+add_core=KHA
+add_core=KLK
+add_core=MGL
+trade_goods = grain
+life_rating = 32
+fort = 1

@@ -1,0 +1,15 @@
+name = "Sicilian-Capuan War"
+
+1835.2.11 = {
+	add_attacker = SYC
+	add_attacker = X07
+	add_defender = X06
+
+	war_goal = {
+		casus_belli = add_to_sphere
+		actor = SYC
+		receiver = X06
+		country = X06
+		state_province_id = 755
+	}
+}

@@ -1,0 +1,8 @@
+owner=XMA
+controller=XMA
+add_core=BUR
+add_core=IDO
+add_core=XMA
+trade_goods = grain
+life_rating = 35
+fort = 1

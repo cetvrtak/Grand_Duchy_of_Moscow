@@ -1,0 +1,9 @@
+owner=HES
+controller=FRA
+add_core=BEL
+add_core=HAT
+add_core=HES
+add_core=HLR
+add_core=WLL
+trade_goods = iron
+life_rating = 35

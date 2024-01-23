@@ -1,0 +1,9 @@
+owner=BAL
+controller=BAL
+add_core=BAL
+add_core=JAV
+add_core=SUN
+trade_goods = fruit
+life_rating = 35
+naval_base = 2
+fort = 1

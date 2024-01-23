@@ -1,0 +1,7 @@
+owner=MNX
+controller=XMA
+add_core=CHI
+add_core=CWU
+add_core=MNX
+trade_goods = cattle
+life_rating = 32

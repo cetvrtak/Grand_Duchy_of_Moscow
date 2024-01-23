@@ -1,0 +1,8 @@
+owner=ENG
+controller=ENG
+add_core=ENG
+add_core=ICL
+add_core=SCA
+trade_goods = wool
+life_rating = 30
+terrain = small_island

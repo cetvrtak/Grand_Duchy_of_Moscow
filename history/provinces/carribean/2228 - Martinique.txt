@@ -1,0 +1,6 @@
+owner=PRI
+controller=X02
+add_core=PRI
+trade_goods = cotton
+life_rating = 35
+terrain = new_world_jungle

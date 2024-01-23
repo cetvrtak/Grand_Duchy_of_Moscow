@@ -1,0 +1,79 @@
+1954 = {
+	slaves=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 694
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 180
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = sunni
+		size= 2410
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 423
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 158
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 32
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 5
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 3
+	}
+
+}

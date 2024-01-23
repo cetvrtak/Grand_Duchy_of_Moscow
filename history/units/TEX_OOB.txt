@@ -1,0 +1,776 @@
+#Sphere of Influence
+
+ADU = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+AQU = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+AUG = {
+	value = 0
+	level = 2
+}
+BAL = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRA = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSK = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+BXR = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = -3
+	level = 2
+}
+CAN = {
+	value = -20
+	level = 2
+}
+CIR = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+COL = {
+	value = -11
+	level = 2
+}
+CRS = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CYP = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DES = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DLI = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 0
+	level = 2
+}
+EJZ = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FLA = {
+	value = -2
+	level = 2
+}
+FRA = {
+	value = 88
+	military_access = yes
+	influence_value = 9
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+GLR = {
+	value = 0
+	level = 2
+}
+GRA = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HAT = {
+	value = 17
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HDJ = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = 0
+	level = 2
+}
+HON = {
+	value = -98
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+IPR = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KLK = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KTI = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LUZ = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 36
+	level = 2
+}
+MIN = {
+	value = 0
+	level = 2
+}
+MJZ = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MRK = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+NHX = {
+	value = 0
+	level = 2
+}
+NNG = {
+	value = 0
+	level = 2
+}
+NVK = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 11
+	level = 2
+}
+PEU = {
+	value = -1
+	level = 2
+}
+PLB = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRI = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PTG = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+STY = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SYC = {
+	value = 0
+	level = 2
+}
+TBZ = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TIR = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 58
+	influence_value = 2
+	level = 3
+}
+UTS = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WBG = {
+	value = 0
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+WHA = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = -5
+	level = 2
+}
+X14 = {
+	value = -5
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+YAT = {
+	value = 0
+	level = 2
+}
+YZD = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Henri de La Tour d'Auvergne"
+	date="1818.2.19"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Ildebrando de Chambronne"
+	date="1834.10.16"
+	type=land
+	personality="chivalrous"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Charles de Caumartin"
+	date="1834.10.18"
+	type=land
+	personality="chivalrous"
+	background="brownnoser"
+}
+
+leader = {
+	name="Karl de Broglie"
+	date="1834.10.21"
+	type=land
+	personality="hellbent"
+	background="cartographer"
+}
+
+leader = {
+	name="Dagobert du Fournay"
+	date="1834.10.22"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+
+#Armies
+army = {
+	name="5th Army"
+	location=5
+	regiment = {
+		name="1st Jackson Infantry"
+		type=infantry
+		home=192
+	}
+	regiment = {
+		name="1st Fort Robidoux Infantry"
+		type=infantry
+		home=123
+	}
+	regiment = {
+		name="1st Fort Union Infantry"
+		type=infantry
+		home=119
+	}
+	regiment = {
+		name="1st St Louis Infantry"
+		type=infantry
+		home=146
+	}
+	regiment = {
+		name="1st Chicago Infantry"
+		type=infantry
+		home=163
+	}
+	regiment = {
+		name="1st Peoria Artillery"
+		type=artillery
+		home=166
+	}
+	regiment = {
+		name="1st Indianapolis Artillery"
+		type=artillery
+		home=169
+	}
+	regiment = {
+		name="1st Chicago Artillery"
+		type=artillery
+		home=163
+	}
+	regiment = {
+		name="1st Jackson Artillery"
+		type=artillery
+		home=192
+	}
+	regiment = {
+		name="1st Fort Pierre Infantry"
+		type=infantry
+		home=122
+	}
+	regiment = {
+		name="1st Shreveport Artillery"
+		type=artillery
+		home=142
+	}
+}
+
+army = {
+	name="8th Army"
+	location=19
+	regiment = {
+		name="1st Peoria Infantry"
+		type=infantry
+		home=166
+	}
+	regiment = {
+		name="1st Evansville Infantry"
+		type=infantry
+		home=170
+	}
+	regiment = {
+		name="1st Little Rock Artillery"
+		type=artillery
+		home=143
+	}
+	regiment = {
+		name="1st Grand Rapids Infantry"
+		type=infantry
+		home=174
+	}
+	regiment = {
+		name="3rd Paducah Artillery"
+		type=artillery
+		home=187
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2630
+	regiment = {
+		name="1st Oskaloosa Infantry"
+		type=infantry
+		home=152
+	}
+	regiment = {
+		name="1st Kansas City Infantry"
+		type=infantry
+		home=150
+	}
+	regiment = {
+		name="1st New Orleans Infantry"
+		type=infantry
+		home=139
+	}
+	regiment = {
+		name="2nd Kansas City Infantry"
+		type=infantry
+		home=150
+	}
+	regiment = {
+		name="1st Rockford Infantry"
+		type=infantry
+		home=164
+	}
+	regiment = {
+		name="1st Memphis Artillery"
+		type=artillery
+		home=189
+	}
+	regiment = {
+		name="1st Paducah Artillery"
+		type=artillery
+		home=187
+	}
+	regiment = {
+		name="2nd Paducah Artillery"
+		type=artillery
+		home=187
+	}
+}
+
+army = {
+	name="15th Army"
+	location=1
+	regiment = {
+		name="1st Springfield Infantry"
+		type=infantry
+		home=167
+	}
+	regiment = {
+		name="1st Biloxi Infantry"
+		type=infantry
+		home=194
+	}
+	regiment = {
+		name="1st Detroit Artillery"
+		type=artillery
+		home=173
+	}
+	regiment = {
+		name="1st Jefferson City Infantry"
+		type=infantry
+		home=149
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2965
+	ship = {
+		name="1st Lake Charles Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Lake Charles Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Baton Rouge Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st New Orleans Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2
+	regiment = {
+		name="1st Indianapolis Infantry"
+		type=infantry
+		home=169
+	}
+	regiment = {
+		name="1st Baton Rouge Infantry"
+		type=infantry
+		home=140
+	}
+	regiment = {
+		name="1st Olney Artillery"
+		type=artillery
+		home=168
+	}
+	regiment = {
+		name="2nd Peoria Artillery"
+		type=artillery
+		home=166
+	}
+	regiment = {
+		name="1st Little Rock Infantry"
+		type=infantry
+		home=143
+	}
+}
+
+army = {
+	name="9th Army"
+	location=3
+	regiment = {
+		name="2nd St Louis Infantry"
+		type=infantry
+		home=146
+	}
+	regiment = {
+		name="3rd Peoria Artillery"
+		type=artillery
+		home=166
+	}
+	regiment = {
+		name="1st Fort Bonneville Infantry"
+		type=infantry
+		home=111
+	}
+	regiment = {
+		name="1st Milwaukee Artillery"
+		type=artillery
+		home=159
+	}
+}
+
+army = {
+	name="1st Army"
+	location=4
+	regiment = {
+		name="2nd Peoria Infantry"
+		type=infantry
+		home=166
+	}
+	regiment = {
+		name="3rd Peoria Infantry"
+		type=infantry
+		home=166
+	}
+}
+

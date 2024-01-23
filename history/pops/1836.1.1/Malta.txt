@@ -1,0 +1,93 @@
+854 = {
+	soldiers=
+	{
+		culture = berber
+		religion = catholic
+		size= 1611
+	}
+
+	artisans=
+	{
+		culture = berber
+		religion = catholic
+		size= 3677
+	}
+
+	clergymen=
+	{
+		culture = berber
+		religion = catholic
+		size= 171
+	}
+
+	bureaucrats=
+	{
+		culture = berber
+		religion = catholic
+		size= 84
+	}
+
+	officers=
+	{
+		culture = berber
+		religion = catholic
+		size= 55
+	}
+
+	aristocrats=
+	{
+		culture = berber
+		religion = catholic
+		size= 220
+	}
+
+	farmers=
+	{
+		culture = berber
+		religion = catholic
+		size= 22967
+	}
+
+	soldiers=
+	{
+		culture = berber
+		religion = animist
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = berber
+		religion = animist
+		size= 360
+	}
+
+	clergymen=
+	{
+		culture = berber
+		religion = animist
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = berber
+		religion = animist
+		size= 8
+	}
+
+	officers=
+	{
+		culture = berber
+		religion = animist
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = berber
+		religion = animist
+		size= 22
+	}
+
+}

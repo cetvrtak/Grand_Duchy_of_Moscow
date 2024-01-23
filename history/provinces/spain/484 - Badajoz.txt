@@ -1,0 +1,6 @@
+owner=GLC
+controller=X02
+add_core=GLC
+add_core=SPA
+trade_goods = wool
+life_rating = 35

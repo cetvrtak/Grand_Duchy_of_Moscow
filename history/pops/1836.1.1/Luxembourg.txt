@@ -1,0 +1,100 @@
+397 = {
+	soldiers=
+	{
+		culture = flemish
+		religion = catholic
+		size= 1262
+	}
+
+	artisans=
+	{
+		culture = flemish
+		religion = catholic
+		size= 1613
+	}
+
+	clergymen=
+	{
+		culture = flemish
+		religion = catholic
+		size= 128
+	}
+
+	bureaucrats=
+	{
+		culture = flemish
+		religion = catholic
+		size= 33
+	}
+
+	officers=
+	{
+		culture = flemish
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = flemish
+		religion = catholic
+		size= 123
+	}
+
+	farmers=
+	{
+		culture = flemish
+		religion = catholic
+		size= 20035
+	}
+
+	soldiers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 1323
+	}
+
+	artisans=
+	{
+		culture = flemish
+		religion = protestant
+		size= 4996
+	}
+
+	clergymen=
+	{
+		culture = flemish
+		religion = protestant
+		size= 396
+	}
+
+	bureaucrats=
+	{
+		culture = flemish
+		religion = protestant
+		size= 101
+	}
+
+	officers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = flemish
+		religion = protestant
+		size= 381
+	}
+
+	farmers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 16954
+	}
+
+}

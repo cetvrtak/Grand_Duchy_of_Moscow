@@ -1,0 +1,156 @@
+2190 = {
+	slaves=
+	{
+		culture = mayan
+		religion = mayan
+		size= 129
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 17
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 331
+	}
+
+	slaves=
+	{
+		culture = mayan
+		religion = protestant
+		size= 193
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = protestant
+		size= 84
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = protestant
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 1
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 420
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 142
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = protestant
+		size= 58
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = protestant
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 1
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 310
+	}
+
+}

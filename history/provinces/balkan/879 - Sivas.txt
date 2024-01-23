@@ -1,0 +1,8 @@
+owner=BUL
+controller=BUL
+add_core=BUL
+add_core=GRE
+add_core=TBZ
+trade_goods = wool
+life_rating = 35
+fort = 1

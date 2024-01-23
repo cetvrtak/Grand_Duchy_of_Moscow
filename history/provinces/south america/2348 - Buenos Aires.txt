@@ -1,0 +1,12 @@
+owner=PTG
+controller=PTG
+add_core=PTG
+trade_goods = cattle
+life_rating = 39
+naval_base = 1
+state_building=
+{
+	level=1
+	building = steamer_shipyard
+	upgrade = yes
+}

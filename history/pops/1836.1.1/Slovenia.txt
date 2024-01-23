@@ -1,0 +1,384 @@
+767 = {
+	soldiers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 1148
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = catholic
+		size= 355
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = catholic
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = slovene
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = slovene
+		religion = catholic
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 18866
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 1115
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size= 5638
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 611
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 146
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 65
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 513
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 11730
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 1026
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = protestant
+		size= 2132
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = protestant
+		size= 231
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 55
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 194
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 14608
+	}
+
+}
+768 = {
+	soldiers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = catholic
+		size= 8632
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = catholic
+		size= 926
+	}
+
+	bureaucrats=
+	{
+		culture = slovene
+		religion = catholic
+		size= 172
+	}
+
+	officers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 99
+	}
+
+	aristocrats=
+	{
+		culture = slovene
+		religion = catholic
+		size= 1554
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 52885
+	}
+
+	soldiers=
+	{
+		culture = slovene
+		religion = protestant
+		size= 209
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = protestant
+		size= 1901
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = protestant
+		size= 204
+	}
+
+	bureaucrats=
+	{
+		culture = slovene
+		religion = protestant
+		size= 38
+	}
+
+	officers=
+	{
+		culture = slovene
+		religion = protestant
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = slovene
+		religion = protestant
+		size= 342
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = protestant
+		size= 1372
+	}
+
+}
+769 = {
+	soldiers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 13433
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = catholic
+		size= 5331
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = catholic
+		size= 571
+	}
+
+	aristocrats=
+	{
+		culture = slovene
+		religion = catholic
+		size= 480
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 24393
+	}
+
+	soldiers=
+	{
+		culture = slovene
+		religion = animist
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = animist
+		size= 9
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = slovene
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = animist
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = slovene
+		religion = catholic
+		size= 106
+	}
+
+	soldiers=
+	{
+		culture = slovene
+		religion = protestant
+		size= 203
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = protestant
+		size= 1452
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = protestant
+		size= 156
+	}
+
+	bureaucrats=
+	{
+		culture = slovene
+		religion = protestant
+		size= 28
+	}
+
+	officers=
+	{
+		culture = slovene
+		religion = protestant
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = slovene
+		religion = protestant
+		size= 130
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = protestant
+		size= 3111
+	}
+
+	officers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 61
+	}
+
+}

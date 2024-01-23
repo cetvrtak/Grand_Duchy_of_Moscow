@@ -1,0 +1,790 @@
+#Sphere of Influence
+
+ADU = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+AQU = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = -14
+	level = 2
+}
+AUG = {
+	value = 0
+	level = 2
+}
+BAL = {
+	value = 76
+	influence_value = 6
+	level = 3
+}
+BAU = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRA = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSK = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+BXR = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = -14
+	level = 2
+}
+CAN = {
+	value = 0
+	level = 2
+}
+CIR = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = -13
+	level = 2
+}
+COL = {
+	value = 0
+	level = 2
+}
+CRS = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = -87
+	level = 2
+}
+CYP = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DES = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = -4
+	level = 2
+}
+DLI = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 0
+	level = 2
+}
+EJZ = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = -13
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FLA = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 1
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GLC = {
+	value = 0
+	level = 2
+}
+GLR = {
+	value = 0
+	level = 2
+}
+GRA = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = -4
+	level = 2
+}
+HAT = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HDJ = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = 0
+	level = 2
+}
+HON = {
+	value = -14
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+IPR = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KLK = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KTI = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LUZ = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MIN = {
+	value = -4
+	level = 2
+}
+MJZ = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MRK = {
+	value = 0
+	level = 2
+}
+MRT = {
+	value = 0
+	level = 2
+}
+NHX = {
+	value = 0
+	level = 2
+}
+NNG = {
+	value = 0
+	level = 2
+}
+NVK = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = -14
+	level = 2
+}
+PLB = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRI = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PTG = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+STY = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SVY = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SYC = {
+	value = 0
+	level = 2
+}
+TBZ = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TEX = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TIR = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WBG = {
+	value = 0
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+WHA = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = -14
+	level = 2
+}
+X14 = {
+	value = -14
+	level = 2
+}
+XMA = {
+	value = 185
+	influence_value = 33
+	level = 4
+}
+YAT = {
+	value = 0
+	level = 2
+}
+YZD = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Kalagamet Mas"
+	date="1823.8.9"
+	type=land
+	personality="persistant"
+	background="bootlicker"
+}
+
+leader = {
+	name="Nilakendra Kencono"
+	date="1823.8.10"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Kalagamet Slamet"
+	date="1823.8.12"
+	type=land
+	personality="resolute"
+	background="generals_aide"
+}
+
+leader = {
+	name="Raden Sotor Mas"
+	date="1835.1.14"
+	type=sea
+	personality="earnest"
+	background="armchair_general"
+}
+
+
+#Armies
+army = {
+	name="2nd Army"
+	location=1418
+	regiment = {
+		name="1st Madura Irregulars"
+		type=irregular
+		home=1421
+	}
+	regiment = {
+		name="1st Surabaya Irregulars"
+		type=irregular
+		home=1418
+	}
+	regiment = {
+		name="1st Cirebon Irregulars"
+		type=irregular
+		home=1415
+	}
+	regiment = {
+		name="1st Yogyakarta Irregulars"
+		type=irregular
+		home=1416
+	}
+	regiment = {
+		name="1st Semarang Irregulars"
+		type=irregular
+		home=1417
+	}
+	regiment = {
+		name="1st Bogor Irregulars"
+		type=irregular
+		home=1414
+	}
+	regiment = {
+		name="1st Yogyakarta Cavalry"
+		type=cavalry
+		home=1416
+	}
+	regiment = {
+		name="1st Bogor Artillery"
+		type=artillery
+		home=1414
+	}
+	regiment = {
+		name="2nd Bogor Artillery"
+		type=artillery
+		home=1414
+	}
+	regiment = {
+		name="1st Madura Cavalry"
+		type=cavalry
+		home=1421
+	}
+	regiment = {
+		name="1st Batavia Cavalry"
+		type=cavalry
+		home=1413
+	}
+	regiment = {
+		name="3rd Bogor Artillery"
+		type=artillery
+		home=1414
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=1420
+	ship = {
+		name="2nd Bogor Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Van Diemen's Land Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Bogor Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Van Diemen's Land Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Bogor Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Semarang Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Batavia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Batavia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Bogor Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Yogyakarta Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Semarang Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Cirebon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Cirebon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Bogor Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Surakarta Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Bogor Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Cirebon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Semarang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Probolinggo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Cirebon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Surabaya Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Bogor Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Bogor Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="9th Bogor Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Surabaya Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="10th Bogor Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="11th Bogor Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Christimas & Cocos Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bone Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Cirebon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Pontianak Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="12th Bogor Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1418
+	regiment = {
+		name="2nd Bogor Irregulars"
+		type=irregular
+		home=1414
+	}
+	regiment = {
+		name="2nd Yogyakarta Irregulars"
+		type=irregular
+		home=1416
+	}
+	regiment = {
+		name="3rd Bogor Irregulars"
+		type=irregular
+		home=1414
+	}
+	regiment = {
+		name="2nd Cirebon Irregulars"
+		type=irregular
+		home=1415
+	}
+	regiment = {
+		name="4th Bogor Irregulars"
+		type=irregular
+		home=1414
+	}
+	regiment = {
+		name="1st Cirebon Artillery"
+		type=artillery
+		home=1415
+	}
+	regiment = {
+		name="2nd Cirebon Artillery"
+		type=artillery
+		home=1415
+	}
+	regiment = {
+		name="5th Bogor Irregulars"
+		type=irregular
+		home=1414
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2854
+	ship = {
+		name="1st Port Macquarie Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Port Macquarie Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Plymouth Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2805
+	ship = {
+		name="1st Bogor Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bogor Frigate"
+		type=frigate
+	}
+}
+
