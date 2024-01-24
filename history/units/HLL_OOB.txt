@@ -517,13 +517,13 @@ leader = {
 #Armies
 navy = {
 	name="2nd Fleet"
-	location=2738
+	location=2726
 	ship = {
 		name="1st San Felipe Frigate"
 		type=frigate
 	}
 	ship = {
-		name="3rd San Felipe Frigate"
+		name="2nd San Felipe Frigate"
 		type=frigate
 	}
 }
@@ -547,9 +547,9 @@ army = {
 		home=376
 	}
 	regiment = {
-		name="1st San Felipe Artillery"
+		name="1st Caracas Artillery"
 		type=artillery
-		home=2268
+		home=2264
 	}
 }
 
@@ -557,11 +557,11 @@ navy = {
 	name="Vloot van Den Haag"
 	location=376
 	ship = {
-		name="1st San Felipe Man'o'war"
+		name="1st Caracas Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="3rd Caracas Man'o'war"
+		name="4th Caracas Man'o'war"
 		type=manowar
 	}
 }
@@ -590,16 +590,20 @@ navy = {
 	name="1st Fleet"
 	location=376
 	ship = {
-		name="1st Caracas Man'o'war"
-		type=manowar
-	}
-	ship = {
 		name="2nd Caracas Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="2nd San Felipe Frigate"
+		name="3rd Caracas Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Caracas Frigate"
 		type=frigate
+	}
+	ship = {
+		name="1st Rotterdam Clipper Transport"
+		type=clipper_transport
 	}
 	ship = {
 		name="1st Caracas Clipper Transport"
@@ -610,19 +614,15 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Caracas Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="2nd San Felipe Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Caracas Clipper Transport"
+		name="3rd San Felipe Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="4th Caracas Clipper Transport"
+		name="2nd Caracas Clipper Transport"
 		type=clipper_transport
 	}
 }

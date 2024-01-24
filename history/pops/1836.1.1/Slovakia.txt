@@ -117,7 +117,7 @@
 	{
 		culture = slovak
 		religion = catholic
-		size= 2731
+		size= 4133
 	}
 
 	artisans=
@@ -159,7 +159,7 @@
 	{
 		culture = slovak
 		religion = catholic
-		size= 81183
+		size= 79781
 	}
 
 	clergymen=
@@ -296,7 +296,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 1076
+		size= 4133
 	}
 
 	artisans=
@@ -338,7 +338,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 36766
+		size= 33709
 	}
 
 	soldiers=

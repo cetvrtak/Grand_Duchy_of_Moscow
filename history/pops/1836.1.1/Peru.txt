@@ -24,7 +24,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 8283
+		size= 7353
 	}
 
 	artisans=
@@ -59,7 +59,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 103
+		size= 1033
 	}
 
 	officers=
@@ -373,7 +373,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 875
+		size= 1885
 	}
 
 	artisans=
@@ -401,7 +401,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 1033
+		size= 23
 	}
 
 	bureaucrats=
@@ -932,7 +932,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 94
+		size= 1033
 	}
 
 	artisans=
@@ -974,7 +974,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 7597
+		size= 6658
 	}
 
 	slaves=
@@ -1088,7 +1088,7 @@
 	{
 		culture = quechua
 		religion = catholic
-		size= 1033
+		size= 654
 	}
 
 	artisans=
@@ -1130,7 +1130,7 @@
 	{
 		culture = quechua
 		religion = catholic
-		size= 9254
+		size= 9633
 	}
 
 	soldiers=
@@ -1677,7 +1677,7 @@
 	{
 		culture = ealimi
 		religion = sunni
-		size= 2555
+		size= 1574
 	}
 
 	artisans=
@@ -1705,7 +1705,7 @@
 	{
 		culture = ealimi
 		religion = sunni
-		size= 52
+		size= 1033
 	}
 
 	clergymen=
@@ -1945,7 +1945,7 @@
 	{
 		culture = quechua
 		religion = inti
-		size= 1033
+		size= 86
 	}
 
 	artisans=
@@ -1987,7 +1987,7 @@
 	{
 		culture = quechua
 		religion = inti
-		size= 6985
+		size= 7932
 	}
 
 	slaves=
@@ -2940,7 +2940,7 @@
 	{
 		culture = quechua
 		religion = catholic
-		size= 1033
+		size= 974
 	}
 
 	artisans=
@@ -2982,7 +2982,7 @@
 	{
 		culture = quechua
 		religion = catholic
-		size= 21439
+		size= 21498
 	}
 
 	slaves=
@@ -3201,7 +3201,7 @@
 	{
 		culture = aimara
 		religion = catholic
-		size= 394
+		size= 1033
 	}
 
 	artisans=
@@ -3243,7 +3243,7 @@
 	{
 		culture = aimara
 		religion = catholic
-		size= 5693
+		size= 5054
 	}
 
 	soldiers=

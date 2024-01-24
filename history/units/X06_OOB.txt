@@ -561,9 +561,9 @@ army = {
 		home=754
 	}
 	regiment = {
-		name="2nd Naples Artillery"
+		name="1st Salerno Artillery"
 		type=artillery
-		home=754
+		home=755
 	}
 }
 

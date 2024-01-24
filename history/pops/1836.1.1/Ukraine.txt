@@ -347,7 +347,7 @@
 	{
 		culture = western_slavic
 		religion = orthodox
-		size= 2822
+		size= 7233
 	}
 
 	artisans=
@@ -389,7 +389,7 @@
 	{
 		culture = western_slavic
 		religion = orthodox
-		size= 89697
+		size= 85286
 	}
 
 	clergymen=
@@ -907,7 +907,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 10333
+		size= 6645
 	}
 
 	artisans=
@@ -949,7 +949,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 85010
+		size= 88698
 	}
 
 	soldiers=
@@ -1570,7 +1570,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 452
+		size= 1033
 	}
 
 	artisans=
@@ -1612,7 +1612,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 25075
+		size= 24494
 	}
 
 	soldiers=
@@ -2566,7 +2566,7 @@
 	{
 		culture = pecheneg
 		religion = orthodox
-		size= 1033
+		size= 546
 	}
 
 	artisans=
@@ -2601,7 +2601,7 @@
 	{
 		culture = pecheneg
 		religion = orthodox
-		size= 23875
+		size= 24362
 	}
 
 	soldiers=

@@ -516,11 +516,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="2nd Ferrara Frigate"
+		name="4th Ravenna Frigate"
 		type=frigate
 	}
 	ship = {
-		name="6th Ravenna Frigate"
+		name="3rd Ferrara Frigate"
 		type=frigate
 	}
 }
@@ -534,9 +534,9 @@ army = {
 		home=741
 	}
 	regiment = {
-		name="2nd Bologna Infantry"
+		name="1st Ravenna Infantry"
 		type=infantry
-		home=741
+		home=743
 	}
 	regiment = {
 		name="1st Bologna Cavalry"
@@ -549,9 +549,9 @@ army = {
 		home=742
 	}
 	regiment = {
-		name="1st Ferrara Infantry"
+		name="2nd Ravenna Infantry"
 		type=infantry
-		home=742
+		home=743
 	}
 	regiment = {
 		name="2nd Bologna Cavalry"
@@ -559,9 +559,9 @@ army = {
 		home=741
 	}
 	regiment = {
-		name="2nd Ferrara Artillery"
+		name="1st Bologna Artillery"
 		type=artillery
-		home=742
+		home=741
 	}
 }
 
@@ -569,7 +569,7 @@ navy = {
 	name="1st Fleet"
 	location=2766
 	ship = {
-		name="4th Ravenna Frigate"
+		name="2nd Ferrara Frigate"
 		type=frigate
 	}
 	ship = {

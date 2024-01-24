@@ -511,15 +511,15 @@ navy = {
 	name="2nd Fleet"
 	location=2925
 	ship = {
-		name="1st Canary Islands Frigate"
-		type=frigate
-	}
-	ship = {
 		name="1st Azores Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Canary Islands Frigate"
+		name="2nd Azores Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Canary Islands Frigate"
 		type=frigate
 	}
 }
@@ -528,14 +528,14 @@ army = {
 	name="2nd Army"
 	location=2136
 	regiment = {
-		name="1st Azores Irregulars"
-		type=irregular
-		home=2134
-	}
-	regiment = {
 		name="1st Canary Islands Irregulars"
 		type=irregular
 		home=2136
+	}
+	regiment = {
+		name="1st Azores Irregulars"
+		type=irregular
+		home=2134
 	}
 	regiment = {
 		name="2nd Canary Islands Irregulars"
@@ -543,9 +543,9 @@ army = {
 		home=2136
 	}
 	regiment = {
-		name="1st Canary Islands Cavalry"
+		name="1st Azores Cavalry"
 		type=cavalry
-		home=2136
+		home=2134
 	}
 	regiment = {
 		name="1st Azores Artillery"
@@ -558,19 +558,19 @@ army = {
 		home=2135
 	}
 	regiment = {
-		name="3rd Canary Islands Irregulars"
+		name="2nd Azores Irregulars"
 		type=irregular
-		home=2136
-	}
-	regiment = {
-		name="1st Azores Cavalry"
-		type=cavalry
 		home=2134
 	}
 	regiment = {
-		name="2nd Madeira Artillery"
+		name="1st Canary Islands Cavalry"
+		type=cavalry
+		home=2136
+	}
+	regiment = {
+		name="2nd Azores Artillery"
 		type=artillery
-		home=2135
+		home=2134
 	}
 }
 
@@ -586,19 +586,11 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="2nd Azores Man'o'war"
+		name="2nd Canary Islands Man'o'war"
 		type=manowar
 	}
 	ship = {
 		name="1st Canary Islands Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Madeira Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Azores Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -607,6 +599,14 @@ navy = {
 	}
 	ship = {
 		name="3rd Canary Islands Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Azores Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Canary Islands Clipper Transport"
 		type=clipper_transport
 	}
 }

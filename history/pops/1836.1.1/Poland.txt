@@ -152,7 +152,7 @@
 	{
 		culture = oldpommeranian
 		religion = protestant
-		size= 1348
+		size= 4133
 	}
 
 	artisans=
@@ -194,7 +194,7 @@
 	{
 		culture = oldpommeranian
 		religion = protestant
-		size= 20699
+		size= 17914
 	}
 
 }
@@ -1036,7 +1036,7 @@
 	{
 		culture = oldpommeranian
 		religion = catholic
-		size= 605
+		size= 4133
 	}
 
 	artisans=
@@ -1078,7 +1078,7 @@
 	{
 		culture = oldpommeranian
 		religion = catholic
-		size= 20565
+		size= 17037
 	}
 
 	soldiers=
@@ -1283,7 +1283,7 @@
 	{
 		culture = oldpommeranian
 		religion = protestant
-		size= 1048
+		size= 7233
 	}
 
 	artisans=
@@ -1325,7 +1325,7 @@
 	{
 		culture = oldpommeranian
 		religion = protestant
-		size= 12918
+		size= 6733
 	}
 
 }
@@ -1334,7 +1334,7 @@
 	{
 		culture = pruthenian
 		religion = catholic
-		size= 4133
+		size= 1033
 	}
 
 	artisans=
@@ -1376,7 +1376,7 @@
 	{
 		culture = pruthenian
 		religion = catholic
-		size= 14409
+		size= 17509
 	}
 
 	soldiers=
@@ -1730,7 +1730,7 @@
 	{
 		culture = pruthenian
 		religion = catholic
-		size= 10333
+		size= 7233
 	}
 
 	artisans=
@@ -1772,7 +1772,7 @@
 	{
 		culture = pruthenian
 		religion = catholic
-		size= 34346
+		size= 37446
 	}
 
 	soldiers=
@@ -2371,7 +2371,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 4133
+		size= 1033
 	}
 
 	artisans=
@@ -2413,7 +2413,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 6876
+		size= 9976
 	}
 
 	soldiers=
@@ -2669,7 +2669,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 1033
+		size= 874
 	}
 
 	artisans=
@@ -2711,7 +2711,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 14237
+		size= 14396
 	}
 
 }
@@ -3358,7 +3358,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 4133
+		size= 1344
 	}
 
 	artisans=
@@ -3400,7 +3400,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 40952
+		size= 43741
 	}
 
 	soldiers=
@@ -3649,7 +3649,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 7233
+		size= 1942
 	}
 
 	artisans=
@@ -3691,7 +3691,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 40739
+		size= 46030
 	}
 
 	soldiers=
@@ -4883,7 +4883,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 817
+		size= 1033
 	}
 
 	artisans=
@@ -4925,7 +4925,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 25217
+		size= 25001
 	}
 
 	soldiers=
@@ -5081,7 +5081,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 957
+		size= 1033
 	}
 
 	artisans=
@@ -5123,7 +5123,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 31869
+		size= 31793
 	}
 
 	soldiers=

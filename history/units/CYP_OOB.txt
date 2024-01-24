@@ -506,14 +506,14 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Famagusta Clipper Transport"
+		name="1st Limassol Clipper Transport"
 		type=clipper_transport
 	}
 }
 
 army = {
 	name="1st Army"
-	location=855
+	location=857
 	regiment = {
 		name="1st Nicosia Infantry"
 		type=infantry

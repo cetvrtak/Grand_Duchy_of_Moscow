@@ -501,9 +501,9 @@ army = {
 	name="1st Army"
 	location=2612
 	regiment = {
-		name="1st Uralsk Irregulars"
+		name="1st Alty-Kuduk Irregulars"
 		type=irregular
-		home=2610
+		home=2702
 	}
 	regiment = {
 		name="1st Aktash Irregulars"
@@ -511,9 +511,9 @@ army = {
 		home=2612
 	}
 	regiment = {
-		name="1st Alty-Kuduk Irregulars"
+		name="1st Uralsk Irregulars"
 		type=irregular
-		home=2702
+		home=2610
 	}
 	regiment = {
 		name="1st Aktash Cavalry"
@@ -536,9 +536,9 @@ army = {
 		home=2702
 	}
 	regiment = {
-		name="1st Turgay Irregulars"
+		name="2nd Aktash Irregulars"
 		type=irregular
-		home=2611
+		home=2612
 	}
 	regiment = {
 		name="2nd Aktash Cavalry"

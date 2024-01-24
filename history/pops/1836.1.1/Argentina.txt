@@ -4092,14 +4092,14 @@
 	{
 		culture = ealimi
 		religion = sunni
-		size= 14988
+		size= 15483
 	}
 
 	soldiers=
 	{
 		culture = ealimi
 		religion = sunni
-		size= 1033
+		size= 538
 	}
 
 	artisans=
@@ -4148,7 +4148,7 @@
 	{
 		culture = ealimi
 		religion = catholic
-		size= 32033
+		size= 13433
 	}
 
 	artisans=
@@ -4190,7 +4190,7 @@
 	{
 		culture = ealimi
 		religion = catholic
-		size= 12141
+		size= 30741
 	}
 
 }

@@ -3,7 +3,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 512
+		size= 1033
 	}
 
 	artisans=
@@ -45,7 +45,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 8085
+		size= 7564
 	}
 
 }
@@ -207,7 +207,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 10333
+		size= 4133
 	}
 
 	artisans=
@@ -249,7 +249,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 8447
+		size= 14647
 	}
 
 }
@@ -258,7 +258,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 10333
+		size= 1724
 	}
 
 	artisans=
@@ -300,7 +300,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 15178
+		size= 23787
 	}
 
 }
@@ -430,7 +430,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 10333
+		size= 7233
 	}
 
 	artisans=
@@ -472,7 +472,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 31702
+		size= 34802
 	}
 
 }
@@ -546,7 +546,7 @@
 	{
 		culture = bornean
 		religion = sunni
-		size= 1260
+		size= 4133
 	}
 
 	artisans=
@@ -588,7 +588,7 @@
 	{
 		culture = bornean
 		religion = sunni
-		size= 14597
+		size= 11724
 	}
 
 }
@@ -720,7 +720,7 @@
 	{
 		culture = bornean
 		religion = sunni
-		size= 1033
+		size= 405
 	}
 
 	artisans=
@@ -762,7 +762,7 @@
 	{
 		culture = bornean
 		religion = sunni
-		size= 3820
+		size= 4448
 	}
 
 	slaves=
@@ -834,7 +834,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 7233
+		size= 22733
 	}
 
 	artisans=
@@ -876,7 +876,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 20699
+		size= 5199
 	}
 
 }

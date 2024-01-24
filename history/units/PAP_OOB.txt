@@ -531,11 +531,6 @@ army = {
 	name="Armata di Eger"
 	location=749
 	regiment = {
-		name="1st Gaeta Infantry"
-		type=infantry
-		home=2567
-	}
-	regiment = {
 		name="1st Perugia Infantry"
 		type=infantry
 		home=751
@@ -546,19 +541,14 @@ army = {
 		home=744
 	}
 	regiment = {
-		name="1st Ancona Infantry"
+		name="2nd Perugia Infantry"
 		type=infantry
-		home=752
+		home=751
 	}
 	regiment = {
-		name="2nd Florence Infantry"
+		name="1st Bari Infantry"
 		type=infantry
-		home=744
-	}
-	regiment = {
-		name="3rd Florence Infantry"
-		type=infantry
-		home=744
+		home=756
 	}
 	regiment = {
 		name="1st Gjirokaster Infantry"
@@ -566,14 +556,9 @@ army = {
 		home=853
 	}
 	regiment = {
-		name="2nd Perugia Infantry"
+		name="2nd Florence Infantry"
 		type=infantry
-		home=751
-	}
-	regiment = {
-		name="1st Foggia Infantry"
-		type=infantry
-		home=757
+		home=744
 	}
 	regiment = {
 		name="1st Pescara Infantry"
@@ -581,14 +566,39 @@ army = {
 		home=10
 	}
 	regiment = {
-		name="1st Rome Artillery"
-		type=artillery
-		home=749
+		name="3rd Perugia Infantry"
+		type=infantry
+		home=751
 	}
 	regiment = {
-		name="2nd Rome Artillery"
+		name="1st Ancona Infantry"
+		type=infantry
+		home=752
+	}
+	regiment = {
+		name="4th Perugia Infantry"
+		type=infantry
+		home=751
+	}
+	regiment = {
+		name="1st Gaeta Artillery"
 		type=artillery
-		home=749
+		home=2567
+	}
+	regiment = {
+		name="1st Ancona Artillery"
+		type=artillery
+		home=752
+	}
+	regiment = {
+		name="2nd Ancona Artillery"
+		type=artillery
+		home=752
+	}
+	regiment = {
+		name="3rd Ancona Artillery"
+		type=artillery
+		home=752
 	}
 	regiment = {
 		name="1st Aquila Artillery"
@@ -601,29 +611,19 @@ army = {
 		home=751
 	}
 	regiment = {
+		name="5th Perugia Infantry"
+		type=infantry
+		home=751
+	}
+	regiment = {
 		name="2nd Perugia Artillery"
 		type=artillery
 		home=751
 	}
 	regiment = {
-		name="3rd Perugia Artillery"
-		type=artillery
-		home=751
-	}
-	regiment = {
-		name="2nd Pescara Infantry"
-		type=infantry
-		home=10
-	}
-	regiment = {
 		name="1st Florence Artillery"
 		type=artillery
 		home=744
-	}
-	regiment = {
-		name="4th Perugia Artillery"
-		type=artillery
-		home=751
 	}
 }
 
@@ -631,9 +631,9 @@ army = {
 	name="Armata di Tessaglia"
 	location=827
 	regiment = {
-		name="1st Volos Infantry"
+		name="1st Durres Infantry"
 		type=infantry
-		home=832
+		home=851
 	}
 }
 
@@ -664,7 +664,7 @@ navy = {
 
 navy = {
 	name="1st Fleet"
-	location=750
+	location=749
 	ship = {
 		name="San Lorenzo"
 		type=manowar
@@ -678,27 +678,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Volos Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Foggia Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Arta Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Shkoder Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Arta Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Ancona Frigate"
+		name="2nd Bari Frigate"
 		type=frigate
 	}
 	ship = {
@@ -706,7 +686,35 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Missolonghi Clipper Transport"
+		name="2nd Pescara Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Pescara Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Gaeta Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Rome Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Janina Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Durres Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Arta Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Vlore Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -714,23 +722,19 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Foggia Clipper Transport"
+		name="2nd Bari Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Pescara Clipper Transport"
+		name="2nd Rome Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Pescara Clipper Transport"
+		name="1st Corfu Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="4th Pescara Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Gjirokaster Clipper Transport"
+		name="1st Ancona Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -742,19 +746,15 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Corfu Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="Burlando"
 		type=manowar
 	}
 	ship = {
-		name="1st Corfu Frigate"
+		name="1st Missolonghi Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Arta Clipper Transport"
+		name="2nd Durres Clipper Transport"
 		type=clipper_transport
 	}
 }

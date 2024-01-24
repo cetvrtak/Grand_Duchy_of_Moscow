@@ -496,14 +496,14 @@ army = {
 	name="1st Army"
 	location=1546
 	regiment = {
-		name="1st Jian Irregulars"
+		name="1st Jiujiang Irregulars"
 		type=irregular
-		home=1547
+		home=1549
 	}
 	regiment = {
-		name="1st Jiujiang Cavalry"
+		name="1st Guangxin Cavalry"
 		type=cavalry
-		home=1549
+		home=1546
 	}
 	regiment = {
 		name="1st Jian Artillery"
@@ -511,19 +511,19 @@ army = {
 		home=1547
 	}
 	regiment = {
-		name="2nd Jian Irregulars"
+		name="1st Jian Irregulars"
 		type=irregular
 		home=1547
 	}
 	regiment = {
-		name="2nd Jiujiang Cavalry"
+		name="1st Raozhou Cavalry"
 		type=cavalry
-		home=1549
+		home=1551
 	}
 	regiment = {
-		name="2nd Jian Artillery"
+		name="1st Guangxin Artillery"
 		type=artillery
-		home=1547
+		home=1546
 	}
 }
 

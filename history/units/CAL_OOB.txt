@@ -508,9 +508,9 @@ army = {
 		home=86
 	}
 	regiment = {
-		name="1st Rosarito Infantry"
+		name="1st Mojave Infantry"
 		type=infantry
-		home=2139
+		home=88
 	}
 }
 

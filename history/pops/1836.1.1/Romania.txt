@@ -1219,7 +1219,7 @@
 	{
 		culture = szekely
 		religion = catholic
-		size= 4133
+		size= 13433
 	}
 
 	artisans=
@@ -1261,7 +1261,7 @@
 	{
 		culture = szekely
 		religion = catholic
-		size= 50980
+		size= 41680
 	}
 
 	slaves=
@@ -1946,7 +1946,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -1988,7 +1988,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 7678
+		size= 4578
 	}
 
 }

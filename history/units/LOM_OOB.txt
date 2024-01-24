@@ -509,9 +509,9 @@ army = {
 		home=734
 	}
 	regiment = {
-		name="1st Sondrio Infantry"
+		name="3rd Trent Infantry"
 		type=infantry
-		home=2669
+		home=734
 	}
 }
 

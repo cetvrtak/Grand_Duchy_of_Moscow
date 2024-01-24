@@ -520,17 +520,17 @@ army = {
 		home=925
 	}
 	regiment = {
-		name="4th Sulaymania Irregulars"
-		type=irregular
-		home=925
-	}
-	regiment = {
-		name="5th Sulaymania Irregulars"
-		type=irregular
-		home=925
-	}
-	regiment = {
 		name="1st Mahabad Irregulars"
+		type=irregular
+		home=1111
+	}
+	regiment = {
+		name="1st Baghdad Irregulars"
+		type=irregular
+		home=926
+	}
+	regiment = {
+		name="2nd Mahabad Irregulars"
 		type=irregular
 		home=1111
 	}
@@ -540,9 +540,19 @@ army = {
 		home=926
 	}
 	regiment = {
-		name="1st Mahabad Artillery"
+		name="1st Sulaymania Artillery"
 		type=artillery
-		home=1111
+		home=925
+	}
+	regiment = {
+		name="1st Ilam Artillery"
+		type=artillery
+		home=1119
+	}
+	regiment = {
+		name="1st Karbala Artillery"
+		type=artillery
+		home=929
 	}
 	regiment = {
 		name="1st Baqubah Artillery"
@@ -550,23 +560,8 @@ army = {
 		home=928
 	}
 	regiment = {
-		name="1st Baghdad Artillery"
-		type=artillery
-		home=926
-	}
-	regiment = {
-		name="1st Rasht Artillery"
-		type=artillery
-		home=1113
-	}
-	regiment = {
-		name="1st Sanandaj Irregulars"
+		name="1st Qazvin Irregulars"
 		type=irregular
-		home=1118
-	}
-	regiment = {
-		name="1st Qazvin Cavalry"
-		type=cavalry
 		home=1124
 	}
 	regiment = {
@@ -575,9 +570,14 @@ army = {
 		home=1113
 	}
 	regiment = {
-		name="1st Nasiriyya Artillery"
-		type=artillery
+		name="1st Nasiriyya Cavalry"
+		type=cavalry
 		home=933
+	}
+	regiment = {
+		name="3rd Kermanshah Artillery"
+		type=artillery
+		home=1117
 	}
 }
 
@@ -585,9 +585,9 @@ army = {
 	name="16th Army"
 	location=1122
 	regiment = {
-		name="1st Baqubah Irregulars"
+		name="1st Ilam Irregulars"
 		type=irregular
-		home=928
+		home=1119
 	}
 }
 
@@ -595,32 +595,32 @@ army = {
 	name="3rd Army"
 	location=1113
 	regiment = {
-		name="1st Karbala Irregulars"
-		type=irregular
-		home=929
-	}
-	regiment = {
-		name="1st Kermanshah Irregulars"
-		type=irregular
-		home=1117
-	}
-	regiment = {
-		name="2nd Mahabad Irregulars"
-		type=irregular
-		home=1111
-	}
-	regiment = {
 		name="3rd Mahabad Irregulars"
 		type=irregular
 		home=1111
 	}
 	regiment = {
-		name="1st Samarra Irregulars"
+		name="1st Samawah Irregulars"
 		type=irregular
-		home=927
+		home=934
 	}
 	regiment = {
-		name="2nd Mahabad Artillery"
+		name="1st Rasht Irregulars"
+		type=irregular
+		home=1113
+	}
+	regiment = {
+		name="4th Mahabad Irregulars"
+		type=irregular
+		home=1111
+	}
+	regiment = {
+		name="1st Hamadan Irregulars"
+		type=irregular
+		home=1122
+	}
+	regiment = {
+		name="1st Mahabad Artillery"
 		type=artillery
 		home=1111
 	}
@@ -630,14 +630,14 @@ army = {
 		home=1117
 	}
 	regiment = {
-		name="1st Khoramabad Irregulars"
+		name="2nd Samawah Irregulars"
 		type=irregular
-		home=1120
+		home=934
 	}
 	regiment = {
-		name="1st Sanandaj Artillery"
+		name="2nd Kermanshah Artillery"
 		type=artillery
-		home=1118
+		home=1117
 	}
 }
 

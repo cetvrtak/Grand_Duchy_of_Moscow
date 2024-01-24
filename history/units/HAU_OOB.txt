@@ -546,12 +546,12 @@ army = {
 		home=1832
 	}
 	regiment = {
-		name="18th Khartoum Irregulars"
+		name="20th Khartoum Irregulars"
 		type=irregular
 		home=1827
 	}
 	regiment = {
-		name="11th Khartoum Artillery"
+		name="10th Khartoum Artillery"
 		type=artillery
 		home=1827
 	}
@@ -560,6 +560,11 @@ army = {
 army = {
 	name="2nd Army"
 	location=1939
+	regiment = {
+		name="4th Khartoum Irregulars"
+		type=irregular
+		home=1827
+	}
 	regiment = {
 		name="3rd Fashoda Irregulars"
 		type=irregular
@@ -586,11 +591,6 @@ army = {
 		home=1831
 	}
 	regiment = {
-		name="4th Rabak Irregulars"
-		type=irregular
-		home=1831
-	}
-	regiment = {
 		name="1st Rabak Artillery"
 		type=artillery
 		home=1831
@@ -601,12 +601,12 @@ army = {
 		home=1831
 	}
 	regiment = {
-		name="1st Khartoum Artillery"
+		name="3rd Rabak Artillery"
 		type=artillery
-		home=1827
+		home=1831
 	}
 	regiment = {
-		name="10th Khartoum Artillery"
+		name="9th Khartoum Artillery"
 		type=artillery
 		home=1827
 	}
@@ -615,16 +615,6 @@ army = {
 army = {
 	name="5th Army"
 	location=1821
-	regiment = {
-		name="4th Khartoum Irregulars"
-		type=irregular
-		home=1827
-	}
-	regiment = {
-		name="6th Fashoda Irregulars"
-		type=irregular
-		home=1832
-	}
 	regiment = {
 		name="5th Khartoum Irregulars"
 		type=irregular
@@ -646,6 +636,21 @@ army = {
 		home=1827
 	}
 	regiment = {
+		name="9th Khartoum Irregulars"
+		type=irregular
+		home=1827
+	}
+	regiment = {
+		name="10th Khartoum Irregulars"
+		type=irregular
+		home=1827
+	}
+	regiment = {
+		name="1st Khartoum Artillery"
+		type=artillery
+		home=1827
+	}
+	regiment = {
 		name="2nd Khartoum Artillery"
 		type=artillery
 		home=1827
@@ -656,17 +661,12 @@ army = {
 		home=1827
 	}
 	regiment = {
-		name="4th Khartoum Artillery"
-		type=artillery
-		home=1827
-	}
-	regiment = {
-		name="16th Khartoum Irregulars"
+		name="18th Khartoum Irregulars"
 		type=irregular
 		home=1827
 	}
 	regiment = {
-		name="9th Khartoum Artillery"
+		name="8th Khartoum Artillery"
 		type=artillery
 		home=1827
 	}
@@ -676,11 +676,7 @@ navy = {
 	name="1st Fleet"
 	location=1923
 	ship = {
-		name="1st Saint-Louis Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Monrovia Man'o'war"
+		name="1st Kahone Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -688,35 +684,27 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="2nd Benin Man'o'war"
+		name="2nd Lagos Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="2nd Saint-Louis Man'o'war"
+		name="3rd Lagos Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Sassandra Man'o'war"
+		name="4th Lagos Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Cotonou Man'o'war"
+		name="1st Dakar Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Harper Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Harper Clipper Transport"
-		type=clipper_transport
+		name="1st Lome Man'o'war"
+		type=manowar
 	}
 	ship = {
 		name="1st Warri Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Boffa Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -724,19 +712,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Boffa Clipper Transport"
+		name="2nd Lagos Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Harper Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Rosso Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Monrovia Clipper Transport"
+		name="3rd Lagos Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -744,7 +724,27 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Harper Man'o'war"
+		name="1st Cotonou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Warri Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Freetown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Warri Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Cotonou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Monrovia Man'o'war"
 		type=manowar
 	}
 }
@@ -752,16 +752,6 @@ navy = {
 army = {
 	name="1st Army"
 	location=1812
-	regiment = {
-		name="9th Khartoum Irregulars"
-		type=irregular
-		home=1827
-	}
-	regiment = {
-		name="10th Khartoum Irregulars"
-		type=irregular
-		home=1827
-	}
 	regiment = {
 		name="11th Khartoum Irregulars"
 		type=irregular
@@ -783,6 +773,21 @@ army = {
 		home=1827
 	}
 	regiment = {
+		name="15th Khartoum Irregulars"
+		type=irregular
+		home=1827
+	}
+	regiment = {
+		name="16th Khartoum Irregulars"
+		type=irregular
+		home=1827
+	}
+	regiment = {
+		name="4th Khartoum Artillery"
+		type=artillery
+		home=1827
+	}
+	regiment = {
 		name="5th Khartoum Artillery"
 		type=artillery
 		home=1827
@@ -798,12 +803,7 @@ army = {
 		home=1827
 	}
 	regiment = {
-		name="8th Khartoum Artillery"
-		type=artillery
-		home=1827
-	}
-	regiment = {
-		name="17th Khartoum Irregulars"
+		name="19th Khartoum Irregulars"
 		type=irregular
 		home=1827
 	}
@@ -813,7 +813,7 @@ army = {
 	name="60th Army"
 	location=1842
 	regiment = {
-		name="15th Khartoum Irregulars"
+		name="17th Khartoum Irregulars"
 		type=irregular
 		home=1827
 	}
@@ -823,11 +823,11 @@ navy = {
 	name="2nd Fleet"
 	location=2921
 	ship = {
-		name="1st Freetown Frigate"
+		name="1st Cape Coast Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Freetown Frigate"
+		name="1st Monrovia Frigate"
 		type=frigate
 	}
 }
@@ -836,11 +836,11 @@ navy = {
 	name="3rd Fleet"
 	location=2924
 	ship = {
-		name="1st Lome Frigate"
+		name="1st Freetown Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Lome Frigate"
+		name="2nd Monrovia Frigate"
 		type=frigate
 	}
 }

@@ -512,9 +512,9 @@ army = {
 	name="1st Army"
 	location=585
 	regiment = {
-		name="1st Stendal Infantry"
+		name="1st Stade Infantry"
 		type=infantry
-		home=557
+		home=531
 	}
 	regiment = {
 		name="1st Hanover Infantry"
@@ -522,14 +522,14 @@ army = {
 		home=534
 	}
 	regiment = {
-		name="1st Stade Infantry"
+		name="1st Lüneburg Infantry"
 		type=infantry
-		home=531
+		home=532
 	}
 	regiment = {
-		name="1st Bremen Infantry"
+		name="2nd Stade Infantry"
 		type=infantry
-		home=539
+		home=531
 	}
 	regiment = {
 		name="2nd Hanover Infantry"
@@ -542,19 +542,19 @@ army = {
 		home=531
 	}
 	regiment = {
-		name="1st Stendal Artillery"
+		name="1st Detmold Artillery"
 		type=artillery
-		home=557
+		home=585
 	}
 	regiment = {
-		name="1st Lauenburg Artillery"
+		name="1st Hanover Artillery"
 		type=artillery
-		home=529
+		home=534
 	}
 	regiment = {
-		name="2nd Hamburg Artillery"
+		name="3rd Stade Artillery"
 		type=artillery
-		home=528
+		home=531
 	}
 }
 
@@ -587,15 +587,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Emden Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Bremen Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Stade Clipper Transport"
+		name="1st Hamburg Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -603,7 +595,15 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Emden Clipper Transport"
+		name="1st Stade Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Oldenburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Stade Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -612,9 +612,19 @@ army = {
 	name="Armee von Stade"
 	location=585
 	regiment = {
-		name="2nd Stade Infantry"
+		name="1st Lauenburg Infantry"
 		type=infantry
-		home=531
+		home=529
+	}
+	regiment = {
+		name="1st Detmold Infantry"
+		type=infantry
+		home=585
+	}
+	regiment = {
+		name="2nd Lauenburg Infantry"
+		type=infantry
+		home=529
 	}
 	regiment = {
 		name="3rd Stade Infantry"
@@ -622,23 +632,8 @@ army = {
 		home=531
 	}
 	regiment = {
-		name="2nd Stendal Infantry"
+		name="1st Hamburg Infantry"
 		type=infantry
-		home=557
-	}
-	regiment = {
-		name="3rd Stendal Infantry"
-		type=infantry
-		home=557
-	}
-	regiment = {
-		name="4th Stade Infantry"
-		type=infantry
-		home=531
-	}
-	regiment = {
-		name="1st Hamburg Artillery"
-		type=artillery
 		home=528
 	}
 	regiment = {
@@ -647,14 +642,19 @@ army = {
 		home=531
 	}
 	regiment = {
-		name="1st Hanover Artillery"
+		name="2nd Detmold Artillery"
 		type=artillery
-		home=534
+		home=585
 	}
 	regiment = {
-		name="1st Hamburg Infantry"
+		name="1st Stendal Artillery"
+		type=artillery
+		home=557
+	}
+	regiment = {
+		name="4th Stade Infantry"
 		type=infantry
-		home=528
+		home=531
 	}
 }
 
