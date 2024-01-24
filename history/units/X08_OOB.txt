@@ -487,6 +487,11 @@ army = {
 	name="1st Army"
 	location=1135
 	regiment = {
+		name="1st Ahvaz Irregulars"
+		type=irregular
+		home=1131
+	}
+	regiment = {
 		name="1st Shiraz Irregulars"
 		type=irregular
 		home=1135
@@ -502,39 +507,14 @@ army = {
 		home=1135
 	}
 	regiment = {
-		name="4th Shiraz Irregulars"
-		type=irregular
-		home=1135
-	}
-	regiment = {
 		name="1st Ahvaz Artillery"
 		type=artillery
 		home=1131
 	}
 	regiment = {
-		name="2nd Ahvaz Artillery"
+		name="1st Shiraz Artillery"
 		type=artillery
-		home=1131
-	}
-	regiment = {
-		name="5th Shiraz Irregulars"
-		type=irregular
 		home=1135
-	}
-	regiment = {
-		name="1st Lengeh Artillery"
-		type=artillery
-		home=1141
-	}
-}
-
-army = {
-	name="2nd Army"
-	location=1134
-	regiment = {
-		name="1st Ahvaz Irregulars"
-		type=irregular
-		home=1131
 	}
 	regiment = {
 		name="1st Dehkord Irregulars"
@@ -542,14 +522,34 @@ army = {
 		home=1134
 	}
 	regiment = {
-		name="1st Bushire Artillery"
+		name="2nd Shiraz Artillery"
 		type=artillery
-		home=1136
+		home=1135
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1134
+	regiment = {
+		name="2nd Ahvaz Irregulars"
+		type=irregular
+		home=1131
 	}
 	regiment = {
 		name="1st Lengeh Irregulars"
 		type=irregular
 		home=1141
+	}
+	regiment = {
+		name="1st Dehkord Artillery"
+		type=artillery
+		home=1134
+	}
+	regiment = {
+		name="1st Bushire Irregulars"
+		type=irregular
+		home=1136
 	}
 }
 
@@ -557,32 +557,11 @@ navy = {
 	name="4th Fleet"
 	location=2788
 	ship = {
-		name="2nd Bushire Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Bushire Frigate"
-		type=frigate
-	}
-	ship = {
 		name="1st Lengeh Frigate"
 		type=frigate
 	}
 	ship = {
-		name="8th Bushire Frigate"
-		type=frigate
-	}
-}
-
-navy = {
-	name="2nd Fleet"
-	location=1132
-	ship = {
-		name="4th Bushire Frigate"
-		type=frigate
-	}
-	ship = {
-		name="5th Bushire Frigate"
+		name="1st Bushire Frigate"
 		type=frigate
 	}
 	ship = {
@@ -593,12 +572,33 @@ navy = {
 		name="7th Bushire Frigate"
 		type=frigate
 	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=1132
 	ship = {
 		name="1st Abadan Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Lengeh Frigate"
+		name="2nd Bushire Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bushire Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Bushire Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Bushire Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Abadan Frigate"
 		type=frigate
 	}
 }

@@ -511,7 +511,7 @@ navy = {
 	name="2nd Fleet"
 	location=2925
 	ship = {
-		name="1st Madeira Frigate"
+		name="1st Canary Islands Frigate"
 		type=frigate
 	}
 	ship = {
@@ -519,7 +519,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="2nd Azores Frigate"
+		name="2nd Canary Islands Frigate"
 		type=frigate
 	}
 }
@@ -527,6 +527,11 @@ navy = {
 army = {
 	name="2nd Army"
 	location=2136
+	regiment = {
+		name="1st Azores Irregulars"
+		type=irregular
+		home=2134
+	}
 	regiment = {
 		name="1st Canary Islands Irregulars"
 		type=irregular
@@ -538,14 +543,14 @@ army = {
 		home=2136
 	}
 	regiment = {
-		name="3rd Canary Islands Irregulars"
-		type=irregular
-		home=2136
-	}
-	regiment = {
 		name="1st Canary Islands Cavalry"
 		type=cavalry
 		home=2136
+	}
+	regiment = {
+		name="1st Azores Artillery"
+		type=artillery
+		home=2134
 	}
 	regiment = {
 		name="1st Madeira Artillery"
@@ -553,22 +558,17 @@ army = {
 		home=2135
 	}
 	regiment = {
-		name="2nd Madeira Artillery"
-		type=artillery
-		home=2135
-	}
-	regiment = {
-		name="4th Canary Islands Irregulars"
+		name="3rd Canary Islands Irregulars"
 		type=irregular
 		home=2136
 	}
 	regiment = {
-		name="2nd Canary Islands Cavalry"
+		name="1st Azores Cavalry"
 		type=cavalry
-		home=2136
+		home=2134
 	}
 	regiment = {
-		name="3rd Madeira Artillery"
+		name="2nd Madeira Artillery"
 		type=artillery
 		home=2135
 	}
@@ -582,11 +582,11 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="2nd Canary Islands Man'o'war"
+		name="1st Azores Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="3rd Canary Islands Man'o'war"
+		name="2nd Azores Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -594,19 +594,19 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Canarian Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Canarian Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Canarian Clipper Transport"
+		name="1st Madeira Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
 		name="1st Azores Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Canary Islands Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Canary Islands Clipper Transport"
 		type=clipper_transport
 	}
 }

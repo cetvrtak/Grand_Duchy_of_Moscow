@@ -536,9 +536,9 @@ army = {
 		home=784
 	}
 	regiment = {
-		name="1st Banja Luka Artillery"
+		name="2nd Bihac Artillery"
 		type=artillery
-		home=785
+		home=784
 	}
 }
 

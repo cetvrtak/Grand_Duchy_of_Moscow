@@ -538,11 +538,6 @@ army = {
 	name="12th Army"
 	location=4
 	regiment = {
-		name="1st Sherbrooke Infantry"
-		type=infantry
-		home=66
-	}
-	regiment = {
 		name="1st Montreal Infantry"
 		type=infantry
 		home=58
@@ -553,19 +548,24 @@ army = {
 		home=58
 	}
 	regiment = {
-		name="1st Hamilton Infantry"
+		name="1st Kingston Infantry"
 		type=infantry
-		home=55
+		home=56
 	}
 	regiment = {
-		name="1st Windsor Infantry"
+		name="1st Toronto Infantry"
 		type=infantry
-		home=54
+		home=46
 	}
 	regiment = {
-		name="1st Sept-Îles Artillery"
+		name="2nd Kingston Infantry"
+		type=infantry
+		home=56
+	}
+	regiment = {
+		name="1st Bytown Artillery"
 		type=artillery
-		home=62
+		home=57
 	}
 	regiment = {
 		name="1st Kingston Artillery"
@@ -573,17 +573,17 @@ army = {
 		home=56
 	}
 	regiment = {
-		name="1st Toronto Artillery"
+		name="2nd Kingston Artillery"
 		type=artillery
+		home=56
+	}
+	regiment = {
+		name="5th Toronto Infantry"
+		type=infantry
 		home=46
 	}
 	regiment = {
-		name="1st Saint Johns Infantry"
-		type=infantry
-		home=74
-	}
-	regiment = {
-		name="2nd Temiscaming Artillery"
+		name="3rd Temiscaming Artillery"
 		type=artillery
 		home=63
 	}
@@ -591,14 +591,14 @@ army = {
 
 army = {
 	name="6th Army"
-	location=1
+	location=2
 	regiment = {
-		name="1st Kingston Infantry"
+		name="2nd Toronto Infantry"
 		type=infantry
-		home=56
+		home=46
 	}
 	regiment = {
-		name="2nd Kingston Artillery"
+		name="3rd Kingston Artillery"
 		type=artillery
 		home=56
 	}
@@ -616,19 +616,9 @@ army = {
 
 army = {
 	name="2nd Army"
-	location=1
+	location=2
 	regiment = {
-		name="2nd Kingston Infantry"
-		type=infantry
-		home=56
-	}
-	regiment = {
-		name="3rd Kingston Infantry"
-		type=infantry
-		home=56
-	}
-	regiment = {
-		name="1st Toronto Infantry"
+		name="3rd Toronto Infantry"
 		type=infantry
 		home=46
 	}
@@ -638,8 +628,23 @@ army = {
 		home=65
 	}
 	regiment = {
-		name="1st Truro Infantry"
+		name="4th Toronto Infantry"
 		type=infantry
+		home=46
+	}
+	regiment = {
+		name="1st Hamilton Infantry"
+		type=infantry
+		home=55
+	}
+	regiment = {
+		name="1st Sherbrooke Infantry"
+		type=infantry
+		home=66
+	}
+	regiment = {
+		name="1st Truro Artillery"
+		type=artillery
 		home=72
 	}
 	regiment = {
@@ -648,24 +653,19 @@ army = {
 		home=68
 	}
 	regiment = {
-		name="1st Hamilton Artillery"
+		name="1st Sherbrooke Artillery"
 		type=artillery
-		home=55
+		home=66
 	}
 	regiment = {
-		name="2nd Hamilton Artillery"
-		type=artillery
-		home=55
-	}
-	regiment = {
-		name="1st Temiscaming Infantry"
+		name="1st Cape Breton Island Infantry"
 		type=infantry
-		home=63
+		home=73
 	}
 	regiment = {
-		name="1st Bytown Artillery"
+		name="2nd Temiscaming Artillery"
 		type=artillery
-		home=57
+		home=63
 	}
 }
 
@@ -689,10 +689,6 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Ungava Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="1st Fort George Clipper Transport"
 		type=clipper_transport
 	}
@@ -701,43 +697,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Liverpool Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st St Brieuc Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Truro Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Sept-Îles Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Liverpool Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd French Canadian Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Rimouski Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Ungava Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Hopedale Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Fort George Clipper Transport"
+		name="1st Chicoutimi Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -745,7 +705,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Churchill Clipper Transport"
+		name="2nd French Canadian Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -753,19 +713,31 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Ungava Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Port-Aux-Basques Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="4th French Canadian Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Rimouski Clipper Transport"
+		name="1st Petit-Sault Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ungava Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Fort Albany Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Fort George Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Chicoutimi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rimouski Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -773,15 +745,43 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Hopedale Clipper Transport"
+		name="2nd Ungava Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Quebec City Clipper Transport"
+		name="3rd Ungava Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Port-Aux-Basques Clipper Transport"
+		name="6th French Canadian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th French Canadian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Ungava Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Truro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th French Canadian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Petit-Sault Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st North West River Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="9th French Canadian Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -802,7 +802,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Hopedale Frigate"
+		name="1st Rimouski Frigate"
 		type=frigate
 	}
 }
@@ -822,11 +822,11 @@ navy = {
 
 army = {
 	name="1st Army"
-	location=2
+	location=1
 	regiment = {
-		name="1st Trois-Rivières Artillery"
+		name="1st Prince Edward Island Artillery"
 		type=artillery
-		home=64
+		home=70
 	}
 	regiment = {
 		name="1st Montreal Artillery"
@@ -839,14 +839,14 @@ army = {
 	name="11th Army"
 	location=2209
 	regiment = {
-		name="2nd Sherbrooke Infantry"
+		name="1st Halifax Infantry"
 		type=infantry
-		home=66
+		home=71
 	}
 	regiment = {
-		name="2nd Truro Infantry"
+		name="1st Saint Johns Infantry"
 		type=infantry
-		home=72
+		home=74
 	}
 }
 
@@ -854,9 +854,14 @@ army = {
 	name="4th Army"
 	location=2209
 	regiment = {
-		name="2nd Windsor Infantry"
+		name="1st Truro Infantry"
 		type=infantry
-		home=54
+		home=72
+	}
+	regiment = {
+		name="1st Sept-Îles Infantry"
+		type=infantry
+		home=62
 	}
 	regiment = {
 		name="1st Prince Edward Island Infantry"
@@ -864,29 +869,24 @@ army = {
 		home=70
 	}
 	regiment = {
-		name="1st Halifax Infantry"
-		type=infantry
-		home=71
-	}
-	regiment = {
-		name="3rd Sherbrooke Infantry"
-		type=infantry
-		home=66
-	}
-	regiment = {
 		name="1st Port-Aux-Basques Infantry"
 		type=infantry
 		home=75
 	}
 	regiment = {
-		name="1st Cape Breton Island Artillery"
-		type=artillery
-		home=73
+		name="2nd Port-Aux-Basques Infantry"
+		type=infantry
+		home=75
 	}
 	regiment = {
-		name="2nd Temiscaming Infantry"
+		name="1st Trois-Rivières Artillery"
+		type=artillery
+		home=64
+	}
+	regiment = {
+		name="2nd Sherbrooke Infantry"
 		type=infantry
-		home=63
+		home=66
 	}
 }
 

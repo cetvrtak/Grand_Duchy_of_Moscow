@@ -506,7 +506,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Utchan Frigate"
+		name="1st Boli Frigate"
 		type=frigate
 	}
 }
@@ -538,7 +538,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="4th Utchan Frigate"
+		name="2nd Pogobi Frigate"
 		type=frigate
 	}
 }

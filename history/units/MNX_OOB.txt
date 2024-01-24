@@ -529,15 +529,7 @@ navy = {
 	name="3rd Fleet"
 	location=2828
 	ship = {
-		name="1st Ming Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Ming Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Ming Frigate"
+		name="1st Jinzhou Frigate"
 		type=frigate
 	}
 	ship = {
@@ -545,7 +537,15 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="4th Ming Frigate"
+		name="1st Ming Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Chengde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Yangzhou Frigate"
 		type=frigate
 	}
 }
@@ -554,11 +554,11 @@ navy = {
 	name="6th Fleet"
 	location=2827
 	ship = {
-		name="1st Jinzhou Frigate"
+		name="2nd Jinzhou Frigate"
 		type=frigate
 	}
 	ship = {
-		name="3rd Chengde Frigate"
+		name="2nd Ming Frigate"
 		type=frigate
 	}
 }
@@ -567,7 +567,7 @@ navy = {
 	name="1st Fleet"
 	location=2851
 	ship = {
-		name="1st Nantong Frigate"
+		name="4th Chengde Frigate"
 		type=frigate
 	}
 }
@@ -576,15 +576,11 @@ navy = {
 	name="5th Fleet"
 	location=1613
 	ship = {
-		name="1st Jinzhou Man'o'war"
-		type=manowar
-	}
-	ship = {
 		name="2nd Chengde Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="3rd Chengde Man'o'war"
+		name="1st Jinzhou Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -592,7 +588,11 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="4th Chengde Man'o'war"
+		name="1st Yangzhou Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tainan Man'o'war"
 		type=manowar
 	}
 }
@@ -606,9 +606,14 @@ army = {
 		home=1556
 	}
 	regiment = {
-		name="1st Zhengzhou Irregulars"
+		name="1st Kumul Irregulars"
 		type=irregular
-		home=1511
+		home=1599
+	}
+	regiment = {
+		name="1st Gongchang Irregulars"
+		type=irregular
+		home=1489
 	}
 	regiment = {
 		name="2nd Makhai Irregulars"
@@ -616,9 +621,9 @@ army = {
 		home=1556
 	}
 	regiment = {
-		name="1st Taiping Irregulars"
+		name="1st Xining Irregulars"
 		type=irregular
-		home=1477
+		home=1557
 	}
 	regiment = {
 		name="1st Xian Irregulars"
@@ -626,19 +631,14 @@ army = {
 		home=1559
 	}
 	regiment = {
-		name="1st Xining Irregulars"
+		name="2nd Kumul Irregulars"
 		type=irregular
-		home=1557
+		home=1599
 	}
 	regiment = {
-		name="2nd Zhengzhou Irregulars"
-		type=irregular
-		home=1511
-	}
-	regiment = {
-		name="1st Makhai Artillery"
+		name="1st Zhengzhou Artillery"
 		type=artillery
-		home=1556
+		home=1511
 	}
 	regiment = {
 		name="1st Pingliang Artillery"
@@ -646,12 +646,12 @@ army = {
 		home=1492
 	}
 	regiment = {
-		name="1st Kumul Irregulars"
+		name="2nd Zhengzhou Irregulars"
 		type=irregular
-		home=1599
+		home=1511
 	}
 	regiment = {
-		name="1st Xian Artillery"
+		name="3rd Xian Artillery"
 		type=artillery
 		home=1559
 	}
@@ -666,27 +666,42 @@ army = {
 		home=1576
 	}
 	regiment = {
-		name="1st Pingliang Irregulars"
+		name="2nd Datong Irregulars"
 		type=irregular
-		home=1492
+		home=1576
 	}
 	regiment = {
-		name="1st Luan Irregulars"
+		name="3rd Xining Irregulars"
 		type=irregular
-		home=1574
+		home=1557
 	}
 }
 
 army = {
 	name="3rd Army"
-	location=1559
+	location=2062
 	regiment = {
-		name="2nd Xian Irregulars"
+		name="1st Zhengzhou Irregulars"
 		type=irregular
-		home=1559
+		home=1511
 	}
 	regiment = {
 		name="1st Luzhou Irregulars"
+		type=irregular
+		home=1474
+	}
+	regiment = {
+		name="3rd Makhai Irregulars"
+		type=irregular
+		home=1556
+	}
+	regiment = {
+		name="1st Nantong Irregulars"
+		type=irregular
+		home=1540
+	}
+	regiment = {
+		name="2nd Luzhou Irregulars"
 		type=irregular
 		home=1474
 	}
@@ -696,64 +711,19 @@ army = {
 		home=1557
 	}
 	regiment = {
-		name="3rd Xian Irregulars"
-		type=irregular
+		name="1st Xian Artillery"
+		type=artillery
 		home=1559
 	}
 	regiment = {
-		name="3rd Makhai Irregulars"
-		type=irregular
-		home=1556
-	}
-	regiment = {
-		name="1st Lop Nur Irregulars"
-		type=irregular
-		home=2607
-	}
-	regiment = {
-		name="1st Luzhou Artillery"
-		type=artillery
-		home=1474
-	}
-	regiment = {
-		name="1st Zhengzhou Artillery"
+		name="2nd Zhengzhou Artillery"
 		type=artillery
 		home=1511
 	}
 	regiment = {
-		name="1st Xining Artillery"
+		name="1st Makhai Artillery"
 		type=artillery
-		home=1557
-	}
-	regiment = {
-		name="3rd Xining Irregulars"
-		type=irregular
-		home=1557
-	}
-	regiment = {
-		name="2nd Luzhou Artillery"
-		type=artillery
-		home=1474
-	}
-}
-
-army = {
-	name="6th Army"
-	location=1488
-	regiment = {
-		name="1st Taiyuan Irregulars"
-		type=irregular
-		home=1572
-	}
-	regiment = {
-		name="1st Gongchang Irregulars"
-		type=irregular
-		home=1489
-	}
-	regiment = {
-		name="4th Xian Irregulars"
-		type=irregular
-		home=1559
+		home=1556
 	}
 	regiment = {
 		name="1st Jiayuguan Irregulars"
@@ -761,27 +731,57 @@ army = {
 		home=1488
 	}
 	regiment = {
+		name="4th Xian Artillery"
+		type=artillery
+		home=1559
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1488
+	regiment = {
+		name="1st Pingliang Irregulars"
+		type=irregular
+		home=1492
+	}
+	regiment = {
+		name="1st Ningxia Irregulars"
+		type=irregular
+		home=1491
+	}
+	regiment = {
 		name="1st Fenzhou Irregulars"
 		type=irregular
 		home=1573
 	}
 	regiment = {
-		name="4th Makhai Irregulars"
+		name="3rd Datong Irregulars"
 		type=irregular
-		home=1556
+		home=1576
 	}
 	regiment = {
-		name="2nd Xining Artillery"
-		type=artillery
-		home=1557
-	}
-	regiment = {
-		name="1st Ningxia Artillery"
-		type=artillery
+		name="2nd Ningxia Irregulars"
+		type=irregular
 		home=1491
 	}
 	regiment = {
+		name="2nd Gongchang Irregulars"
+		type=irregular
+		home=1489
+	}
+	regiment = {
+		name="2nd Xian Artillery"
+		type=artillery
+		home=1559
+	}
+	regiment = {
 		name="1st Yenan Artillery"
+		type=artillery
+		home=1561
+	}
+	regiment = {
+		name="2nd Yenan Artillery"
 		type=artillery
 		home=1561
 	}

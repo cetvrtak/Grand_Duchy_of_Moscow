@@ -511,19 +511,14 @@ army = {
 	name="4th Army"
 	location=2165
 	regiment = {
-		name="1st Durango Infantry"
+		name="1st Ciudad Acuña Infantry"
 		type=infantry
-		home=2153
+		home=2147
 	}
 	regiment = {
-		name="1st Tampico Infantry"
+		name="1st Veracruz Infantry"
 		type=infantry
-		home=2163
-	}
-	regiment = {
-		name="1st San Pedro Sula Infantry"
-		type=infantry
-		home=2194
+		home=2162
 	}
 	regiment = {
 		name="1st San Luis Potosí Infantry"
@@ -536,19 +531,24 @@ army = {
 		home=2158
 	}
 	regiment = {
-		name="1st Ciudad Juarez Artillery"
-		type=artillery
-		home=2143
-	}
-	regiment = {
-		name="1st Toluca Artillery"
-		type=artillery
-		home=2174
-	}
-	regiment = {
-		name="2nd Durango Infantry"
+		name="2nd Zacatecas Infantry"
 		type=infantry
-		home=2153
+		home=2158
+	}
+	regiment = {
+		name="1st Mexico City Artillery"
+		type=artillery
+		home=2172
+	}
+	regiment = {
+		name="1st Bacalar Artillery"
+		type=artillery
+		home=2185
+	}
+	regiment = {
+		name="2nd Santa María del Oro Infantry"
+		type=infantry
+		home=2154
 	}
 }
 
@@ -592,31 +592,31 @@ navy = {
 
 army = {
 	name="6th Army"
-	location=2191
-	regiment = {
-		name="1st Santa María del Oro Infantry"
-		type=infantry
-		home=2154
-	}
-	regiment = {
-		name="1st Mexico City Infantry"
-		type=infantry
-		home=2172
-	}
+	location=2192
 	regiment = {
 		name="1st Toluca Infantry"
 		type=infantry
 		home=2174
 	}
 	regiment = {
-		name="1st Mazatlán Infantry"
+		name="1st Puebla Infantry"
 		type=infantry
-		home=2156
+		home=2176
 	}
 	regiment = {
-		name="2nd Zacatecas Infantry"
+		name="2nd Toluca Infantry"
 		type=infantry
-		home=2158
+		home=2174
+	}
+	regiment = {
+		name="1st Durango Infantry"
+		type=infantry
+		home=2153
+	}
+	regiment = {
+		name="1st Mexico City Infantry"
+		type=infantry
+		home=2172
 	}
 	regiment = {
 		name="1st Querétaro Infantry"
@@ -629,17 +629,22 @@ army = {
 	name="14th Army"
 	location=2159
 	regiment = {
-		name="1st Puebla Infantry"
+		name="1st Santa María del Oro Infantry"
 		type=infantry
-		home=2176
+		home=2154
 	}
 	regiment = {
-		name="2nd Mexico City Infantry"
+		name="3rd Toluca Infantry"
 		type=infantry
-		home=2172
+		home=2174
 	}
 	regiment = {
-		name="2nd Toluca Infantry"
+		name="2nd Durango Infantry"
+		type=infantry
+		home=2153
+	}
+	regiment = {
+		name="4th Toluca Infantry"
 		type=infantry
 		home=2174
 	}
@@ -649,14 +654,9 @@ army = {
 		home=2176
 	}
 	regiment = {
-		name="2nd Mazatlán Infantry"
-		type=infantry
-		home=2156
-	}
-	regiment = {
-		name="1st Mazatlán Artillery"
+		name="1st Toluca Artillery"
 		type=artillery
-		home=2156
+		home=2174
 	}
 	regiment = {
 		name="2nd Querétaro Infantry"
@@ -664,7 +664,7 @@ army = {
 		home=2173
 	}
 	regiment = {
-		name="2nd Mazatlán Artillery"
+		name="1st Mazatlán Artillery"
 		type=artillery
 		home=2156
 	}
@@ -687,7 +687,7 @@ army = {
 
 navy = {
 	name="5th Fleet"
-	location=2965
+	location=2966
 	ship = {
 		name="La Esperanza"
 		type=frigate

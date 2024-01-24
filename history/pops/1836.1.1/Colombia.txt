@@ -313,7 +313,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 1033
+		size= 502
 	}
 
 	artisans=
@@ -355,7 +355,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 12850
+		size= 13381
 	}
 
 }
@@ -639,7 +639,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 218
+		size= 1033
 	}
 
 	artisans=
@@ -681,7 +681,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 17320
+		size= 16505
 	}
 
 }
@@ -909,7 +909,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 36671
+		size= 39771
 	}
 
 	artisans=
@@ -944,7 +944,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 4133
+		size= 1033
 	}
 
 	officers=
@@ -1335,7 +1335,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 22492
+		size= 18826
 	}
 
 	artisans=
@@ -1377,7 +1377,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 467
+		size= 4133
 	}
 
 	slaves=
@@ -2276,7 +2276,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 5682
+		size= 4851
 	}
 
 	artisans=
@@ -2304,7 +2304,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 202
+		size= 1033
 	}
 
 	bureaucrats=

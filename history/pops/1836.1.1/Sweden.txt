@@ -105,7 +105,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 821
+		size= 1033
 	}
 
 	artisans=
@@ -147,7 +147,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 8376
+		size= 8164
 	}
 
 }
@@ -207,7 +207,7 @@
 	{
 		culture = sami
 		religion = catholic
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -249,7 +249,7 @@
 	{
 		culture = sami
 		religion = catholic
-		size= 7071
+		size= 3971
 	}
 
 }
@@ -309,7 +309,7 @@
 	{
 		culture = swedish
 		religion = catholic
-		size= 7233
+		size= 10333
 	}
 
 	artisans=
@@ -351,7 +351,7 @@
 	{
 		culture = swedish
 		religion = catholic
-		size= 24801
+		size= 21701
 	}
 
 }
@@ -411,7 +411,7 @@
 	{
 		culture = swedish
 		religion = catholic
-		size= 13433
+		size= 4133
 	}
 
 	artisans=
@@ -453,7 +453,7 @@
 	{
 		culture = swedish
 		religion = catholic
-		size= 35076
+		size= 44376
 	}
 
 }
@@ -513,7 +513,7 @@
 	{
 		culture = swedish
 		religion = catholic
-		size= 19633
+		size= 7233
 	}
 
 	artisans=
@@ -555,7 +555,7 @@
 	{
 		culture = swedish
 		religion = catholic
-		size= 8883
+		size= 21283
 	}
 
 }
@@ -564,7 +564,7 @@
 	{
 		culture = swedish
 		religion = catholic
-		size= 3194
+		size= 13433
 	}
 
 	artisans=
@@ -606,7 +606,7 @@
 	{
 		culture = swedish
 		religion = catholic
-		size= 33822
+		size= 23583
 	}
 
 	soldiers=
@@ -806,7 +806,7 @@
 	{
 		culture = swedish
 		religion = protestant
-		size= 4133
+		size= 7233
 	}
 
 	artisans=
@@ -848,7 +848,7 @@
 	{
 		culture = swedish
 		religion = protestant
-		size= 18938
+		size= 15838
 	}
 
 }
@@ -908,7 +908,7 @@
 	{
 		culture = swedish
 		religion = catholic
-		size= 16533
+		size= 7233
 	}
 
 	artisans=
@@ -950,7 +950,7 @@
 	{
 		culture = swedish
 		religion = catholic
-		size= 24274
+		size= 33574
 	}
 
 }
@@ -959,7 +959,7 @@
 	{
 		culture = swedish
 		religion = catholic
-		size= 7233
+		size= 10333
 	}
 
 	artisans=
@@ -1001,7 +1001,7 @@
 	{
 		culture = swedish
 		religion = catholic
-		size= 54420
+		size= 51320
 	}
 
 }
@@ -1192,7 +1192,7 @@
 	{
 		culture = swedish
 		religion = protestant
-		size= 19633
+		size= 13433
 	}
 
 	artisans=
@@ -1234,7 +1234,7 @@
 	{
 		culture = swedish
 		religion = protestant
-		size= 14639
+		size= 20839
 	}
 
 }

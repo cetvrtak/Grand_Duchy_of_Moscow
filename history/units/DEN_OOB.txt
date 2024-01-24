@@ -511,14 +511,14 @@ army = {
 	name="1st Army"
 	location=372
 	regiment = {
-		name="1st Ribe Infantry"
-		type=infantry
-		home=368
-	}
-	regiment = {
 		name="1st Aalborg Infantry"
 		type=infantry
 		home=367
+	}
+	regiment = {
+		name="1st Copenhagen Infantry"
+		type=infantry
+		home=372
 	}
 	regiment = {
 		name="2nd Aalborg Infantry"
@@ -526,32 +526,32 @@ army = {
 		home=367
 	}
 	regiment = {
-		name="1st Odense Cavalry"
-		type=cavalry
-		home=373
-	}
-	regiment = {
-		name="1st Flensburg Artillery"
-		type=artillery
-		home=370
-	}
-	regiment = {
-		name="1st Odense Artillery"
-		type=artillery
-		home=373
-	}
-	regiment = {
-		name="1st Odense Infantry"
-		type=infantry
-		home=373
-	}
-	regiment = {
 		name="1st Copenhagen Cavalry"
 		type=cavalry
 		home=372
 	}
 	regiment = {
-		name="2nd Odense Artillery"
+		name="1st Copenhagen Artillery"
+		type=artillery
+		home=372
+	}
+	regiment = {
+		name="2nd Copenhagen Artillery"
+		type=artillery
+		home=372
+	}
+	regiment = {
+		name="2nd Copenhagen Infantry"
+		type=infantry
+		home=372
+	}
+	regiment = {
+		name="1st Odense Cavalry"
+		type=cavalry
+		home=373
+	}
+	regiment = {
+		name="1st Odense Artillery"
 		type=artillery
 		home=373
 	}
@@ -610,7 +610,11 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Copenhagen Clipper Transport"
+		name="1st Sundsvall Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Balearic Islands Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -618,15 +622,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Copenhagen Clipper Transport"
+		name="2nd Balearic Islands Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Norrköping Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Gävle Clipper Transport"
+		name="2nd Sundsvall Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -634,7 +634,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Ribe Clipper Transport"
+		name="1st Aalborg Clipper Transport"
 		type=clipper_transport
 	}
 }

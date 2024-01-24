@@ -429,7 +429,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 1033
+		size= 308
 	}
 
 	artisans=
@@ -464,7 +464,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 10818
+		size= 11543
 	}
 
 	artisans=
@@ -1974,7 +1974,7 @@
 	{
 		culture = estonian
 		religion = orthodox
-		size= 8366
+		size= 19633
 	}
 
 	artisans=
@@ -2016,14 +2016,14 @@
 	{
 		culture = estonian
 		religion = orthodox
-		size= 78936
+		size= 67669
 	}
 
 	soldiers=
 	{
 		culture = russian
 		religion = orthodox
-		size= 63033
+		size= 78533
 	}
 
 	artisans=
@@ -2065,7 +2065,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 41012
+		size= 25512
 	}
 
 }
@@ -2223,7 +2223,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 4133
+		size= 10333
 	}
 
 	artisans=
@@ -2265,7 +2265,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 30797
+		size= 24597
 	}
 
 }
@@ -2274,7 +2274,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 1423
+		size= 4133
 	}
 
 	artisans=
@@ -2316,7 +2316,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 57709
+		size= 54999
 	}
 
 }
@@ -2625,7 +2625,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 10333
+		size= 5235
 	}
 
 	artisans=
@@ -2667,7 +2667,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 70442
+		size= 75540
 	}
 
 }
@@ -2676,7 +2676,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 10333
+		size= 16533
 	}
 
 	artisans=
@@ -2718,7 +2718,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 69262
+		size= 63062
 	}
 
 	aristocrats=
@@ -3132,7 +3132,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 902
+		size= 1033
 	}
 
 	artisans=
@@ -3174,7 +3174,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 40541
+		size= 40410
 	}
 
 }
@@ -3183,7 +3183,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 59933
+		size= 35133
 	}
 
 	artisans=
@@ -3225,7 +3225,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 80148
+		size= 104948
 	}
 
 	aristocrats=
@@ -5710,7 +5710,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 1257
+		size= 4133
 	}
 
 	artisans=
@@ -5752,7 +5752,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 47480
+		size= 44604
 	}
 
 }
@@ -5859,7 +5859,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 4364
+		size= 7233
 	}
 
 	artisans=
@@ -5901,7 +5901,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 64454
+		size= 61585
 	}
 
 	soldiers=
@@ -6206,7 +6206,7 @@
 	{
 		culture = tatar
 		religion = sunni
-		size= 10333
+		size= 3110
 	}
 
 	artisans=
@@ -6248,7 +6248,7 @@
 	{
 		culture = tatar
 		religion = sunni
-		size= 126980
+		size= 134203
 	}
 
 }
@@ -7085,7 +7085,7 @@
 	{
 		culture = tatar
 		religion = sunni
-		size= 1033
+		size= 7233
 	}
 
 	artisans=
@@ -7127,7 +7127,7 @@
 	{
 		culture = tatar
 		religion = sunni
-		size= 13965
+		size= 7765
 	}
 
 	soldiers=
@@ -7227,7 +7227,7 @@
 	{
 		culture = tatar
 		religion = sunni
-		size= 2108
+		size= 4133
 	}
 
 	artisans=
@@ -7269,7 +7269,7 @@
 	{
 		culture = tatar
 		religion = sunni
-		size= 97200
+		size= 95175
 	}
 
 }
@@ -7620,7 +7620,7 @@
 	{
 		culture = tatar
 		religion = jewish
-		size= 4133
+		size= 7233
 	}
 
 	artisans=
@@ -7648,7 +7648,7 @@
 	{
 		culture = tatar
 		religion = jewish
-		size= 6486
+		size= 3386
 	}
 
 	soldiers=
@@ -8391,7 +8391,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 4133
+		size= 1033
 	}
 
 	artisans=
@@ -8433,7 +8433,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 11708
+		size= 14808
 	}
 
 }
@@ -9014,7 +9014,7 @@
 	{
 		culture = tatar
 		religion = sunni
-		size= 7233
+		size= 657
 	}
 
 	artisans=
@@ -9056,7 +9056,7 @@
 	{
 		culture = tatar
 		religion = sunni
-		size= 4119
+		size= 10695
 	}
 
 	soldiers=
@@ -9412,7 +9412,7 @@
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
-		size= 377
+		size= 1033
 	}
 
 	artisans=
@@ -9454,7 +9454,7 @@
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
-		size= 17717
+		size= 17061
 	}
 
 	soldiers=
@@ -9859,7 +9859,7 @@
 	{
 		culture = kirgiz
 		religion = nestorian
-		size= 4133
+		size= 153
 	}
 
 	artisans=
@@ -9894,7 +9894,7 @@
 	{
 		culture = kirgiz
 		religion = nestorian
-		size= 4088
+		size= 8068
 	}
 
 }
@@ -11236,7 +11236,7 @@
 	{
 		culture = kirgiz
 		religion = orthodox
-		size= 385
+		size= 1033
 	}
 
 	artisans=
@@ -11278,14 +11278,14 @@
 	{
 		culture = kirgiz
 		religion = orthodox
-		size= 4851
+		size= 4203
 	}
 
 	soldiers=
 	{
 		culture = yakut
 		religion = nestorian
-		size= 473
+		size= 1033
 	}
 
 	artisans=
@@ -11327,7 +11327,7 @@
 	{
 		culture = yakut
 		religion = nestorian
-		size= 6915
+		size= 6355
 	}
 
 }
@@ -11583,86 +11583,58 @@
 1080 = {
 	soldiers=
 	{
-		culture = manchu
+		culture = yakut
 		religion = tengri_pagan_reformed
 		size= 3
 	}
 
-	farmers=
+	artisans=
 	{
-		culture = manchu
+		culture = yakut
 		religion = tengri_pagan_reformed
-		size= 113
+		size= 1
 	}
 
 	farmers=
 	{
-		culture = manchu
-		religion = gelugpa
-		size= 15
+		culture = yakut
+		religion = tengri_pagan_reformed
+		size= 129
+	}
+
+	artisans=
+	{
+		culture = russian
+		religion = orthodox
+		size= 7
 	}
 
 	soldiers=
 	{
-		culture = manchu
-		religion = nestorian
+		culture = russian
+		religion = orthodox
 		size= 2
-	}
-
-	artisans=
-	{
-		culture = manchu
-		religion = nestorian
-		size= 3
-	}
-
-	farmers=
-	{
-		culture = manchu
-		religion = nestorian
-		size= 90
-	}
-
-	artisans=
-	{
-		culture = manchu
-		religion = shinto
-		size= 1
-	}
-
-	farmers=
-	{
-		culture = manchu
-		religion = shinto
-		size= 16
-	}
-
-	aristocrats=
-	{
-		culture = manchu
-		religion = nestorian
-		size= 1
-	}
-
-	artisans=
-	{
-		culture = manchu
-		religion = tengri_pagan_reformed
-		size= 6
 	}
 
 	clergymen=
 	{
-		culture = manchu
-		religion = tengri_pagan_reformed
+		culture = russian
+		religion = orthodox
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = manchu
-		religion = tengri_pagan_reformed
+		culture = russian
+		religion = orthodox
 		size= 1
+	}
+
+	farmers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 82
 	}
 
 }
@@ -11678,7 +11650,7 @@
 	{
 		culture = manchu
 		religion = tengri_pagan_reformed
-		size= 1033
+		size= 104
 	}
 
 	artisans=
@@ -11720,7 +11692,7 @@
 	{
 		culture = manchu
 		religion = tengri_pagan_reformed
-		size= 3586
+		size= 4515
 	}
 
 	slaves=
@@ -12295,168 +12267,210 @@
 	{
 		culture = manchu
 		religion = tengri_pagan_reformed
-		size= 507
+		size= 496
 	}
 
 	soldiers=
 	{
 		culture = manchu
 		religion = tengri_pagan_reformed
-		size= 371
+		size= 260
 	}
 
 	artisans=
 	{
 		culture = manchu
 		religion = tengri_pagan_reformed
-		size= 1072
+		size= 1666
 	}
 
 	clergymen=
 	{
 		culture = manchu
 		religion = tengri_pagan_reformed
-		size= 58
-	}
-
-	bureaucrats=
-	{
-		culture = manchu
-		religion = tengri_pagan_reformed
-		size= 7
-	}
-
-	officers=
-	{
-		culture = manchu
-		religion = tengri_pagan_reformed
-		size= 16
+		size= 78
 	}
 
 	aristocrats=
 	{
 		culture = manchu
 		religion = tengri_pagan_reformed
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = manchu
+		religion = tengri_pagan_reformed
+		size= 10355
+	}
+
+	slaves=
+	{
+		culture = manchu
+		religion = gelugpa
+		size= 29
+	}
+
+	soldiers=
+	{
+		culture = manchu
+		religion = gelugpa
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = manchu
+		religion = gelugpa
+		size= 27
+	}
+
+	clergymen=
+	{
+		culture = manchu
+		religion = gelugpa
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = manchu
+		religion = gelugpa
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = manchu
+		religion = gelugpa
+		size= 692
+	}
+
+	slaves=
+	{
+		culture = manchu
+		religion = nestorian
+		size= 234
+	}
+
+	soldiers=
+	{
+		culture = manchu
+		religion = nestorian
+		size= 123
+	}
+
+	artisans=
+	{
+		culture = manchu
+		religion = nestorian
+		size= 691
+	}
+
+	clergymen=
+	{
+		culture = manchu
+		religion = nestorian
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = manchu
+		religion = nestorian
+		size= 9
+	}
+
+	officers=
+	{
+		culture = manchu
+		religion = nestorian
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = manchu
+		religion = nestorian
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = manchu
+		religion = nestorian
+		size= 5001
+	}
+
+	slaves=
+	{
+		culture = manchu
+		religion = shinto
+		size= 127
+	}
+
+	soldiers=
+	{
+		culture = manchu
+		religion = shinto
 		size= 66
 	}
 
+	artisans=
+	{
+		culture = manchu
+		religion = shinto
+		size= 865
+	}
+
+	clergymen=
+	{
+		culture = manchu
+		religion = shinto
+		size= 41
+	}
+
+	bureaucrats=
+	{
+		culture = manchu
+		religion = shinto
+		size= 12
+	}
+
+	officers=
+	{
+		culture = manchu
+		religion = shinto
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = manchu
+		religion = shinto
+		size= 52
+	}
+
 	farmers=
+	{
+		culture = manchu
+		religion = shinto
+		size= 2156
+	}
+
+	bureaucrats=
 	{
 		culture = manchu
 		religion = tengri_pagan_reformed
-		size= 11174
-	}
-
-	slaves=
-	{
-		culture = manchu
-		religion = shinto
-		size= 162
-	}
-
-	soldiers=
-	{
-		culture = manchu
-		religion = shinto
-		size= 119
-	}
-
-	artisans=
-	{
-		culture = manchu
-		religion = shinto
-		size= 1197
-	}
-
-	clergymen=
-	{
-		culture = manchu
-		religion = shinto
-		size= 64
-	}
-
-	bureaucrats=
-	{
-		culture = manchu
-		religion = shinto
-		size= 8
+		size= 22
 	}
 
 	officers=
 	{
 		culture = manchu
-		religion = shinto
-		size= 18
-	}
-
-	aristocrats=
-	{
-		culture = manchu
-		religion = shinto
-		size= 72
-	}
-
-	farmers=
-	{
-		culture = manchu
-		religion = shinto
-		size= 2602
-	}
-
-	slaves=
-	{
-		culture = manchu
-		religion = nestorian
-		size= 205
-	}
-
-	soldiers=
-	{
-		culture = manchu
-		religion = nestorian
-		size= 150
-	}
-
-	artisans=
-	{
-		culture = manchu
-		religion = nestorian
-		size= 931
-	}
-
-	clergymen=
-	{
-		culture = manchu
-		religion = nestorian
-		size= 50
-	}
-
-	aristocrats=
-	{
-		culture = manchu
-		religion = nestorian
-		size= 56
-	}
-
-	farmers=
-	{
-		culture = manchu
-		religion = nestorian
-		size= 3931
-	}
-
-	bureaucrats=
-	{
-		culture = manchu
-		religion = nestorian
-		size= 6
-	}
-
-	officers=
-	{
-		culture = manchu
-		religion = nestorian
-		size= 14
+		religion = tengri_pagan_reformed
+		size= 10
 	}
 
 }
@@ -12939,7 +12953,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 1033
+		size= 46
 	}
 
 	artisans=
@@ -12981,7 +12995,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 1114
+		size= 2101
 	}
 
 }
@@ -13132,14 +13146,14 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 1033
+		size= 863
 	}
 
 	farmers=
 	{
 		culture = russian
 		religion = orthodox
-		size= 38466
+		size= 38636
 	}
 
 }
@@ -14334,7 +14348,7 @@
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
-		size= 184
+		size= 1033
 	}
 
 	artisans=
@@ -14376,7 +14390,7 @@
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
-		size= 8928
+		size= 8079
 	}
 
 	artisans=
@@ -17360,7 +17374,7 @@
 	{
 		culture = manchu
 		religion = nestorian
-		size= 1033
+		size= 89
 	}
 
 	artisans=
@@ -17402,7 +17416,7 @@
 	{
 		culture = manchu
 		religion = nestorian
-		size= 2932
+		size= 3876
 	}
 
 	slaves=

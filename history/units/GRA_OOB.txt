@@ -531,7 +531,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Faro Frigate"
+		name="2nd Huelva Frigate"
 		type=frigate
 	}
 }
@@ -555,15 +555,15 @@ navy = {
 	name="Alboran Sea Squadron"
 	location=527
 	ship = {
-		name="1st São Tomé Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="1st Faro Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
 		name="2nd Faro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Faro Clipper Transport"
 		type=clipper_transport
 	}
 }

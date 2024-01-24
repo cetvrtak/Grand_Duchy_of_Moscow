@@ -613,11 +613,6 @@ army = {
 	name="Armée de Urgell"
 	location=412
 	regiment = {
-		name="1st Pamplona Infantry"
-		type=infantry
-		home=493
-	}
-	regiment = {
 		name="1st Valencia Infantry"
 		type=infantry
 		home=503
@@ -628,39 +623,44 @@ army = {
 		home=503
 	}
 	regiment = {
+		name="1st Tulle Infantry"
+		type=infantry
+		home=447
+	}
+	regiment = {
 		name="3rd Valencia Infantry"
 		type=infantry
 		home=503
 	}
 	regiment = {
-		name="1st Mont de Marsan Infantry"
+		name="1st Granada Infantry"
 		type=infantry
-		home=459
+		home=513
 	}
 	regiment = {
-		name="4th Valencia Infantry"
+		name="1st Pamplona Infantry"
 		type=infantry
-		home=503
+		home=493
 	}
 	regiment = {
-		name="1st Tlemcen Artillery"
+		name="1st Ciudad Real Artillery"
 		type=artillery
-		home=1705
+		home=491
 	}
 	regiment = {
-		name="1st Valence Artillery"
+		name="1st Alicante Artillery"
 		type=artillery
-		home=453
+		home=505
 	}
 	regiment = {
-		name="1st Ghent Infantry"
+		name="1st Lille Infantry"
 		type=infantry
-		home=389
+		home=399
 	}
 	regiment = {
-		name="1st Medea Artillery"
+		name="1st Ajdir Artillery"
 		type=artillery
-		home=1703
+		home=1688
 	}
 }
 
@@ -673,14 +673,14 @@ army = {
 		home=425
 	}
 	regiment = {
-		name="1st Valencia Artillery"
+		name="1st Tulle Artillery"
 		type=artillery
-		home=503
+		home=447
 	}
 	regiment = {
-		name="20th Valencia Infantry"
+		name="2nd Rouen Infantry"
 		type=infantry
-		home=503
+		home=415
 	}
 }
 
@@ -698,48 +698,58 @@ army = {
 	name="Armée de Beja"
 	location=412
 	regiment = {
+		name="1st St Brieuc Infantry"
+		type=infantry
+		home=421
+	}
+	regiment = {
+		name="1st Alençon Infantry"
+		type=infantry
+		home=417
+	}
+	regiment = {
+		name="1st Mont de Marsan Infantry"
+		type=infantry
+		home=459
+	}
+	regiment = {
+		name="1st Ciudad Real Infantry"
+		type=infantry
+		home=491
+	}
+	regiment = {
+		name="1st Pau Infantry"
+		type=infantry
+		home=460
+	}
+	regiment = {
 		name="1st Macon Infantry"
 		type=infantry
 		home=431
 	}
 	regiment = {
-		name="1st Clermont-Ferrand Infantry"
+		name="2nd Pau Infantry"
 		type=infantry
-		home=448
+		home=460
 	}
 	regiment = {
-		name="1st Melun Infantry"
+		name="1st Toledo Infantry"
 		type=infantry
-		home=427
+		home=489
 	}
 	regiment = {
-		name="2nd Melun Infantry"
+		name="1st Ceuta Infantry"
 		type=infantry
-		home=427
+		home=2590
 	}
 	regiment = {
-		name="1st Dunkirk Infantry"
-		type=infantry
-		home=400
+		name="1st Mont de Marsan Artillery"
+		type=artillery
+		home=459
 	}
 	regiment = {
-		name="1st Huesca Infantry"
-		type=infantry
-		home=496
-	}
-	regiment = {
-		name="2nd Paris Infantry"
-		type=infantry
-		home=425
-	}
-	regiment = {
-		name="1st Caen Infantry"
-		type=infantry
-		home=418
-	}
-	regiment = {
-		name="1st Ciudad Real Infantry"
-		type=infantry
+		name="2nd Ciudad Real Artillery"
+		type=artillery
 		home=491
 	}
 	regiment = {
@@ -748,19 +758,9 @@ army = {
 		home=1707
 	}
 	regiment = {
-		name="1st Ciudad Real Artillery"
+		name="1st Zaragoza Artillery"
 		type=artillery
-		home=491
-	}
-	regiment = {
-		name="1st Pau Artillery"
-		type=artillery
-		home=460
-	}
-	regiment = {
-		name="2nd Mascara Artillery"
-		type=artillery
-		home=1707
+		home=495
 	}
 }
 
@@ -768,79 +768,29 @@ army = {
 	name="Armée d'Italie"
 	location=577
 	regiment = {
-		name="1st Tlemcen Infantry"
+		name="1st Valence Infantry"
 		type=infantry
-		home=1705
+		home=453
 	}
 	regiment = {
-		name="1st Meknes Infantry"
+		name="1st Caen Infantry"
 		type=infantry
-		home=1682
+		home=418
 	}
 	regiment = {
-		name="1st Jaén Infantry"
+		name="2nd Valence Infantry"
 		type=infantry
-		home=516
+		home=453
 	}
 	regiment = {
-		name="1st Rabat Infantry"
+		name="1st Huribka Infantry"
 		type=infantry
-		home=1685
+		home=1692
 	}
 	regiment = {
-		name="5th Valencia Infantry"
+		name="2nd Pamplona Infantry"
 		type=infantry
-		home=503
-	}
-	regiment = {
-		name="1st Mascara Infantry"
-		type=infantry
-		home=1707
-	}
-	regiment = {
-		name="1st Laghwat Artillery"
-		type=artillery
-		home=1713
-	}
-	regiment = {
-		name="1st Albacete Artillery"
-		type=artillery
-		home=508
-	}
-	regiment = {
-		name="1st Soria Artillery"
-		type=artillery
-		home=481
-	}
-	regiment = {
-		name="1st Figuig Infantry"
-		type=infantry
-		home=1697
-	}
-	regiment = {
-		name="3rd Laghwat Artillery"
-		type=artillery
-		home=1713
-	}
-}
-
-army = {
-	name="Armée de l'Est"
-	location=379
-	regiment = {
-		name="1st Poitiers Infantry"
-		type=infantry
-		home=443
-	}
-	regiment = {
-		name="2nd Tlemcen Infantry"
-		type=infantry
-		home=1705
-	}
-	regiment = {
-		name="1st Tetouan Infantry"
-		type=infantry
-		home=1687
+		home=493
 	}
 	regiment = {
 		name="1st Ouargla Infantry"
@@ -848,19 +798,64 @@ army = {
 		home=1711
 	}
 	regiment = {
+		name="2nd Mont de Marsan Artillery"
+		type=artillery
+		home=459
+	}
+	regiment = {
+		name="1st Naama Artillery"
+		type=artillery
+		home=1715
+	}
+	regiment = {
+		name="1st Laghwat Artillery"
+		type=artillery
+		home=1713
+	}
+	regiment = {
+		name="1st Rodez Infantry"
+		type=infantry
+		home=462
+	}
+	regiment = {
+		name="3rd Ciudad Real Artillery"
+		type=artillery
+		home=491
+	}
+}
+
+army = {
+	name="Armée de l'Est"
+	location=379
+	regiment = {
+		name="1st Tlemcen Infantry"
+		type=infantry
+		home=1705
+	}
+	regiment = {
+		name="2nd Ouargla Infantry"
+		type=infantry
+		home=1711
+	}
+	regiment = {
+		name="3rd Valence Infantry"
+		type=infantry
+		home=453
+	}
+	regiment = {
+		name="1st Tetouan Infantry"
+		type=infantry
+		home=1687
+	}
+	regiment = {
 		name="1st Wujda Infantry"
 		type=infantry
 		home=1684
 	}
 	regiment = {
-		name="1st Murcia Infantry"
+		name="2nd Caen Infantry"
 		type=infantry
-		home=507
-	}
-	regiment = {
-		name="1st Toulouse Artillery"
-		type=artillery
-		home=455
+		home=418
 	}
 	regiment = {
 		name="1st Dunkirk Artillery"
@@ -873,19 +868,24 @@ army = {
 		home=424
 	}
 	regiment = {
-		name="1st Zaragoza Artillery"
+		name="2nd Zaragoza Artillery"
 		type=artillery
 		home=495
 	}
 	regiment = {
-		name="1st Sigüenza Infantry"
-		type=infantry
-		home=488
+		name="2nd Rennes Artillery"
+		type=artillery
+		home=424
 	}
 	regiment = {
-		name="1st Melun Artillery"
+		name="4th Valence Infantry"
+		type=infantry
+		home=453
+	}
+	regiment = {
+		name="4th Alençon Artillery"
 		type=artillery
-		home=427
+		home=417
 	}
 }
 
@@ -954,7 +954,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Pau Man'o'war"
+		name="1st Bordeaux Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -967,24 +967,19 @@ army = {
 	name="Armée de Bretagne"
 	location=381
 	regiment = {
-		name="1st Logroño Infantry"
+		name="4th Valencia Infantry"
 		type=infantry
-		home=494
+		home=503
 	}
 	regiment = {
-		name="3rd Paris Infantry"
+		name="5th Valencia Infantry"
+		type=infantry
+		home=503
+	}
+	regiment = {
+		name="2nd Paris Infantry"
 		type=infantry
 		home=425
-	}
-	regiment = {
-		name="1st Teruel Infantry"
-		type=infantry
-		home=497
-	}
-	regiment = {
-		name="2nd Ouargla Infantry"
-		type=infantry
-		home=1711
 	}
 	regiment = {
 		name="6th Valencia Infantry"
@@ -997,104 +992,9 @@ army = {
 		home=503
 	}
 	regiment = {
-		name="1st Vannes Infantry"
+		name="2nd Toledo Infantry"
 		type=infantry
-		home=422
-	}
-	regiment = {
-		name="1st Alençon Artillery"
-		type=artillery
-		home=417
-	}
-	regiment = {
-		name="1st Caen Artillery"
-		type=artillery
-		home=418
-	}
-	regiment = {
-		name="2nd Caen Artillery"
-		type=artillery
-		home=418
-	}
-	regiment = {
-		name="1st Cuenca Infantry"
-		type=infantry
-		home=490
-	}
-	regiment = {
-		name="2nd Channel Islands Artillery"
-		type=artillery
-		home=419
-	}
-}
-
-army = {
-	name="Armée des Alpes"
-	location=576
-	regiment = {
-		name="1st Albacete Infantry"
-		type=infantry
-		home=508
-	}
-	regiment = {
-		name="2nd Mont de Marsan Infantry"
-		type=infantry
-		home=459
-	}
-	regiment = {
-		name="1st Rouen Infantry"
-		type=infantry
-		home=415
-	}
-	regiment = {
-		name="1st Châteauroux Infantry"
-		type=infantry
-		home=446
-	}
-	regiment = {
-		name="3rd Tlemcen Infantry"
-		type=infantry
-		home=1705
-	}
-	regiment = {
-		name="2nd Wujda Infantry"
-		type=infantry
-		home=1684
-	}
-	regiment = {
-		name="1st Toledo Artillery"
-		type=artillery
 		home=489
-	}
-	regiment = {
-		name="1st Angoulême Artillery"
-		type=artillery
-		home=444
-	}
-	regiment = {
-		name="1st Lille Infantry"
-		type=infantry
-		home=399
-	}
-	regiment = {
-		name="1st Jaén Artillery"
-		type=artillery
-		home=516
-	}
-}
-
-army = {
-	name="Armée de Nemours"
-	location=381
-	regiment = {
-		name="1st La Roche Infantry"
-		type=infantry
-		home=437
-	}
-	regiment = {
-		name="2nd Mascara Infantry"
-		type=infantry
-		home=1707
 	}
 	regiment = {
 		name="8th Valencia Infantry"
@@ -1102,64 +1002,49 @@ army = {
 		home=503
 	}
 	regiment = {
-		name="1st St Étienne Infantry"
-		type=infantry
-		home=452
+		name="1st Granada Artillery"
+		type=artillery
+		home=513
 	}
 	regiment = {
-		name="1st Seville Infantry"
-		type=infantry
-		home=509
-	}
-	regiment = {
-		name="2nd Clermont-Ferrand Infantry"
-		type=infantry
-		home=448
-	}
-	regiment = {
-		name="1st Foix Infantry"
-		type=infantry
-		home=457
-	}
-	regiment = {
-		name="1st Córdoba Infantry"
-		type=infantry
+		name="1st Córdoba Artillery"
+		type=artillery
 		home=510
 	}
 	regiment = {
-		name="2nd Valence Artillery"
+		name="1st Alençon Artillery"
 		type=artillery
-		home=453
+		home=417
 	}
 	regiment = {
-		name="1st Meknes Artillery"
-		type=artillery
-		home=1682
-	}
-	regiment = {
-		name="1st Cuenca Artillery"
-		type=artillery
-		home=490
-	}
-	regiment = {
-		name="1st Ghent Artillery"
-		type=artillery
-		home=389
-	}
-	regiment = {
-		name="4th Paris Infantry"
+		name="1st Nantes Infantry"
 		type=infantry
-		home=425
+		home=423
+	}
+	regiment = {
+		name="4th Laghwat Artillery"
+		type=artillery
+		home=1713
 	}
 }
 
 army = {
-	name="Armée des Flandres"
-	location=519
+	name="Armée des Alpes"
+	location=576
 	regiment = {
-		name="2nd Caen Infantry"
+		name="2nd Wujda Infantry"
 		type=infantry
-		home=418
+		home=1684
+	}
+	regiment = {
+		name="1st Rabat Infantry"
+		type=infantry
+		home=1685
+	}
+	regiment = {
+		name="1st Cartagena Infantry"
+		type=infantry
+		home=506
 	}
 	regiment = {
 		name="9th Valencia Infantry"
@@ -1167,9 +1052,44 @@ army = {
 		home=503
 	}
 	regiment = {
+		name="2nd Mont de Marsan Infantry"
+		type=infantry
+		home=459
+	}
+	regiment = {
 		name="10th Valencia Infantry"
 		type=infantry
 		home=503
+	}
+	regiment = {
+		name="2nd Paris Artillery"
+		type=artillery
+		home=425
+	}
+	regiment = {
+		name="1st Arras Artillery"
+		type=artillery
+		home=401
+	}
+	regiment = {
+		name="3rd Paris Infantry"
+		type=infantry
+		home=425
+	}
+	regiment = {
+		name="2nd Angoulême Artillery"
+		type=artillery
+		home=444
+	}
+}
+
+army = {
+	name="Armée de Nemours"
+	location=381
+	regiment = {
+		name="2nd Granada Infantry"
+		type=infantry
+		home=513
 	}
 	regiment = {
 		name="11th Valencia Infantry"
@@ -1177,9 +1097,19 @@ army = {
 		home=503
 	}
 	regiment = {
-		name="2nd Rouen Infantry"
+		name="1st La Rochelle Infantry"
 		type=infantry
-		home=415
+		home=442
+	}
+	regiment = {
+		name="2nd Ciudad Real Infantry"
+		type=infantry
+		home=491
+	}
+	regiment = {
+		name="2nd Rabat Infantry"
+		type=infantry
+		home=1685
 	}
 	regiment = {
 		name="12th Valencia Infantry"
@@ -1187,82 +1117,72 @@ army = {
 		home=503
 	}
 	regiment = {
+		name="1st Córdoba Infantry"
+		type=infantry
+		home=510
+	}
+	regiment = {
 		name="13th Valencia Infantry"
 		type=infantry
 		home=503
 	}
 	regiment = {
-		name="1st Gibraltar Artillery"
+		name="1st Caen Artillery"
 		type=artillery
-		home=517
+		home=418
 	}
 	regiment = {
-		name="2nd Ciudad Real Artillery"
+		name="1st Orléans Artillery"
 		type=artillery
-		home=491
+		home=438
 	}
 	regiment = {
-		name="3rd Ciudad Real Artillery"
+		name="1st Valence Artillery"
 		type=artillery
-		home=491
+		home=453
 	}
-}
-
-navy = {
-	name="Escadre Bleue"
-	location=388
-	ship = {
-		name="1st Leeuwarden Clipper Transport"
-		type=clipper_transport
+	regiment = {
+		name="2nd Valence Artillery"
+		type=artillery
+		home=453
 	}
-	ship = {
-		name="1st Vannes Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Vannes Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Leeuwarden Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Leeuwarden Clipper Transport"
-		type=clipper_transport
+	regiment = {
+		name="2nd Córdoba Infantry"
+		type=infantry
+		home=510
 	}
 }
 
 army = {
-	name="Armée du Jura"
-	location=379
+	name="Armée des Flandres"
+	location=519
 	regiment = {
 		name="14th Valencia Infantry"
 		type=infantry
 		home=503
 	}
 	regiment = {
-		name="2nd Tetouan Infantry"
+		name="2nd Tlemcen Infantry"
 		type=infantry
-		home=1687
-	}
-	regiment = {
-		name="1st Málaga Infantry"
-		type=infantry
-		home=514
-	}
-	regiment = {
-		name="1st Granada Infantry"
-		type=infantry
-		home=513
-	}
-	regiment = {
-		name="3rd Tetouan Infantry"
-		type=infantry
-		home=1687
+		home=1705
 	}
 	regiment = {
 		name="15th Valencia Infantry"
+		type=infantry
+		home=503
+	}
+	regiment = {
+		name="3rd Tlemcen Infantry"
+		type=infantry
+		home=1705
+	}
+	regiment = {
+		name="16th Valencia Infantry"
+		type=infantry
+		home=503
+	}
+	regiment = {
+		name="17th Valencia Infantry"
 		type=infantry
 		home=503
 	}
@@ -1272,19 +1192,99 @@ army = {
 		home=1705
 	}
 	regiment = {
-		name="2nd Tlemcen Artillery"
+		name="2nd Caen Artillery"
 		type=artillery
-		home=1705
+		home=418
 	}
 	regiment = {
-		name="1st Cartagena Artillery"
+		name="2nd Alençon Artillery"
 		type=artillery
-		home=506
+		home=417
 	}
 	regiment = {
-		name="1st Channel Islands Artillery"
+		name="1st Toledo Artillery"
 		type=artillery
+		home=489
+	}
+}
+
+navy = {
+	name="Escadre Bleue"
+	location=388
+	ship = {
+		name="1st Tallahassee Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Middelburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Arnhem Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Leeuwarden Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bruges Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Armée du Jura"
+	location=379
+	regiment = {
+		name="1st Channel Islands Infantry"
+		type=infantry
 		home=419
+	}
+	regiment = {
+		name="1st Ajdir Infantry"
+		type=infantry
+		home=1688
+	}
+	regiment = {
+		name="1st Clermont-Ferrand Infantry"
+		type=infantry
+		home=448
+	}
+	regiment = {
+		name="18th Valencia Infantry"
+		type=infantry
+		home=503
+	}
+	regiment = {
+		name="2nd Ajdir Infantry"
+		type=infantry
+		home=1688
+	}
+	regiment = {
+		name="1st Medea Infantry"
+		type=infantry
+		home=1703
+	}
+	regiment = {
+		name="1st Cádiz Infantry"
+		type=infantry
+		home=512
+	}
+	regiment = {
+		name="1st Ghent Artillery"
+		type=artillery
+		home=389
+	}
+	regiment = {
+		name="1st Cádiz Artillery"
+		type=artillery
+		home=512
+	}
+	regiment = {
+		name="1st Huribka Artillery"
+		type=artillery
+		home=1692
 	}
 	regiment = {
 		name="1st Moulins Infantry"
@@ -1349,23 +1349,23 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Carcassonne Man'o'war"
+		name="6th French Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Ajdir Man'o'war"
+		name="2nd Cádiz Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Bruges Man'o'war"
+		name="2nd Cartagena Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Nantes Man'o'war"
+		name="1st Melilla Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st St Brieuc Man'o'war"
+		name="4th Brighton Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1373,39 +1373,63 @@ navy = {
 		type=frigate
 	}
 	ship = {
+		name="3rd Balearic Islands Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Montpellier Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Caen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Saint Kitts Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Barcelona Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Gibraltar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Balearic Islands Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Oran Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
 		name="1st Ajdir Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Oran Clipper Transport"
+		name="5th Balearic Islands Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Balearic Islands Clipper Transport"
+		name="1st Málaga Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Balearic Islands Clipper Transport"
+		name="2nd Málaga Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Cartagena Clipper Transport"
+		name="6th Balearic Islands Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Melilla Clipper Transport"
+		name="2nd Fernando Pó Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Gerona Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st São Luís Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Cartagena Clipper Transport"
+		name="1st Almería Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -1413,35 +1437,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="8th Macapá Clipper Transport"
+		name="1st Savannah Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Bordeaux Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st La Rochelle Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Mustaghanim Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Mustaghanim Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd La Rochelle Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Amiens Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Castellón Clipper Transport"
+		name="7th Balearic Islands Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -1453,11 +1453,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Norfolk Clipper Transport"
+		name="2nd Savannah Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Oran Clipper Transport"
+		name="2nd Cádiz Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -1466,19 +1466,19 @@ army = {
 	name="Armée de Vizcaya"
 	location=397
 	regiment = {
-		name="2nd Valencia Artillery"
+		name="1st Angoulême Artillery"
 		type=artillery
-		home=503
+		home=444
 	}
 	regiment = {
-		name="1st Rabat Artillery"
+		name="1st Tetouan Artillery"
 		type=artillery
-		home=1685
+		home=1687
 	}
 	regiment = {
-		name="2nd Cádiz Artillery"
+		name="1st Fez Artillery"
 		type=artillery
-		home=512
+		home=1680
 	}
 }
 
@@ -1486,39 +1486,34 @@ army = {
 	name="Armée de Fez"
 	location=397
 	regiment = {
-		name="1st Montauban Infantry"
-		type=infantry
-		home=456
-	}
-	regiment = {
-		name="16th Valencia Infantry"
+		name="19th Valencia Infantry"
 		type=infantry
 		home=503
 	}
 	regiment = {
-		name="1st Oran Infantry"
+		name="3rd Pau Infantry"
 		type=infantry
-		home=1704
+		home=460
 	}
 	regiment = {
-		name="17th Valencia Infantry"
+		name="20th Valencia Infantry"
 		type=infantry
 		home=503
 	}
 	regiment = {
-		name="3rd Mont de Marsan Infantry"
+		name="1st Rouen Infantry"
 		type=infantry
-		home=459
+		home=415
 	}
 	regiment = {
-		name="1st Angers Infantry"
+		name="21st Valencia Infantry"
 		type=infantry
-		home=434
+		home=503
 	}
 	regiment = {
-		name="2nd Gibraltar Artillery"
-		type=artillery
-		home=517
+		name="22nd Valencia Infantry"
+		type=infantry
+		home=503
 	}
 	regiment = {
 		name="1st Seville Artillery"
@@ -1526,9 +1521,14 @@ army = {
 		home=509
 	}
 	regiment = {
-		name="1st Orléans Infantry"
+		name="1st Gibraltar Artillery"
+		type=artillery
+		home=517
+	}
+	regiment = {
+		name="1st Angers Infantry"
 		type=infantry
-		home=438
+		home=434
 	}
 }
 
@@ -1536,19 +1536,19 @@ army = {
 	name="Armée de Gharb"
 	location=482
 	regiment = {
-		name="1st Blois Infantry"
+		name="2nd Clermont-Ferrand Infantry"
 		type=infantry
-		home=440
+		home=448
 	}
 	regiment = {
-		name="1st Cádiz Artillery"
+		name="1st Aurillac Artillery"
 		type=artillery
-		home=512
+		home=449
 	}
 	regiment = {
-		name="1st Oran Artillery"
+		name="2nd Ghent Artillery"
 		type=artillery
-		home=1704
+		home=389
 	}
 }
 
@@ -1561,9 +1561,9 @@ army = {
 		home=1713
 	}
 	regiment = {
-		name="1st Montauban Artillery"
+		name="3rd Laghwat Artillery"
 		type=artillery
-		home=456
+		home=1713
 	}
 }
 
@@ -1571,59 +1571,59 @@ army = {
 	name="Armée de Kwaiailk"
 	location=3
 	regiment = {
-		name="2nd Foix Infantry"
+		name="1st Toulouse Infantry"
+		type=infantry
+		home=455
+	}
+	regiment = {
+		name="2nd Toulouse Infantry"
+		type=infantry
+		home=455
+	}
+	regiment = {
+		name="1st Alicante Infantry"
+		type=infantry
+		home=505
+	}
+	regiment = {
+		name="1st Albacete Infantry"
+		type=infantry
+		home=508
+	}
+	regiment = {
+		name="1st Cuenca Infantry"
+		type=infantry
+		home=490
+	}
+	regiment = {
+		name="3rd Toulouse Infantry"
+		type=infantry
+		home=455
+	}
+	regiment = {
+		name="1st Toulouse Artillery"
+		type=artillery
+		home=455
+	}
+	regiment = {
+		name="1st Le Mans Artillery"
+		type=artillery
+		home=436
+	}
+	regiment = {
+		name="3rd Alençon Artillery"
+		type=artillery
+		home=417
+	}
+	regiment = {
+		name="1st Channel Islands Artillery"
+		type=artillery
+		home=419
+	}
+	regiment = {
+		name="1st Foix Infantry"
 		type=infantry
 		home=457
-	}
-	regiment = {
-		name="2nd Seville Infantry"
-		type=infantry
-		home=509
-	}
-	regiment = {
-		name="3rd Seville Infantry"
-		type=infantry
-		home=509
-	}
-	regiment = {
-		name="2nd Teruel Infantry"
-		type=infantry
-		home=497
-	}
-	regiment = {
-		name="18th Valencia Infantry"
-		type=infantry
-		home=503
-	}
-	regiment = {
-		name="19th Valencia Infantry"
-		type=infantry
-		home=503
-	}
-	regiment = {
-		name="1st Aurillac Artillery"
-		type=artillery
-		home=449
-	}
-	regiment = {
-		name="1st Rouen Artillery"
-		type=artillery
-		home=415
-	}
-	regiment = {
-		name="1st Amiens Artillery"
-		type=artillery
-		home=402
-	}
-	regiment = {
-		name="1st St Brieuc Artillery"
-		type=artillery
-		home=421
-	}
-	regiment = {
-		name="3rd Teruel Infantry"
-		type=infantry
-		home=497
 	}
 }
 

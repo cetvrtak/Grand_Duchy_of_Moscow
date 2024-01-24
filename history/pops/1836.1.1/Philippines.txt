@@ -650,7 +650,7 @@
 	{
 		culture = filipino
 		religion = hindu
-		size= 7233
+		size= 4133
 	}
 
 	artisans=
@@ -692,7 +692,7 @@
 	{
 		culture = filipino
 		religion = hindu
-		size= 20564
+		size= 23664
 	}
 
 }
@@ -766,7 +766,7 @@
 	{
 		culture = filipino
 		religion = animist
-		size= 3664
+		size= 4133
 	}
 
 	artisans=
@@ -808,7 +808,7 @@
 	{
 		culture = filipino
 		religion = animist
-		size= 47552
+		size= 47083
 	}
 
 	slaves=
@@ -873,7 +873,7 @@
 	{
 		culture = filipino
 		religion = animist
-		size= 4133
+		size= 1863
 	}
 
 	artisans=
@@ -915,7 +915,7 @@
 	{
 		culture = filipino
 		religion = animist
-		size= 27229
+		size= 29499
 	}
 
 	soldiers=

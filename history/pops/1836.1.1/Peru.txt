@@ -24,7 +24,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 7353
+		size= 8283
 	}
 
 	artisans=
@@ -59,7 +59,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 1033
+		size= 103
 	}
 
 	officers=
@@ -373,7 +373,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 1885
+		size= 875
 	}
 
 	artisans=
@@ -401,7 +401,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 23
+		size= 1033
 	}
 
 	bureaucrats=
@@ -487,7 +487,7 @@
 	{
 		culture = quechua
 		religion = catholic
-		size= 4133
+		size= 1033
 	}
 
 	artisans=
@@ -529,7 +529,7 @@
 	{
 		culture = quechua
 		religion = catholic
-		size= 9978
+		size= 13078
 	}
 
 	soldiers=
@@ -1088,7 +1088,7 @@
 	{
 		culture = quechua
 		religion = catholic
-		size= 654
+		size= 1033
 	}
 
 	artisans=
@@ -1130,7 +1130,7 @@
 	{
 		culture = quechua
 		religion = catholic
-		size= 9633
+		size= 9254
 	}
 
 	soldiers=
@@ -1286,7 +1286,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 92
+		size= 1033
 	}
 
 	artisans=
@@ -1328,7 +1328,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 2871
+		size= 1930
 	}
 
 }
@@ -1775,7 +1775,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 105
+		size= 1033
 	}
 
 	artisans=
@@ -1817,7 +1817,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 4686
+		size= 3758
 	}
 
 	slaves=
@@ -1945,7 +1945,7 @@
 	{
 		culture = quechua
 		religion = inti
-		size= 86
+		size= 1033
 	}
 
 	artisans=
@@ -1987,7 +1987,7 @@
 	{
 		culture = quechua
 		religion = inti
-		size= 7932
+		size= 6985
 	}
 
 	slaves=
@@ -2940,7 +2940,7 @@
 	{
 		culture = quechua
 		religion = catholic
-		size= 974
+		size= 1033
 	}
 
 	artisans=
@@ -2982,7 +2982,7 @@
 	{
 		culture = quechua
 		religion = catholic
-		size= 21498
+		size= 21439
 	}
 
 	slaves=
@@ -3201,7 +3201,7 @@
 	{
 		culture = aimara
 		religion = catholic
-		size= 1033
+		size= 394
 	}
 
 	artisans=
@@ -3243,7 +3243,7 @@
 	{
 		culture = aimara
 		religion = catholic
-		size= 5054
+		size= 5693
 	}
 
 	soldiers=
@@ -3765,14 +3765,14 @@
 	{
 		culture = aimara
 		religion = inti
-		size= 1033
+		size= 264
 	}
 
 	farmers=
 	{
 		culture = aimara
 		religion = inti
-		size= 3314
+		size= 4083
 	}
 
 	slaves=
@@ -3954,7 +3954,7 @@
 	{
 		culture = incacunapic
 		religion = catholic
-		size= 1033
+		size= 292
 	}
 
 	artisans=
@@ -3996,7 +3996,7 @@
 	{
 		culture = incacunapic
 		religion = catholic
-		size= 3338
+		size= 4079
 	}
 
 }

@@ -661,7 +661,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 13433
+		size= 4729
 	}
 
 	artisans=
@@ -703,7 +703,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 56621
+		size= 65325
 	}
 
 }
@@ -798,7 +798,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 10333
+		size= 8572
 	}
 
 	artisans=
@@ -840,7 +840,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 66132
+		size= 67893
 	}
 
 	soldiers=
@@ -1475,7 +1475,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 2631
+		size= 7233
 	}
 
 	artisans=
@@ -1517,7 +1517,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 35838
+		size= 31236
 	}
 
 	soldiers=
@@ -2219,7 +2219,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 4921
+		size= 10333
 	}
 
 	artisans=
@@ -2261,7 +2261,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 85453
+		size= 80041
 	}
 
 	soldiers=
@@ -2419,7 +2419,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 4133
+		size= 2927
 	}
 
 	artisans=
@@ -2461,7 +2461,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 49848
+		size= 51054
 	}
 
 	soldiers=
@@ -2519,7 +2519,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 13433
+		size= 10333
 	}
 
 	artisans=
@@ -2561,7 +2561,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 140837
+		size= 143937
 	}
 
 	soldiers=
@@ -3156,7 +3156,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 7233
+		size= 16533
 	}
 
 	artisans=
@@ -3198,7 +3198,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 81742
+		size= 72442
 	}
 
 	soldiers=
@@ -3256,7 +3256,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 10333
+		size= 1265
 	}
 
 	artisans=
@@ -3298,7 +3298,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 27302
+		size= 36370
 	}
 
 	soldiers=
@@ -4182,7 +4182,7 @@
 	{
 		culture = guiscard
 		religion = catholic
-		size= 5540
+		size= 7233
 	}
 
 	artisans=
@@ -4224,7 +4224,7 @@
 	{
 		culture = guiscard
 		religion = catholic
-		size= 75959
+		size= 74266
 	}
 
 }
@@ -4426,7 +4426,7 @@
 	{
 		culture = guiscard
 		religion = catholic
-		size= 10333
+		size= 16533
 	}
 
 	artisans=
@@ -4468,7 +4468,7 @@
 	{
 		culture = guiscard
 		religion = catholic
-		size= 81272
+		size= 75072
 	}
 
 }

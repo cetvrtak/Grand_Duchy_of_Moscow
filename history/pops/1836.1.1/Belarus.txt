@@ -722,7 +722,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 1033
+		size= 607
 	}
 
 	artisans=
@@ -764,7 +764,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 21986
+		size= 22412
 	}
 
 	soldiers=
@@ -1185,7 +1185,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 4133
+		size= 2991
 	}
 
 	artisans=
@@ -1227,7 +1227,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 113864
+		size= 115006
 	}
 
 	clergymen=

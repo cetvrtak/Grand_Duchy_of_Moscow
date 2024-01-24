@@ -2736,7 +2736,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 4133
+		size= 13433
 	}
 
 	craftsmen=
@@ -2799,7 +2799,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 24661
+		size= 15361
 	}
 
 }
@@ -3501,7 +3501,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 4133
+		size= 177
 	}
 
 	artisans=
@@ -3543,7 +3543,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 3334
+		size= 7290
 	}
 
 }
@@ -3552,7 +3552,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 7233
+		size= 1033
 	}
 
 	artisans=
@@ -3594,7 +3594,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 6956
+		size= 13156
 	}
 
 }
@@ -5253,7 +5253,7 @@
 	{
 		culture = vinlander
 		religion = catholic
-		size= 2790
+		size= 1936
 	}
 
 	artisans=
@@ -5267,7 +5267,7 @@
 	{
 		culture = vinlander
 		religion = catholic
-		size= 179
+		size= 1033
 	}
 
 	clergymen=
@@ -6033,7 +6033,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 112
+		size= 1033
 	}
 
 	artisans=
@@ -6075,7 +6075,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 1535
+		size= 614
 	}
 
 	farmers=

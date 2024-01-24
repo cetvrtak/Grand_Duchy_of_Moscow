@@ -489,13 +489,28 @@ army = {
 	name="3rd Army"
 	location=1534
 	regiment = {
-		name="1st Urga Irregulars"
+		name="1st Uriankhai Irregulars"
 		type=irregular
-		home=1465
+		home=1469
+	}
+	regiment = {
+		name="2nd Uriankhai Irregulars"
+		type=irregular
+		home=1469
 	}
 	regiment = {
 		name="1st Guihua Tumed Irregulars"
 		type=irregular
+		home=1532
+	}
+	regiment = {
+		name="1st Yeke Juu Chuulghan Irregulars"
+		type=irregular
+		home=1535
+	}
+	regiment = {
+		name="1st Guihua Tumed Artillery"
+		type=artillery
 		home=1532
 	}
 	regiment = {
@@ -504,24 +519,9 @@ army = {
 		home=1466
 	}
 	regiment = {
-		name="2nd Guihua Tumed Irregulars"
-		type=irregular
-		home=1532
-	}
-	regiment = {
-		name="1st Bulgan Artillery"
+		name="1st Urga Artillery"
 		type=artillery
-		home=2678
-	}
-	regiment = {
-		name="1st Bayan Tumen Irregulars"
-		type=irregular
-		home=1467
-	}
-	regiment = {
-		name="2nd Yeke Juu Chuulghan Artillery"
-		type=artillery
-		home=1535
+		home=1465
 	}
 }
 
@@ -529,9 +529,9 @@ army = {
 	name="2nd Army"
 	location=2207
 	regiment = {
-		name="1st Bulgan Irregulars"
+		name="1st Urga Irregulars"
 		type=irregular
-		home=2678
+		home=1465
 	}
 	regiment = {
 		name="1st Sainshand Irregulars"
@@ -539,14 +539,14 @@ army = {
 		home=2207
 	}
 	regiment = {
-		name="1st Uriankhai Irregulars"
+		name="2nd Yeke Juu Chuulghan Irregulars"
 		type=irregular
-		home=1469
+		home=1535
 	}
 	regiment = {
-		name="2nd Bulgan Irregulars"
+		name="2nd Guihua Tumed Irregulars"
 		type=irregular
-		home=2678
+		home=1532
 	}
 	regiment = {
 		name="1st Bulgan Cavalry"
@@ -554,29 +554,29 @@ army = {
 		home=2678
 	}
 	regiment = {
-		name="1st Uriankhai Artillery"
+		name="1st Bulgan Artillery"
 		type=artillery
-		home=1469
+		home=2678
 	}
 	regiment = {
-		name="1st Yeke Juu Chuulghan Artillery"
+		name="2nd Guihua Tumed Artillery"
 		type=artillery
-		home=1535
-	}
-	regiment = {
-		name="1st Yeke Juu Chuulghan Irregulars"
-		type=irregular
-		home=1535
-	}
-	regiment = {
-		name="1st Guihua Tumed Cavalry"
-		type=cavalry
 		home=1532
 	}
 	regiment = {
-		name="1st Urga Artillery"
-		type=artillery
+		name="2nd Urga Irregulars"
+		type=irregular
 		home=1465
+	}
+	regiment = {
+		name="2nd Bulgan Cavalry"
+		type=cavalry
+		home=2678
+	}
+	regiment = {
+		name="2nd Bulgan Artillery"
+		type=artillery
+		home=2678
 	}
 }
 

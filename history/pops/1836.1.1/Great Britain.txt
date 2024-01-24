@@ -152,7 +152,7 @@
 	{
 		culture = scottish
 		religion = protestant
-		size= 10333
+		size= 7233
 	}
 
 	artisans=
@@ -194,7 +194,7 @@
 	{
 		culture = scottish
 		religion = protestant
-		size= 29402
+		size= 32502
 	}
 
 }
@@ -252,7 +252,7 @@
 	{
 		culture = scottish
 		religion = protestant
-		size= 4133
+		size= 10333
 	}
 
 	artisans=
@@ -294,7 +294,7 @@
 	{
 		culture = scottish
 		religion = protestant
-		size= 43368
+		size= 37168
 	}
 
 }
@@ -652,7 +652,7 @@
 	{
 		culture = scottish
 		religion = protestant
-		size= 4133
+		size= 10333
 	}
 
 	artisans=
@@ -694,7 +694,7 @@
 	{
 		culture = scottish
 		religion = protestant
-		size= 16603
+		size= 10403
 	}
 
 }
@@ -1394,7 +1394,7 @@
 	{
 		culture = scottish
 		religion = protestant
-		size= 4133
+		size= 1919
 	}
 
 	artisans=
@@ -1436,7 +1436,7 @@
 	{
 		culture = scottish
 		religion = protestant
-		size= 27115
+		size= 29329
 	}
 
 }
@@ -1636,7 +1636,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 4430
+		size= 16533
 	}
 
 	artisans=
@@ -1678,7 +1678,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 55690
+		size= 43587
 	}
 
 }
@@ -1736,7 +1736,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 13433
+		size= 10333
 	}
 
 	artisans=
@@ -1778,7 +1778,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 38868
+		size= 41968
 	}
 
 }
@@ -1957,7 +1957,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 7233
+		size= 5712
 	}
 
 	craftsmen=
@@ -2020,7 +2020,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 64868
+		size= 66389
 	}
 
 }
@@ -2478,7 +2478,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 7233
+		size= 3479
 	}
 
 	artisans=
@@ -2520,7 +2520,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 39092
+		size= 42846
 	}
 
 }
@@ -2699,7 +2699,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 10333
+		size= 4133
 	}
 
 	craftsmen=
@@ -2762,7 +2762,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 20992
+		size= 27192
 	}
 
 }
@@ -2920,7 +2920,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 2486
+		size= 13433
 	}
 
 	artisans=
@@ -2962,7 +2962,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 30790
+		size= 19843
 	}
 
 }
@@ -3120,7 +3120,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 4133
+		size= 2743
 	}
 
 	artisans=
@@ -3162,7 +3162,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 32235
+		size= 33625
 	}
 
 }
@@ -3520,7 +3520,7 @@
 	{
 		culture = welsh
 		religion = protestant
-		size= 10333
+		size= 7233
 	}
 
 	artisans=
@@ -3562,7 +3562,7 @@
 	{
 		culture = welsh
 		religion = protestant
-		size= 83032
+		size= 86132
 	}
 
 }
@@ -3720,7 +3720,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 22733
+		size= 25833
 	}
 
 	artisans=
@@ -3762,7 +3762,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 24063
+		size= 20963
 	}
 
 }
@@ -3820,7 +3820,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 13433
+		size= 3551
 	}
 
 	artisans=
@@ -3862,7 +3862,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 33902
+		size= 43784
 	}
 
 }
@@ -4269,7 +4269,7 @@
 	{
 		culture = icelandic
 		religion = catholic
-		size= 117
+		size= 1033
 	}
 
 	artisans=
@@ -4283,7 +4283,7 @@
 	{
 		culture = icelandic
 		religion = catholic
-		size= 1827
+		size= 911
 	}
 
 	soldiers=

@@ -340,7 +340,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 25833
+		size= 22733
 	}
 
 	artisans=
@@ -382,7 +382,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 58048
+		size= 61148
 	}
 
 	clergymen=
@@ -677,7 +677,7 @@
 	{
 		culture = hungarian
 		religion = protestant
-		size= 7233
+		size= 2172
 	}
 
 	artisans=
@@ -719,7 +719,7 @@
 	{
 		culture = hungarian
 		religion = protestant
-		size= 28572
+		size= 33633
 	}
 
 }
@@ -728,7 +728,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 801
+		size= 1033
 	}
 
 	artisans=
@@ -770,7 +770,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 15540
+		size= 15308
 	}
 
 	soldiers=
@@ -956,7 +956,7 @@
 	{
 		culture = hungarian
 		religion = protestant
-		size= 4133
+		size= 13433
 	}
 
 	artisans=
@@ -998,7 +998,7 @@
 	{
 		culture = hungarian
 		religion = protestant
-		size= 32543
+		size= 23243
 	}
 
 }

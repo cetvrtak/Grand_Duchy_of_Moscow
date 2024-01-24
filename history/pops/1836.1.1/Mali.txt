@@ -124,7 +124,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 1646
+		size= 4133
 	}
 
 	artisans=
@@ -166,7 +166,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 18326
+		size= 15839
 	}
 
 	slaves=
@@ -350,7 +350,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 1790
+		size= 4133
 	}
 
 	artisans=
@@ -392,7 +392,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 14722
+		size= 12379
 	}
 
 }
@@ -580,7 +580,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 13433
+		size= 5136
 	}
 
 	artisans=
@@ -622,7 +622,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 34096
+		size= 42393
 	}
 
 }
@@ -638,7 +638,7 @@
 	{
 		culture = mande
 		religion = shamanism
-		size= 6829
+		size= 7233
 	}
 
 	artisans=
@@ -680,7 +680,7 @@
 	{
 		culture = mande
 		religion = shamanism
-		size= 85822
+		size= 85418
 	}
 
 }
@@ -868,7 +868,7 @@
 	{
 		culture = bambara
 		religion = shamanism
-		size= 3110
+		size= 4133
 	}
 
 	artisans=
@@ -910,7 +910,7 @@
 	{
 		culture = bambara
 		religion = shamanism
-		size= 35359
+		size= 34336
 	}
 
 }
@@ -926,7 +926,7 @@
 	{
 		culture = bambara
 		religion = sunni
-		size= 16533
+		size= 19633
 	}
 
 	artisans=
@@ -968,7 +968,7 @@
 	{
 		culture = bambara
 		religion = sunni
-		size= 34175
+		size= 31075
 	}
 
 	slaves=
@@ -1257,7 +1257,7 @@
 	{
 		culture = bambara
 		religion = sunni
-		size= 7233
+		size= 10333
 	}
 
 	artisans=
@@ -1299,7 +1299,7 @@
 	{
 		culture = bambara
 		religion = sunni
-		size= 13168
+		size= 10068
 	}
 
 }

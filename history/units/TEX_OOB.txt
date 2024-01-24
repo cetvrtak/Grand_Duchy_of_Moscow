@@ -525,21 +525,11 @@ leader = {
 #Armies
 army = {
 	name="5th Army"
-	location=2599
+	location=2631
 	regiment = {
-		name="1st Chicago Infantry"
+		name="1st Fort Pierre Infantry"
 		type=infantry
-		home=163
-	}
-	regiment = {
-		name="1st Fort Union Infantry"
-		type=infantry
-		home=119
-	}
-	regiment = {
-		name="1st Jackson Infantry"
-		type=infantry
-		home=192
+		home=122
 	}
 	regiment = {
 		name="1st Fontenelle's Post Infantry"
@@ -547,14 +537,19 @@ army = {
 		home=125
 	}
 	regiment = {
+		name="1st Jackson Infantry"
+		type=infantry
+		home=192
+	}
+	regiment = {
+		name="1st Chicago Infantry"
+		type=infantry
+		home=163
+	}
+	regiment = {
 		name="1st Peoria Infantry"
 		type=infantry
 		home=166
-	}
-	regiment = {
-		name="1st Fort Bonneville Artillery"
-		type=artillery
-		home=111
 	}
 	regiment = {
 		name="1st Indianapolis Artillery"
@@ -562,22 +557,27 @@ army = {
 		home=169
 	}
 	regiment = {
+		name="1st St Louis Artillery"
+		type=artillery
+		home=146
+	}
+	regiment = {
+		name="1st Fort Union Artillery"
+		type=artillery
+		home=119
+	}
+	regiment = {
 		name="1st Chicago Artillery"
 		type=artillery
 		home=163
 	}
 	regiment = {
-		name="1st Jackson Artillery"
-		type=artillery
-		home=192
-	}
-	regiment = {
-		name="2nd Baton Rouge Infantry"
+		name="5th Peoria Infantry"
 		type=infantry
-		home=140
+		home=166
 	}
 	regiment = {
-		name="1st Paducah Artillery"
+		name="2nd Paducah Artillery"
 		type=artillery
 		home=187
 	}
@@ -587,9 +587,9 @@ army = {
 	name="8th Army"
 	location=19
 	regiment = {
-		name="1st Lake Charles Infantry"
+		name="2nd Jackson Infantry"
 		type=infantry
-		home=141
+		home=192
 	}
 	regiment = {
 		name="1st Evansville Infantry"
@@ -597,19 +597,19 @@ army = {
 		home=170
 	}
 	regiment = {
-		name="1st St Louis Artillery"
+		name="1st Little Rock Artillery"
 		type=artillery
-		home=146
+		home=143
 	}
 	regiment = {
-		name="1st Fort Pierre Infantry"
+		name="6th Peoria Infantry"
 		type=infantry
-		home=122
+		home=166
 	}
 	regiment = {
-		name="1st Grand Rapids Artillery"
+		name="1st Paducah Artillery"
 		type=artillery
-		home=174
+		home=187
 	}
 }
 
@@ -622,39 +622,39 @@ army = {
 		home=150
 	}
 	regiment = {
-		name="2nd Kansas City Infantry"
-		type=infantry
-		home=150
-	}
-	regiment = {
-		name="1st Little Rock Infantry"
-		type=infantry
-		home=143
-	}
-	regiment = {
 		name="1st New Orleans Infantry"
 		type=infantry
 		home=139
 	}
 	regiment = {
-		name="1st Fort Gibson Infantry"
+		name="1st Rockford Infantry"
 		type=infantry
-		home=130
-	}
-	regiment = {
-		name="1st Rockford Artillery"
-		type=artillery
 		home=164
 	}
 	regiment = {
-		name="1st Memphis Artillery"
-		type=artillery
-		home=189
+		name="1st St Louis Infantry"
+		type=infantry
+		home=146
 	}
 	regiment = {
-		name="2nd Peoria Artillery"
+		name="1st Paducah Infantry"
+		type=infantry
+		home=187
+	}
+	regiment = {
+		name="1st Springfield Artillery"
 		type=artillery
-		home=166
+		home=167
+	}
+	regiment = {
+		name="1st Greenwood Artillery"
+		type=artillery
+		home=193
+	}
+	regiment = {
+		name="2nd St Louis Artillery"
+		type=artillery
+		home=146
 	}
 }
 
@@ -662,64 +662,13 @@ army = {
 	name="15th Army"
 	location=1
 	regiment = {
-		name="1st Paducah Infantry"
-		type=infantry
-		home=187
-	}
-	regiment = {
-		name="1st Springfield Infantry"
-		type=infantry
-		home=167
-	}
-	regiment = {
-		name="1st Peoria Artillery"
-		type=artillery
-		home=166
-	}
-	regiment = {
-		name="3rd Peoria Infantry"
+		name="2nd Peoria Infantry"
 		type=infantry
 		home=166
 	}
-}
-
-navy = {
-	name="3rd Fleet"
-	location=2965
-	ship = {
-		name="1st Aruba Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Biloxi Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Baton Rouge Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Biloxi Clipper Transport"
-		type=clipper_transport
-	}
-}
-
-army = {
-	name="3rd Army"
-	location=2
 	regiment = {
-		name="1st Des Moines Infantry"
+		name="1st Biloxi Infantry"
 		type=infantry
-		home=151
-	}
-	regiment = {
-		name="1st Fayetteville Infantry"
-		type=infantry
-		home=145
-	}
-	regiment = {
-		name="1st Biloxi Artillery"
-		type=artillery
 		home=194
 	}
 	regiment = {
@@ -728,9 +677,60 @@ army = {
 		home=173
 	}
 	regiment = {
-		name="4th Peoria Infantry"
+		name="1st Grand Rapids Infantry"
 		type=infantry
-		home=166
+		home=174
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2966
+	ship = {
+		name="1st Aruba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st New Orleans Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Biloxi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Aruba Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1
+	regiment = {
+		name="1st Fayetteville Infantry"
+		type=infantry
+		home=145
+	}
+	regiment = {
+		name="1st Indianapolis Infantry"
+		type=infantry
+		home=169
+	}
+	regiment = {
+		name="1st Baton Rouge Artillery"
+		type=artillery
+		home=140
+	}
+	regiment = {
+		name="1st Fort Bonneville Artillery"
+		type=artillery
+		home=111
+	}
+	regiment = {
+		name="1st Jefferson City Infantry"
+		type=infantry
+		home=149
 	}
 }
 
@@ -738,24 +738,24 @@ army = {
 	name="9th Army"
 	location=3
 	regiment = {
-		name="1st Indianapolis Infantry"
+		name="2nd Kansas City Infantry"
 		type=infantry
-		home=169
+		home=150
+	}
+	regiment = {
+		name="1st Olney Artillery"
+		type=artillery
+		home=168
+	}
+	regiment = {
+		name="3rd Jackson Infantry"
+		type=infantry
+		home=192
 	}
 	regiment = {
 		name="1st Fort Robidoux Artillery"
 		type=artillery
 		home=123
-	}
-	regiment = {
-		name="2nd Peoria Infantry"
-		type=infantry
-		home=166
-	}
-	regiment = {
-		name="1st Jefferson City Artillery"
-		type=artillery
-		home=149
 	}
 }
 
@@ -763,14 +763,14 @@ army = {
 	name="1st Army"
 	location=4
 	regiment = {
-		name="1st Baton Rouge Infantry"
+		name="3rd Peoria Infantry"
 		type=infantry
-		home=140
+		home=166
 	}
 	regiment = {
-		name="1st Olney Infantry"
+		name="4th Peoria Infantry"
 		type=infantry
-		home=168
+		home=166
 	}
 }
 

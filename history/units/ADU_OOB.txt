@@ -488,11 +488,11 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Cape Verde Clipper Transport"
+		name="1st Tahiti Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Cape Verde Clipper Transport"
+		name="2nd Tahiti Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {

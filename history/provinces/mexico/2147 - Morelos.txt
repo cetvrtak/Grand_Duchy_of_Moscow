@@ -1,6 +1,6 @@
-owner=MEX
-controller=MEX
-add_core=MEX
+owner=HON
+controller=HON
+add_core=HON
 trade_goods = cattle
 life_rating = 32
 terrain = new_world_semidesert

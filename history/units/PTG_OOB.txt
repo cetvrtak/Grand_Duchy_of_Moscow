@@ -527,6 +527,11 @@ army = {
 	name="3rd Army"
 	location=2449
 	regiment = {
+		name="1st Montevideo Infantry"
+		type=infantry
+		home=2344
+	}
+	regiment = {
 		name="1st Concepción Infantry"
 		type=infantry
 		home=2343
@@ -552,8 +557,8 @@ army = {
 		home=2348
 	}
 	regiment = {
-		name="3rd Asuncion Infantry"
-		type=infantry
+		name="1st Asuncion Artillery"
+		type=artillery
 		home=2339
 	}
 	regiment = {
@@ -562,12 +567,7 @@ army = {
 		home=2379
 	}
 	regiment = {
-		name="1st Buenos Aires Artillery"
-		type=artillery
-		home=2348
-	}
-	regiment = {
-		name="3rd Córdoba de Argentina Infantry"
+		name="2nd Córdoba de Argentina Infantry"
 		type=infantry
 		home=2379
 	}
@@ -577,7 +577,7 @@ army = {
 		home=2379
 	}
 	regiment = {
-		name="5th Córdoba de Argentina Artillery"
+		name="6th Córdoba de Argentina Artillery"
 		type=artillery
 		home=2379
 	}
@@ -587,9 +587,24 @@ army = {
 	name="4th Army"
 	location=2448
 	regiment = {
+		name="3rd Buenos Aires Infantry"
+		type=infantry
+		home=2348
+	}
+	regiment = {
 		name="1st Córdoba de Argentina Infantry"
 		type=infantry
 		home=2379
+	}
+	regiment = {
+		name="2nd Montevideo Infantry"
+		type=infantry
+		home=2344
+	}
+	regiment = {
+		name="1st Copiapó Infantry"
+		type=infantry
+		home=2322
 	}
 	regiment = {
 		name="1st Santiago Infantry"
@@ -602,37 +617,22 @@ army = {
 		home=2360
 	}
 	regiment = {
-		name="1st Montevideo Infantry"
-		type=infantry
-		home=2344
-	}
-	regiment = {
-		name="2nd Montevideo Infantry"
-		type=infantry
-		home=2344
-	}
-	regiment = {
-		name="2nd Córdoba de Argentina Infantry"
-		type=infantry
-		home=2379
-	}
-	regiment = {
 		name="2nd Córdoba de Argentina Artillery"
 		type=artillery
 		home=2379
 	}
 	regiment = {
-		name="1st Copiapó Infantry"
+		name="3rd Córdoba de Argentina Infantry"
 		type=infantry
-		home=2322
+		home=2379
 	}
 	regiment = {
-		name="3rd Córdoba de Argentina Artillery"
+		name="4th Córdoba de Argentina Artillery"
 		type=artillery
 		home=2379
 	}
 	regiment = {
-		name="6th Córdoba de Argentina Artillery"
+		name="7th Córdoba de Argentina Artillery"
 		type=artillery
 		home=2379
 	}
@@ -711,17 +711,17 @@ army = {
 	name="2nd Army"
 	location=2342
 	regiment = {
-		name="1st Montevideo Artillery"
-		type=artillery
-		home=2344
-	}
-	regiment = {
-		name="4th Córdoba de Argentina Artillery"
+		name="3rd Córdoba de Argentina Artillery"
 		type=artillery
 		home=2379
 	}
 	regiment = {
-		name="7th Córdoba de Argentina Artillery"
+		name="5th Córdoba de Argentina Artillery"
+		type=artillery
+		home=2379
+	}
+	regiment = {
+		name="8th Córdoba de Argentina Artillery"
 		type=artillery
 		home=2379
 	}
@@ -729,7 +729,7 @@ army = {
 
 navy = {
 	name="7th Fleet"
-	location=3033
+	location=3032
 	ship = {
 		name="Aisén"
 		type=frigate

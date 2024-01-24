@@ -494,73 +494,64 @@ leader = {
 
 #Armies
 navy = {
-	name="1st Fleet"
-	location=1080
-	ship = {
-		name="1st Chumikan Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Chumikan Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Chumikan Frigate"
-		type=frigate
-	}
-}
-
-navy = {
 	name="3rd Fleet"
 	location=2835
 	ship = {
-		name="2nd Chumikan Frigate"
+		name="2nd Nanai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Nanai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Nanai Frigate"
 		type=frigate
 	}
 }
 
 army = {
 	name="3rd Army"
-	location=1554
-	regiment = {
-		name="1st Qiqihar Irregulars"
-		type=irregular
-		home=1552
-	}
-	regiment = {
-		name="1st Ninguta Irregulars"
-		type=irregular
-		home=1554
-	}
-	regiment = {
-		name="2nd Ninguta Irregulars"
-		type=irregular
-		home=1554
-	}
-	regiment = {
-		name="1st Qiqihar Cavalry"
-		type=cavalry
-		home=1552
-	}
-	regiment = {
-		name="1st Ninguta Artillery"
-		type=artillery
-		home=1554
-	}
+	location=1553
 	regiment = {
 		name="1st Aigun Irregulars"
 		type=irregular
 		home=1553
 	}
 	regiment = {
-		name="1st Ninguta Cavalry"
-		type=cavalry
-		home=1554
+		name="2nd Aigun Irregulars"
+		type=irregular
+		home=1553
 	}
 	regiment = {
-		name="2nd Ninguta Artillery"
+		name="3rd Aigun Irregulars"
+		type=irregular
+		home=1553
+	}
+	regiment = {
+		name="1st Aigun Cavalry"
+		type=cavalry
+		home=1553
+	}
+	regiment = {
+		name="1st Aigun Artillery"
 		type=artillery
-		home=1554
+		home=1553
+	}
+	regiment = {
+		name="4th Aigun Irregulars"
+		type=irregular
+		home=1553
+	}
+	regiment = {
+		name="2nd Aigun Cavalry"
+		type=cavalry
+		home=1553
+	}
+	regiment = {
+		name="2nd Aigun Artillery"
+		type=artillery
+		home=1553
 	}
 }
 

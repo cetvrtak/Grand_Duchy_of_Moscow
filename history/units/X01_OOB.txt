@@ -405,9 +405,9 @@ WHA = {
 	level = 2
 }
 X00 = {
-	value = 73
-	influence_value = 5
-	level = 2
+	value = 173
+	influence_value = 30
+	level = 4
 }
 X01 = {
 	value = 0
@@ -510,29 +510,29 @@ army = {
 		home=925
 	}
 	regiment = {
-		name="1st Rasht Irregulars"
+		name="2nd Sulaymania Irregulars"
 		type=irregular
-		home=1113
+		home=925
 	}
 	regiment = {
-		name="1st Hamadan Irregulars"
+		name="3rd Sulaymania Irregulars"
 		type=irregular
-		home=1122
+		home=925
+	}
+	regiment = {
+		name="4th Sulaymania Irregulars"
+		type=irregular
+		home=925
+	}
+	regiment = {
+		name="5th Sulaymania Irregulars"
+		type=irregular
+		home=925
 	}
 	regiment = {
 		name="1st Mahabad Irregulars"
 		type=irregular
 		home=1111
-	}
-	regiment = {
-		name="2nd Hamadan Irregulars"
-		type=irregular
-		home=1122
-	}
-	regiment = {
-		name="1st Kermanshah Irregulars"
-		type=irregular
-		home=1117
 	}
 	regiment = {
 		name="1st Baghdad Cavalry"
@@ -545,24 +545,29 @@ army = {
 		home=1111
 	}
 	regiment = {
-		name="1st Karbala Artillery"
-		type=artillery
-		home=929
-	}
-	regiment = {
 		name="1st Baqubah Artillery"
 		type=artillery
 		home=928
 	}
 	regiment = {
-		name="1st Qazvin Artillery"
+		name="1st Baghdad Artillery"
 		type=artillery
-		home=1124
+		home=926
 	}
 	regiment = {
-		name="5th Sulaymania Irregulars"
+		name="1st Rasht Artillery"
+		type=artillery
+		home=1113
+	}
+	regiment = {
+		name="1st Sanandaj Irregulars"
 		type=irregular
-		home=925
+		home=1118
+	}
+	regiment = {
+		name="1st Qazvin Cavalry"
+		type=cavalry
+		home=1124
 	}
 	regiment = {
 		name="1st Rasht Cavalry"
@@ -570,14 +575,9 @@ army = {
 		home=1113
 	}
 	regiment = {
-		name="1st Nasiriyya Cavalry"
-		type=cavalry
-		home=933
-	}
-	regiment = {
-		name="1st Khoramabad Artillery"
+		name="1st Nasiriyya Artillery"
 		type=artillery
-		home=1120
+		home=933
 	}
 }
 
@@ -595,9 +595,14 @@ army = {
 	name="3rd Army"
 	location=1113
 	regiment = {
-		name="2nd Sulaymania Irregulars"
+		name="1st Karbala Irregulars"
 		type=irregular
-		home=925
+		home=929
+	}
+	regiment = {
+		name="1st Kermanshah Irregulars"
+		type=irregular
+		home=1117
 	}
 	regiment = {
 		name="2nd Mahabad Irregulars"
@@ -610,14 +615,14 @@ army = {
 		home=1111
 	}
 	regiment = {
-		name="3rd Sulaymania Irregulars"
+		name="1st Samarra Irregulars"
 		type=irregular
-		home=925
+		home=927
 	}
 	regiment = {
-		name="4th Sulaymania Irregulars"
-		type=irregular
-		home=925
+		name="2nd Mahabad Artillery"
+		type=artillery
+		home=1111
 	}
 	regiment = {
 		name="1st Kermanshah Artillery"
@@ -625,19 +630,14 @@ army = {
 		home=1117
 	}
 	regiment = {
-		name="1st Baghdad Artillery"
-		type=artillery
-		home=926
-	}
-	regiment = {
-		name="1st Samarra Irregulars"
+		name="1st Khoramabad Irregulars"
 		type=irregular
-		home=927
+		home=1120
 	}
 	regiment = {
-		name="2nd Baqubah Artillery"
+		name="1st Sanandaj Artillery"
 		type=artillery
-		home=928
+		home=1118
 	}
 }
 
