@@ -191,7 +191,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 4133
+		size= 3133
 	}
 
 	artisans=
@@ -233,7 +233,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 40203
+		size= 41203
 	}
 
 }
@@ -307,7 +307,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 1033
+		size= 1001
 	}
 
 	artisans=
@@ -349,7 +349,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 37529
+		size= 37561
 	}
 
 }
@@ -649,7 +649,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 4133
+		size= 1641
 	}
 
 	artisans=
@@ -691,7 +691,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 16946
+		size= 19438
 	}
 
 	slaves=

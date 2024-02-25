@@ -4719,14 +4719,14 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 1033
+		size= 507
 	}
 
 	farmers=
 	{
 		culture = platinean
 		religion = sunni
-		size= 3738
+		size= 4264
 	}
 
 	artisans=
@@ -5038,7 +5038,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 460
+		size= 1033
 	}
 
 	artisans=
@@ -5080,7 +5080,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 8729
+		size= 8156
 	}
 
 	slaves=
@@ -5641,14 +5641,14 @@
 	{
 		culture = tupinamba
 		religion = animist
-		size= 709
+		size= 4133
 	}
 
 	farmers=
 	{
 		culture = tupinamba
 		religion = animist
-		size= 20558
+		size= 17134
 	}
 
 	artisans=
@@ -5923,14 +5923,14 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 1033
+		size= 1029
 	}
 
 	farmers=
 	{
 		culture = platinean
 		religion = sunni
-		size= 4879
+		size= 4883
 	}
 
 	artisans=
@@ -9038,7 +9038,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 1033
+		size= 87
 	}
 
 	artisans=
@@ -9080,7 +9080,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 4022
+		size= 4968
 	}
 
 }
@@ -9443,7 +9443,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 1033
+		size= 116
 	}
 
 	artisans=
@@ -9485,7 +9485,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 4743
+		size= 5660
 	}
 
 }
@@ -9920,7 +9920,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 4133
+		size= 7233
 	}
 
 	artisans=
@@ -9962,7 +9962,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 7500
+		size= 4400
 	}
 
 }

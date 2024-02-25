@@ -564,6 +564,14 @@ navy = {
 		type=frigate
 	}
 	ship = {
+		name="1st Lübeck Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kiel Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
 		name="1st Schwerin Clipper Transport"
 		type=clipper_transport
 	}
@@ -576,11 +584,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="4th Schwerin Clipper Transport"
+		name="2nd Kiel Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="5th Schwerin Clipper Transport"
+		name="4th Schwerin Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -588,15 +596,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="6th Schwerin Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="7th Schwerin Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="8th Schwerin Clipper Transport"
+		name="5th Schwerin Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -622,14 +622,14 @@ army = {
 		home=687
 	}
 	regiment = {
-		name="1st Pritzwalk Infantry"
+		name="1st Cottbus Infantry"
 		type=infantry
-		home=551
+		home=552
 	}
 	regiment = {
-		name="1st Deutsch Krone Infantry"
+		name="2nd Cottbus Infantry"
 		type=infantry
-		home=692
+		home=552
 	}
 	regiment = {
 		name="1st Görlitz Artillery"
@@ -637,24 +637,24 @@ army = {
 		home=687
 	}
 	regiment = {
-		name="1st Schwerin Artillery"
-		type=artillery
-		home=544
-	}
-	regiment = {
-		name="1st Berlin Artillery"
-		type=artillery
-		home=549
-	}
-	regiment = {
 		name="1st Magdeburg Artillery"
 		type=artillery
 		home=553
 	}
 	regiment = {
-		name="4th Schwerin Infantry"
-		type=infantry
+		name="1st Schwerin Artillery"
+		type=artillery
 		home=544
+	}
+	regiment = {
+		name="1st Dresden Artillery"
+		type=artillery
+		home=558
+	}
+	regiment = {
+		name="1st Köslin Infantry"
+		type=infantry
+		home=680
 	}
 }
 
@@ -667,24 +667,24 @@ army = {
 		home=544
 	}
 	regiment = {
-		name="2nd Görlitz Infantry"
+		name="1st Berlin Infantry"
+		type=infantry
+		home=549
+	}
+	regiment = {
+		name="1st Halle Artillery"
+		type=artillery
+		home=556
+	}
+	regiment = {
+		name="1st Prenzlau Artillery"
+		type=artillery
+		home=550
+	}
+	regiment = {
+		name="3rd Görlitz Infantry"
 		type=infantry
 		home=687
-	}
-	regiment = {
-		name="1st Oppeln Artillery"
-		type=artillery
-		home=684
-	}
-	regiment = {
-		name="1st Dresden Artillery"
-		type=artillery
-		home=558
-	}
-	regiment = {
-		name="5th Schwerin Infantry"
-		type=infantry
-		home=544
 	}
 }
 
@@ -692,9 +692,9 @@ army = {
 	name="6th Army"
 	location=626
 	regiment = {
-		name="2nd Deutsch Krone Infantry"
+		name="2nd Berlin Infantry"
 		type=infantry
-		home=692
+		home=549
 	}
 	regiment = {
 		name="1st Magdeburg Infantry"
@@ -707,17 +707,17 @@ army = {
 		home=553
 	}
 	regiment = {
+		name="1st Pritzwalk Artillery"
+		type=artillery
+		home=551
+	}
+	regiment = {
+		name="1st Weimar Artillery"
+		type=artillery
+		home=561
+	}
+	regiment = {
 		name="2nd Görlitz Artillery"
-		type=artillery
-		home=687
-	}
-	regiment = {
-		name="2nd Dresden Artillery"
-		type=artillery
-		home=558
-	}
-	regiment = {
-		name="3rd Görlitz Artillery"
 		type=artillery
 		home=687
 	}
@@ -727,19 +727,19 @@ army = {
 	name="7th Army"
 	location=687
 	regiment = {
-		name="1st Kolberg Infantry"
+		name="1st Breslau Infantry"
 		type=infantry
-		home=679
+		home=682
 	}
 	regiment = {
-		name="3rd Görlitz Infantry"
+		name="2nd Breslau Infantry"
 		type=infantry
-		home=687
+		home=682
 	}
 	regiment = {
-		name="2nd Kolberg Infantry"
+		name="3rd Berlin Infantry"
 		type=infantry
-		home=679
+		home=549
 	}
 	regiment = {
 		name="2nd Schwerin Infantry"
@@ -747,39 +747,39 @@ army = {
 		home=544
 	}
 	regiment = {
-		name="1st Pritzwalk Artillery"
+		name="3rd Görlitz Artillery"
+		type=artillery
+		home=687
+	}
+	regiment = {
+		name="2nd Pritzwalk Artillery"
 		type=artillery
 		home=551
 	}
 	regiment = {
-		name="2nd Berlin Artillery"
+		name="2nd Schwerin Artillery"
 		type=artillery
-		home=549
-	}
-	regiment = {
-		name="3rd Berlin Artillery"
-		type=artillery
-		home=549
-	}
-	regiment = {
-		name="4th Berlin Artillery"
-		type=artillery
-		home=549
-	}
-	regiment = {
-		name="1st Prenzlau Artillery"
-		type=artillery
-		home=550
-	}
-	regiment = {
-		name="3rd Schwerin Infantry"
-		type=infantry
 		home=544
+	}
+	regiment = {
+		name="3rd Pritzwalk Artillery"
+		type=artillery
+		home=551
 	}
 	regiment = {
 		name="1st Cottbus Artillery"
 		type=artillery
 		home=552
+	}
+	regiment = {
+		name="1st Hradec Králové Infantry"
+		type=infantry
+		home=626
+	}
+	regiment = {
+		name="3rd Dresden Artillery"
+		type=artillery
+		home=558
 	}
 }
 
@@ -787,19 +787,14 @@ army = {
 	name="8th Army"
 	location=687
 	regiment = {
-		name="4th Görlitz Infantry"
-		type=infantry
-		home=687
-	}
-	regiment = {
 		name="1st Dresden Infantry"
 		type=infantry
 		home=558
 	}
 	regiment = {
-		name="5th Berlin Artillery"
-		type=artillery
-		home=549
+		name="2nd Görlitz Infantry"
+		type=infantry
+		home=687
 	}
 	regiment = {
 		name="1st Hradec Králové Artillery"
@@ -807,7 +802,12 @@ army = {
 		home=626
 	}
 	regiment = {
-		name="4th Görlitz Artillery"
+		name="2nd Weimar Artillery"
+		type=artillery
+		home=561
+	}
+	regiment = {
+		name="6th Görlitz Artillery"
 		type=artillery
 		home=687
 	}
@@ -817,24 +817,34 @@ army = {
 	name="4th Army"
 	location=552
 	regiment = {
+		name="1st Weimar Infantry"
+		type=infantry
+		home=561
+	}
+	regiment = {
 		name="1st Chemnitz Infantry"
 		type=infantry
 		home=560
 	}
 	regiment = {
-		name="2nd Pritzwalk Infantry"
+		name="1st Deutsch Krone Infantry"
 		type=infantry
-		home=551
+		home=692
 	}
 	regiment = {
-		name="3rd Pritzwalk Infantry"
+		name="1st Waldenburg Infantry"
 		type=infantry
-		home=551
+		home=683
 	}
 	regiment = {
-		name="3rd Kolberg Infantry"
-		type=infantry
-		home=679
+		name="1st Berlin Artillery"
+		type=artillery
+		home=549
+	}
+	regiment = {
+		name="1st Leipzig Artillery"
+		type=artillery
+		home=559
 	}
 	regiment = {
 		name="1st Köslin Artillery"
@@ -842,34 +852,24 @@ army = {
 		home=680
 	}
 	regiment = {
-		name="6th Berlin Artillery"
+		name="2nd Dresden Artillery"
 		type=artillery
-		home=549
+		home=558
 	}
 	regiment = {
-		name="2nd Schwerin Artillery"
+		name="4th Görlitz Artillery"
 		type=artillery
-		home=544
+		home=687
 	}
 	regiment = {
-		name="1st Breslau Artillery"
+		name="5th Görlitz Artillery"
 		type=artillery
-		home=682
+		home=687
 	}
 	regiment = {
-		name="1st Deutsch Krone Artillery"
-		type=artillery
-		home=692
-	}
-	regiment = {
-		name="3rd Schwerin Artillery"
-		type=artillery
-		home=544
-	}
-	regiment = {
-		name="1st Cottbus Infantry"
+		name="3rd Breslau Infantry"
 		type=infantry
-		home=552
+		home=682
 	}
 	regiment = {
 		name="2nd Cottbus Artillery"

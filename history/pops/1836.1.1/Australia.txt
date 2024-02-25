@@ -1368,14 +1368,14 @@
 	{
 		culture = aborigine
 		religion = animist
-		size= 105
+		size= 1033
 	}
 
 	farmers=
 	{
 		culture = aborigine
 		religion = animist
-		size= 2333
+		size= 1405
 	}
 
 	artisans=
@@ -1982,7 +1982,7 @@
 	{
 		culture = aborigine
 		religion = protestant
-		size= 1033
+		size= 148
 	}
 
 	artisans=
@@ -2024,7 +2024,7 @@
 	{
 		culture = aborigine
 		religion = protestant
-		size= 1257
+		size= 2142
 	}
 
 }
@@ -2991,7 +2991,7 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 1247
+		size= 241
 	}
 
 	artisans=
@@ -3019,7 +3019,7 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 27
+		size= 1033
 	}
 
 	bureaucrats=

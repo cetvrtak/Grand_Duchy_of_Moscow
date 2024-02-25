@@ -538,11 +538,6 @@ army = {
 		home=2177
 	}
 	regiment = {
-		name="1st Houston Artillery"
-		type=artillery
-		home=132
-	}
-	regiment = {
 		name="1st Morelia Artillery"
 		type=artillery
 		home=2170
@@ -553,12 +548,17 @@ army = {
 		home=2167
 	}
 	regiment = {
+		name="1st Houston Artillery"
+		type=artillery
+		home=132
+	}
+	regiment = {
 		name="1st Guadalajara Artillery"
 		type=artillery
 		home=2166
 	}
 	regiment = {
-		name="5th Oaxaca Infantry"
+		name="7th Oaxaca Infantry"
 		type=infantry
 		home=2177
 	}
@@ -573,9 +573,9 @@ army = {
 		home=2168
 	}
 	regiment = {
-		name="1st Guanajuato Infantry"
+		name="1st Austin Infantry"
 		type=infantry
-		home=2167
+		home=133
 	}
 	regiment = {
 		name="1st Santa Fe Infantry"
@@ -583,27 +583,27 @@ army = {
 		home=105
 	}
 	regiment = {
+		name="1st Llano Estacado Artillery"
+		type=artillery
+		home=135
+	}
+	regiment = {
+		name="2nd Guanajuato Artillery"
+		type=artillery
+		home=2167
+	}
+	regiment = {
 		name="2nd Guadalajara Artillery"
 		type=artillery
 		home=2166
 	}
 	regiment = {
-		name="1st Oaxaca Artillery"
-		type=artillery
-		home=2177
-	}
-	regiment = {
-		name="2nd Oaxaca Artillery"
-		type=artillery
-		home=2177
-	}
-	regiment = {
-		name="6th Oaxaca Infantry"
+		name="1st San Antonio Infantry"
 		type=infantry
-		home=2177
+		home=137
 	}
 	regiment = {
-		name="3rd Oaxaca Artillery"
+		name="1st Oaxaca Artillery"
 		type=artillery
 		home=2177
 	}
@@ -613,19 +613,19 @@ navy = {
 	name="5th Fleet"
 	location=2188
 	ship = {
+		name="1st Culiacán Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
 		name="1st Houston Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Mérida Clipper Transport"
+		name="1st Tepic Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Cololo Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Houston Clipper Transport"
+		name="2nd Tepic Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -633,16 +633,6 @@ navy = {
 army = {
 	name="4th Army"
 	location=2151
-	regiment = {
-		name="1st Fort Washita Infantry"
-		type=infantry
-		home=131
-	}
-	regiment = {
-		name="1st Llano Estacado Infantry"
-		type=infantry
-		home=135
-	}
 	regiment = {
 		name="3rd Oaxaca Infantry"
 		type=infantry
@@ -654,7 +644,17 @@ army = {
 		home=2177
 	}
 	regiment = {
-		name="7th Oaxaca Infantry"
+		name="5th Oaxaca Infantry"
+		type=infantry
+		home=2177
+	}
+	regiment = {
+		name="6th Oaxaca Infantry"
+		type=infantry
+		home=2177
+	}
+	regiment = {
+		name="8th Oaxaca Infantry"
 		type=infantry
 		home=2177
 	}
@@ -676,19 +676,19 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Culiacán Clipper Transport"
+		name="1st Tapachula Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Culiacán Clipper Transport"
+		name="1st Campeche Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Tepic Clipper Transport"
+		name="1st Cololo Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Houston Clipper Transport"
+		name="2nd Cololo Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -704,7 +704,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Laredo Clipper Transport"
+		name="2nd Tapachula Clipper Transport"
 		type=clipper_transport
 	}
 }

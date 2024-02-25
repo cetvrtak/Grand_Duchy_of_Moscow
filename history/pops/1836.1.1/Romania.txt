@@ -1031,49 +1031,49 @@
 
 	soldiers=
 	{
-		culture = western_slavic
+		culture = kishinyov
 		religion = orthodox
 		size= 769
 	}
 
 	artisans=
 	{
-		culture = western_slavic
+		culture = kishinyov
 		religion = orthodox
 		size= 4590
 	}
 
 	clergymen=
 	{
-		culture = western_slavic
+		culture = kishinyov
 		religion = orthodox
 		size= 791
 	}
 
 	bureaucrats=
 	{
-		culture = western_slavic
+		culture = kishinyov
 		religion = orthodox
 		size= 139
 	}
 
 	officers=
 	{
-		culture = western_slavic
+		culture = kishinyov
 		religion = orthodox
 		size= 46
 	}
 
 	aristocrats=
 	{
-		culture = western_slavic
+		culture = kishinyov
 		religion = orthodox
 		size= 973
 	}
 
 	farmers=
 	{
-		culture = western_slavic
+		culture = kishinyov
 		religion = orthodox
 		size= 32546
 	}
@@ -1219,7 +1219,7 @@
 	{
 		culture = szekely
 		religion = catholic
-		size= 13433
+		size= 3134
 	}
 
 	artisans=
@@ -1261,7 +1261,7 @@
 	{
 		culture = szekely
 		religion = catholic
-		size= 41680
+		size= 51979
 	}
 
 	slaves=
@@ -1691,49 +1691,49 @@
 
 	soldiers=
 	{
-		culture = western_slavic
+		culture = kishinyov
 		religion = orthodox
 		size= 1254
 	}
 
 	artisans=
 	{
-		culture = western_slavic
+		culture = kishinyov
 		religion = orthodox
 		size= 5641
 	}
 
 	clergymen=
 	{
-		culture = western_slavic
+		culture = kishinyov
 		religion = orthodox
 		size= 470
 	}
 
 	bureaucrats=
 	{
-		culture = western_slavic
+		culture = kishinyov
 		religion = orthodox
 		size= 176
 	}
 
 	officers=
 	{
-		culture = western_slavic
+		culture = kishinyov
 		religion = orthodox
 		size= 50
 	}
 
 	aristocrats=
 	{
-		culture = western_slavic
+		culture = kishinyov
 		religion = orthodox
 		size= 614
 	}
 
 	farmers=
 	{
-		culture = western_slavic
+		culture = kishinyov
 		religion = orthodox
 		size= 50298
 	}

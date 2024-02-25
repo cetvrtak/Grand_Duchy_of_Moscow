@@ -502,11 +502,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Utchan Clipper Transport"
+		name="2nd Pogobi Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Utchan Frigate"
+		name="1st Boli Frigate"
 		type=frigate
 	}
 }

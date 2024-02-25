@@ -510,19 +510,29 @@ army = {
 	name="3rd Army"
 	location=651
 	regiment = {
-		name="1st Békéscsaba Infantry"
+		name="1st Debrecen Infantry"
 		type=infantry
-		home=650
+		home=648
 	}
 	regiment = {
-		name="1st Nagyszeben Infantry"
+		name="1st Mitrovica Infantry"
 		type=infantry
-		home=657
+		home=791
 	}
 	regiment = {
-		name="2nd Békéscsaba Infantry"
+		name="1st Teschen Infantry"
 		type=infantry
-		home=650
+		home=689
+	}
+	regiment = {
+		name="1st Miskolc Infantry"
+		type=infantry
+		home=646
+	}
+	regiment = {
+		name="2nd Debrecen Infantry"
+		type=infantry
+		home=648
 	}
 	regiment = {
 		name="1st Gyor Infantry"
@@ -530,19 +540,9 @@ army = {
 		home=642
 	}
 	regiment = {
-		name="1st Kaposvár Infantry"
+		name="1st Stanislavov Infantry"
 		type=infantry
-		home=644
-	}
-	regiment = {
-		name="1st Targu Mures Infantry"
-		type=infantry
-		home=2533
-	}
-	regiment = {
-		name="1st Debrecen Infantry"
-		type=infantry
-		home=648
+		home=953
 	}
 	regiment = {
 		name="1st Székesfehérvár Artillery"
@@ -550,14 +550,189 @@ army = {
 		home=643
 	}
 	regiment = {
+		name="1st Békéscsaba Artillery"
+		type=artillery
+		home=650
+	}
+	regiment = {
+		name="1st Kaposvár Artillery"
+		type=artillery
+		home=644
+	}
+	regiment = {
+		name="1st Zalaegerszeg Artillery"
+		type=artillery
+		home=639
+	}
+	regiment = {
+		name="2nd Békéscsaba Artillery"
+		type=artillery
+		home=650
+	}
+	regiment = {
+		name="1st Debrecen Artillery"
+		type=artillery
+		home=648
+	}
+}
+
+army = {
+	name="7th Army"
+	location=793
+	regiment = {
+		name="1st Novi Sad Infantry"
+		type=infantry
+		home=2538
+	}
+	regiment = {
+		name="2nd Gyor Infantry"
+		type=infantry
+		home=642
+	}
+	regiment = {
+		name="1st Tirgu Jiu Infantry"
+		type=infantry
+		home=665
+	}
+	regiment = {
+		name="1st Székesfehérvár Infantry"
+		type=infantry
+		home=643
+	}
+	regiment = {
+		name="1st Požega Infantry"
+		type=infantry
+		home=777
+	}
+	regiment = {
+		name="1st Banská Bystrica Artillery"
+		type=artillery
+		home=636
+	}
+	regiment = {
 		name="1st Novi Sad Artillery"
 		type=artillery
 		home=2538
 	}
 	regiment = {
-		name="1st Tirgu Jiu Artillery"
+		name="1st Trencín Artillery"
 		type=artillery
-		home=665
+		home=634
+	}
+	regiment = {
+		name="5th Debrecen Infantry"
+		type=infantry
+		home=648
+	}
+	regiment = {
+		name="2nd Trencín Artillery"
+		type=artillery
+		home=634
+	}
+}
+
+army = {
+	name="5th Army"
+	location=635
+	regiment = {
+		name="1st Kielce Infantry"
+		type=infantry
+		home=716
+	}
+	regiment = {
+		name="2nd Novi Sad Infantry"
+		type=infantry
+		home=2538
+	}
+	regiment = {
+		name="2nd Teschen Infantry"
+		type=infantry
+		home=689
+	}
+	regiment = {
+		name="3rd Novi Sad Infantry"
+		type=infantry
+		home=2538
+	}
+	regiment = {
+		name="1st Košice Infantry"
+		type=infantry
+		home=637
+	}
+	regiment = {
+		name="1st Miskolc Artillery"
+		type=artillery
+		home=646
+	}
+	regiment = {
+		name="2nd Miskolc Artillery"
+		type=artillery
+		home=646
+	}
+	regiment = {
+		name="3rd Miskolc Artillery"
+		type=artillery
+		home=646
+	}
+	regiment = {
+		name="4th Miskolc Artillery"
+		type=artillery
+		home=646
+	}
+	regiment = {
+		name="1st Lemberg Infantry"
+		type=infantry
+		home=702
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=779
+	regiment = {
+		name="1st Bielsko Infantry"
+		type=infantry
+		home=2584
+	}
+	regiment = {
+		name="1st Przemysl Infantry"
+		type=infantry
+		home=705
+	}
+	regiment = {
+		name="1st Beszterce Infantry"
+		type=infantry
+		home=661
+	}
+	regiment = {
+		name="1st Nitra Infantry"
+		type=infantry
+		home=635
+	}
+	regiment = {
+		name="1st Bjelovar Infantry"
+		type=infantry
+		home=776
+	}
+	regiment = {
+		name="1st Zalaegerszeg Infantry"
+		type=infantry
+		home=639
+	}
+	regiment = {
+		name="3rd Debrecen Infantry"
+		type=infantry
+		home=648
+	}
+	regiment = {
+		name="5th Miskolc Artillery"
+		type=artillery
+		home=646
+	}
+	regiment = {
+		name="1st Pancevo Artillery"
+		type=artillery
+		home=792
 	}
 	regiment = {
 		name="1st Gyor Artillery"
@@ -570,184 +745,9 @@ army = {
 		home=791
 	}
 	regiment = {
-		name="2nd Debrecen Artillery"
-		type=artillery
-		home=648
-	}
-}
-
-army = {
-	name="7th Army"
-	location=793
-	regiment = {
-		name="1st Tirgu Jiu Infantry"
-		type=infantry
-		home=665
-	}
-	regiment = {
-		name="1st Székesfehérvár Infantry"
-		type=infantry
-		home=643
-	}
-	regiment = {
-		name="1st Trencín Infantry"
-		type=infantry
-		home=634
-	}
-	regiment = {
-		name="2nd Gyor Infantry"
-		type=infantry
-		home=642
-	}
-	regiment = {
-		name="1st Pest Infantry"
-		type=infantry
-		home=641
-	}
-	regiment = {
-		name="1st Osijek Artillery"
-		type=artillery
-		home=779
-	}
-	regiment = {
-		name="1st Debrecen Artillery"
-		type=artillery
-		home=648
-	}
-	regiment = {
-		name="1st Trencín Artillery"
-		type=artillery
-		home=634
-	}
-	regiment = {
-		name="3rd Tirgu Jiu Infantry"
-		type=infantry
-		home=665
-	}
-	regiment = {
-		name="3rd Miskolc Artillery"
-		type=artillery
-		home=646
-	}
-}
-
-army = {
-	name="5th Army"
-	location=635
-	regiment = {
-		name="1st Vukovar Infantry"
-		type=infantry
-		home=793
-	}
-	regiment = {
-		name="2nd Debrecen Infantry"
-		type=infantry
-		home=648
-	}
-	regiment = {
-		name="1st Stryi Infantry"
-		type=infantry
-		home=951
-	}
-	regiment = {
-		name="2nd Stryi Infantry"
-		type=infantry
-		home=951
-	}
-	regiment = {
-		name="2nd Kaposvár Infantry"
-		type=infantry
-		home=644
-	}
-	regiment = {
-		name="1st Miskolc Artillery"
-		type=artillery
-		home=646
-	}
-	regiment = {
-		name="1st Ungvár Artillery"
-		type=artillery
-		home=950
-	}
-	regiment = {
-		name="2nd Miskolc Artillery"
-		type=artillery
-		home=646
-	}
-	regiment = {
-		name="1st Banská Bystrica Artillery"
-		type=artillery
-		home=636
-	}
-	regiment = {
-		name="1st Radom Infantry"
-		type=infantry
-		home=713
-	}
-}
-
-army = {
-	name="2nd Army"
-	location=779
-	regiment = {
-		name="1st Przemysl Infantry"
-		type=infantry
-		home=705
-	}
-	regiment = {
-		name="2nd Székesfehérvár Infantry"
-		type=infantry
-		home=643
-	}
-	regiment = {
-		name="1st Gyulafehervar Infantry"
-		type=infantry
-		home=655
-	}
-	regiment = {
-		name="1st Kielce Infantry"
-		type=infantry
-		home=716
-	}
-	regiment = {
-		name="1st Bielsko Infantry"
-		type=infantry
-		home=2584
-	}
-	regiment = {
-		name="1st Požega Infantry"
-		type=infantry
-		home=777
-	}
-	regiment = {
-		name="1st Zalaegerszeg Infantry"
-		type=infantry
-		home=639
-	}
-	regiment = {
 		name="2nd Banská Bystrica Artillery"
 		type=artillery
 		home=636
-	}
-	regiment = {
-		name="1st Békéscsaba Artillery"
-		type=artillery
-		home=650
-	}
-	regiment = {
-		name="2nd Tirgu Jiu Artillery"
-		type=artillery
-		home=665
-	}
-	regiment = {
-		name="2nd Novi Sad Artillery"
-		type=artillery
-		home=2538
-	}
-	regiment = {
-		name="1st Pancevo Artillery"
-		type=artillery
-		home=792
 	}
 }
 
@@ -755,44 +755,44 @@ army = {
 	name="4th Army"
 	location=715
 	regiment = {
-		name="2nd Tirgu Jiu Infantry"
+		name="1st Pest Infantry"
 		type=infantry
-		home=665
+		home=641
 	}
 	regiment = {
-		name="1st Szeged Infantry"
+		name="1st Ungvár Infantry"
 		type=infantry
-		home=649
+		home=950
 	}
 	regiment = {
-		name="2nd Zalaegerszeg Infantry"
+		name="4th Debrecen Infantry"
 		type=infantry
-		home=639
+		home=648
 	}
 	regiment = {
-		name="1st Košice Infantry"
+		name="2nd Miskolc Infantry"
 		type=infantry
+		home=646
+	}
+	regiment = {
+		name="2nd Mitrovica Infantry"
+		type=infantry
+		home=791
+	}
+	regiment = {
+		name="1st Košice Artillery"
+		type=artillery
 		home=637
 	}
 	regiment = {
-		name="1st Novi Sad Infantry"
+		name="1st Banská Bystrica Infantry"
 		type=infantry
-		home=2538
+		home=636
 	}
 	regiment = {
-		name="2nd Pancevo Artillery"
+		name="1st Prešov Artillery"
 		type=artillery
-		home=792
-	}
-	regiment = {
-		name="3rd Stryi Infantry"
-		type=infantry
-		home=951
-	}
-	regiment = {
-		name="3rd Pancevo Artillery"
-		type=artillery
-		home=792
+		home=638
 	}
 }
 

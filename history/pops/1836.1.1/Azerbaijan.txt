@@ -3,7 +3,7 @@
 	{
 		culture = azerbaijani
 		religion = sunni
-		size= 1033
+		size= 794
 	}
 
 	artisans=
@@ -45,7 +45,7 @@
 	{
 		culture = azerbaijani
 		religion = sunni
-		size= 11933
+		size= 12172
 	}
 
 	soldiers=
@@ -403,7 +403,7 @@
 	{
 		culture = armenian
 		religion = sunni
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -445,14 +445,14 @@
 	{
 		culture = armenian
 		religion = sunni
-		size= 7192
+		size= 4092
 	}
 
 	soldiers=
 	{
 		culture = armenian
 		religion = orthodox
-		size= 122
+		size= 1033
 	}
 
 	artisans=
@@ -494,7 +494,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 4207
+		size= 3296
 	}
 
 }

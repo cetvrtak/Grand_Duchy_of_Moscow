@@ -10,7 +10,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 35133
+		size= 25833
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 5363
+		size= 14663
 	}
 
 	artisans=
@@ -145,7 +145,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 13433
+		size= 19633
 	}
 
 	artisans=
@@ -187,7 +187,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 11311
+		size= 5111
 	}
 
 	slaves=
@@ -259,7 +259,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 10333
+		size= 7233
 	}
 
 	artisans=
@@ -301,7 +301,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 3461
+		size= 6561
 	}
 
 	slaves=
@@ -1197,7 +1197,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 295
+		size= 1033
 	}
 
 	artisans=
@@ -1239,7 +1239,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 10611
+		size= 9873
 	}
 
 }
@@ -1248,7 +1248,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 4133
+		size= 1033
 	}
 
 	artisans=
@@ -1290,7 +1290,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 2200
+		size= 5300
 	}
 
 }
@@ -1413,7 +1413,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 1033
+		size= 508
 	}
 
 	artisans=
@@ -1455,7 +1455,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 20172
+		size= 20697
 	}
 
 }

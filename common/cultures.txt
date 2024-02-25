@@ -198,7 +198,7 @@ arab = {
 		
 	}
 	iberian_andes_superregion_culture = {
-		color = { 196 10 16 }
+		color = { 200 242 157 }
 		radicalism = 10
 		
 		first_names = { "Muhammad" "Yûsuf" "'Alî" "Sa'd" "Isma'îl" "Nasr" "'Abd" "al-Karim" "Ayman" "Barakat" "Basir" "Dawud" "Fahd" "Faris" "Faruq" "Haidar" "Hashim" "Husam" "Iqbal" "Jabbar" "Ja'far" "Jamal" "Junayd" "Khaliq" "Malik" "Mansur" "Mustafa" "Najib" "Qasim" "Qusay" "Rashîd" "Safi" "Sakhr" "Samir" "Tariq" "Umar" "Wahid" "Zahir" "Firdaus" "Fuad" "Rahim" "Abbad" "Abbas" "Abbas" "Abdallah" "Abdullah" "Abdul-Aziz" "Abdul-Hakam" "Abdul-Hasan" "Hasan" "Abdul-Hazm" "Abdul-Rahman" "Abdul-Razzaq" "Abdul" "Abdul" "Abu" "Abu-Bakr" "Abu-Bakr" "Adfuns" "Alphonse" "Ahmad" "Ahmad" "Ali" "Ali" "Amr" "Ayyub" "Balashk" "Vasco" "Bilal" "Fadl" "Fath" "Galind" "Galindo" "Garsiya" "Garcia" "Hakam" "Hakam" "Hilal" "Ibrahim" "Abraham" "Isma'il" "Ismail" "Jyad" "Lubb" "Lupo" "Ma'n" "Mubashir" "Muhammad" "Muhammad" "Mundir" "Musa" "Moses" "Muyahid" "Raf" "Rashid" "Rasiq" "Sa'd" "Sanyo" "Sancho" "Siddray" "Suleyman" "Solomon" "Tariq" "Tifilwit" "Umar" "Umar" "Utman" "Wannaqo" "Inigo" "Ya'far" "Yahaff" "Yahya" "John" "Yusuf" "Joseph" "Enrique" "Fernando" "Juan" "Felipe" "Alfonso" "Carlos" "Sancho" "Ramiro" "Pedro" "Alonso" "Álvaro" "Baltasar" "Bernardo" "Bertrán" "Hernando" "Cristobal" "Diego" "Domingo" "Esteban" "Fadrique" "Francisco" "García" "Gómez" "Gonzalo" "Gutierre" "Hermenegildo" "Ignacio" "Laín" "Lope" "Miguel" "Nuño" "Odón" "Ramón" "Rodrigo" "Tomás" "Valeriano" "Alfonso" "Alphonse" "Alonso" "Alphonse" "Álvar" "Oliver" "Álvaro" "Oliver" "Bermudo" "Vermudo" "Diego" "Diaco" "Henry" "Fadrique" "Frederick" "Felipe" "Philip" "Fernando" "Ferdinand" "Fruela" "Froila" "García" "Garcia" "Gil" "Egidius" "Gómez" "Gomez" "Gonzalo" "Gonzalo" "Guillén" "William" "Guillermo" "William" "Gutierre" "Walter" "Juan" "Lope" "Lupo" "Luis" "Louis" "Manrique" "Amalric" "Martín" "Martin" "Munio" "Munio" "Nuño" "Nuno" "Ordoño" "Ordono" "Obeko" "Pedro" "Peter" "Pelayo" "Pelagius" "Ramiro" "Ramiro" "Rodrigo" "Roderick" "Salvador" "Sancho" "Sancho" "Suero" "Tello" "Vela" "Vela" "Suero" "Oveco" "John" "Enrique" }
@@ -207,7 +207,7 @@ arab = {
 		
 	}
 	iberian_central_america_superregion_culture = {
-		color = { 88 6 165 }
+		color = { 23 187 175 }
 		radicalism = 10
 		
 		first_names = { "Muhammad" "Yûsuf" "'Alî" "Sa'd" "Isma'îl" "Nasr" "'Abd" "al-Karim" "Ayman" "Barakat" "Basir" "Dawud" "Fahd" "Faris" "Faruq" "Haidar" "Hashim" "Husam" "Iqbal" "Jabbar" "Ja'far" "Jamal" "Junayd" "Khaliq" "Malik" "Mansur" "Mustafa" "Najib" "Qasim" "Qusay" "Rashîd" "Safi" "Sakhr" "Samir" "Tariq" "Umar" "Wahid" "Zahir" "Firdaus" "Fuad" "Rahim" "Abbad" "Abbas" "Abbas" "Abdallah" "Abdullah" "Abdul-Aziz" "Abdul-Hakam" "Abdul-Hasan" "Hasan" "Abdul-Hazm" "Abdul-Rahman" "Abdul-Razzaq" "Abdul" "Abdul" "Abu" "Abu-Bakr" "Abu-Bakr" "Adfuns" "Alphonse" "Ahmad" "Ahmad" "Ali" "Ali" "Amr" "Ayyub" "Balashk" "Vasco" "Bilal" "Fadl" "Fath" "Galind" "Galindo" "Garsiya" "Garcia" "Hakam" "Hakam" "Hilal" "Ibrahim" "Abraham" "Isma'il" "Ismail" "Jyad" "Lubb" "Lupo" "Ma'n" "Mubashir" "Muhammad" "Muhammad" "Mundir" "Musa" "Moses" "Muyahid" "Raf" "Rashid" "Rasiq" "Sa'd" "Sanyo" "Sancho" "Siddray" "Suleyman" "Solomon" "Tariq" "Tifilwit" "Umar" "Umar" "Utman" "Wannaqo" "Inigo" "Ya'far" "Yahaff" "Yahya" "John" "Yusuf" "Joseph" "Enrique" "Fernando" "Juan" "Felipe" "Alfonso" "Carlos" "Sancho" "Ramiro" "Pedro" "Alonso" "Álvaro" "Baltasar" "Bernardo" "Bertrán" "Hernando" "Cristobal" "Diego" "Domingo" "Esteban" "Fadrique" "Francisco" "García" "Gómez" "Gonzalo" "Gutierre" "Hermenegildo" "Ignacio" "Laín" "Lope" "Miguel" "Nuño" "Odón" "Ramón" "Rodrigo" "Tomás" "Valeriano" "Alfonso" "Alphonse" "Alonso" "Alphonse" "Álvar" "Oliver" "Álvaro" "Oliver" "Bermudo" "Vermudo" "Diego" "Diaco" "Henry" "Fadrique" "Frederick" "Felipe" "Philip" "Fernando" "Ferdinand" "Fruela" "Froila" "García" "Garcia" "Gil" "Egidius" "Gómez" "Gomez" "Gonzalo" "Gonzalo" "Guillén" "William" "Guillermo" "William" "Gutierre" "Walter" "Juan" "Lope" "Lupo" "Luis" "Louis" "Manrique" "Amalric" "Martín" "Martin" "Munio" "Munio" "Nuño" "Nuno" "Ordoño" "Ordono" "Obeko" "Pedro" "Peter" "Pelayo" "Pelagius" "Ramiro" "Ramiro" "Rodrigo" "Roderick" "Salvador" "Sancho" "Sancho" "Suero" "Tello" "Vela" "Vela" "Suero" "Oveco" "John" "Enrique" }
@@ -546,7 +546,7 @@ beneluxian = {
 		
 	}
 	germanic_north_america_superregion_culture = {
-		color = { 141 209 101 }
+		color = { 64 17 154 }
 		radicalism = 10
 		
 		first_names = { "Adriaen" "Albrecht" "Albert" "Alwin" "Ambroos" "Antoon" "Arnold" "Arnold" "Arnulf" "Arnulf" "Balderik" "Barend" "Barnaerd" "Bernard" "Bartolomeus" "Bartolomeus" "Bavo" "Bertold" "Boudewijn" "Baldwin" "Claes" "Nicholas" "Claeuwaert" "Daevit" "David" "Damaes" "Diederick" "Thierry" "Dirk" "Thierry" "Douwe" "Eduard" "Edward" "Egmund" "Ekbert" "Emmo" "Engelbrecht" "Filips" "Philip" "Floris" "Folbert" "Frans" "Francis" "Frederik" "Frederick" "Gerard" "Gerolt" "Gerulf" "Gerrit" "Gijsbrecht" "Giselbert" "Gilbert" "Godfried" "Godfrey" "Godschalk" "Gozewijn" "Guij" "Guy" "Gwijde" "Gwijde" "Hendrik" "Henry" "Herman" "Herman" "Hubert" "Hugo" "Hugh" "Ijsbrand" "Ijsbrecht" "Jacco" "Jacob" "Jan" "John" "Karel" "Charles" "Koenraad" "Konrad" "Kristof" "Christopher" "Lambert" "Lambert" "Lodewijk" "Louis" "Ludewijn" "Lutbert" "Luthard" "Maertijn" "Martin" "Marquart" "Niclaes" "Nicholas" "Olivier" "Oliver" "Otto" "Otto" "Otwin" "Onno" "Pieter" "Peter" "Reinaerd" "Reinoud" "Reinhold" "Reginar" "Robrecht" "Robert" "Robert" "Robert" "Rodulf" "Roelof" "Roland" "Rutger" "Sebastiaen" "Sebastian" "Sicco" "Simon" "Steven" "Stephen" "Steyn" "Sten" "Theodolf" "Waelram" "Walter" "Walter" "Wicher" "Willem" "William" "Wolfard" "Hendrik" "Maurits" "Adriaan" "Andries" "Antonius" "Gaspar" "Isaac" "Johan" "Laurens" "Paul" "Abraham" "Barthout" "Christiaan" "Christoffel" "Constantijn" "Cornelis" "Daniel" "Eise" "Gabriel" "Gerben" "Hans" "Jeroen" "Joost" "Nicolaas" "Roeland" "Rogier" "Thomas" "Vincent" "Zacharias" }
@@ -555,7 +555,7 @@ beneluxian = {
 		
 	}
 	germanic_south_america_superregion_culture = {
-		color = { 209 53 152 }
+		color = { 20 3 112 }
 		radicalism = 10
 		
 		first_names = { "Adriaen" "Albrecht" "Albert" "Alwin" "Ambroos" "Antoon" "Arnold" "Arnold" "Arnulf" "Arnulf" "Balderik" "Barend" "Barnaerd" "Bernard" "Bartolomeus" "Bartolomeus" "Bavo" "Bertold" "Boudewijn" "Baldwin" "Claes" "Nicholas" "Claeuwaert" "Daevit" "David" "Damaes" "Diederick" "Thierry" "Dirk" "Thierry" "Douwe" "Eduard" "Edward" "Egmund" "Ekbert" "Emmo" "Engelbrecht" "Filips" "Philip" "Floris" "Folbert" "Frans" "Francis" "Frederik" "Frederick" "Gerard" "Gerolt" "Gerulf" "Gerrit" "Gijsbrecht" "Giselbert" "Gilbert" "Godfried" "Godfrey" "Godschalk" "Gozewijn" "Guij" "Guy" "Gwijde" "Gwijde" "Hendrik" "Henry" "Herman" "Herman" "Hubert" "Hugo" "Hugh" "Ijsbrand" "Ijsbrecht" "Jacco" "Jacob" "Jan" "John" "Karel" "Charles" "Koenraad" "Konrad" "Kristof" "Christopher" "Lambert" "Lambert" "Lodewijk" "Louis" "Ludewijn" "Lutbert" "Luthard" "Maertijn" "Martin" "Marquart" "Niclaes" "Nicholas" "Olivier" "Oliver" "Otto" "Otto" "Otwin" "Onno" "Pieter" "Peter" "Reinaerd" "Reinoud" "Reinhold" "Reginar" "Robrecht" "Robert" "Robert" "Robert" "Rodulf" "Roelof" "Roland" "Rutger" "Sebastiaen" "Sebastian" "Sicco" "Simon" "Steven" "Stephen" "Steyn" "Sten" "Theodolf" "Waelram" "Walter" "Walter" "Wicher" "Willem" "William" "Wolfard" "Hendrik" "Maurits" "Adriaan" "Andries" "Antonius" "Gaspar" "Isaac" "Johan" "Laurens" "Paul" "Abraham" "Barthout" "Christiaan" "Christoffel" "Constantijn" "Cornelis" "Daniel" "Eise" "Gabriel" "Gerben" "Hans" "Jeroen" "Joost" "Nicolaas" "Roeland" "Rogier" "Thomas" "Vincent" "Zacharias" }
@@ -640,7 +640,7 @@ british = {
 		
 	}
 	british_andes_superregion_culture = {
-		color = { 45 26 74 }
+		color = { 174 85 161 }
 		radicalism = 10
 		
 		first_names = { "Henry" "Edward" "Charles" "James" "William" "Richard" "Philip" "Henry" "Frederick" "Arthur" "Charles" "James" "Edgar" "Thomas" "Edmund" "George" "John" "Jacob" "Humphrey" "Robert" "Stephen" "Adam" "Alexander" "Albert" "Alfred" "Ambrose" "Andrew" "Anthony" "Archibald" "Benjamin" "Christopher" "Daniel" "David" "Ernest" "Francis" "Geoffrey" "Guy" "Horatio" "Hugh" "Isaac" "Jeremy" "Jonathan" "Joseph" "Lawrence" "Matthew" "Nehemiah" "Oliver" "Samuel" "Sydney" "Adam" "Alan" "Albert" "Alexander" "Alfred" "Andrew" "Anselm" "Arnold" "Arthur" "Aubrey" "Christopher" "David" "Edmund" "Edward" "Eric" "Erik" "Eustace" "Fulk" "Folke" "Geoffrey" "George" "Gerald" "Gilbert" "Godfrey" "Gregory" "Guy" "Henry" "Hugh" "Humphrey" "Jocelyn" "John" "Jordan" "Laurence" "Lionel" "Mark" "Marcus" "Martin" "Matthew" "Maurice" "Michael" "Nicholas" "Paul" "Peter" "Philip" "Ralph" "Randolph" "Reginald" "Richard" "Robert" "Roger" "Simon" "Stephen" "Theobald" "Thomas" "Waleran" "Walter" "William" "Jacob" "Ambrose" "Anthony" "Archibald" "Benjamin" "Daniel" "Ernest" "Francis" "Horatio" "Isaac" "Jeremy" "Jonathan" "Joseph" "Lawrence" "Nehemiah" "Oliver" "Samuel" "Sydney" }
@@ -649,7 +649,7 @@ british = {
 		
 	}
 	british_central_america_superregion_culture = {
-		color = { 120 250 7 }
+		color = { 136 99 115 }
 		radicalism = 10
 		
 		first_names = { "Henry" "Edward" "Charles" "James" "William" "Richard" "Philip" "Henry" "Frederick" "Arthur" "Charles" "James" "Edgar" "Thomas" "Edmund" "George" "John" "Jacob" "Humphrey" "Robert" "Stephen" "Adam" "Alexander" "Albert" "Alfred" "Ambrose" "Andrew" "Anthony" "Archibald" "Benjamin" "Christopher" "Daniel" "David" "Ernest" "Francis" "Geoffrey" "Guy" "Horatio" "Hugh" "Isaac" "Jeremy" "Jonathan" "Joseph" "Lawrence" "Matthew" "Nehemiah" "Oliver" "Samuel" "Sydney" "Adam" "Alan" "Albert" "Alexander" "Alfred" "Andrew" "Anselm" "Arnold" "Arthur" "Aubrey" "Christopher" "David" "Edmund" "Edward" "Eric" "Erik" "Eustace" "Fulk" "Folke" "Geoffrey" "George" "Gerald" "Gilbert" "Godfrey" "Gregory" "Guy" "Henry" "Hugh" "Humphrey" "Jocelyn" "John" "Jordan" "Laurence" "Lionel" "Mark" "Marcus" "Martin" "Matthew" "Maurice" "Michael" "Nicholas" "Paul" "Peter" "Philip" "Ralph" "Randolph" "Reginald" "Richard" "Robert" "Roger" "Simon" "Stephen" "Theobald" "Thomas" "Waleran" "Walter" "William" "Jacob" "Ambrose" "Anthony" "Archibald" "Benjamin" "Daniel" "Ernest" "Francis" "Horatio" "Isaac" "Jeremy" "Jonathan" "Joseph" "Lawrence" "Nehemiah" "Oliver" "Samuel" "Sydney" }
@@ -658,7 +658,7 @@ british = {
 		
 	}
 	british_south_america_superregion_culture = {
-		color = { 37 103 240 }
+		color = { 253 161 68 }
 		radicalism = 10
 		
 		first_names = { "Henry" "Edward" "Charles" "James" "William" "Richard" "Philip" "Henry" "Frederick" "Arthur" "Charles" "James" "Edgar" "Thomas" "Edmund" "George" "John" "Jacob" "Humphrey" "Robert" "Stephen" "Adam" "Alexander" "Albert" "Alfred" "Ambrose" "Andrew" "Anthony" "Archibald" "Benjamin" "Christopher" "Daniel" "David" "Ernest" "Francis" "Geoffrey" "Guy" "Horatio" "Hugh" "Isaac" "Jeremy" "Jonathan" "Joseph" "Lawrence" "Matthew" "Nehemiah" "Oliver" "Samuel" "Sydney" "Adam" "Alan" "Albert" "Alexander" "Alfred" "Andrew" "Anselm" "Arnold" "Arthur" "Aubrey" "Christopher" "David" "Edmund" "Edward" "Eric" "Erik" "Eustace" "Fulk" "Folke" "Geoffrey" "George" "Gerald" "Gilbert" "Godfrey" "Gregory" "Guy" "Henry" "Hugh" "Humphrey" "Jocelyn" "John" "Jordan" "Laurence" "Lionel" "Mark" "Marcus" "Martin" "Matthew" "Maurice" "Michael" "Nicholas" "Paul" "Peter" "Philip" "Ralph" "Randolph" "Reginald" "Richard" "Robert" "Roger" "Simon" "Stephen" "Theobald" "Thomas" "Waleran" "Walter" "William" "Jacob" "Ambrose" "Anthony" "Archibald" "Benjamin" "Daniel" "Ernest" "Francis" "Horatio" "Isaac" "Jeremy" "Jonathan" "Joseph" "Lawrence" "Nehemiah" "Oliver" "Samuel" "Sydney" }
@@ -691,7 +691,7 @@ british = {
 		
 	}
 	gaelic_central_america_superregion_culture = {
-		color = { 194 238 174 }
+		color = { 214 157 150 }
 		radicalism = 10
 		
 		first_names = { "Aonghas" "Alasdair" "Ailbeart" "Adhamh" "Ailean" "Anndra" "Arailt" "Artair" "Aaron" "Amhlaidh" "Ailpein" "Bhaltair" "Boisil" "Brian" "Benneit" "Beathan" "Boisil" "Brus" "Bruadar" "Breacan" "Bearnard" "Bhaltair" "Cresdean" "Calum" "Conan" "Conal" "Cormac" "Cailean" "Domhnall" "Donnchadh" "Dughall" "Daibhidh" "Diarmid" "Dolan" "Daniel" "Deorsa" "Dughlas" "Eoghan" "Eobhann" "Eideard" "Eachann" "Eoin" "Eosaph" "Eanruig" "Ellair" "Fearchar" "Faolan" "Fearghas" "Fionn" "Filib" "Frangan" "Friseal" "Fionnlagh" "Gillebríghde" "Gillechreosd" "Gillecallum" "Gilleasp" "Gilleandrais" "Garbhan" "Goiridh" "Griogair" "Hamish" "Harailt" "Horas" "Iain" "Iacob" "Iosag" "Iomhar" "Iosaph" "Iona" "Lucais" "Labhrainn" "Maoilios" "Murchadh" "Martain" "Mascual" "Marcus" "Mata" "Mecheil" "Morgan" "Mungan" "Murchadh" "Neacal" "Niall" "Niallghas" "Oilbhreis" "Oisean" "Padraig" "Pol" "Peadar" "Raibeart" "Ruadh" "Ruaraidh" "Raghnall" "Ruiseart" "Seumas" "Seoras" "Somhairle" "Seleas" "Samuel" "Sachairi" "Steaphan" "Thomais" "Tadhg" "Toibaid" "Uilleam" "Uisdean" }
@@ -700,7 +700,7 @@ british = {
 		
 	}
 	gaelic_north_america_superregion_culture = {
-		color = { 230 130 157 }
+		color = { 88 179 212 }
 		radicalism = 10
 		
 		first_names = { "Aonghas" "Alasdair" "Ailbeart" "Adhamh" "Ailean" "Anndra" "Arailt" "Artair" "Aaron" "Amhlaidh" "Ailpein" "Bhaltair" "Boisil" "Brian" "Benneit" "Beathan" "Boisil" "Brus" "Bruadar" "Breacan" "Bearnard" "Bhaltair" "Cresdean" "Calum" "Conan" "Conal" "Cormac" "Cailean" "Domhnall" "Donnchadh" "Dughall" "Daibhidh" "Diarmid" "Dolan" "Daniel" "Deorsa" "Dughlas" "Eoghan" "Eobhann" "Eideard" "Eachann" "Eoin" "Eosaph" "Eanruig" "Ellair" "Fearchar" "Faolan" "Fearghas" "Fionn" "Filib" "Frangan" "Friseal" "Fionnlagh" "Gillebríghde" "Gillechreosd" "Gillecallum" "Gilleasp" "Gilleandrais" "Garbhan" "Goiridh" "Griogair" "Hamish" "Harailt" "Horas" "Iain" "Iacob" "Iosag" "Iomhar" "Iosaph" "Iona" "Lucais" "Labhrainn" "Maoilios" "Murchadh" "Martain" "Mascual" "Marcus" "Mata" "Mecheil" "Morgan" "Mungan" "Murchadh" "Neacal" "Niall" "Niallghas" "Oilbhreis" "Oisean" "Padraig" "Pol" "Peadar" "Raibeart" "Ruadh" "Ruaraidh" "Raghnall" "Ruiseart" "Seumas" "Seoras" "Somhairle" "Seleas" "Samuel" "Sachairi" "Steaphan" "Thomais" "Tadhg" "Toibaid" "Uilleam" "Uisdean" }
@@ -709,7 +709,7 @@ british = {
 		
 	}
 	gaelic_south_america_superregion_culture = {
-		color = { 54 47 0 }
+		color = { 74 126 140 }
 		radicalism = 10
 		
 		first_names = { "Aonghas" "Alasdair" "Ailbeart" "Adhamh" "Ailean" "Anndra" "Arailt" "Artair" "Aaron" "Amhlaidh" "Ailpein" "Bhaltair" "Boisil" "Brian" "Benneit" "Beathan" "Boisil" "Brus" "Bruadar" "Breacan" "Bearnard" "Bhaltair" "Cresdean" "Calum" "Conan" "Conal" "Cormac" "Cailean" "Domhnall" "Donnchadh" "Dughall" "Daibhidh" "Diarmid" "Dolan" "Daniel" "Deorsa" "Dughlas" "Eoghan" "Eobhann" "Eideard" "Eachann" "Eoin" "Eosaph" "Eanruig" "Ellair" "Fearchar" "Faolan" "Fearghas" "Fionn" "Filib" "Frangan" "Friseal" "Fionnlagh" "Gillebríghde" "Gillechreosd" "Gillecallum" "Gilleasp" "Gilleandrais" "Garbhan" "Goiridh" "Griogair" "Hamish" "Harailt" "Horas" "Iain" "Iacob" "Iosag" "Iomhar" "Iosaph" "Iona" "Lucais" "Labhrainn" "Maoilios" "Murchadh" "Martain" "Mascual" "Marcus" "Mata" "Mecheil" "Morgan" "Mungan" "Murchadh" "Neacal" "Niall" "Niallghas" "Oilbhreis" "Oisean" "Padraig" "Pol" "Peadar" "Raibeart" "Ruadh" "Ruaraidh" "Raghnall" "Ruiseart" "Seumas" "Seoras" "Somhairle" "Seleas" "Samuel" "Sachairi" "Steaphan" "Thomais" "Tadhg" "Toibaid" "Uilleam" "Uisdean" }
@@ -1036,7 +1036,7 @@ central_asian = {
 	unit = MiddleEasternGC
 	
 	dynamic-al_suryah_arabic-oghuz-culture-num1 = {
-		color = { 122 171 73 }
+		color = { 140 221 114 }
 		
 		first_names = { "al-Nasr" "al-Mu'azzam" "al-Salih" "al-'Adil" "al-Kamil" "al-Ashraf" "al-Afdal" "Tadj" "Mujir" "ud-Din" "Djamal" "ud-Din" "ud-Din" "Shams" "Saif" "'Abbas" "'Abd" "al-Rahman" "Anwar" "Atuf" "Bakr" "Fahd" "Hakim" "Harun" "Hikmat" "Hisham" "Husayn" "Jamaal" "Karim" "Malîk" "Mirza" "Muhammad" "Rashîd" "Rusul" "Shimun" "Tarîq" "Usama" "Yasir" "Yusuf" "Zaid" "Zîyad" "Isma'il" "Jafar" "Shihab" "Kozar" "Karadach" "Ziebel" "Böri Shad" "Irbis" "Khalga" "Kaban" "Busir" "Barjik" "Bihar" "Prisbit" "Baghatur" "Dyggvi" "Tarkhan" "Zachariah" "Yazir Bulash" "Chorpan" "Tarkhan" "Alp Tarkhan" "Tar'mach" "Hazer" "Bulan" "Sabriel" "Obadiah" "Hezekiah" "Manasseh" "Chanukkah" "Isaac" "Zebulun" "Manasseh" "Nisi" "Aaron" "Menahem" "Benjamin" "Joseph" "David" "Georgius" "Tzul" "Tzitzak" }
 		
@@ -1044,7 +1044,7 @@ central_asian = {
 		
 	}
 	dynamic-chihan-culture-num1 = {
-		color = { 169 201 103 }
+		color = { 57 34 161 }
 		
 		first_names = { "Zhanji" "Zhanjun" "Zhanyong" "Zhanyin" "Zhanshan" "Zhangang" "Zhan'ao" "Zhankai" "Zhanyan" "Jianrui" "Jianlin" "Jianti" "Jianchun" "Jianze" "Jianjun" "Jianzhi" "Jianpei" "Jianji" "Youji" "Youtang" "Youwan" "Youlun" "Youbing" "Youyun" "Youheng" "You'kai" "Houzhao" "Houwei" "Houxi" "Houcong" "Zaiji" "Zairui" "Zaihou" "Yiling" "Yijun" "Yiliu" "Changluo" "Changxu" "Changxun" "Changzhi" "Changhao" "Changrun" "Changyin" "Changbo" "Youxiao" "Youxue" "Youmo" "Youjian" "Youyi" "Youshan" "Ciran" "Ciyu" "Cijiong" "Cilang" "Ciheng" "Cizhao" "Cihuan" "Cican" "Shangbing" "Shanglie" "Shangyi" "Shanghong" "Zhijun" "Zhibao" "Gongxi" "Gongjian" "Gongtang" "Gongming" "Jixi" "Jiye" "Jihuang" "Jihuan" "Jixuan" "Meigui" "Meiyuan" "Zhongxuan" "Zhongduo" "Qiyuan" "Qiying" "Qirong" "Youdun" "Zishi" "Linmei" "Cijue" "Ciwei" "Cikai" "Youhua" "Linyuan" "Qisheng" "Biao" "Shuang" "Gang" "Su" "Zhen" "Bo" "Zi" "Chun" "Bo" "Gui" "Xuntan" "Xunquan" "Ying" "Zhanyan" "Zhi" "Quan" "Chenhao" "Bian" "Hui" "Song" "Mo" "Yin" "Jing" "Dong" "Nan" "Shouqian" "Xiongying" "Yuntong" "Yunjian" "Wengui" "Wenkui" "Gaoxu" "Gaosui" "Houyu" "ZhanYong" "Zhanshan" "Yousi" "Jianchun" "Jianshu" "Jianzhi" "Yourong" "Houjue" "Zailun" "Zaiji" "Changfang" "Changxu" "Changxun" "Changzhi" "Changrun" "Cilang" "Cihuan" "Guan" "Keqin" "Fu" "Dounan" "Chengzu" "Zixiang" "Bingyi" "Guan" "Zongren" "Yuan" "Fu" "Xingui" "Zonglian" "Ji" "Xiang" "Yu" "Quan" "Zhong" "Ji" "Xizheng" "Jian" "Shao'en" "Jiusi" "Song" "Chun" "Youxue" "Zugan" "Yingfang" "Kekuan" "Mo" "Juren" "Qing" "Qinshun" "Duan" "Zhencheng" "Bao" "Li" "Xiao" "Xian" "Tang" "Boyuan" "Chunyao" "Xianzhang" "Liang" "Ruoshui" "Shouyi" "De" "Ti" "Hongxian" "Shihuai" "Shixi" "Yizan" "Huali" "Zhide" "Yuanxi" "Xixue" "Weizhen" "Han" "Boheng" "Mian" "Zongyi" "Kai" "Meng" "Hong" "Du" "Danian" "Tai" "Minzheng" "Mengyang" "Jingming" "Zhenqing" "Gong" "Shanfu" "Shen" "Zhengming" "Zuo" "Weiqi" "Shenzhong" "Panlong" "Youguang" "Weizhen" "Shisheng" "Qichang" "Hongdao" "Nanying" "Shaozong" "Peng" "Wenshi" "Liangxiang" "Wannian" "Zongyan" "Tingkui" "Bangzuo" "Ruxiu" "Guochang" "Huanchun" "Xianming" "Shengdou" "Zhaochen" "Shimei" "Guoxi" "Shangzhen" "Daoxing" "Tingbiao" "Yunrang" "Wan" "Jin" "Ding" "Wuchang" "Chengzhang" "Jiefu" "Wenyong" "Shiming" "Chonghua" "Sanfeng" "Wanyan" "Dayong" "Zhongwen" "Kexue" "Yuanjie" "Rucai" "Kexi" "Zhongming" "Jinxing" "Yan" "Yingxiang" "Zongmin" }
 		
@@ -1052,7 +1052,7 @@ central_asian = {
 		
 	}
 	dynamic-tajik-oghuz-culture-num1 = {
-		color = { 55 196 210 }
+		color = { 143 57 78 }
 		
 		first_names = { "Abdullo" "Abdullohi" "Alisher" "Aziz" "Bahrom" "Bakhtiyor" "Daler" "Davlat" "Dilshod" "Farrukh" "Firuz" "Jamshed" "Muhammad" "Rustam" "Sherali" "Sherzod" "Shuhrat" "Kozar" "Karadach" "Ziebel" "Böri Shad" "Irbis" "Khalga" "Kaban" "Busir" "Barjik" "Bihar" "Prisbit" "Baghatur" "Dyggvi" "Tarkhan" "Zachariah" "Yazir Bulash" "Chorpan" "Tarkhan" "Alp Tarkhan" "Tar'mach" "Hazer" "Bulan" "Sabriel" "Obadiah" "Hezekiah" "Manasseh" "Chanukkah" "Isaac" "Zebulun" "Manasseh" "Nisi" "Aaron" "Menahem" "Benjamin" "Joseph" "David" "Georgius" "Tzul" "Tzitzak" }
 		
@@ -1283,7 +1283,7 @@ east_african = {
 		
 	}
 	dynamic-bedouin_arabic-somali-culture-num1 = {
-		color = { 241 227 157 }
+		color = { 8 115 114 }
 		
 		first_names = { "Mani" "Rabi'a" "Musa" "Ibrahim" "Markhan" "Watban" "Nasir" "Idris" "'Abd-Allah" "Sa'ud" "Zayid" "Abdullah" "Muhammad" "'Abdullah" "Turki" "Faisal" "Al-Rahman" "Khalid" "Fahd" "Aziz" "Abu-Bakr" "Abu-Bakr" "Aarif" "Abdul-Gafur" "Abdul-Jaleel" "Abdul-Qadir" "Abdul-Wahab" "Abdul" "Abdul" "Abdullah" "Abdullah" "Aghlab" "Akin" "Ali" "Ali" "Alim" "Aram" "Azam" "Bahir" "Burhanaddin" "Fadil" "Fadl" "Faruk" "Ghalib" "Hafiz" "Halil" "Hasan" "Hasan" "Husam" "Hussayn" "Hussayn" "Ibrahim" "Abraham" "Idris" "Is'mail" "Ismail" "Isa" "Jabir" "Jalil" "Jibril" "Khaireddin" "Khalil" "Mahdi" "Mahmud" "Mahmud" "Mansur" "Mirza" "Mubarak" "Muhammad" "Muhammad" "Mukhtar" "Murad" "Musa" "Moses" "Muslihiddin" "Muzaffaraddin" "Najib" "Nasr" "Nizam" "Qawurd" "Ramadan" "Sa'daddin" "Sadiq" "Sami" "Samir" "Shaiban" "Shamir" "Shujah" "Sulayman" "Solomon" "Talib" "Ubayd" "Uways" "Yahya" "Yahya" "Ya'qub" "Jacob" "Youkhanna" "John" "Yusuf" "Joseph" "Zeyd" "Abadir" "Abdale" "Abdirahman" "Abdulah" "Abdullah" "Abram" "Abu-Bakr" "Adan" "Adeer" "Ahmed" "Ali" "Amlale" "Aul" "Awe" "Aydahis" "Balad" "Baraka" "Barakat" "Ciise" "Dagale" "Dhidhin" "Hamalmal" "Hamar" "Hamid" "Hantale" "Haqq" "Harire" "Ibrahim" "Irir" "Isman" "Jamal" "Kadhafo" "Kedafu" "Khalaf" "Liban" "Mahammad" "Muhammad" "Mahamed" "Muhammed" "Mahamud" "Mahmud" "Mansur" "Nahwi" "Naleye" "Nassir" "Nur" "Omer" "Sa'ad" "Sa'adaddin" "Sabir" "Sabr" "Sabraddin" "Sadiq" "Salah" "Siciid" "Talha" "Umar" "Umardin" "Yayyo" "Yusuf" "Zuber" "Zubeyr" }
 		
@@ -1490,7 +1490,7 @@ east_asian = {
 		
 	}
 	dynamic-oirats-culture-num1 = {
-		color = { 94 76 182 }
+		color = { 192 184 148 }
 		
 		first_names = { "Batula" "Toghan" "Galdan" "Amursana" "Erdeni" "Choghtu" "Dawa" "Esen" "Güshi" "Lha-bzang" "Khara" "Khula" "Kho" "Sengge" "Tseten" "Tsewang" "Kundelung" "Lobzang" "Sutai" "Tsobasa" "Ubasi" "Quduqa" "Toghto" "Altai" "Bäki" "Bayan" "Dayan" "Hami" "Molon" "Oori" "Sechen" "Radi" "Talman" "Todo" "Tumen" "Tumu" "Ubashi" "Ulan" "Wehe" "Yelu" "Zaya" "Orlök" }
 		
@@ -1619,7 +1619,7 @@ east_slavic = {
 		
 	}
 	dynamic-russian_culture-vepsian-culture-num1 = {
-		color = { 212 183 130 }
+		color = { 186 227 183 }
 		
 		first_names = { "Briachislav" "Bretislaus" "Demid" "Dobrynia" "Fedot" "Theodat" "Gleb" "Igor" "Iliya" "Iziaslav" "Lev" "Leo" "Mitrofan" "Mstislav" "Mstislav" "Svetozar" "Nikita" "Putiata" "Rodislav" "Rogvolod" "Rostislav" "Ruslan" "Stanislav" "Stanislav" "Sudislav" "Sviatopolk" "Svatopluk" "Sviatoslav" "Terentiy" "Trifon" "Viacheslav" "Vladimir" "Vladimir" "Vladislav" "Voislav" "Volodar" "Vseslav" "Vladislav" "Vsevolod" "Vyshata" "Vysheslav" "Yaropolk" "Yaroslav" "Jaroslav" "Yefimiy" "Yelisey" "Yeremey" "Yevstafiy" }
 		
@@ -1632,6 +1632,14 @@ east_slavic = {
 		first_names = { "Adam" "Alexander" "William" "Henry" "Michael" "Samuel" "Joshua" "George" "John" "Matthew" "Mark" "Luke" "Lucas" "Jeffrey" "Ulysses" "Joseph" "Charles" "Russell" "eksandr" "Alexei" "Andrei" "Anton" "Boris" "Dmitry" "Fyodor" "Gennady" "Giorgi" "Grigoriy" "Igor" "Ivan" "Kirill" "Konstantin" "Lavr" "Leonid" "Lev" "Maxim" "Mikhail" "Nikita" "Nikolai" "Oleg" "Pavel" "Pyotr" "Roman" "Semyon" "Sergei" "Valery" "Vasily" "Viktor" "Vladimir" "Vladislav" "Yegor" "Yevgeny" "Yuri" }
 		
 		last_names = { "Smith" "Washington" "Grant" "Sherman" "Chamberlain" "Powell" "Clemens" "Abbott" "Abercrombie" "Allen" "Ames" "Anderson" "Barkhauer" "Andrews" "Appleton" "Armstrong" "Arthur" "Atkins" "Asboth" "Babcock" "Baker" "Pope" "Banks" "Barnard" "Barnes" "Barnum" "Barry" "Barstow" "Bartlett" "Bates" "Baxter" "Beatty" "Belknap" "Benton" "Blair" "Blunt" "Bradley" "Brown" "Buell" "Buford" "Burnside" "Butler" "Caldwell" "Campbell" "Carr" "Kuropatkin" "Lazarev" "Makarov" "Menshikov" "Nakhimov" "Nebogatov" "Nikolaevich" "Ostrovsky" "Pavlov" "Putyatin" "Romanov" "Rozhestvensky" "Skobelev" "Shuvalov" "Surkov" "Tukhachevsky" "Yegorov" "Yudenich" "Vorontsov" "Voroshilov" "Zavoyko" }
+		
+	}
+	kishinyov = {
+		color = { 135 175 135 }
+		
+		first_names = { "Alekhey" "Andrey" "Anton" "Arkadyy" "Borys" "Dmytro" "Fiodor" "Hryhoryy" "Ivan" "Lavr" "Leonid" "Lev" "Mykhayil" "Mykola" "Nikita" "Oleksandr" "Pavel" "Petro" "Roman" "Semion" "Serhyy" "Valeryy" "Viktor" "Volodymyr" "Vladyslav" "Yuryy" }
+		
+		last_names = { "Bezruchko" "Chernyakhovs'kyy" "Dyachenko" "Hamula" "Hrihoriyev" "Hrekov" "Ivanenko" "Ivanov" "Krapustians'kyy" "Kondratenko" "Leshchenko" "Lesh·chinskyy" "Omelyanovych-Pavlenko" "Paskevych" "Petlyura" "Radchenko" "Shevchenko" "Skoropads'kyy" "Stefaniv" "Tymoshenko" "Vitovs'kyy" }
 		
 	}
 	novvymir = {
@@ -1764,7 +1772,7 @@ french = {
 		
 	}
 	french_central_america_superregion_culture = {
-		color = { 164 127 43 }
+		color = { 138 234 206 }
 		radicalism = 10
 		
 		first_names = { }
@@ -1773,7 +1781,7 @@ french = {
 		
 	}
 	french_north_america_superregion_culture = {
-		color = { 168 100 17 }
+		color = { 149 106 208 }
 		radicalism = 10
 		
 		first_names = { }
@@ -2153,7 +2161,7 @@ iberian = {
 		
 	}
 	iberian_north_america_superregion_culture = {
-		color = { 18 5 111 }
+		color = { 233 171 8 }
 		radicalism = 10
 		
 		first_names = { "Enrique" "Fernando" "Juan" "Felipe" "Alfonso" "Carlos" "Sancho" "Ramiro" "Pedro" "Alonso" "Álvaro" "Baltasar" "Bernardo" "Bertrán" "Hernando" "Cristobal" "Diego" "Domingo" "Esteban" "Fadrique" "Francisco" "García" "Gómez" "Gonzalo" "Gutierre" "Hermenegildo" "Ignacio" "Laín" "Lope" "Miguel" "Nuño" "Odón" "Ramón" "Rodrigo" "Tomás" "Valeriano" "Alfonso" "Alphonse" "Alonso" "Alphonse" "Álvar" "Oliver" "Álvaro" "Oliver" "Bermudo" "Vermudo" "Diego" "Diaco" "Henry" "Fadrique" "Frederick" "Felipe" "Philip" "Fernando" "Ferdinand" "Fruela" "Froila" "García" "Garcia" "Gil" "Egidius" "Gómez" "Gomez" "Gonzalo" "Gonzalo" "Guillén" "William" "Guillermo" "William" "Gutierre" "Walter" "Juan" "Lope" "Lupo" "Luis" "Louis" "Manrique" "Amalric" "Martín" "Martin" "Munio" "Munio" "Nuño" "Nuno" "Ordoño" "Ordono" "Obeko" "Pedro" "Peter" "Pelayo" "Pelagius" "Ramiro" "Ramiro" "Rodrigo" "Roderick" "Salvador" "Sancho" "Sancho" "Suero" "Tello" "Vela" "Vela" "Suero" "Oveco" "John" "Enrique" }
@@ -2162,7 +2170,7 @@ iberian = {
 		
 	}
 	iberian_south_america_superregion_culture = {
-		color = { 16 137 6 }
+		color = { 97 26 173 }
 		radicalism = 10
 		
 		first_names = { "Enrique" "Fernando" "Juan" "Felipe" "Alfonso" "Carlos" "Sancho" "Ramiro" "Pedro" "Alonso" "Álvaro" "Baltasar" "Bernardo" "Bertrán" "Hernando" "Cristobal" "Diego" "Domingo" "Esteban" "Fadrique" "Francisco" "García" "Gómez" "Gonzalo" "Gutierre" "Hermenegildo" "Ignacio" "Laín" "Lope" "Miguel" "Nuño" "Odón" "Ramón" "Rodrigo" "Tomás" "Valeriano" "Alfonso" "Alphonse" "Alonso" "Alphonse" "Álvar" "Oliver" "Álvaro" "Oliver" "Bermudo" "Vermudo" "Diego" "Diaco" "Henry" "Fadrique" "Frederick" "Felipe" "Philip" "Fernando" "Ferdinand" "Fruela" "Froila" "García" "Garcia" "Gil" "Egidius" "Gómez" "Gomez" "Gonzalo" "Gonzalo" "Guillén" "William" "Guillermo" "William" "Gutierre" "Walter" "Juan" "Lope" "Lupo" "Luis" "Louis" "Manrique" "Amalric" "Martín" "Martin" "Munio" "Munio" "Nuño" "Nuno" "Ordoño" "Ordono" "Obeko" "Pedro" "Peter" "Pelayo" "Pelagius" "Ramiro" "Ramiro" "Rodrigo" "Roderick" "Salvador" "Sancho" "Sancho" "Suero" "Tello" "Vela" "Vela" "Suero" "Oveco" "John" "Enrique" "Muhammad" "Yûsuf" "'Alî" "Sa'd" "Isma'îl" "Nasr" "'Abd" "al-Karim" "Ayman" "Barakat" "Basir" "Dawud" "Fahd" "Faris" "Faruq" "Haidar" "Hashim" "Husam" "Iqbal" "Jabbar" "Ja'far" "Jamal" "Junayd" "Khaliq" "Malik" "Mansur" "Mustafa" "Najib" "Qasim" "Qusay" "Rashîd" "Safi" "Sakhr" "Samir" "Tariq" "Umar" "Wahid" "Zahir" "Firdaus" "Fuad" "Rahim" "Abbad" "Abbas" "Abbas" "Abdallah" "Abdullah" "Abdul-Aziz" "Abdul-Hakam" "Abdul-Hasan" "Hasan" "Abdul-Hazm" "Abdul-Rahman" "Abdul-Razzaq" "Abdul" "Abdul" "Abu" "Abu-Bakr" "Abu-Bakr" "Adfuns" "Alphonse" "Ahmad" "Ahmad" "Ali" "Ali" "Amr" "Ayyub" "Balashk" "Vasco" "Bilal" "Fadl" "Fath" "Galind" "Galindo" "Garsiya" "Garcia" "Hakam" "Hakam" "Hilal" "Ibrahim" "Abraham" "Isma'il" "Ismail" "Jyad" "Lubb" "Lupo" "Ma'n" "Mubashir" "Muhammad" "Muhammad" "Mundir" "Musa" "Moses" "Muyahid" "Raf" "Rashid" "Rasiq" "Sa'd" "Sanyo" "Sancho" "Siddray" "Suleyman" "Solomon" "Tariq" "Tifilwit" "Umar" "Umar" "Utman" "Wannaqo" "Inigo" "Ya'far" "Yahaff" "Yahya" "John" "Yusuf" "Joseph" }
@@ -3629,7 +3637,7 @@ polish_culture_group = {
 		
 	}
 	dynamic-polish-culture-num1 = {
-		color = { 224 45 145 }
+		color = { 147 120 62 }
 		
 		first_names = { "August" "Wladyslaw" "Stanislaw" "Kazimierz" "Aleksander" "Henryk" "Albert" "Kazimierz" "Michal" "Stefan" "August" "Aleksander" "Karol" "Kazimierz" "Krzysztof" "Fryderyk" "Olbracht" "Jan" "Karol" "Patryk" "Ferdynand" "Olbracht" "Albert" "Aleksy" "Andrzej" "Bartlomiej" "Bogumil" "Bronislaw" "Dawid" "Dominik" "Emil" "Eugeniusz" "Ferdynand" "Gustaw" "Igor" "Iwan" "Krystian" "Lech" "Lucjusz" "Ludwik" "Lukasz" "Maksym" "Mariusz" "Mieszko" "Miroslaw" "Rafal" "Sylwester" "Szymon" "Zygfryd" "Oskar" "Aleksander" "Alexander" "Andrzej" "Andrew" "Bartosz" "Bartolomeus" "Bezprym" "Boguchwal" "Bogumil" "Boleslaw" "Boleslav" "Boncza" "Bonifacius" "Borzyslaw" "Bozydar" "Theodat" "Borzywoj" "Borijov" "Budziwuj" "Czcibor" "Czyrzniech" "Dalimir" "Daniel" "Daniel" "Dobieslaw" "Dobrogost" "Dobromir" "Doman" "Domawuj" "Dytryk" "Thierry" "Eustachy" "Eustace" "Gaudenty" "Gierolt" "Gerald" "Gniewomir" "Gniewosz" "Gosciwuj" "Goszczon" "Henryk" "Henry" "Izbor" "Józef" "Joseph" "Jacek" "Hyacinth" "Jaksa" "Jacob" "Jakub" "Jacob" "Jakusz" "John" "Janislaw" "John" "John" "Janusz" "John" "Jaroslaw" "Jaroslav" "Jerzy" "George" "Karol" "Charles" "Kazimierz" "Konrad" "Konrad" "Christian" "Krzeslaw" "Lambert" "Lambert" "Leszek" "Ctibor" "Maciej" "Matthew" "Macko" "Matthew" "Malowuj" "Marcin" "Martin" "Maslaw" "Mateusz" "Matthew" "Mieszko" "Mikolaj" "Nicholas" "Milobrat" "Milosz" "Milosz" "Miroslaw" "Miroslav" "Msciwoj" "Mszczuj" "Nadbor" "Niezamysl" "Odon" "Pawel" "Paul" "Pelka" "Piotr" "Peter" "Piskla" "Prendota" "Przemyslaw" "Premysl" "Przybor" "Sambor" "Sedziej" "Sieciech" "Siemomysl" "Siemowit" "Skarbimir" "Snowid" "Spytko" "Stanislaw" "Stanislav" "Stefan" "Stephen" "Stoigniew" "Strasz" "Sulislaw" "Sulistryj" "Swietopelk" "Svatopluk" "Swietoslaw" "Szczesny" "Felix" "Tomasz" "Thomas" "Trojden" "Twardomir" "Usciech" "Waclaw" "Vaclav" "Wanko" "Vaclav" "Laurence" "Wielislaw" "Wieslaw" "Wincenty" "Vincent" "Wit" "Guy" "Witosz" "Wladyslaw" "Vladislav" "Wojciech" "Wojuta" "Wszebor" "Vsebor" "Zbigniew" "Zbynek" "Zbyszko" "Zbynek" "Zegota" "Ignatius" "Zelibrat" "Zygmunt" "Sigmund" "Albert" "Wawrzyniec" "Sviatoslav" "Sedzimir" "Otto" "Krystyn" "Janko" "Imram" }
 		
@@ -4243,7 +4251,7 @@ scandinavian = {
 		
 	}
 	scandinavian_north_america_superregion_culture = {
-		color = { 26 157 192 }
+		color = { 4 18 149 }
 		radicalism = 10
 		
 		first_names = { "Ale" "Alfr" "Alf" "Alfgeir" "Anders" "Andrew" "Anlaufr" "Anundr" "Anund" "Arnbjörn" "Arngrimr" "Arni" "Arne" "Arnfast" "Asbjörn" "Bagge" "Baldr" "Balder" "Barid" "Bengt" "Benedict" "Bersi" "Bertil" "Birger" "Björn" "Beorn" "Bo" "Borkvard" "Botulfr" "Bragi" "Brage" "Buðli" "Dag" "Dan" "Dyre" "Eilif" "Egill" "Egil" "Emund" "Einarr" "Einar" "Eirikr" "Erik" "Eskild" "Falki" "Faste" "Filip" "Philip" "Fredrik" "Frederick" "Frirek" "Frode" "Freyr" "Frej" "Folki" "Folke" "Gandalfr" "Geirr" "Georg" "George" "Gnupa" "Gorm" "Greger" "Gregory" "Grimr" "Grim" "Godfrey" "Guðmundr" "Gudmund" "Gudröd" "Gunnarr" "Gunnar" "Hakon" "Halsten" "Haraldr" "Harold" "Haukr" "Helgi" "Helge" "Hemming" "Holmger" "Hrafn" "Hrolfr" "Rolf" "Hrane" "Hæsteinn" "Hjalmar" "Hysing" "Ingólfr" "Ingolf" "Ingemar" "Ingjald" "Ivar" "Jedvard" "Edward" "Jon" "John" "Karl" "Charles" "Kettil" "Kettilmund" "Kjartan" "Klas" "Knut" "Kol" "Kolbjörn" "Magnus" "Markus" "Marcus" "Mats" "Matthew" "Nils" "Niklas" "Nicholas" "Oddr" "Odd" "Ofeig" "Olafr" "Olaf" "Ormr" "Orm" "Ottarr" "Ottar" "Refr" "Refil" "Ragnarr" "Ragnar" "Rikulfr" "Rögnvaldr" "Ragnvald" "Skuli" "Skule" "Snorri" "Sigbjörn" "Sigtrygg" "Sigurðr" "Sigurd" "Starkad" "Steinn" "Sten" "Sturla" "Styrbjörn" "Styrkar" "Somerled" "Suni" "Sune" "Sveinn" "Sven" "Sverker" "Sæmundr" "Sämund" "Sölvi" "Sölve" "Sörkver" "Tjudmund" "Toke" "Tolir" "Þorbjörn" "Torbjörn" "Þorfinn" "Torfinn" "Þorbrandr" "Torbrand" "Þordr" "Tord" "Þorgil" "Torkel" "Þorsteinn" "Torsten" "Þorolfr" "Thorolf" "Toste" "Totil" "Tryggve" "Tyke" "Ulfr" "Ulf" "Vagn" "Valdemar" "Vladimir" "Åke" "Yngvar" "Ingvar" "Örvar" "Orvar" "Öysteinn" "Eysteinn" "Håkon" "Olav" "Christoffer" "Harald" "Inge" "Aksel" "Ansgard" "Arvid" "Bernt" "Bjørn" "Daniel" "Edvard" "Eilert" "Elias" "Esben" "Kasper" "Kennet" "Knut" "Ludvig" "Mikael" "Njåld" "Njord" "Oddmund" "Peder" "Rikard" "Simon" "Søren" "Tollak" }
@@ -4333,7 +4341,7 @@ south_asian = {
 		
 	}
 	dynamic-avadhi-culture-num1 = {
-		color = { 177 22 228 }
+		color = { 130 174 71 }
 		
 		first_names = { "Muhammad Sa'adat Khan" "Muhammad Safdar Jang" "Shujah ad-Daula" "Asaf ad-Daula" "Wazir 'Ali" "Sa'adat 'Ali Khan" "Ghazi ud-Din Haidar" "Saadat" "Safdarjung" "Hyder" "Birjis Qadra" "Ali" "Alauddin" "Bhi" "Malik" "Narendra" "Bismillah" "Obaid" "Iqbal" }
 		
@@ -4857,7 +4865,7 @@ turko_semitic = {
 		
 	}
 	dynamic-bedouin_arabic-beja-culture-num1 = {
-		color = { 197 45 61 }
+		color = { 1 130 31 }
 		
 		first_names = { "Mani" "Rabi'a" "Musa" "Ibrahim" "Markhan" "Watban" "Nasir" "Idris" "'Abd-Allah" "Sa'ud" "Zayid" "Abdullah" "Muhammad" "'Abdullah" "Turki" "Faisal" "Al-Rahman" "Khalid" "Fahd" "Aziz" "Abu-Bakr" "Abu-Bakr" "Aarif" "Abdul-Gafur" "Abdul-Jaleel" "Abdul-Qadir" "Abdul-Wahab" "Abdul" "Abdul" "Abdullah" "Abdullah" "Aghlab" "Akin" "Ali" "Ali" "Alim" "Aram" "Azam" "Bahir" "Burhanaddin" "Fadil" "Fadl" "Faruk" "Ghalib" "Hafiz" "Halil" "Hasan" "Hasan" "Husam" "Hussayn" "Hussayn" "Ibrahim" "Abraham" "Idris" "Is'mail" "Ismail" "Isa" "Jabir" "Jalil" "Jibril" "Khaireddin" "Khalil" "Mahdi" "Mahmud" "Mahmud" "Mansur" "Mirza" "Mubarak" "Muhammad" "Muhammad" "Mukhtar" "Murad" "Musa" "Moses" "Muslihiddin" "Muzaffaraddin" "Najib" "Nasr" "Nizam" "Qawurd" "Ramadan" "Sa'daddin" "Sadiq" "Sami" "Samir" "Shaiban" "Shamir" "Shujah" "Sulayman" "Solomon" "Talib" "Ubayd" "Uways" "Yahya" "Yahya" "Ya'qub" "Jacob" "Youkhanna" "John" "Yusuf" "Joseph" "Zeyd" "'Amâra" "'Abd al-Qâdir" "Nâ'l" "Dakîn al-'Adil" "Dûra" "Taiyîb" "Unsa" "Adlân" "Bâdî" "Rubât" "Nûl" "Nâsir" "Ranfi" "Eltecit" "Joel" "Koudlaniel" "Isawi" "Hashim" "Maqdum" "Awkal" "Hassan" "Agban" "Abu Likayik" "Rajab" "Ahmad" "Rifaya" "Ibrahim" "Idris" "Tindhim" "'Abd al-Rahman" "Sulayman" "Yusuf" "Ya'qub" "Ismâ'îl" "Musa" "Muhammad" "Ishaq" "Halim" "Mustafa" "Abu Bakr" "Aarôn" "Aaron" "Aberikos" "Abraam" "Abraham" "Añgelos" "Angelus" "Andreas" "Andrew" "Athanasios" "Balô" "Bartholomaios" "Bartholomew" "Birêl" "Chael" "Christophoros" "Dauid" "David" "Dimetheos" "Timothy" "Dioskoros" "Diônisios" "Dionysus" "Eliezer" "Eionkouda" "Emmanouel" "Emmanuel" "Enôch" "Enoch" "Ephannê" "Epimachos" "Epiphanios" "Gabriel" "Gabriel" "Gabrielkouda" "Gabrielophorou" "Gennatios" "Gennadius" "Geôrgios" "George" "Hêlias" "Elias" "Hoase" "Jesse" "Hoassi" "Jesse" "Hoasse" "Jesse" "Iacob" "Jacob" "Ieremias" "Jeremiah" "Iêsous" "Jesus" "Iêsousinkouda" "Iôannou" "Jonah" "Iôannês" "John" "Iordanes" "Jordanes" "Ioseph" "Joseph" "Kalinikos" "Kallinikios" "Kollouthos" "Krisanthos" "Chrystanthos" "Kuriakos" "Kyriakos" "Kurillos" "Cyril" "Lazaros" "Lazarus" "Leon" "Leo" "Leontios" "Leontius" "Makarios" "Makarius" "Mariana" "Mariankouda" "Marianos" "Marianus" "Marios" "Marius" "Markos" "Marcus" "Marturophoros" "Mašanñal" "Maththias" "Matthew" "Mêlênkouda" "Mena" "Menankouda" "Merkourios" "Mercurius" "Michaêl" "Michael" "Michaêlkouda" "Mouses" "Moses" "Orna" "Panigiros" "Papasinen" "Papasinkouda" "Patrikios" "Patrick" "Paulos" "Paul" "Petros" "Peter" "Petrou" "Philotheos" "Philemon" "Prochoros" "Raphael" "Raphaelkouda" "Samson" "Senouthios" "Sentiko" "Sergios" "Sergius" "Simeoni" "Simon" "Soizuros" "Solomôn" "Solomon" "Sotinkouda" "Stephanos" "Stephen" "Stephanou" "Thadeosi" "Thaddeus" "Theodôros" "Theodore" "Theodosios" "Theodosius" "Theodote" "Theodat" "Thoma" "Thomas" "Tophêna" "Tirsakouni" "Zacharias" "Zachary" "Zosima" "Zosimus" }
 		
@@ -4865,7 +4873,7 @@ turko_semitic = {
 		
 	}
 	dynamic-kurdish-al_suryah_arabic-culture-num1 = {
-		color = { 176 246 196 }
+		color = { 79 82 125 }
 		
 		first_names = { "Bawa" "Helo" "Timur" "Ahmad" "Soleiman" "Sobhanverdi" "Khosrow" "Bozorg" "Hosayn" "Aman-Allah" "Faqi" "Ahmad" "Mohammad" "Khalid" "Nawaub" "Salim" "Abdolla" "Mahmoud" "Ibrahim" "Abdurrahman" "Kulos" "Isa" "Mir" "Saifeddin" "Saidi" "Budak" "Abbas" "Abolhassan" "Alah-Verdi" "Allahyar" "Amin" "Aram" "Assad" "Aurang" "Ayeshah" "Azad" "Babek" "Babak" "Bahman" "Behrad" "Behram" "Bahram" "Behrouz" "Bextîyar" "Bakhtiar" "Bozorg" "Cehandar" "Jahandar" "Cehangir" "Jahangir" "Cehanšah" "Jahanshah" "Cemšîd" "Jamshid" "Cevid" "Javeed" "Danûš" "Danush" "Darab" "Daryûš" "Darius" "Davud" "David" "Ebrahim" "Abraham" "Efrasiyab" "Afrasiyab" "Efšer" "Afshar" "Ehmed" "Ahmad" "Ehsan" "Ekber" "Akbar" "Elî" "Ali" "Enûširwan" "Anushirvan" "Erdehan" "Ardahan" "Erdewan" "Ardavan" "Erdešîr" "Ardeshir" "Esfendiyar" "Esfandiar" "Eskander" "Alexander" "Ešot" "Ashot" "Eyyub" "Ayyub" "Feramez" "Faramarz" "Feraz" "Faraz" "Fath" "Ferhad" "Farhad" "Ferhan" "Farhan" "Ferheng" "Farhang" "Feriburz" "Fariborz" "Ferîd" "Farid" "Ferîdun" "Feridun" "Ferux" "Farroukh" "Feruxzad" "Farrukhzad" "Ferzad" "Farzad" "Fezl" "Fadl" "Fezlun" "Fadlun" "Firdews" "Ferdows" "Ghobad" "Gholam" "Godarz" "Goštasp" "Goshtasb" "Hezarhesp" "Hazarasp" "Hafez" "Hedayat" "Hesen" "Hasan" "Hisên" "Hussein" "Hormoz" "Hosen" "Hossein" "Humayun" "Hurmiz" "Hormazd" "Îsmaîl" "Ismail" "Kambiz" "Kamran" "Keyghobad" "Keyxusrew" "Keykhosrau" "Kâvus" "Kavoos" "Kûrušê" "Cyrus" "Mamlan" "Muhammad" "Mashad" "Mehmûd" "Mahmud" "Mehrab" "Mehrzad" "Mensûr" "Mansur" "Menûçihr" "Manuchihr" "Menûšihr" "Manushihr" "Merwan" "Marwan" "Merzuban" "Marzuban" "Mesûd" "Masud" "Mihemed" "Muhammad" "Mîrza" "Mirza" "Mistefa" "Mustafa" "Murad" "Morad" "Morteza" "Mozaffar" "Nard" "Naveed" "Nawid" "Nesir" "Nazir" "Nesr" "Nasr" "Nezam" "Nošîrwan" "Nawshirwan" "Nêçîrvan" "Nechirwan" "Parviz" "Pujman" "Pêšeng" "Pashang" "Pîroz" "Peroz" "Revend" "Rawwad" "Reza" "Ruhollah" "Rustam" "Rostam" "Sadri" "Salman" "Sina" "Surxap" "Surkhab" "Tahmasp" "Tahmasb" "Vahhab" "Vahid" "Vahusdan" "Wahustan" "Vali" "Varšasp" "Varshasb" "Vîštap" "Vishtasb" "Xarmandar" "Kharmandar" "Xašayar" "Khashayar" "Xuršîd" "Khurshid" "Xusrew" "Khosrau" "Xušyar" "Hooshyar" "Xwedadad" "Khodadad" "Xwedayar" "Khudayar" "Yezîd" "Yazid" "Yousef" "Zahak" "Zakaria" "Zand" "Zerdešt" "Zartosht" "Zia" "Šadî" "Shadhi" "Šahab" "Shahab" "Šahbaz" "Shahbaz" "Šahenšah" "Shahanshah" "Šahin" "Shahin" "Šahram" "Shahram" "Šahryar" "Shahryar" "Šahrux" "Shahrokh" "Šahruz" "Shahruz" "Šapur" "Shapur" "Šarvin" "Sharwin" "Šawur" "Shavur" "Šayan" "Shayan" "Šîrkûh" "Shirkuh" "al-Nasr" "al-Mu'azzam" "al-Salih" "al-'Adil" "al-Kamil" "al-Ashraf" "al-Afdal" "Tadj" "Mujir" "ud-Din" "Djamal" "ud-Din" "ud-Din" "Shams" "Saif" "'Abbas" "'Abd" "al-Rahman" "Anwar" "Atuf" "Bakr" "Fahd" "Hakim" "Harun" "Hikmat" "Hisham" "Husayn" "Jamaal" "Karim" "Malîk" "Mirza" "Muhammad" "Rashîd" "Rusul" "Shimun" "Tarîq" "Usama" "Yasir" "Yusuf" "Zaid" "Zîyad" "Isma'il" "Jafar" "Shihab" }
 		

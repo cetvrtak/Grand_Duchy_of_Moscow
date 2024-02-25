@@ -501,14 +501,14 @@ army = {
 		home=1549
 	}
 	regiment = {
-		name="1st Guangxin Cavalry"
+		name="1st Jian Cavalry"
 		type=cavalry
-		home=1546
+		home=1547
 	}
 	regiment = {
-		name="1st Jian Artillery"
+		name="1st Guangxin Artillery"
 		type=artillery
-		home=1547
+		home=1546
 	}
 	regiment = {
 		name="1st Jian Irregulars"
@@ -516,14 +516,14 @@ army = {
 		home=1547
 	}
 	regiment = {
-		name="1st Raozhou Cavalry"
+		name="1st Jiujiang Cavalry"
 		type=cavalry
-		home=1551
+		home=1549
 	}
 	regiment = {
-		name="1st Guangxin Artillery"
+		name="1st Jiujiang Artillery"
 		type=artillery
-		home=1546
+		home=1549
 	}
 }
 

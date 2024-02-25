@@ -1834,7 +1834,7 @@
 	{
 		culture = burmese
 		religion = theravada
-		size= 662
+		size= 1033
 	}
 
 	artisans=
@@ -1876,7 +1876,7 @@
 	{
 		culture = burmese
 		religion = theravada
-		size= 10776
+		size= 10405
 	}
 
 	soldiers=
@@ -2503,7 +2503,7 @@
 	{
 		culture = kachin
 		religion = theravada
-		size= 602
+		size= 1033
 	}
 
 	artisans=
@@ -2545,7 +2545,7 @@
 	{
 		culture = kachin
 		religion = theravada
-		size= 27965
+		size= 27534
 	}
 
 	soldiers=
@@ -3127,7 +3127,7 @@
 	{
 		culture = burmese
 		religion = theravada
-		size= 1395
+		size= 7233
 	}
 
 	artisans=
@@ -3169,7 +3169,7 @@
 	{
 		culture = burmese
 		religion = theravada
-		size= 23037
+		size= 17199
 	}
 
 	soldiers=

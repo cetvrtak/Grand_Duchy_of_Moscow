@@ -489,6 +489,16 @@ army = {
 	name="3rd Army"
 	location=1534
 	regiment = {
+		name="1st Guihua Tumed Irregulars"
+		type=irregular
+		home=1532
+	}
+	regiment = {
+		name="1st Uriankhai Irregulars"
+		type=irregular
+		home=1469
+	}
+	regiment = {
 		name="1st Sainshand Irregulars"
 		type=irregular
 		home=2207
@@ -499,29 +509,19 @@ army = {
 		home=1467
 	}
 	regiment = {
-		name="2nd Sainshand Irregulars"
-		type=irregular
-		home=2207
-	}
-	regiment = {
-		name="1st Uriankhai Irregulars"
-		type=irregular
+		name="1st Uriankhai Artillery"
+		type=artillery
 		home=1469
 	}
 	regiment = {
-		name="1st Bulgan Artillery"
-		type=artillery
-		home=2678
-	}
-	regiment = {
-		name="2nd Urga Irregulars"
+		name="2nd Bayan Tumen Irregulars"
 		type=irregular
-		home=1465
+		home=1467
 	}
 	regiment = {
-		name="2nd Guihua Tumed Artillery"
+		name="1st Yeke Juu Chuulghan Artillery"
 		type=artillery
-		home=1532
+		home=1535
 	}
 }
 
@@ -529,14 +529,14 @@ army = {
 	name="2nd Army"
 	location=2207
 	regiment = {
-		name="2nd Uriankhai Irregulars"
-		type=irregular
-		home=1469
-	}
-	regiment = {
-		name="1st Guihua Tumed Irregulars"
+		name="2nd Guihua Tumed Irregulars"
 		type=irregular
 		home=1532
+	}
+	regiment = {
+		name="1st Yeke Juu Chuulghan Irregulars"
+		type=irregular
+		home=1535
 	}
 	regiment = {
 		name="1st Urga Irregulars"
@@ -544,7 +544,7 @@ army = {
 		home=1465
 	}
 	regiment = {
-		name="1st Yeke Juu Chuulghan Irregulars"
+		name="2nd Yeke Juu Chuulghan Irregulars"
 		type=irregular
 		home=1535
 	}
@@ -554,29 +554,29 @@ army = {
 		home=2678
 	}
 	regiment = {
-		name="1st Yeke Juu Chuulghan Artillery"
+		name="1st Urga Artillery"
 		type=artillery
-		home=1535
+		home=1465
+	}
+	regiment = {
+		name="2nd Urga Artillery"
+		type=artillery
+		home=1465
+	}
+	regiment = {
+		name="1st Dalandzadgad Irregulars"
+		type=irregular
+		home=1466
+	}
+	regiment = {
+		name="2nd Bulgan Cavalry"
+		type=cavalry
+		home=2678
 	}
 	regiment = {
 		name="1st Guihua Tumed Artillery"
 		type=artillery
 		home=1532
-	}
-	regiment = {
-		name="1st Bulgan Irregulars"
-		type=irregular
-		home=2678
-	}
-	regiment = {
-		name="1st Guihua Tumed Cavalry"
-		type=cavalry
-		home=1532
-	}
-	regiment = {
-		name="2nd Bulgan Artillery"
-		type=artillery
-		home=2678
 	}
 }
 
@@ -584,9 +584,9 @@ army = {
 	name="7th Army"
 	location=1466
 	regiment = {
-		name="1st Dalandzadgad Irregulars"
+		name="2nd Sainshand Irregulars"
 		type=irregular
-		home=1466
+		home=2207
 	}
 }
 

@@ -499,19 +499,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Toulon Frigate"
-		type=frigate
-	}
-	ship = {
 		name="2nd Nice Frigate"
 		type=frigate
 	}
 	ship = {
-		name="3rd Nice Frigate"
-		type=frigate
-	}
-	ship = {
-		name="4th Nice Frigate"
+		name="1st Toulon Frigate"
 		type=frigate
 	}
 	ship = {
@@ -519,7 +511,15 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="5th Nice Frigate"
+		name="2nd Marseilles Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Marseilles Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Toulon Frigate"
 		type=frigate
 	}
 }
@@ -528,29 +528,14 @@ army = {
 	name="Armée de Forcalquier"
 	location=470
 	regiment = {
-		name="1st Frejus Infantry"
-		type=infantry
-		home=471
-	}
-	regiment = {
 		name="1st Avignon Infantry"
 		type=infantry
 		home=468
 	}
 	regiment = {
-		name="1st Marseilles Cavalry"
-		type=cavalry
-		home=467
-	}
-	regiment = {
-		name="1st Digne Artillery"
-		type=artillery
-		home=469
-	}
-	regiment = {
-		name="2nd Frejus Infantry"
+		name="2nd Avignon Infantry"
 		type=infantry
-		home=471
+		home=468
 	}
 	regiment = {
 		name="1st Toulon Cavalry"
@@ -561,6 +546,21 @@ army = {
 		name="1st Frejus Artillery"
 		type=artillery
 		home=471
+	}
+	regiment = {
+		name="1st Nice Infantry"
+		type=infantry
+		home=472
+	}
+	regiment = {
+		name="1st Marseilles Cavalry"
+		type=cavalry
+		home=467
+	}
+	regiment = {
+		name="1st Toulon Artillery"
+		type=artillery
+		home=470
 	}
 }
 
@@ -573,9 +573,9 @@ army = {
 		home=467
 	}
 	regiment = {
-		name="2nd Marseilles Infantry"
+		name="1st Digne Infantry"
 		type=infantry
-		home=467
+		home=469
 	}
 	regiment = {
 		name="1st Avignon Cavalry"
@@ -588,19 +588,19 @@ army = {
 		home=467
 	}
 	regiment = {
-		name="1st Grenoble Artillery"
+		name="2nd Frejus Artillery"
 		type=artillery
-		home=454
+		home=471
 	}
 	regiment = {
-		name="1st Digne Cavalry"
+		name="2nd Avignon Cavalry"
 		type=cavalry
-		home=469
+		home=468
 	}
 	regiment = {
-		name="1st Avignon Artillery"
+		name="2nd Marseilles Artillery"
 		type=artillery
-		home=468
+		home=467
 	}
 }
 
@@ -608,15 +608,15 @@ navy = {
 	name="2nd Fleet"
 	location=2750
 	ship = {
-		name="2nd Toulon Frigate"
+		name="3rd Nice Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Provencal Frigate"
+		name="4th Nice Frigate"
 		type=frigate
 	}
 	ship = {
-		name="6th Nice Frigate"
+		name="3rd Toulon Frigate"
 		type=frigate
 	}
 }

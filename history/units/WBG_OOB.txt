@@ -529,14 +529,24 @@ army = {
 	name="Erste Fränkische Armee"
 	location=595
 	regiment = {
-		name="1st Landshut Infantry"
+		name="1st Meiningen Infantry"
 		type=infantry
-		home=600
+		home=563
 	}
 	regiment = {
-		name="1st Stuttgart Infantry"
+		name="1st Bayreuth Infantry"
 		type=infantry
-		home=589
+		home=598
+	}
+	regiment = {
+		name="1st Nuremberg Infantry"
+		type=infantry
+		home=595
+	}
+	regiment = {
+		name="2nd Bayreuth Infantry"
+		type=infantry
+		home=598
 	}
 	regiment = {
 		name="1st Heilbronn Infantry"
@@ -549,24 +559,14 @@ army = {
 		home=590
 	}
 	regiment = {
-		name="1st Bayreuth Infantry"
-		type=infantry
-		home=598
-	}
-	regiment = {
-		name="2nd Bayreuth Infantry"
-		type=infantry
-		home=598
-	}
-	regiment = {
-		name="1st Meiningen Artillery"
+		name="1st Stuttgart Artillery"
 		type=artillery
-		home=563
+		home=589
 	}
 	regiment = {
-		name="1st Regensburg Artillery"
+		name="1st Bayreuth Artillery"
 		type=artillery
-		home=602
+		home=598
 	}
 	regiment = {
 		name="1st Heilbronn Artillery"
@@ -574,24 +574,24 @@ army = {
 		home=590
 	}
 	regiment = {
-		name="1st Munich Artillery"
+		name="1st Landshut Artillery"
 		type=artillery
-		home=599
+		home=600
 	}
 	regiment = {
-		name="2nd Regensburg Artillery"
-		type=artillery
-		home=602
-	}
-	regiment = {
-		name="2nd Meiningen Artillery"
+		name="1st Meiningen Artillery"
 		type=artillery
 		home=563
 	}
 	regiment = {
-		name="4th Regensburg Artillery"
+		name="2nd Heilbronn Artillery"
 		type=artillery
-		home=602
+		home=590
+	}
+	regiment = {
+		name="2nd Stuttgart Artillery"
+		type=artillery
+		home=589
 	}
 }
 
@@ -599,7 +599,22 @@ army = {
 	name="Armee von Rothenburg"
 	location=602
 	regiment = {
+		name="1st Gotha Infantry"
+		type=infantry
+		home=562
+	}
+	regiment = {
 		name="3rd Heilbronn Infantry"
+		type=infantry
+		home=590
+	}
+	regiment = {
+		name="2nd Nuremberg Infantry"
+		type=infantry
+		home=595
+	}
+	regiment = {
+		name="4th Heilbronn Infantry"
 		type=infantry
 		home=590
 	}
@@ -609,8 +624,23 @@ army = {
 		home=598
 	}
 	regiment = {
-		name="4th Heilbronn Infantry"
-		type=infantry
+		name="1st Augsburg Artillery"
+		type=artillery
+		home=592
+	}
+	regiment = {
+		name="2nd Augsburg Artillery"
+		type=artillery
+		home=592
+	}
+	regiment = {
+		name="1st Regensburg Artillery"
+		type=artillery
+		home=602
+	}
+	regiment = {
+		name="3rd Heilbronn Artillery"
+		type=artillery
 		home=590
 	}
 	regiment = {
@@ -619,39 +649,9 @@ army = {
 		home=590
 	}
 	regiment = {
-		name="1st Munich Infantry"
-		type=infantry
-		home=599
-	}
-	regiment = {
-		name="1st Bayreuth Artillery"
-		type=artillery
-		home=598
-	}
-	regiment = {
-		name="3rd Meiningen Artillery"
+		name="2nd Meiningen Artillery"
 		type=artillery
 		home=563
-	}
-	regiment = {
-		name="2nd Munich Artillery"
-		type=artillery
-		home=599
-	}
-	regiment = {
-		name="1st Augsburg Artillery"
-		type=artillery
-		home=592
-	}
-	regiment = {
-		name="1st Gotha Infantry"
-		type=infantry
-		home=562
-	}
-	regiment = {
-		name="1st Nuremberg Artillery"
-		type=artillery
-		home=595
 	}
 }
 
@@ -664,37 +664,37 @@ army = {
 		home=598
 	}
 	regiment = {
-		name="6th Heilbronn Infantry"
+		name="1st Landshut Infantry"
 		type=infantry
-		home=590
-	}
-	regiment = {
-		name="7th Heilbronn Infantry"
-		type=infantry
-		home=590
-	}
-	regiment = {
-		name="1st Meiningen Infantry"
-		type=infantry
-		home=563
-	}
-	regiment = {
-		name="1st Landshut Artillery"
-		type=artillery
 		home=600
 	}
 	regiment = {
-		name="3rd Regensburg Artillery"
+		name="2nd Landshut Infantry"
+		type=infantry
+		home=600
+	}
+	regiment = {
+		name="1st Würzburg Infantry"
+		type=infantry
+		home=597
+	}
+	regiment = {
+		name="4th Heilbronn Artillery"
+		type=artillery
+		home=590
+	}
+	regiment = {
+		name="2nd Regensburg Artillery"
 		type=artillery
 		home=602
 	}
 	regiment = {
-		name="2nd Heilbronn Artillery"
+		name="1st Würzburg Artillery"
 		type=artillery
-		home=590
+		home=597
 	}
 	regiment = {
-		name="8th Heilbronn Infantry"
+		name="6th Heilbronn Infantry"
 		type=infantry
 		home=590
 	}

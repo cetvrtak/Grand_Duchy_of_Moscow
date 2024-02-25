@@ -594,7 +594,7 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 13433
+		size= 10333
 	}
 
 	craftsmen=
@@ -657,7 +657,7 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 31104
+		size= 34204
 	}
 
 	soldiers=
@@ -936,7 +936,7 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 466
+		size= 1033
 	}
 
 	artisans=
@@ -978,7 +978,7 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 14855
+		size= 14288
 	}
 
 	soldiers=

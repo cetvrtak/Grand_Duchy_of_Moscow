@@ -527,31 +527,31 @@ navy = {
 	name="1st Fleet"
 	location=2803
 	ship = {
+		name="1st Padang Frigate"
+		type=frigate
+	}
+	ship = {
 		name="1st Delian Frigate"
 		type=frigate
-	}
-	ship = {
-		name="2nd Delian Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Delian Clipper Transport"
-		type=clipper_transport
 	}
 	ship = {
 		name="1st Padang Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Delian Clipper Transport"
+		name="2nd Padang Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Delian Frigate"
+		name="1st Delian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Delian Frigate"
 		type=frigate
 	}
 	ship = {
-		name="3rd Delian Clipper Transport"
+		name="3rd Padang Clipper Transport"
 		type=clipper_transport
 	}
 }

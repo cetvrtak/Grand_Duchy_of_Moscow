@@ -489,9 +489,9 @@ army = {
 	name="Armee von Bregenz"
 	location=600
 	regiment = {
-		name="1st Bregenz Infantry"
+		name="1st Innsbruck Infantry"
 		type=infantry
-		home=614
+		home=612
 	}
 	regiment = {
 		name="1st Bregenz Cavalry"
@@ -499,14 +499,14 @@ army = {
 		home=614
 	}
 	regiment = {
-		name="2nd Bregenz Infantry"
+		name="1st Bregenz Infantry"
 		type=infantry
 		home=614
 	}
 	regiment = {
-		name="2nd Bregenz Cavalry"
+		name="1st Innsbruck Cavalry"
 		type=cavalry
-		home=614
+		home=612
 	}
 }
 

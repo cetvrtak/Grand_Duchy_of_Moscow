@@ -519,14 +519,14 @@ army = {
 	name="2nd Army"
 	location=1418
 	regiment = {
-		name="1st Batavia Irregulars"
+		name="1st Semarang Irregulars"
 		type=irregular
-		home=1413
+		home=1417
 	}
 	regiment = {
-		name="1st Cirebon Irregulars"
+		name="2nd Semarang Irregulars"
 		type=irregular
-		home=1415
+		home=1417
 	}
 	regiment = {
 		name="1st Bogor Irregulars"
@@ -534,19 +534,19 @@ army = {
 		home=1414
 	}
 	regiment = {
-		name="2nd Batavia Irregulars"
+		name="1st Cirebon Irregulars"
 		type=irregular
-		home=1413
+		home=1415
+	}
+	regiment = {
+		name="2nd Cirebon Irregulars"
+		type=irregular
+		home=1415
 	}
 	regiment = {
 		name="2nd Bogor Irregulars"
 		type=irregular
 		home=1414
-	}
-	regiment = {
-		name="3rd Batavia Irregulars"
-		type=irregular
-		home=1413
 	}
 	regiment = {
 		name="1st Bogor Cavalry"
@@ -564,17 +564,17 @@ army = {
 		home=1414
 	}
 	regiment = {
-		name="1st Cirebon Cavalry"
+		name="2nd Bogor Cavalry"
 		type=cavalry
-		home=1415
+		home=1414
 	}
 	regiment = {
-		name="1st Batavia Cavalry"
+		name="3rd Bogor Cavalry"
 		type=cavalry
-		home=1413
+		home=1414
 	}
 	regiment = {
-		name="3rd Bogor Artillery"
+		name="4th Bogor Artillery"
 		type=artillery
 		home=1414
 	}
@@ -592,36 +592,32 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="3rd Pontianak Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Semarang Man'o'war"
-		type=manowar
-	}
-	ship = {
 		name="1st Van Diemen's Land Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="3rd Semarang Man'o'war"
+		name="3rd Bogor Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Cirebon Man'o'war"
+		name="1st Batavia Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="2nd Cirebon Man'o'war"
+		name="4th Bogor Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="4th Pontianak Man'o'war"
+		name="2nd Natuna Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Bogor Frigate"
-		type=frigate
+		name="5th Bogor Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Bogor Man'o'war"
+		type=manowar
 	}
 	ship = {
 		name="1st Cirebon Frigate"
@@ -636,7 +632,15 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Christimas & Cocos Clipper Transport"
+		name="1st Bogor Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Batavia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Surabaya Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -644,7 +648,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Cirebon Clipper Transport"
+		name="2nd Surakarta Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -656,19 +660,19 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
+		name="1st Cirebon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Batavia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Cirebon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
 		name="3rd Cirebon Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="7th Bogor Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="8th Bogor Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="4th Cirebon Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -676,39 +680,35 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="5th Cirebon Clipper Transport"
+		name="2nd Semarang Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Natuna Clipper Transport"
+		name="3rd Semarang Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Makassar Clipper Transport"
+		name="3rd Batavia Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Batavia Clipper Transport"
+		name="7th Bogor Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="9th Bogor Clipper Transport"
+		name="4th Semarang Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Probolinggo Clipper Transport"
+		name="2nd Surabaya Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="6th Cirebon Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Bogor Man'o'war"
+		name="7th Bogor Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="7th Cirebon Clipper Transport"
+		name="4th Batavia Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -717,17 +717,17 @@ army = {
 	name="3rd Army"
 	location=1418
 	regiment = {
-		name="3rd Bogor Irregulars"
+		name="1st Batavia Irregulars"
 		type=irregular
-		home=1414
+		home=1413
 	}
 	regiment = {
-		name="4th Bogor Irregulars"
+		name="2nd Batavia Irregulars"
 		type=irregular
-		home=1414
+		home=1413
 	}
 	regiment = {
-		name="2nd Cirebon Irregulars"
+		name="3rd Cirebon Irregulars"
 		type=irregular
 		home=1415
 	}
@@ -737,9 +737,9 @@ army = {
 		home=1416
 	}
 	regiment = {
-		name="5th Bogor Irregulars"
+		name="4th Cirebon Irregulars"
 		type=irregular
-		home=1414
+		home=1415
 	}
 	regiment = {
 		name="1st Cirebon Artillery"
@@ -747,12 +747,12 @@ army = {
 		home=1415
 	}
 	regiment = {
-		name="2nd Cirebon Artillery"
+		name="3rd Bogor Artillery"
 		type=artillery
-		home=1415
+		home=1414
 	}
 	regiment = {
-		name="6th Bogor Irregulars"
+		name="3rd Bogor Irregulars"
 		type=irregular
 		home=1414
 	}
@@ -762,15 +762,15 @@ navy = {
 	name="5th Fleet"
 	location=2854
 	ship = {
+		name="7th Plymouth Frigate"
+		type=frigate
+	}
+	ship = {
 		name="1st Port Macquarie Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Santa Cruz Islands Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Port Macquarie Frigate"
+		name="8th Plymouth Frigate"
 		type=frigate
 	}
 }
@@ -779,11 +779,11 @@ navy = {
 	name="7th Fleet"
 	location=2805
 	ship = {
-		name="2nd Wexford Frigate"
+		name="2nd Bogor Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Chelmsford Frigate"
+		name="3rd Bogor Frigate"
 		type=frigate
 	}
 }

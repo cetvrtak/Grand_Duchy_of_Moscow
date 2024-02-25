@@ -538,7 +538,7 @@ navy = {
 
 navy = {
 	name="1st Fleet"
-	location=2708
+	location=2709
 	ship = {
 		name="Morian"
 		type=frigate
@@ -561,29 +561,29 @@ army = {
 	name="2nd Army"
 	location=697
 	regiment = {
-		name="1st Memel Infantry"
+		name="1st Königsberg Infantry"
 		type=infantry
-		home=698
+		home=695
 	}
 	regiment = {
-		name="1st Gumbinnen Infantry"
+		name="1st Skierniewice Infantry"
 		type=infantry
-		home=697
+		home=710
 	}
 	regiment = {
-		name="2nd Memel Infantry"
+		name="1st Kalisz Infantry"
 		type=infantry
-		home=698
+		home=717
 	}
 	regiment = {
-		name="2nd Gumbinnen Infantry"
+		name="2nd Kalisz Infantry"
 		type=infantry
-		home=697
+		home=717
 	}
 	regiment = {
-		name="1st Posen Infantry"
+		name="2nd Skierniewice Infantry"
 		type=infantry
-		home=699
+		home=710
 	}
 	regiment = {
 		name="1st Bromberg Artillery"
@@ -591,14 +591,14 @@ army = {
 		home=700
 	}
 	regiment = {
-		name="1st Tuchel Artillery"
+		name="1st Elbing Artillery"
 		type=artillery
-		home=691
+		home=693
 	}
 	regiment = {
-		name="2nd Tuchel Artillery"
+		name="1st Memel Artillery"
 		type=artillery
-		home=691
+		home=698
 	}
 }
 
@@ -606,44 +606,44 @@ army = {
 	name="3rd Army"
 	location=690
 	regiment = {
-		name="1st Skierniewice Infantry"
+		name="1st Elbing Infantry"
+		type=infantry
+		home=693
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=712
+	}
+	regiment = {
+		name="1st Gumbinnen Infantry"
+		type=infantry
+		home=697
+	}
+	regiment = {
+		name="2nd Elbing Infantry"
+		type=infantry
+		home=693
+	}
+	regiment = {
+		name="3rd Skierniewice Infantry"
 		type=infantry
 		home=710
 	}
 	regiment = {
-		name="1st Bromberg Infantry"
-		type=infantry
-		home=700
-	}
-	regiment = {
-		name="2nd Bromberg Infantry"
-		type=infantry
-		home=700
-	}
-	regiment = {
-		name="1st Bialystok Infantry"
-		type=infantry
-		home=719
-	}
-	regiment = {
-		name="1st Torun Infantry"
-		type=infantry
-		home=694
-	}
-	regiment = {
-		name="2nd Bromberg Artillery"
+		name="1st Skierniewice Artillery"
 		type=artillery
-		home=700
+		home=710
 	}
 	regiment = {
-		name="1st Allenstein Artillery"
+		name="1st Plock Artillery"
 		type=artillery
-		home=696
+		home=708
 	}
 	regiment = {
-		name="1st Gumbinnen Artillery"
+		name="1st Lomza Artillery"
 		type=artillery
-		home=697
+		home=709
 	}
 }
 
@@ -651,19 +651,19 @@ army = {
 	name="Königliche Armee"
 	location=694
 	regiment = {
-		name="1st Elbing Infantry"
+		name="3rd Elbing Infantry"
 		type=infantry
 		home=693
 	}
 	regiment = {
-		name="2nd Torun Infantry"
+		name="4th Skierniewice Infantry"
 		type=infantry
-		home=694
+		home=710
 	}
 	regiment = {
-		name="1st Plock Infantry"
+		name="1st Torun Infantry"
 		type=infantry
-		home=708
+		home=694
 	}
 	regiment = {
 		name="1st Allenstein Infantry"
@@ -671,34 +671,34 @@ army = {
 		home=696
 	}
 	regiment = {
-		name="3rd Gumbinnen Infantry"
+		name="5th Skierniewice Infantry"
 		type=infantry
-		home=697
+		home=710
 	}
 	regiment = {
-		name="2nd Plock Infantry"
+		name="2nd Allenstein Infantry"
 		type=infantry
-		home=708
+		home=696
 	}
 	regiment = {
-		name="2nd Allenstein Artillery"
+		name="1st Allenstein Artillery"
 		type=artillery
 		home=696
 	}
 	regiment = {
-		name="1st Lodz Artillery"
+		name="2nd Bromberg Artillery"
 		type=artillery
-		home=712
+		home=700
 	}
 	regiment = {
-		name="1st Königsberg Infantry"
+		name="1st Tuchel Infantry"
 		type=infantry
-		home=695
+		home=691
 	}
 	regiment = {
-		name="1st Posen Artillery"
+		name="3rd Bromberg Artillery"
 		type=artillery
-		home=699
+		home=700
 	}
 }
 

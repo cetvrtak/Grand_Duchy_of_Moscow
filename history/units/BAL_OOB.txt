@@ -532,7 +532,7 @@ navy = {
 	name="2nd Fleet"
 	location=1438
 	ship = {
-		name="1st Bali Clipper Transport"
+		name="1st Lombok Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -540,7 +540,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Bali Clipper Transport"
+		name="1st Bali Clipper Transport"
 		type=clipper_transport
 	}
 }

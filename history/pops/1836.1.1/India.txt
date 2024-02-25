@@ -152,7 +152,7 @@
 	{
 		culture = pashtun
 		religion = hindu
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -194,7 +194,7 @@
 	{
 		culture = pashtun
 		religion = hindu
-		size= 11769
+		size= 8669
 	}
 
 }
@@ -252,7 +252,7 @@
 	{
 		culture = pashtun
 		religion = hindu
-		size= 373
+		size= 1033
 	}
 
 	artisans=
@@ -294,7 +294,7 @@
 	{
 		culture = pashtun
 		religion = hindu
-		size= 4675
+		size= 4015
 	}
 
 	soldiers=
@@ -823,7 +823,7 @@
 	{
 		culture = baluchi
 		religion = sunni
-		size= 4133
+		size= 1042
 	}
 
 	artisans=
@@ -865,7 +865,7 @@
 	{
 		culture = baluchi
 		religion = sunni
-		size= 11506
+		size= 14597
 	}
 
 	slaves=
@@ -1135,7 +1135,7 @@
 	{
 		culture = kashmiri
 		religion = sunni
-		size= 4133
+		size= 4080
 	}
 
 	artisans=
@@ -1177,7 +1177,7 @@
 	{
 		culture = kashmiri
 		religion = sunni
-		size= 114717
+		size= 114770
 	}
 
 	soldiers=
@@ -2669,7 +2669,7 @@
 	{
 		culture = nepali
 		religion = hindu
-		size= 19633
+		size= 41333
 	}
 
 	artisans=
@@ -2711,7 +2711,7 @@
 	{
 		culture = nepali
 		religion = hindu
-		size= 68258
+		size= 46558
 	}
 
 }
@@ -9034,7 +9034,7 @@
 	{
 		culture = rajput
 		religion = hindu
-		size= 10333
+		size= 4133
 	}
 
 	artisans=
@@ -9076,7 +9076,7 @@
 	{
 		culture = rajput
 		religion = hindu
-		size= 17383
+		size= 23583
 	}
 
 }
@@ -10524,7 +10524,7 @@
 	{
 		culture = kanauji
 		religion = mahayana
-		size= 19633
+		size= 4688
 	}
 
 	artisans=
@@ -10566,7 +10566,7 @@
 	{
 		culture = kanauji
 		religion = mahayana
-		size= 62867
+		size= 77812
 	}
 
 	soldiers=
@@ -11918,7 +11918,7 @@
 	{
 		culture = marathi
 		religion = hindu
-		size= 19633
+		size= 22733
 	}
 
 	artisans=
@@ -11960,7 +11960,7 @@
 	{
 		culture = marathi
 		religion = hindu
-		size= 92251
+		size= 89151
 	}
 
 	soldiers=
@@ -12514,7 +12514,7 @@
 	{
 		culture = rajput
 		religion = hindu
-		size= 4133
+		size= 10333
 	}
 
 	artisans=
@@ -12556,7 +12556,7 @@
 	{
 		culture = rajput
 		religion = hindu
-		size= 48008
+		size= 41808
 	}
 
 }
@@ -12565,7 +12565,7 @@
 	{
 		culture = sindi
 		religion = hindu
-		size= 16533
+		size= 12128
 	}
 
 	artisans=
@@ -12607,7 +12607,7 @@
 	{
 		culture = sindi
 		religion = hindu
-		size= 118273
+		size= 122678
 	}
 
 }
@@ -13665,7 +13665,7 @@
 	{
 		culture = marathi
 		religion = hindu
-		size= 47533
+		size= 41333
 	}
 
 	artisans=
@@ -13707,7 +13707,7 @@
 	{
 		culture = marathi
 		religion = hindu
-		size= 100209
+		size= 106409
 	}
 
 	soldiers=

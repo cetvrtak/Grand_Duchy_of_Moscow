@@ -555,7 +555,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 99
+		size= 1033
 	}
 
 	artisans=
@@ -597,7 +597,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 8264
+		size= 7330
 	}
 
 }

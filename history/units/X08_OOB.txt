@@ -532,14 +532,14 @@ army = {
 	name="2nd Army"
 	location=1134
 	regiment = {
-		name="1st Dehkord Irregulars"
+		name="1st Abadan Irregulars"
 		type=irregular
-		home=1134
+		home=1132
 	}
 	regiment = {
-		name="2nd Dehkord Irregulars"
+		name="1st Ahvaz Irregulars"
 		type=irregular
-		home=1134
+		home=1131
 	}
 	regiment = {
 		name="1st Ahvaz Artillery"
@@ -547,9 +547,9 @@ army = {
 		home=1131
 	}
 	regiment = {
-		name="1st Abadan Irregulars"
+		name="1st Dehkord Irregulars"
 		type=irregular
-		home=1132
+		home=1134
 	}
 }
 
@@ -557,19 +557,19 @@ navy = {
 	name="4th Fleet"
 	location=2788
 	ship = {
+		name="1st Abadan Frigate"
+		type=frigate
+	}
+	ship = {
 		name="2nd Bushire Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Lengeh Frigate"
+		name="3rd Bushire Frigate"
 		type=frigate
 	}
 	ship = {
 		name="2nd Lengeh Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Lengeh Frigate"
 		type=frigate
 	}
 }
@@ -586,15 +586,15 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="3rd Bushire Frigate"
-		type=frigate
-	}
-	ship = {
 		name="4th Abadan Frigate"
 		type=frigate
 	}
 	ship = {
 		name="5th Abadan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Lengeh Frigate"
 		type=frigate
 	}
 	ship = {

@@ -415,7 +415,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 3643
+		size= 2749
 	}
 
 	slaves=
@@ -464,7 +464,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 139
+		size= 1033
 	}
 
 }
@@ -899,7 +899,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 4133
+		size= 1033
 	}
 
 	artisans=
@@ -941,7 +941,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 6495
+		size= 9595
 	}
 
 	soldiers=
@@ -1777,14 +1777,14 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 8320
+		size= 7689
 	}
 
 	soldiers=
 	{
 		culture = yankee
 		religion = protestant
-		size= 402
+		size= 1033
 	}
 
 	artisans=

@@ -527,11 +527,11 @@ navy = {
 	name="Balaeric Sea Squadron"
 	location=2924
 	ship = {
-		name="1st Faro Frigate"
+		name="1st Aracaju Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Faro Frigate"
+		name="1st Huelva Frigate"
 		type=frigate
 	}
 }
@@ -540,12 +540,12 @@ army = {
 	name="Jaish Al Cape Verde"
 	location=527
 	regiment = {
-		name="1st Huelva Irregulars"
+		name="1st Cape Verde Irregulars"
 		type=irregular
-		home=511
+		home=1876
 	}
 	regiment = {
-		name="2nd Huelva Irregulars"
+		name="1st Huelva Irregulars"
 		type=irregular
 		home=511
 	}

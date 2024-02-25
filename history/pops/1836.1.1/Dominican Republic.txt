@@ -31,14 +31,14 @@
 	{
 		culture = caribeno
 		religion = catholic
-		size= 10333
+		size= 16533
 	}
 
 	farmers=
 	{
 		culture = caribeno
 		religion = catholic
-		size= 24212
+		size= 18012
 	}
 
 	artisans=
@@ -159,14 +159,14 @@
 	{
 		culture = caribeno
 		religion = catholic
-		size= 15628
+		size= 16021
 	}
 
 	soldiers=
 	{
 		culture = caribeno
 		religion = catholic
-		size= 1033
+		size= 640
 	}
 
 	artisans=
