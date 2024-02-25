@@ -5291,8 +5291,8 @@ EVTDESC441295;The Americans have issued us an ultimatum. They are demanding we r
 EVTNAME6016819;Demobilizing Country;;;;;;;;;;;;;
 EVTDESC6016819;Demobilizing Country.;;;;;;;;;;;;;
 EVT6016819OPTA;Everything will be alright.;;;;;;;;;;;;;
-EVTNAME6016820;Reabsorbing Demobilized Country;;;;;;;;;;;;;
-EVTDESC6016820;Country demobilized. Time to reabsorb. Everything is solved.;;;;;;;;;;;;;
+EVTNAME6016820;Transfer Vassalage;;;;;;;;;;;;;
+EVTDESC6016820;The time has come to align ourselves to our new masters.;;;;;;;;;;;;;
 EVTNAME31320;Vorarlberg wishes to join the Confederation;;;;;;;;;;;;;
 EVTDESC31320;Due to our victorious war a referendum was held recently by the people of Vorarlberg proposing to join the Swiss Confederation and the overwhelming majority voted in favour. The people of Vorarlberg are similar to the Swiss and have always considered themselves different from their east German masters. Nevertheless while Catholic German speaking Swiss are cheering and celebrating the results some Swiss particularly the non German speakers are concerned about the consequences of such an incorporation. If we want to further break up the empires of our enemies we could pressure the Swiss government into accepting Vorarlberg annexation.;;;;;;;;;;;;;
 EVTOPT31320A;Vorarlberg should join Switzerland;;;;;;;;;;;;;
