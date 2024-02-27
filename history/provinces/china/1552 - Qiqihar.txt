@@ -1,7 +1,8 @@
-owner=EJZ
-controller=EJZ
-add_core=CHI
-add_core=EJZ
-add_core=MCK
+owner=KOR
+controller=KOR
+add_core=CSH
+add_core=KHA
+add_core=KOR
+add_core=MGL
 trade_goods = coal
 life_rating = 32

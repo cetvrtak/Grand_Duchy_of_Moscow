@@ -525,14 +525,14 @@ army = {
 		home=1699
 	}
 	regiment = {
-		name="2nd Warzazat Irregulars"
+		name="1st Agadir Irregulars"
 		type=irregular
-		home=1699
+		home=1694
 	}
 	regiment = {
-		name="3rd Warzazat Irregulars"
+		name="1st Safi Irregulars"
 		type=irregular
-		home=1699
+		home=2563
 	}
 	regiment = {
 		name="1st Warzazat Artillery"
@@ -540,9 +540,9 @@ army = {
 		home=1699
 	}
 	regiment = {
-		name="1st Marrakesh Artillery"
+		name="2nd Warzazat Artillery"
 		type=artillery
-		home=1690
+		home=1699
 	}
 }
 
@@ -554,6 +554,10 @@ navy = {
 		type=manowar
 	}
 	ship = {
+		name="1st Sawira Man'o'war"
+		type=manowar
+	}
+	ship = {
 		name="2nd Agadir Man'o'war"
 		type=manowar
 	}
@@ -562,23 +566,11 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="4th Agadir Man'o'war"
-		type=manowar
-	}
-	ship = {
 		name="1st Ifni Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Casablanca Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="1st Ifni Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Ifni Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -586,11 +578,19 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Casablanca Clipper Transport"
+		name="2nd Agadir Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Casablanca Clipper Transport"
+		name="2nd Ifni Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Agadir Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Ifni Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -599,7 +599,17 @@ army = {
 	name="4th Army"
 	location=1693
 	regiment = {
-		name="4th Warzazat Irregulars"
+		name="2nd Warzazat Irregulars"
+		type=irregular
+		home=1699
+	}
+	regiment = {
+		name="2nd Agadir Irregulars"
+		type=irregular
+		home=1694
+	}
+	regiment = {
+		name="3rd Warzazat Irregulars"
 		type=irregular
 		home=1699
 	}
@@ -609,19 +619,14 @@ army = {
 		home=1690
 	}
 	regiment = {
-		name="1st Casablanca Irregulars"
+		name="2nd Marrakesh Irregulars"
 		type=irregular
-		home=1691
+		home=1690
 	}
 	regiment = {
-		name="1st Safi Irregulars"
-		type=irregular
-		home=2563
-	}
-	regiment = {
-		name="1st Agadir Irregulars"
-		type=irregular
-		home=1694
+		name="1st Marrakesh Artillery"
+		type=artillery
+		home=1690
 	}
 	regiment = {
 		name="2nd Marrakesh Artillery"
@@ -629,19 +634,14 @@ army = {
 		home=1690
 	}
 	regiment = {
-		name="1st Rashidia Artillery"
-		type=artillery
-		home=1698
-	}
-	regiment = {
-		name="2nd Casablanca Irregulars"
+		name="3rd Marrakesh Irregulars"
 		type=irregular
-		home=1691
+		home=1690
 	}
 	regiment = {
-		name="3rd Marrakesh Artillery"
+		name="1st Casablanca Artillery"
 		type=artillery
-		home=1690
+		home=1691
 	}
 }
 
@@ -649,7 +649,11 @@ navy = {
 	name="4th Fleet"
 	location=2924
 	ship = {
-		name="1st Sawira Frigate"
+		name="1st Casablanca Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Agadir Frigate"
 		type=frigate
 	}
 	ship = {
@@ -658,10 +662,6 @@ navy = {
 	}
 	ship = {
 		name="2nd Ifni Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Sawira Frigate"
 		type=frigate
 	}
 }

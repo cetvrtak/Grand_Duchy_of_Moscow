@@ -521,24 +521,19 @@ army = {
 	name="3rd Army"
 	location=2213
 	regiment = {
-		name="1st Santo Domingo Infantry"
-		type=infantry
-		home=2214
-	}
-	regiment = {
-		name="2nd Santo Domingo Infantry"
-		type=infantry
-		home=2214
-	}
-	regiment = {
 		name="1st Port Au Prince Infantry"
 		type=infantry
 		home=2213
 	}
 	regiment = {
-		name="1st Puerto Rico Cavalry"
-		type=cavalry
-		home=2222
+		name="1st Santo Domingo Infantry"
+		type=infantry
+		home=2214
+	}
+	regiment = {
+		name="1st La Vega Infantry"
+		type=infantry
+		home=2216
 	}
 	regiment = {
 		name="1st Santo Domingo Cavalry"
@@ -546,13 +541,23 @@ army = {
 		home=2214
 	}
 	regiment = {
+		name="1st Puerto Rico Cavalry"
+		type=cavalry
+		home=2222
+	}
+	regiment = {
 		name="1st Santo Domingo Artillery"
 		type=artillery
 		home=2214
 	}
 	regiment = {
-		name="1st Puerto Rico Artillery"
+		name="2nd Santo Domingo Artillery"
 		type=artillery
+		home=2214
+	}
+	regiment = {
+		name="1st Puerto Rico Infantry"
+		type=infantry
 		home=2222
 	}
 	regiment = {
@@ -561,14 +566,9 @@ army = {
 		home=2213
 	}
 	regiment = {
-		name="3rd Port Au Prince Infantry"
-		type=infantry
-		home=2213
-	}
-	regiment = {
-		name="2nd Santo Domingo Cavalry"
+		name="1st Port Au Prince Cavalry"
 		type=cavalry
-		home=2214
+		home=2213
 	}
 	regiment = {
 		name="1st Port Au Prince Artillery"

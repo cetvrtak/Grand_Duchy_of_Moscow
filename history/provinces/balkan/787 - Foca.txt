@@ -1,8 +1,7 @@
-owner=X07
-controller=REB
-add_core=BOS
-add_core=HLR
-add_core=X07
+owner=BUL
+controller=BUL
+add_core=BUL
+add_core=SER
 add_core=YUG
 trade_goods = coal
 life_rating = 35

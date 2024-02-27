@@ -1,8 +1,8 @@
-owner=HDJ
-controller=HDJ
-add_core=HDJ
+owner=BUL
+controller=BUL
 add_core=IRQ
 trade_goods = fruit
 life_rating = 35
 terrain = dryhills
+colonial=2
 fort = 1

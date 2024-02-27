@@ -499,6 +499,11 @@ army = {
 	name="Armata di Jufra"
 	location=734
 	regiment = {
+		name="1st Sondrio Infantry"
+		type=infantry
+		home=2669
+	}
+	regiment = {
 		name="1st Trent Infantry"
 		type=infantry
 		home=734
@@ -507,11 +512,6 @@ army = {
 		name="2nd Trent Infantry"
 		type=infantry
 		home=734
-	}
-	regiment = {
-		name="1st Verona Infantry"
-		type=infantry
-		home=730
 	}
 }
 

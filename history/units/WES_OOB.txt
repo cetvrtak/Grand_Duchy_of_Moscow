@@ -508,14 +508,14 @@ army = {
 	name="Armee von Niederhessen"
 	location=379
 	regiment = {
-		name="1st Bielefeld Infantry"
+		name="1st Kassel Infantry"
 		type=infantry
-		home=582
+		home=566
 	}
 	regiment = {
-		name="2nd Bielefeld Infantry"
+		name="2nd Kassel Infantry"
 		type=infantry
-		home=582
+		home=566
 	}
 }
 

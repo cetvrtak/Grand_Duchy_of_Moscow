@@ -521,14 +521,14 @@ army = {
 	name="Armata di Sirt"
 	location=755
 	regiment = {
-		name="1st Tuggurt Infantry"
+		name="1st Catanzaro Infantry"
 		type=infantry
-		home=1712
+		home=760
 	}
 	regiment = {
-		name="1st Messina Infantry"
+		name="1st Brindisi Infantry"
 		type=infantry
-		home=763
+		home=758
 	}
 	regiment = {
 		name="1st Reggio di Calabria Infantry"
@@ -536,24 +536,24 @@ army = {
 		home=759
 	}
 	regiment = {
-		name="1st Potenza Infantry"
+		name="2nd Catanzaro Infantry"
 		type=infantry
-		home=761
+		home=760
 	}
 	regiment = {
-		name="1st Catania Infantry"
+		name="2nd Reggio di Calabria Infantry"
 		type=infantry
-		home=764
+		home=759
 	}
 	regiment = {
-		name="1st Waddan Infantry"
+		name="2nd Brindisi Infantry"
 		type=infantry
-		home=1740
+		home=758
 	}
 	regiment = {
-		name="1st Palermo Infantry"
+		name="1st Messina Infantry"
 		type=infantry
-		home=762
+		home=763
 	}
 	regiment = {
 		name="2nd Messina Infantry"
@@ -561,42 +561,42 @@ army = {
 		home=763
 	}
 	regiment = {
-		name="1st Tozeur Artillery"
+		name="1st Brindisi Artillery"
 		type=artillery
-		home=1729
+		home=758
 	}
 	regiment = {
-		name="2nd Tozeur Artillery"
+		name="1st Reggio di Calabria Artillery"
 		type=artillery
-		home=1729
+		home=759
 	}
 	regiment = {
-		name="1st Chania Artillery"
+		name="1st Gharyan Artillery"
 		type=artillery
-		home=847
-	}
-	regiment = {
-		name="1st Iraklion Artillery"
-		type=artillery
-		home=848
-	}
-	regiment = {
-		name="1st Messina Artillery"
-		type=artillery
-		home=763
-	}
-	regiment = {
-		name="2nd Chania Artillery"
-		type=artillery
-		home=847
-	}
-	regiment = {
-		name="2nd Catania Infantry"
-		type=infantry
-		home=764
+		home=1732
 	}
 	regiment = {
 		name="1st Tripoli Artillery"
+		type=artillery
+		home=1731
+	}
+	regiment = {
+		name="2nd Gharyan Artillery"
+		type=artillery
+		home=1732
+	}
+	regiment = {
+		name="1st Catanzaro Artillery"
+		type=artillery
+		home=760
+	}
+	regiment = {
+		name="4th Messina Infantry"
+		type=infantry
+		home=763
+	}
+	regiment = {
+		name="2nd Tripoli Artillery"
 		type=artillery
 		home=1731
 	}
@@ -708,14 +708,14 @@ army = {
 	name="Armata di Salente"
 	location=755
 	regiment = {
-		name="2nd Reggio di Calabria Infantry"
+		name="3rd Messina Infantry"
 		type=infantry
-		home=759
+		home=763
 	}
 	regiment = {
-		name="2nd Potenza Infantry"
+		name="1st Chania Infantry"
 		type=infantry
-		home=761
+		home=847
 	}
 }
 

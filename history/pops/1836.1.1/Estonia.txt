@@ -89,7 +89,7 @@
 	{
 		culture = estonian
 		religion = orthodox
-		size= 950
+		size= 1033
 	}
 
 	artisans=
@@ -131,7 +131,7 @@
 	{
 		culture = estonian
 		religion = orthodox
-		size= 41404
+		size= 41321
 	}
 
 }

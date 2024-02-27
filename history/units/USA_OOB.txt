@@ -526,14 +526,9 @@ army = {
 	name="8th Army"
 	location=2149
 	regiment = {
-		name="1st Savannah Infantry"
+		name="1st Philadelphia Infantry"
 		type=infantry
-		home=204
-	}
-	regiment = {
-		name="1st Tallahassee Infantry"
-		type=infantry
-		home=198
+		home=223
 	}
 	regiment = {
 		name="1st Asheville Infantry"
@@ -541,9 +536,14 @@ army = {
 		home=2556
 	}
 	regiment = {
-		name="1st Philadelphia Infantry"
+		name="1st St Augustine Infantry"
 		type=infantry
-		home=223
+		home=199
+	}
+	regiment = {
+		name="1st Savannah Infantry"
+		type=infantry
+		home=204
 	}
 	regiment = {
 		name="1st Asheville Artillery"
@@ -551,19 +551,19 @@ army = {
 		home=2556
 	}
 	regiment = {
-		name="2nd Asheville Artillery"
+		name="1st Williamsport Artillery"
 		type=artillery
-		home=2556
+		home=225
 	}
 	regiment = {
-		name="2nd Dover Infantry"
+		name="2nd Albany Infantry"
 		type=infantry
-		home=222
+		home=234
 	}
 	regiment = {
-		name="1st Columbus Artillery"
+		name="1st Atlanta Artillery"
 		type=artillery
-		home=179
+		home=201
 	}
 }
 
@@ -581,14 +581,14 @@ army = {
 		home=2556
 	}
 	regiment = {
+		name="3rd Asheville Infantry"
+		type=infantry
+		home=2556
+	}
+	regiment = {
 		name="2nd Philadelphia Infantry"
 		type=infantry
 		home=223
-	}
-	regiment = {
-		name="1st Cincinnati Infantry"
-		type=infantry
-		home=182
 	}
 	regiment = {
 		name="1st Dayton Artillery"
@@ -601,54 +601,34 @@ army = {
 		home=188
 	}
 	regiment = {
-		name="1st Columbia Artillery"
+		name="1st Wheeling Artillery"
 		type=artillery
-		home=206
+		home=218
 	}
 	regiment = {
-		name="4th Williamsport Infantry"
+		name="3rd Savannah Infantry"
 		type=infantry
-		home=225
+		home=204
 	}
 	regiment = {
-		name="1st New York Artillery"
+		name="1st Pittsfield Artillery"
 		type=artillery
-		home=232
+		home=245
 	}
 }
 
 army = {
 	name="1st Army"
-	location=2233
+	location=2409
 	regiment = {
-		name="1st Albany Infantry"
+		name="1st Fort Wayne Infantry"
 		type=infantry
-		home=234
+		home=172
 	}
 	regiment = {
-		name="3rd Philadelphia Infantry"
+		name="1st Tampa Infantry"
 		type=infantry
-		home=223
-	}
-	regiment = {
-		name="1st Harrisburg Infantry"
-		type=infantry
-		home=226
-	}
-	regiment = {
-		name="1st Williamsport Infantry"
-		type=infantry
-		home=225
-	}
-	regiment = {
-		name="1st Harrisburg Artillery"
-		type=artillery
-		home=226
-	}
-	regiment = {
-		name="2nd Harrisburg Artillery"
-		type=artillery
-		home=226
+		home=200
 	}
 	regiment = {
 		name="1st Wheeling Infantry"
@@ -656,59 +636,19 @@ army = {
 		home=218
 	}
 	regiment = {
-		name="1st Dover Artillery"
-		type=artillery
-		home=222
-	}
-}
-
-army = {
-	name="11th Army"
-	location=2631
-	regiment = {
-		name="2nd Williamsport Infantry"
+		name="3rd Philadelphia Infantry"
 		type=infantry
-		home=225
+		home=223
 	}
 	regiment = {
-		name="1st Burlington Infantry"
-		type=infantry
-		home=246
-	}
-	regiment = {
-		name="3rd Williamsport Infantry"
-		type=infantry
-		home=225
-	}
-	regiment = {
-		name="3rd Harrisburg Artillery"
+		name="1st Harrisburg Artillery"
 		type=artillery
 		home=226
 	}
 	regiment = {
-		name="4th Harrisburg Artillery"
+		name="1st Columbia Artillery"
 		type=artillery
-		home=226
-	}
-	regiment = {
-		name="1st Montgomery Infantry"
-		type=infantry
-		home=195
-	}
-}
-
-army = {
-	name="18th Army"
-	location=2209
-	regiment = {
-		name="2nd Harrisburg Infantry"
-		type=infantry
-		home=226
-	}
-	regiment = {
-		name="1st Lewiston Infantry"
-		type=infantry
-		home=248
+		home=206
 	}
 	regiment = {
 		name="1st Lexington Infantry"
@@ -716,9 +656,54 @@ army = {
 		home=186
 	}
 	regiment = {
-		name="1st Nashville Infantry"
+		name="1st Philadelphia Artillery"
+		type=artillery
+		home=223
+	}
+}
+
+army = {
+	name="11th Army"
+	location=2631
+	regiment = {
+		name="1st Williamsport Infantry"
 		type=infantry
+		home=225
+	}
+	regiment = {
+		name="1st Albany Infantry"
+		type=infantry
+		home=234
+	}
+	regiment = {
+		name="1st Cincinnati Infantry"
+		type=infantry
+		home=182
+	}
+	regiment = {
+		name="1st Lexington Artillery"
+		type=artillery
+		home=186
+	}
+	regiment = {
+		name="2nd Nashville Artillery"
+		type=artillery
 		home=188
+	}
+	regiment = {
+		name="4th Philadelphia Infantry"
+		type=infantry
+		home=223
+	}
+}
+
+army = {
+	name="18th Army"
+	location=2209
+	regiment = {
+		name="1st Pittsfield Infantry"
+		type=infantry
+		home=245
 	}
 	regiment = {
 		name="1st Hartford Infantry"
@@ -731,24 +716,39 @@ army = {
 		home=202
 	}
 	regiment = {
+		name="2nd Wheeling Infantry"
+		type=infantry
+		home=218
+	}
+	regiment = {
+		name="1st Dover Infantry"
+		type=infantry
+		home=222
+	}
+	regiment = {
+		name="1st Montgomery Infantry"
+		type=infantry
+		home=195
+	}
+	regiment = {
+		name="1st Dover Artillery"
+		type=artillery
+		home=222
+	}
+	regiment = {
 		name="1st Lynchburg Artillery"
 		type=artillery
 		home=211
 	}
 	regiment = {
-		name="1st Lewiston Artillery"
+		name="1st Burlington Artillery"
 		type=artillery
-		home=248
+		home=246
 	}
 	regiment = {
-		name="1st Concord Artillery"
+		name="3rd Williamsport Artillery"
 		type=artillery
-		home=247
-	}
-	regiment = {
-		name="2nd Columbia Artillery"
-		type=artillery
-		home=206
+		home=225
 	}
 }
 
@@ -862,11 +862,15 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Baltimore Clipper Transport"
+		name="2nd Fredericksburg Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Lewiston Clipper Transport"
+		name="1st Utrecht Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tallahassee Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -874,19 +878,15 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="6th Bangor Clipper Transport"
+		name="1st Wilmington Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Lewiston Clipper Transport"
+		name="1st St Augustine Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="7th Bangor Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="8th Bangor Clipper Transport"
+		name="3rd Fredericksburg Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -903,22 +903,22 @@ army = {
 	name="13th Army"
 	location=3246
 	regiment = {
-		name="4th Philadelphia Infantry"
+		name="1st Concord Infantry"
 		type=infantry
-		home=223
+		home=247
 	}
 	regiment = {
-		name="1st Tampa Infantry"
+		name="2nd Savannah Infantry"
 		type=infantry
-		home=200
+		home=204
 	}
 	regiment = {
-		name="1st Cincinnati Artillery"
+		name="2nd Dover Artillery"
 		type=artillery
-		home=182
+		home=222
 	}
 	regiment = {
-		name="6th Harrisburg Artillery"
+		name="2nd Harrisburg Artillery"
 		type=artillery
 		home=226
 	}
@@ -928,32 +928,32 @@ army = {
 	name="2nd Army"
 	location=19
 	regiment = {
-		name="1st Dover Infantry"
+		name="3rd Wheeling Infantry"
 		type=infantry
-		home=222
+		home=218
 	}
 	regiment = {
-		name="1st Pittsfield Infantry"
+		name="1st Harrisburg Infantry"
 		type=infantry
-		home=245
+		home=226
 	}
 }
 
 army = {
 	name="3rd Army"
-	location=2599
+	location=2631
 	regiment = {
-		name="5th Philadelphia Infantry"
+		name="1st Columbia Infantry"
 		type=infantry
-		home=223
+		home=206
 	}
 	regiment = {
-		name="6th Philadelphia Infantry"
+		name="1st Lewiston Infantry"
 		type=infantry
-		home=223
+		home=248
 	}
 	regiment = {
-		name="1st Williamsport Artillery"
+		name="2nd Williamsport Artillery"
 		type=artillery
 		home=225
 	}
@@ -963,24 +963,24 @@ army = {
 	name="6th Army"
 	location=2227
 	regiment = {
-		name="1st Fort Wayne Infantry"
+		name="1st Charleston Infantry"
 		type=infantry
-		home=172
+		home=205
 	}
 	regiment = {
-		name="5th Harrisburg Artillery"
+		name="1st New York Artillery"
 		type=artillery
-		home=226
+		home=232
 	}
 	regiment = {
-		name="2nd Fort Wayne Infantry"
+		name="2nd Columbus Infantry"
 		type=infantry
-		home=172
+		home=179
 	}
 	regiment = {
-		name="2nd Lewiston Artillery"
+		name="1st Cincinnati Artillery"
 		type=artillery
-		home=248
+		home=182
 	}
 }
 

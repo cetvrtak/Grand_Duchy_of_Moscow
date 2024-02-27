@@ -173,8 +173,9 @@ HAU = {
 	level = 2
 }
 HDJ = {
-	value = 44
-	level = 2
+	value = 144
+	influence_value = 23
+	level = 4
 }
 HES = {
 	value = 0
@@ -301,8 +302,9 @@ PLB = {
 	level = 2
 }
 PNJ = {
-	value = 0
-	level = 2
+	value = 100
+	influence_value = 12
+	level = 4
 }
 PRI = {
 	value = 0
@@ -409,9 +411,9 @@ X00 = {
 	level = 2
 }
 X01 = {
-	value = 140
-	influence_value = 22
-	level = 2
+	value = 240
+	influence_value = 47
+	level = 4
 }
 X02 = {
 	value = 0
@@ -474,11 +476,34 @@ YAT = {
 	level = 2
 }
 YZD = {
-	value = 73
-	influence_value = 5
-	level = 2
+	value = 173
+	influence_value = 30
+	level = 4
 }
 
 #Leaders
+leader = {
+	name="Ebu-Abbas Kamal"
+	date="1830.10.11"
+	type=land
+	personality="coolminded"
+	background="natural_born_leader"
+}
+
 
 #Armies
+army = {
+	name="1st Army"
+	location=1138
+	regiment = {
+		name="1st Kangan Irregulars"
+		type=irregular
+		home=1138
+	}
+	regiment = {
+		name="2nd Kangan Irregulars"
+		type=irregular
+		home=1138
+	}
+}
+

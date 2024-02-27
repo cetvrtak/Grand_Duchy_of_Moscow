@@ -232,6 +232,22 @@ alliance=
 
 alliance=
 {
+	first="X00"
+	second="YZD"
+	start_date="1806.9.5"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X00"
+	second="HDJ"
+	start_date="1835.8.13"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
 	first="GLC"
 	second="PRI"
 	start_date="1835.6.28"
@@ -379,6 +395,14 @@ alliance=
 	first="KOR"
 	second="NNG"
 	start_date="1805.7.30"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X01"
+	second="X00"
+	start_date="1831.12.8"
 	end_date="1936.1.1"
 }
 
@@ -571,6 +595,14 @@ alliance=
 	first="PNJ"
 	second="AFG"
 	start_date="1810.12.12"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="PNJ"
+	second="X00"
+	start_date="1811.2.10"
 	end_date="1936.1.1"
 }
 

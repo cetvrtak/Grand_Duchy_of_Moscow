@@ -509,22 +509,22 @@ navy = {
 	name="1st Fleet"
 	location=2852
 	ship = {
-		name="1st Cebu Frigate"
-		type=frigate
-	}
-	ship = {
 		name="1st Mindoro Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Manila Frigate"
+		name="1st Manila Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Cebu Frigate"
 		type=frigate
 	}
 }
 
 army = {
 	name="2nd Army"
-	location=1458
+	location=1455
 	regiment = {
 		name="1st Manila Irregulars"
 		type=irregular
@@ -574,7 +574,7 @@ army = {
 
 navy = {
 	name="4th Fleet"
-	location=1455
+	location=1458
 	ship = {
 		name="1st Mindoro Man'o'war"
 		type=manowar
@@ -584,7 +584,11 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="2nd Cebu Frigate"
+		name="2nd Manila Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Manila Frigate"
 		type=frigate
 	}
 	ship = {
@@ -592,23 +596,19 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Manila Frigate"
+		name="4th Manila Frigate"
 		type=frigate
 	}
 	ship = {
-		name="3rd Cebu Frigate"
-		type=frigate
+		name="3rd Mindoro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Manila Clipper Transport"
+		type=clipper_transport
 	}
 	ship = {
 		name="3rd Manila Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="4th Manila Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="5th Manila Clipper Transport"
 		type=clipper_transport
 	}
 }

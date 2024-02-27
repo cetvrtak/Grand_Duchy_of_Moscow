@@ -20,13 +20,13 @@ school_reforms = no_schools
 
 # political reforms
 slavery=yes_slavery
-vote_franschise=landed_voting
+vote_franschise=wealth_weighted_voting
 upper_house_composition=appointed
 voting_system=jefferson_method
-public_meetings=no_meeting
-press_rights=state_press
-trade_unions=no_trade_unions
-political_parties=underground_parties
+public_meetings=yes_meeting
+press_rights=censored_press
+trade_unions=non_socialist
+political_parties=gerrymandering
 
 ruling_party = MOL_reactionary
 upper_house = 

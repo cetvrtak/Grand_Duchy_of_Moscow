@@ -529,19 +529,14 @@ army = {
 	name="Erste Fränkische Armee"
 	location=595
 	regiment = {
-		name="1st Regensburg Infantry"
-		type=infantry
-		home=602
-	}
-	regiment = {
 		name="1st Heilbronn Infantry"
 		type=infantry
 		home=590
 	}
 	regiment = {
-		name="1st Bayreuth Infantry"
+		name="1st Stuttgart Infantry"
 		type=infantry
-		home=598
+		home=589
 	}
 	regiment = {
 		name="2nd Heilbronn Infantry"
@@ -549,14 +544,34 @@ army = {
 		home=590
 	}
 	regiment = {
-		name="3rd Heilbronn Infantry"
+		name="1st Nuremberg Infantry"
 		type=infantry
-		home=590
+		home=595
 	}
 	regiment = {
-		name="4th Heilbronn Infantry"
+		name="2nd Stuttgart Infantry"
 		type=infantry
-		home=590
+		home=589
+	}
+	regiment = {
+		name="2nd Nuremberg Infantry"
+		type=infantry
+		home=595
+	}
+	regiment = {
+		name="1st Würzburg Artillery"
+		type=artillery
+		home=597
+	}
+	regiment = {
+		name="1st Bayreuth Artillery"
+		type=artillery
+		home=598
+	}
+	regiment = {
+		name="2nd Bayreuth Artillery"
+		type=artillery
+		home=598
 	}
 	regiment = {
 		name="1st Augsburg Artillery"
@@ -564,14 +579,49 @@ army = {
 		home=592
 	}
 	regiment = {
-		name="1st Heilbronn Artillery"
+		name="3rd Bayreuth Artillery"
+		type=artillery
+		home=598
+	}
+	regiment = {
+		name="4th Bayreuth Artillery"
+		type=artillery
+		home=598
+	}
+	regiment = {
+		name="2nd Heilbronn Artillery"
 		type=artillery
 		home=590
 	}
+}
+
+army = {
+	name="Armee von Rothenburg"
+	location=602
 	regiment = {
-		name="1st Stuttgart Artillery"
-		type=artillery
-		home=589
+		name="3rd Nuremberg Infantry"
+		type=infantry
+		home=595
+	}
+	regiment = {
+		name="3rd Heilbronn Infantry"
+		type=infantry
+		home=590
+	}
+	regiment = {
+		name="1st Landshut Infantry"
+		type=infantry
+		home=600
+	}
+	regiment = {
+		name="1st Munich Infantry"
+		type=infantry
+		home=599
+	}
+	regiment = {
+		name="1st Augsburg Infantry"
+		type=infantry
+		home=592
 	}
 	regiment = {
 		name="1st Nuremberg Artillery"
@@ -579,7 +629,7 @@ army = {
 		home=595
 	}
 	regiment = {
-		name="2nd Heilbronn Artillery"
+		name="1st Heilbronn Artillery"
 		type=artillery
 		home=590
 	}
@@ -589,34 +639,9 @@ army = {
 		home=599
 	}
 	regiment = {
-		name="2nd Augsburg Artillery"
+		name="1st Göttingen Artillery"
 		type=artillery
-		home=592
-	}
-}
-
-army = {
-	name="Armee von Rothenburg"
-	location=602
-	regiment = {
-		name="5th Heilbronn Infantry"
-		type=infantry
-		home=590
-	}
-	regiment = {
-		name="1st Munich Infantry"
-		type=infantry
-		home=599
-	}
-	regiment = {
-		name="2nd Regensburg Infantry"
-		type=infantry
-		home=602
-	}
-	regiment = {
-		name="2nd Bayreuth Infantry"
-		type=infantry
-		home=598
+		home=537
 	}
 	regiment = {
 		name="6th Heilbronn Infantry"
@@ -624,34 +649,9 @@ army = {
 		home=590
 	}
 	regiment = {
-		name="1st Bayreuth Artillery"
+		name="3rd Heilbronn Artillery"
 		type=artillery
-		home=598
-	}
-	regiment = {
-		name="1st Regensburg Artillery"
-		type=artillery
-		home=602
-	}
-	regiment = {
-		name="1st Göttingen Artillery"
-		type=artillery
-		home=537
-	}
-	regiment = {
-		name="1st Meiningen Artillery"
-		type=artillery
-		home=563
-	}
-	regiment = {
-		name="9th Heilbronn Infantry"
-		type=infantry
 		home=590
-	}
-	regiment = {
-		name="2nd Bayreuth Artillery"
-		type=artillery
-		home=598
 	}
 }
 
@@ -664,24 +664,24 @@ army = {
 		home=563
 	}
 	regiment = {
-		name="1st Landshut Infantry"
-		type=infantry
-		home=600
-	}
-	regiment = {
-		name="7th Heilbronn Infantry"
+		name="4th Heilbronn Infantry"
 		type=infantry
 		home=590
 	}
 	regiment = {
-		name="8th Heilbronn Infantry"
+		name="2nd Meiningen Infantry"
+		type=infantry
+		home=563
+	}
+	regiment = {
+		name="5th Heilbronn Infantry"
 		type=infantry
 		home=590
 	}
 	regiment = {
-		name="2nd Regensburg Artillery"
+		name="2nd Würzburg Artillery"
 		type=artillery
-		home=602
+		home=597
 	}
 	regiment = {
 		name="1st Landshut Artillery"
@@ -689,9 +689,9 @@ army = {
 		home=600
 	}
 	regiment = {
-		name="2nd Nuremberg Artillery"
+		name="2nd Landshut Artillery"
 		type=artillery
-		home=595
+		home=600
 	}
 	regiment = {
 		name="2nd Landshut Infantry"

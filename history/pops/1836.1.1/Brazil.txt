@@ -4400,7 +4400,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 458
+		size= 1033
 	}
 
 	artisans=
@@ -4442,7 +4442,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 5158
+		size= 4583
 	}
 
 	slaves=
@@ -4719,14 +4719,14 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 1033
+		size= 507
 	}
 
 	farmers=
 	{
 		culture = platinean
 		religion = sunni
-		size= 3738
+		size= 4264
 	}
 
 	artisans=
@@ -5923,14 +5923,14 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 1029
+		size= 1033
 	}
 
 	farmers=
 	{
 		culture = platinean
 		religion = sunni
-		size= 4883
+		size= 4879
 	}
 
 	artisans=
@@ -6752,14 +6752,14 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 6087
+		size= 5496
 	}
 
 	soldiers=
 	{
 		culture = platinean
 		religion = sunni
-		size= 442
+		size= 1033
 	}
 
 	artisans=
@@ -6901,14 +6901,14 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 3746
+		size= 3897
 	}
 
 	soldiers=
 	{
 		culture = platinean
 		religion = sunni
-		size= 1033
+		size= 882
 	}
 
 	artisans=
