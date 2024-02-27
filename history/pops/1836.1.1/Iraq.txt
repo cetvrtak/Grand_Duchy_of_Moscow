@@ -322,7 +322,7 @@
 	{
 		culture = assyrian
 		religion = sunni
-		size= 229
+		size= 1033
 	}
 
 	artisans=
@@ -364,7 +364,7 @@
 	{
 		culture = assyrian
 		religion = sunni
-		size= 7611
+		size= 6807
 	}
 
 	soldiers=
@@ -839,7 +839,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 4133
+		size= 1020
 	}
 
 	artisans=
@@ -881,7 +881,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 14234
+		size= 17347
 	}
 
 	soldiers=
@@ -932,7 +932,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 1864
+		size= 7233
 	}
 
 	artisans=
@@ -974,7 +974,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 31922
+		size= 26553
 	}
 
 }
@@ -983,7 +983,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 750
+		size= 1033
 	}
 
 	artisans=
@@ -1025,7 +1025,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 21073
+		size= 20790
 	}
 
 }
@@ -1278,7 +1278,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 288
+		size= 1033
 	}
 
 	artisans=
@@ -1320,7 +1320,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 8288
+		size= 7543
 	}
 
 }

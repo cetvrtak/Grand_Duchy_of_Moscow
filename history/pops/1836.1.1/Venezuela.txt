@@ -601,7 +601,7 @@
 	{
 		culture = guyanese
 		religion = protestant
-		size= 6949
+		size= 6164
 	}
 
 	slaves=
@@ -643,7 +643,7 @@
 	{
 		culture = guyanese
 		religion = protestant
-		size= 248
+		size= 1033
 	}
 
 	officers=
@@ -899,7 +899,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -941,7 +941,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 9595
+		size= 6495
 	}
 
 	soldiers=
@@ -1239,7 +1239,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 1033
+		size= 282
 	}
 
 	artisans=
@@ -1281,7 +1281,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 7619
+		size= 8370
 	}
 
 }
@@ -1777,14 +1777,14 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 7689
+		size= 8320
 	}
 
 	soldiers=
 	{
 		culture = yankee
 		religion = protestant
-		size= 1033
+		size= 402
 	}
 
 	artisans=

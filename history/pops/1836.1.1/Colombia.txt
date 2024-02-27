@@ -66,7 +66,7 @@
 	{
 		culture = chibchan
 		religion = protestant
-		size= 2151
+		size= 4133
 	}
 
 	artisans=
@@ -108,7 +108,7 @@
 	{
 		culture = chibchan
 		religion = protestant
-		size= 65851
+		size= 63869
 	}
 
 }
@@ -413,7 +413,7 @@
 	{
 		culture = chibchan
 		religion = protestant
-		size= 1033
+		size= 321
 	}
 
 	artisans=
@@ -455,7 +455,7 @@
 	{
 		culture = chibchan
 		religion = protestant
-		size= 9029
+		size= 9741
 	}
 
 }
@@ -809,7 +809,7 @@
 	{
 		culture = chibchan
 		religion = protestant
-		size= 1033
+		size= 310
 	}
 
 	artisans=
@@ -851,7 +851,7 @@
 	{
 		culture = chibchan
 		religion = protestant
-		size= 8587
+		size= 9310
 	}
 
 }
@@ -909,7 +909,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 33571
+		size= 39771
 	}
 
 	artisans=
@@ -944,7 +944,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 7233
+		size= 1033
 	}
 
 	officers=
@@ -1335,7 +1335,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 21926
+		size= 22492
 	}
 
 	artisans=
@@ -1377,7 +1377,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 1033
+		size= 467
 	}
 
 	slaves=
@@ -2197,7 +2197,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 7485
+		size= 8345
 	}
 
 	artisans=
@@ -2211,7 +2211,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 1033
+		size= 173
 	}
 
 	clergymen=
@@ -2276,7 +2276,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 4851
+		size= 1751
 	}
 
 	artisans=
@@ -2304,7 +2304,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 1033
+		size= 4133
 	}
 
 	bureaucrats=
@@ -2597,7 +2597,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 1885
+		size= 875
 	}
 
 	artisans=
@@ -2625,7 +2625,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 23
+		size= 1033
 	}
 
 	bureaucrats=

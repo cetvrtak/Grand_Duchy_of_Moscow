@@ -514,9 +514,9 @@ army = {
 	name="1st Army"
 	location=1395
 	regiment = {
-		name="1st Makassar Irregulars"
+		name="1st Bintulu Irregulars"
 		type=irregular
-		home=1430
+		home=1395
 	}
 	regiment = {
 		name="1st Menado Irregulars"
@@ -524,38 +524,23 @@ army = {
 		home=1433
 	}
 	regiment = {
-		name="1st Mamuju Irregulars"
+		name="2nd Bintulu Irregulars"
 		type=irregular
-		home=1432
+		home=1395
 	}
 	regiment = {
-		name="1st Bone Irregulars"
+		name="1st Kuching Irregulars"
 		type=irregular
-		home=1431
+		home=1394
 	}
 	regiment = {
-		name="2nd Makassar Irregulars"
+		name="1st Sandakan Irregulars"
 		type=irregular
-		home=1430
+		home=1397
 	}
 	regiment = {
-		name="2nd Mamuju Irregulars"
+		name="1st Zamboanga Irregulars"
 		type=irregular
-		home=1432
-	}
-	regiment = {
-		name="1st Luwuk Artillery"
-		type=artillery
-		home=1434
-	}
-	regiment = {
-		name="1st Iloilo Artillery"
-		type=artillery
-		home=1460
-	}
-	regiment = {
-		name="1st Zamboanga Artillery"
-		type=artillery
 		home=1462
 	}
 	regiment = {
@@ -564,14 +549,29 @@ army = {
 		home=1431
 	}
 	regiment = {
-		name="2nd Palu Irregulars"
+		name="1st Iloilo Artillery"
+		type=artillery
+		home=1460
+	}
+	regiment = {
+		name="1st Luwuk Artillery"
+		type=artillery
+		home=1434
+	}
+	regiment = {
+		name="1st Kendari Artillery"
+		type=artillery
+		home=1436
+	}
+	regiment = {
+		name="4th Palu Irregulars"
 		type=irregular
 		home=1435
 	}
 	regiment = {
-		name="2nd Bulon Artillery"
+		name="1st Menado Artillery"
 		type=artillery
-		home=1437
+		home=1433
 	}
 }
 
@@ -618,9 +618,9 @@ army = {
 	name="4th Army"
 	location=1462
 	regiment = {
-		name="3rd Mamuju Irregulars"
+		name="1st Kendari Irregulars"
 		type=irregular
-		home=1432
+		home=1436
 	}
 	regiment = {
 		name="2nd Menado Irregulars"
@@ -628,44 +628,44 @@ army = {
 		home=1433
 	}
 	regiment = {
-		name="1st Palu Irregulars"
-		type=irregular
-		home=1435
-	}
-	regiment = {
-		name="1st Kendari Irregulars"
-		type=irregular
-		home=1436
-	}
-	regiment = {
 		name="2nd Kendari Irregulars"
 		type=irregular
 		home=1436
 	}
 	regiment = {
-		name="2nd Bone Irregulars"
+		name="1st Luwuk Irregulars"
 		type=irregular
-		home=1431
-	}
-	regiment = {
-		name="2nd Iloilo Artillery"
-		type=artillery
-		home=1460
-	}
-	regiment = {
-		name="1st Menado Artillery"
-		type=artillery
-		home=1433
-	}
-	regiment = {
-		name="2nd Luwuk Artillery"
-		type=artillery
 		home=1434
 	}
 	regiment = {
-		name="1st Palu Artillery"
-		type=artillery
+		name="1st Palu Irregulars"
+		type=irregular
 		home=1435
+	}
+	regiment = {
+		name="3rd Menado Irregulars"
+		type=irregular
+		home=1433
+	}
+	regiment = {
+		name="1st Mamuju Artillery"
+		type=artillery
+		home=1432
+	}
+	regiment = {
+		name="1st Makassar Artillery"
+		type=artillery
+		home=1430
+	}
+	regiment = {
+		name="2nd Mamuju Artillery"
+		type=artillery
+		home=1432
+	}
+	regiment = {
+		name="2nd Bone Artillery"
+		type=artillery
+		home=1431
 	}
 	regiment = {
 		name="1st Bulon Artillery"
@@ -673,14 +673,14 @@ army = {
 		home=1437
 	}
 	regiment = {
-		name="7th Menado Irregulars"
+		name="3rd Palu Irregulars"
 		type=irregular
-		home=1433
+		home=1435
 	}
 	regiment = {
-		name="2nd Menado Artillery"
+		name="2nd Iloilo Artillery"
 		type=artillery
-		home=1433
+		home=1460
 	}
 }
 
@@ -688,9 +688,9 @@ army = {
 	name="5th Army"
 	location=1430
 	regiment = {
-		name="3rd Menado Irregulars"
+		name="1st Bone Irregulars"
 		type=irregular
-		home=1433
+		home=1431
 	}
 	regiment = {
 		name="4th Menado Irregulars"
@@ -698,9 +698,9 @@ army = {
 		home=1433
 	}
 	regiment = {
-		name="4th Mamuju Irregulars"
+		name="6th Menado Irregulars"
 		type=irregular
-		home=1432
+		home=1433
 	}
 }
 
@@ -708,12 +708,12 @@ army = {
 	name="2nd Army"
 	location=1459
 	regiment = {
-		name="5th Menado Irregulars"
+		name="2nd Palu Irregulars"
 		type=irregular
-		home=1433
+		home=1435
 	}
 	regiment = {
-		name="6th Menado Irregulars"
+		name="5th Menado Irregulars"
 		type=irregular
 		home=1433
 	}
@@ -723,9 +723,9 @@ army = {
 		home=1463
 	}
 	regiment = {
-		name="2nd Davao Artillery"
+		name="2nd Menado Artillery"
 		type=artillery
-		home=1463
+		home=1433
 	}
 }
 
@@ -757,15 +757,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st uMgungundlovu Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="1st Jolo Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Oviedo Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -773,19 +765,15 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Yogyakarta Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="1st Bogor Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Palak Pinang Clipper Transport"
+		name="1st Tanjungpinang Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Cirebon Clipper Transport"
+		name="1st Mahajanga Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -793,27 +781,39 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Menado Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="2nd Bogor Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Jolo Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Palawan Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Cirebon Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="3rd Bogor Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Davao Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Oviedo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kuching Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Oviedo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Lake Charles Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cirebon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Oviedo Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -825,7 +825,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="4th Bogor Clipper Transport"
+		name="2nd Davao Clipper Transport"
 		type=clipper_transport
 	}
 }

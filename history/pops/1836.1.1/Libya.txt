@@ -10,7 +10,7 @@
 	{
 		culture = berber
 		religion = shiite
-		size= 7233
+		size= 5518
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = berber
 		religion = shiite
-		size= 79029
+		size= 80744
 	}
 
 	clergymen=
@@ -82,7 +82,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 535
+		size= 4133
 	}
 
 	artisans=
@@ -124,7 +124,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 6553
+		size= 2955
 	}
 
 }

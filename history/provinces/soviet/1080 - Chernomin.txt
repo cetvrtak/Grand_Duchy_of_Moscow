@@ -1,8 +1,5 @@
-owner=EJZ
-controller=EJZ
-add_core=CHI
-add_core=EJZ
-add_core=MCK
+owner=RUS
+controller=RUS
 trade_goods = cattle
 life_rating = 35
-fort = 1
+colonial=2

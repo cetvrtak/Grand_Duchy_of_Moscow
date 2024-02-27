@@ -520,9 +520,19 @@ army = {
 		home=1237
 	}
 	regiment = {
-		name="1st Srinagar Irregulars"
+		name="2nd Panipat Irregulars"
 		type=irregular
-		home=1224
+		home=1237
+	}
+	regiment = {
+		name="1st Dehra Dun Irregulars"
+		type=irregular
+		home=1238
+	}
+	regiment = {
+		name="1st Sialkot Irregulars"
+		type=irregular
+		home=1229
 	}
 	regiment = {
 		name="1st Amritsar Irregulars"
@@ -530,44 +540,14 @@ army = {
 		home=1233
 	}
 	regiment = {
-		name="2nd Amritsar Irregulars"
+		name="1st Firozpur Irregulars"
 		type=irregular
-		home=1233
+		home=1234
 	}
 	regiment = {
-		name="3rd Amritsar Irregulars"
-		type=irregular
-		home=1233
-	}
-	regiment = {
-		name="2nd Panipat Irregulars"
+		name="3rd Panipat Irregulars"
 		type=irregular
 		home=1237
-	}
-	regiment = {
-		name="4th Amritsar Irregulars"
-		type=irregular
-		home=1233
-	}
-	regiment = {
-		name="1st Meerut Cavalry"
-		type=cavalry
-		home=1239
-	}
-	regiment = {
-		name="1st Simla Artillery"
-		type=artillery
-		home=1235
-	}
-	regiment = {
-		name="2nd Simla Artillery"
-		type=artillery
-		home=1235
-	}
-	regiment = {
-		name="1st Amritsar Cavalry"
-		type=cavalry
-		home=1233
 	}
 	regiment = {
 		name="1st Srinagar Cavalry"
@@ -575,37 +555,57 @@ army = {
 		home=1224
 	}
 	regiment = {
-		name="2nd Meerut Cavalry"
-		type=cavalry
-		home=1239
-	}
-	regiment = {
-		name="4th Simla Artillery"
+		name="1st Simla Artillery"
 		type=artillery
 		home=1235
+	}
+	regiment = {
+		name="1st Amritsar Artillery"
+		type=artillery
+		home=1233
+	}
+	regiment = {
+		name="1st Simla Cavalry"
+		type=cavalry
+		home=1235
+	}
+	regiment = {
+		name="1st Panipat Cavalry"
+		type=cavalry
+		home=1237
+	}
+	regiment = {
+		name="2nd Simla Cavalry"
+		type=cavalry
+		home=1235
+	}
+	regiment = {
+		name="1st Sialkot Artillery"
+		type=artillery
+		home=1229
 	}
 }
 
 army = {
 	name="12th Army"
-	location=1063
+	location=2686
+	regiment = {
+		name="2nd Amritsar Irregulars"
+		type=irregular
+		home=1233
+	}
 	regiment = {
 		name="1st Simla Irregulars"
 		type=irregular
 		home=1235
 	}
 	regiment = {
-		name="1st Meerut Irregulars"
+		name="2nd Dehra Dun Irregulars"
 		type=irregular
-		home=1239
+		home=1238
 	}
 	regiment = {
-		name="2nd Meerut Irregulars"
-		type=irregular
-		home=1239
-	}
-	regiment = {
-		name="3rd Simla Artillery"
+		name="2nd Simla Artillery"
 		type=artillery
 		home=1235
 	}
@@ -615,19 +615,19 @@ army = {
 		home=1235
 	}
 	regiment = {
-		name="1st Firozpur Artillery"
+		name="2nd Sialkot Artillery"
 		type=artillery
-		home=1234
+		home=1229
 	}
 }
 
 army = {
 	name="2nd Army"
-	location=1063
+	location=2686
 	regiment = {
-		name="5th Amritsar Irregulars"
+		name="2nd Firozpur Irregulars"
 		type=irregular
-		home=1233
+		home=1234
 	}
 	regiment = {
 		name="2nd Simla Irregulars"

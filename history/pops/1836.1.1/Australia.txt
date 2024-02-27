@@ -1001,7 +1001,7 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 82
+		size= 1033
 	}
 
 	bureaucrats=
@@ -1022,7 +1022,7 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 1191
+		size= 240
 	}
 
 }
@@ -2926,7 +2926,7 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 1033
+		size= 100
 	}
 
 	artisans=
@@ -2968,7 +2968,7 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 474
+		size= 1407
 	}
 
 }
@@ -2991,7 +2991,7 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 1247
+		size= 241
 	}
 
 	artisans=
@@ -3019,7 +3019,7 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 27
+		size= 1033
 	}
 
 	bureaucrats=

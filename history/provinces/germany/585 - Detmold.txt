@@ -1,9 +1,7 @@
-owner=WES
+owner=BRA
 controller=BRA
 add_core=BRA
 add_core=GER
 add_core=HLR
-add_core=WES
 trade_goods = coal
 life_rating = 40
-fort = 1

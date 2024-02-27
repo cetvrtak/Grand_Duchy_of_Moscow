@@ -629,134 +629,9 @@ army = {
 	name="13th Army"
 	location=278
 	regiment = {
-		name="1st Brighton Infantry"
-		type=infantry
-		home=302
-	}
-	regiment = {
-		name="1st Belfast Infantry"
-		type=infantry
-		home=254
-	}
-	regiment = {
-		name="1st Cork Infantry"
-		type=infantry
-		home=260
-	}
-	regiment = {
-		name="1st Donegal Infantry"
-		type=infantry
-		home=257
-	}
-	regiment = {
-		name="1st London Infantry"
-		type=infantry
-		home=300
-	}
-	regiment = {
-		name="1st Hull Infantry"
-		type=infantry
-		home=281
-	}
-	regiment = {
-		name="1st Chester Infantry"
-		type=infantry
-		home=285
-	}
-	regiment = {
-		name="1st Dundee Infantry"
-		type=infantry
-		home=268
-	}
-	regiment = {
-		name="1st Canterbury Infantry"
-		type=infantry
-		home=301
-	}
-	regiment = {
-		name="2nd Belfast Infantry"
-		type=infantry
-		home=254
-	}
-	regiment = {
-		name="1st Cambridge Artillery"
-		type=artillery
-		home=291
-	}
-	regiment = {
-		name="1st London Artillery"
-		type=artillery
-		home=300
-	}
-	regiment = {
-		name="1st Birmingham Artillery"
-		type=artillery
-		home=284
-	}
-	regiment = {
-		name="1st Chelmsford Artillery"
-		type=artillery
-		home=293
-	}
-	regiment = {
-		name="1st Plymouth Artillery"
-		type=artillery
-		home=299
-	}
-	regiment = {
-		name="1st Canterbury Artillery"
-		type=artillery
-		home=301
-	}
-	regiment = {
-		name="3rd Plymouth Infantry"
-		type=infantry
-		home=299
-	}
-	regiment = {
-		name="3rd Plymouth Artillery"
-		type=artillery
-		home=299
-	}
-}
-
-army = {
-	name="2nd Army"
-	location=258
-	regiment = {
-		name="1st Liverpool Infantry"
-		type=infantry
-		home=277
-	}
-	regiment = {
-		name="1st Cardiff Infantry"
-		type=infantry
-		home=273
-	}
-	regiment = {
-		name="2nd Hull Infantry"
-		type=infantry
-		home=281
-	}
-	regiment = {
-		name="1st Armagh Infantry"
-		type=infantry
-		home=256
-	}
-	regiment = {
 		name="1st Coventry Infantry"
 		type=infantry
 		home=287
-	}
-	regiment = {
-		name="2nd Cardiff Infantry"
-		type=infantry
-		home=273
-	}
-	regiment = {
-		name="3rd Hull Infantry"
-		type=infantry
-		home=281
 	}
 	regiment = {
 		name="1st Leeds Infantry"
@@ -764,24 +639,149 @@ army = {
 		home=282
 	}
 	regiment = {
-		name="1st Bristol Artillery"
-		type=artillery
-		home=296
+		name="1st Lincoln Infantry"
+		type=infantry
+		home=290
 	}
 	regiment = {
-		name="1st Brighton Artillery"
-		type=artillery
-		home=302
+		name="2nd Leeds Infantry"
+		type=infantry
+		home=282
 	}
 	regiment = {
-		name="6th Kildare Infantry"
+		name="1st Nottingham Infantry"
+		type=infantry
+		home=288
+	}
+	regiment = {
+		name="1st Limerick Infantry"
+		type=infantry
+		home=261
+	}
+	regiment = {
+		name="1st Inverness Infantry"
+		type=infantry
+		home=267
+	}
+	regiment = {
+		name="1st Aberdeen Infantry"
+		type=infantry
+		home=266
+	}
+	regiment = {
+		name="1st Cork Infantry"
+		type=infantry
+		home=260
+	}
+	regiment = {
+		name="1st Stirling Infantry"
+		type=infantry
+		home=270
+	}
+	regiment = {
+		name="1st Chelmsford Artillery"
+		type=artillery
+		home=293
+	}
+	regiment = {
+		name="1st Bath Artillery"
+		type=artillery
+		home=298
+	}
+	regiment = {
+		name="1st Leeds Artillery"
+		type=artillery
+		home=282
+	}
+	regiment = {
+		name="1st St Albans Artillery"
+		type=artillery
+		home=295
+	}
+	regiment = {
+		name="1st Canterbury Artillery"
+		type=artillery
+		home=301
+	}
+	regiment = {
+		name="1st Plymouth Artillery"
+		type=artillery
+		home=299
+	}
+	regiment = {
+		name="3rd Coventry Infantry"
+		type=infantry
+		home=287
+	}
+	regiment = {
+		name="1st Inverness Artillery"
+		type=artillery
+		home=267
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=258
+	regiment = {
+		name="1st Kildare Infantry"
 		type=infantry
 		home=264
+	}
+	regiment = {
+		name="1st London Infantry"
+		type=infantry
+		home=300
+	}
+	regiment = {
+		name="1st Canterbury Infantry"
+		type=infantry
+		home=301
+	}
+	regiment = {
+		name="1st Donegal Infantry"
+		type=infantry
+		home=257
+	}
+	regiment = {
+		name="1st Wexford Infantry"
+		type=infantry
+		home=265
+	}
+	regiment = {
+		name="1st Dumfries Infantry"
+		type=infantry
+		home=272
+	}
+	regiment = {
+		name="1st Cardiff Infantry"
+		type=infantry
+		home=273
+	}
+	regiment = {
+		name="1st Chelmsford Infantry"
+		type=infantry
+		home=293
 	}
 	regiment = {
 		name="1st Waterford Artillery"
 		type=artillery
 		home=262
+	}
+	regiment = {
+		name="2nd Canterbury Artillery"
+		type=artillery
+		home=301
+	}
+	regiment = {
+		name="1st Chester Infantry"
+		type=infantry
+		home=285
+	}
+	regiment = {
+		name="5th Plymouth Artillery"
+		type=artillery
+		home=299
 	}
 }
 
@@ -817,7 +817,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="7th Plymouth Frigate"
+		name="3rd Vannes Frigate"
 		type=frigate
 	}
 }
@@ -826,19 +826,29 @@ army = {
 	name="67th Army"
 	location=258
 	regiment = {
-		name="1st Chelmsford Infantry"
+		name="2nd Canterbury Infantry"
 		type=infantry
-		home=293
+		home=301
 	}
 	regiment = {
-		name="1st Plymouth Infantry"
+		name="2nd London Infantry"
 		type=infantry
-		home=299
+		home=300
 	}
 	regiment = {
-		name="1st Kildare Infantry"
+		name="1st Brighton Infantry"
 		type=infantry
-		home=264
+		home=302
+	}
+	regiment = {
+		name="2nd Brighton Infantry"
+		type=infantry
+		home=302
+	}
+	regiment = {
+		name="1st Londonderry Infantry"
+		type=infantry
+		home=255
 	}
 	regiment = {
 		name="2nd Chelmsford Infantry"
@@ -846,39 +856,24 @@ army = {
 		home=293
 	}
 	regiment = {
+		name="2nd Coventry Infantry"
+		type=infantry
+		home=287
+	}
+	regiment = {
 		name="1st Glasgow Infantry"
 		type=infantry
 		home=271
 	}
 	regiment = {
-		name="1st Dumfries Infantry"
-		type=infantry
+		name="1st Dumfries Artillery"
+		type=artillery
 		home=272
 	}
 	regiment = {
-		name="1st St Albans Infantry"
-		type=infantry
-		home=295
-	}
-	regiment = {
-		name="1st Inverness Infantry"
-		type=infantry
-		home=267
-	}
-	regiment = {
-		name="1st Lincoln Artillery"
+		name="2nd Dumfries Artillery"
 		type=artillery
-		home=290
-	}
-	regiment = {
-		name="2nd Canterbury Artillery"
-		type=artillery
-		home=301
-	}
-	regiment = {
-		name="1st Hull Artillery"
-		type=artillery
-		home=281
+		home=272
 	}
 	regiment = {
 		name="1st Glasgow Artillery"
@@ -886,7 +881,12 @@ army = {
 		home=271
 	}
 	regiment = {
-		name="4th Lincoln Artillery"
+		name="2nd Bath Artillery"
+		type=artillery
+		home=298
+	}
+	regiment = {
+		name="2nd Lincoln Artillery"
 		type=artillery
 		home=290
 	}
@@ -904,7 +904,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="5th Hull Frigate"
+		name="2nd Armagh Frigate"
 		type=frigate
 	}
 }
@@ -920,41 +920,41 @@ navy = {
 
 army = {
 	name="Army of Ireland"
-	location=2097
+	location=2096
+	regiment = {
+		name="1st Southampton Infantry"
+		type=infantry
+		home=303
+	}
+	regiment = {
+		name="3rd Chelmsford Infantry"
+		type=infantry
+		home=293
+	}
 	regiment = {
 		name="2nd Kildare Infantry"
 		type=infantry
 		home=264
 	}
 	regiment = {
-		name="1st Bristol Infantry"
-		type=infantry
-		home=296
-	}
-	regiment = {
-		name="3rd Kildare Infantry"
-		type=infantry
-		home=264
-	}
-	regiment = {
-		name="2nd Cambridge Artillery"
+		name="3rd Bath Artillery"
 		type=artillery
+		home=298
+	}
+	regiment = {
+		name="4th Bath Artillery"
+		type=artillery
+		home=298
+	}
+	regiment = {
+		name="1st Cambridge Infantry"
+		type=infantry
 		home=291
 	}
 	regiment = {
-		name="1st Oxford Artillery"
+		name="1st Birmingham Artillery"
 		type=artillery
-		home=294
-	}
-	regiment = {
-		name="2nd Brighton Infantry"
-		type=infantry
-		home=302
-	}
-	regiment = {
-		name="4th Plymouth Artillery"
-		type=artillery
-		home=299
+		home=284
 	}
 }
 
@@ -962,19 +962,79 @@ army = {
 	name="5th Army"
 	location=2128
 	regiment = {
-		name="4th Hull Infantry"
+		name="1st Salisbury Infantry"
 		type=infantry
-		home=281
+		home=297
 	}
 	regiment = {
-		name="2nd Plymouth Infantry"
+		name="1st Holyhead Infantry"
 		type=infantry
-		home=299
+		home=276
 	}
 	regiment = {
-		name="2nd Bristol Artillery"
+		name="2nd Chelmsford Artillery"
 		type=artillery
-		home=296
+		home=293
+	}
+	regiment = {
+		name="2nd Leeds Artillery"
+		type=artillery
+		home=282
+	}
+	regiment = {
+		name="1st Stirling Artillery"
+		type=artillery
+		home=270
+	}
+	regiment = {
+		name="2nd Holyhead Infantry"
+		type=infantry
+		home=276
+	}
+	regiment = {
+		name="1st Shrewsbury Artillery"
+		type=artillery
+		home=286
+	}
+}
+
+army = {
+	name="14th Army"
+	location=258
+	regiment = {
+		name="1st Carlisle Infantry"
+		type=infantry
+		home=279
+	}
+	regiment = {
+		name="1st Dublin Infantry"
+		type=infantry
+		home=263
+	}
+	regiment = {
+		name="2nd Nottingham Infantry"
+		type=infantry
+		home=288
+	}
+	regiment = {
+		name="2nd Inverness Infantry"
+		type=infantry
+		home=267
+	}
+	regiment = {
+		name="3rd Inverness Infantry"
+		type=infantry
+		home=267
+	}
+	regiment = {
+		name="2nd Lincoln Infantry"
+		type=infantry
+		home=290
+	}
+	regiment = {
+		name="1st Sligo Infantry"
+		type=infantry
+		home=259
 	}
 	regiment = {
 		name="1st Newcastle-upon-Tyne Artillery"
@@ -987,74 +1047,14 @@ army = {
 		home=301
 	}
 	regiment = {
-		name="4th Lincoln Infantry"
-		type=infantry
-		home=290
-	}
-	regiment = {
-		name="1st Leeds Artillery"
-		type=artillery
-		home=282
-	}
-}
-
-army = {
-	name="14th Army"
-	location=258
-	regiment = {
-		name="1st Bath Infantry"
-		type=infantry
-		home=298
-	}
-	regiment = {
-		name="1st Ipswich Infantry"
-		type=infantry
-		home=292
-	}
-	regiment = {
-		name="2nd St Albans Infantry"
-		type=infantry
-		home=295
-	}
-	regiment = {
-		name="1st Llandrindod Infantry"
-		type=infantry
-		home=275
-	}
-	regiment = {
-		name="1st Leicester Infantry"
-		type=infantry
-		home=289
-	}
-	regiment = {
-		name="1st Lincoln Infantry"
-		type=infantry
-		home=290
-	}
-	regiment = {
-		name="5th Hull Infantry"
-		type=infantry
-		home=281
-	}
-	regiment = {
-		name="2nd Lincoln Artillery"
-		type=artillery
-		home=290
-	}
-	regiment = {
-		name="4th Canterbury Artillery"
-		type=artillery
-		home=301
-	}
-	regiment = {
 		name="1st Galway Artillery"
 		type=artillery
 		home=258
 	}
 	regiment = {
-		name="2nd Leeds Infantry"
+		name="3rd Lincoln Infantry"
 		type=infantry
-		home=282
+		home=290
 	}
 	regiment = {
 		name="3rd Chelmsford Artillery"
@@ -1067,29 +1067,9 @@ army = {
 	name="Royal Army"
 	location=271
 	regiment = {
-		name="2nd London Infantry"
-		type=infantry
-		home=300
-	}
-	regiment = {
-		name="6th Hull Infantry"
-		type=infantry
-		home=281
-	}
-	regiment = {
 		name="3rd London Infantry"
 		type=infantry
 		home=300
-	}
-	regiment = {
-		name="7th Hull Infantry"
-		type=infantry
-		home=281
-	}
-	regiment = {
-		name="2nd Lincoln Infantry"
-		type=infantry
-		home=290
 	}
 	regiment = {
 		name="4th London Infantry"
@@ -1097,39 +1077,19 @@ army = {
 		home=300
 	}
 	regiment = {
-		name="1st Coventry Artillery"
-		type=artillery
-		home=287
-	}
-	regiment = {
-		name="1st Dundee Artillery"
-		type=artillery
-		home=268
-	}
-	regiment = {
-		name="1st Bath Artillery"
-		type=artillery
-		home=298
-	}
-	regiment = {
-		name="1st Nottingham Artillery"
-		type=artillery
-		home=288
-	}
-	regiment = {
-		name="8th Hull Infantry"
+		name="1st Hull Infantry"
 		type=infantry
 		home=281
 	}
-}
-
-army = {
-	name="12th Army"
-	location=294
 	regiment = {
-		name="3rd Chelmsford Infantry"
+		name="2nd Dumfries Infantry"
 		type=infantry
-		home=293
+		home=272
+	}
+	regiment = {
+		name="1st Liverpool Infantry"
+		type=infantry
+		home=277
 	}
 	regiment = {
 		name="5th London Infantry"
@@ -1137,34 +1097,74 @@ army = {
 		home=300
 	}
 	regiment = {
-		name="4th Chelmsford Infantry"
-		type=infantry
-		home=293
+		name="1st Holyhead Artillery"
+		type=artillery
+		home=276
 	}
 	regiment = {
-		name="1st Dublin Infantry"
-		type=infantry
-		home=263
+		name="1st Sheffield Artillery"
+		type=artillery
+		home=283
 	}
 	regiment = {
-		name="1st Shrewsbury Infantry"
-		type=infantry
-		home=286
+		name="1st London Artillery"
+		type=artillery
+		home=300
 	}
+	regiment = {
+		name="3rd Leeds Artillery"
+		type=artillery
+		home=282
+	}
+	regiment = {
+		name="1st Manchester Infantry"
+		type=infantry
+		home=278
+	}
+}
+
+army = {
+	name="12th Army"
+	location=294
 	regiment = {
 		name="2nd Liverpool Infantry"
 		type=infantry
 		home=277
 	}
 	regiment = {
-		name="2nd Plymouth Artillery"
-		type=artillery
-		home=299
+		name="6th London Infantry"
+		type=infantry
+		home=300
 	}
 	regiment = {
-		name="2nd Chelmsford Artillery"
+		name="2nd Carlisle Infantry"
+		type=infantry
+		home=279
+	}
+	regiment = {
+		name="2nd Cork Infantry"
+		type=infantry
+		home=260
+	}
+	regiment = {
+		name="2nd Dublin Infantry"
+		type=infantry
+		home=263
+	}
+	regiment = {
+		name="7th London Infantry"
+		type=infantry
+		home=300
+	}
+	regiment = {
+		name="1st Lincoln Artillery"
 		type=artillery
-		home=293
+		home=290
+	}
+	regiment = {
+		name="1st Donegal Artillery"
+		type=artillery
+		home=257
 	}
 }
 
@@ -1172,49 +1172,49 @@ army = {
 	name="30th Army"
 	location=304
 	regiment = {
-		name="2nd Canterbury Infantry"
+		name="2nd Glasgow Infantry"
 		type=infantry
-		home=301
+		home=271
 	}
 	regiment = {
-		name="1st Manchester Infantry"
+		name="1st Plymouth Infantry"
 		type=infantry
-		home=278
+		home=299
 	}
 	regiment = {
-		name="1st Sheffield Infantry"
+		name="2nd Salisbury Infantry"
 		type=infantry
-		home=283
-	}
-	regiment = {
-		name="2nd Sheffield Infantry"
-		type=infantry
-		home=283
-	}
-	regiment = {
-		name="2nd Bristol Infantry"
-		type=infantry
-		home=296
-	}
-	regiment = {
-		name="2nd London Artillery"
-		type=artillery
-		home=300
-	}
-	regiment = {
-		name="5th Canterbury Artillery"
-		type=artillery
-		home=301
-	}
-	regiment = {
-		name="1st Salisbury Artillery"
-		type=artillery
 		home=297
 	}
 	regiment = {
-		name="2nd Salisbury Artillery"
+		name="4th Inverness Infantry"
+		type=infantry
+		home=267
+	}
+	regiment = {
+		name="1st Newcastle-upon-Tyne Infantry"
+		type=infantry
+		home=280
+	}
+	regiment = {
+		name="2nd Plymouth Artillery"
 		type=artillery
-		home=297
+		home=299
+	}
+	regiment = {
+		name="4th Leeds Artillery"
+		type=artillery
+		home=282
+	}
+	regiment = {
+		name="3rd Plymouth Artillery"
+		type=artillery
+		home=299
+	}
+	regiment = {
+		name="1st Llandrindod Artillery"
+		type=artillery
+		home=275
 	}
 }
 
@@ -1330,11 +1330,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Aberdeen Clipper Transport"
+		name="3rd Puerto Rico Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Bonny Clipper Transport"
+		name="1st Santander Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -1342,23 +1342,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Inhambane Clipper Transport"
+		name="1st Vigo Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st San Antonio Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Coimbra Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Falkland & South Georgia Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Bath Clipper Transport"
+		name="1st Bangor Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -1366,23 +1354,35 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
+		name="2nd Vigo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Limerick Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Limerick Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
 		name="1st Lincoln Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Fernando Pó Clipper Transport"
+		name="1st Coimbra Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="5th Dumfries Man'o'war"
+		name="6th Canterbury Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="4th British Frigate"
+		name="1st Ipoh Frigate"
 		type=frigate
 	}
 	ship = {
-		name="3rd Coimbra Clipper Transport"
+		name="1st Vannes Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -1391,44 +1391,44 @@ army = {
 	name="3rd Army"
 	location=1448
 	regiment = {
-		name="2nd Inverness Infantry"
+		name="1st Shrewsbury Infantry"
+		type=infantry
+		home=286
+	}
+	regiment = {
+		name="5th Inverness Infantry"
 		type=infantry
 		home=267
 	}
 	regiment = {
-		name="4th Kildare Infantry"
+		name="2nd Newcastle-upon-Tyne Infantry"
+		type=infantry
+		home=280
+	}
+	regiment = {
+		name="3rd Kildare Infantry"
 		type=infantry
 		home=264
 	}
 	regiment = {
-		name="3rd Lincoln Infantry"
-		type=infantry
-		home=290
-	}
-	regiment = {
-		name="5th Kildare Infantry"
-		type=infantry
-		home=264
-	}
-	regiment = {
-		name="3rd Lincoln Artillery"
+		name="4th Plymouth Artillery"
 		type=artillery
-		home=290
+		home=299
 	}
 	regiment = {
-		name="3rd London Artillery"
+		name="1st Hull Artillery"
 		type=artillery
-		home=300
+		home=281
 	}
 	regiment = {
-		name="1st Aberdeen Artillery"
+		name="2nd Hull Artillery"
 		type=artillery
-		home=266
+		home=281
 	}
 	regiment = {
-		name="6th Canterbury Artillery"
+		name="1st Bristol Artillery"
 		type=artillery
-		home=301
+		home=296
 	}
 }
 
@@ -1472,147 +1472,11 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="5th Plymouth Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Chelmsford Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Bath Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Dumfries Man'o'war"
-		type=manowar
-	}
-	ship = {
 		name="3rd British Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="3rd Canterbury Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Hull Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Barbados Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="6th Plymouth Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Barbados Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Londonderry Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th Hull Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th Canterbury Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Chelmsford Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Ipswich Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Aberdeen Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="5th Hull Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Orkney & Shetland Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Carlisle Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Chelmsford Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Glasgow Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Sligo Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Edinburgh Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Lincoln Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th Dumfries Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Liverpool Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Galway Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Brighton Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Aberdeen Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th Aberdeen Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Oporto Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st New Caledonia Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="5th Canterbury Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd New Caledonia Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Liverpool Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th Chelmsford Man'o'war"
+		name="3rd Plymouth Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1624,19 +1488,67 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="2nd Chester Man'o'war"
+		name="2nd Chelmsford Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Limerick Man'o'war"
+		name="1st Galway Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Wexford Man'o'war"
+		name="1st Brighton Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="7th Plymouth Man'o'war"
+		name="2nd Bath Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Orkney & Shetland Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Plymouth Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Londonderry Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Liverpool Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Plymouth Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Armagh Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Chester Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Hull Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Brighton Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Oldenburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Inverness Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Inverness Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1644,11 +1556,19 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="8th Plymouth Man'o'war"
+		name="2nd Londonderry Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="5th Southampton Man'o'war"
+		name="7th Inverness Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Aberdeen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Sligo Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1656,7 +1576,87 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="7th Southampton Man'o'war"
+		name="6th Plymouth Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Lincoln Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Plymouth Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Plymouth Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Hull Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Southampton Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th British Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Stirling Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Galway Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Glasgow Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Lincoln Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Brighton Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Southampton Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mauritius Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Newcastle-upon-Tyne Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Sligo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Hull Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Inverness Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th British Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Dumfries Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Chelmsford Man'o'war"
 		type=manowar
 	}
 }
@@ -1665,11 +1665,11 @@ navy = {
 	name="4th Fleet"
 	location=2737
 	ship = {
-		name="4th Orkney & Shetland Man'o'war"
+		name="8th British Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="5th Orkney & Shetland Man'o'war"
+		name="3rd Lincoln Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -1901,67 +1901,67 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Aru Frigate"
+		name="6th Southampton Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Aberdeen Frigate"
+		name="2nd Macapá Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Wilmington Frigate"
+		name="7th British Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Biloxi Frigate"
+		name="2nd Vannes Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Santo Domingo Frigate"
+		name="3rd Chelmsford Frigate"
 		type=frigate
 	}
 	ship = {
-		name="4th Inverness Frigate"
+		name="2nd Aru Frigate"
 		type=frigate
 	}
 	ship = {
-		name="3rd Santo Domingo Frigate"
+		name="1st Isle of Man Frigate"
 		type=frigate
 	}
 	ship = {
-		name="4th Hull Frigate"
+		name="2nd Fortaleza Frigate"
 		type=frigate
 	}
 	ship = {
-		name="6th Plymouth Frigate"
+		name="4th Chelmsford Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Saipan Frigate"
+		name="4th Canterbury Frigate"
 		type=frigate
 	}
 	ship = {
-		name="3rd Aberdeen Frigate"
+		name="1st Paraíba Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Valencia Frigate"
+		name="1st Falkland & South Georgia Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Gilbert Islands Frigate"
+		name="2nd Hopedale Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Carlisle Frigate"
+		name="4th Chester Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Gunungsitoli Frigate"
+		name="2nd Baton Rouge Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Canterbury Frigate"
+		name="1st Bencoolen Frigate"
 		type=frigate
 	}
 }
@@ -1970,43 +1970,19 @@ navy = {
 	name="Blue Squadron"
 	location=3214
 	ship = {
-		name="5th Aberdeen Man'o'war"
+		name="7th Southampton Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="6th Aberdeen Man'o'war"
+		name="4th Hull Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="6th Canterbury Man'o'war"
+		name="1st Maore Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="3rd Chester Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Matamoros Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Dunkirk Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Isle of Man Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Ipswich Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Bencoolen Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Nauru Man'o'war"
+		name="2nd Orkney & Shetland Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -2014,47 +1990,31 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="2nd Carlisle Man'o'war"
+		name="1st Salisbury Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="6th Southampton Man'o'war"
+		name="1st Dublin Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="3rd Liverpool Man'o'war"
+		name="3rd Bath Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Benin Man'o'war"
+		name="1st St Brieuc Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="3rd Ipswich Man'o'war"
+		name="9th Plymouth Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="2nd Bencoolen Man'o'war"
+		name="2nd Comoros Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="3rd Carlisle Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="6th British Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Matamoros Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="7th British Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Dunkirk Man'o'war"
+		name="2nd Maore Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -2062,55 +2022,71 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Bogor Man'o'war"
+		name="1st Jamaica Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="2nd Isle of Man Man'o'war"
+		name="2nd Chester Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="3rd Bencoolen Man'o'war"
+		name="9th British Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Wexford Clipper Transport"
-		type=clipper_transport
+		name="2nd St Brieuc Man'o'war"
+		type=manowar
 	}
 	ship = {
-		name="2nd Coimbra Clipper Transport"
-		type=clipper_transport
+		name="10th Plymouth Man'o'war"
+		type=manowar
 	}
 	ship = {
-		name="2nd Oviedo Clipper Transport"
-		type=clipper_transport
+		name="3rd Chester Man'o'war"
+		type=manowar
 	}
 	ship = {
-		name="3rd Oviedo Clipper Transport"
-		type=clipper_transport
+		name="1st Wexford Man'o'war"
+		type=manowar
 	}
 	ship = {
-		name="2nd Aberdeen Clipper Transport"
-		type=clipper_transport
+		name="2nd Donegal Man'o'war"
+		type=manowar
 	}
 	ship = {
-		name="1st Ambon Clipper Transport"
-		type=clipper_transport
+		name="4th Edinburgh Man'o'war"
+		type=manowar
 	}
 	ship = {
-		name="1st Donegal Clipper Transport"
-		type=clipper_transport
+		name="1st León Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="11th Plymouth Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Southampton Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Dunkirk Man'o'war"
+		type=manowar
 	}
 	ship = {
 		name="1st Houston Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Samarinda Clipper Transport"
+		name="1st Aberdeen Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Aberdeen Clipper Transport"
+		name="1st Inverness Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Wexford Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -2118,11 +2094,35 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Ambon Clipper Transport"
+		name="1st Plymouth Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Donegal Clipper Transport"
+		name="1st uMgungundlovu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Isle of Man Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Aberdeen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Oran Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Limerick Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Natal Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Macapá Clipper Transport"
 		type=clipper_transport
 	}
 }

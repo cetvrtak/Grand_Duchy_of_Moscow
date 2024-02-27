@@ -406,9 +406,9 @@ WHA = {
 	level = 2
 }
 X00 = {
-	value = 83
-	influence_value = 8
-	level = 2
+	value = 183
+	influence_value = 33
+	level = 4
 }
 X01 = {
 	value = 214
@@ -512,9 +512,14 @@ army = {
 	name="1st Army"
 	location=1129
 	regiment = {
-		name="1st Qom Irregulars"
+		name="1st Semnan Irregulars"
 		type=irregular
-		home=1125
+		home=1126
+	}
+	regiment = {
+		name="1st Yasuj Irregulars"
+		type=irregular
+		home=1137
 	}
 	regiment = {
 		name="1st Isfahan Irregulars"
@@ -522,18 +527,8 @@ army = {
 		home=1127
 	}
 	regiment = {
-		name="2nd Isfahan Irregulars"
+		name="2nd Semnan Irregulars"
 		type=irregular
-		home=1127
-	}
-	regiment = {
-		name="1st Kashan Irregulars"
-		type=irregular
-		home=1129
-	}
-	regiment = {
-		name="1st Semnan Artillery"
-		type=artillery
 		home=1126
 	}
 	regiment = {
@@ -547,14 +542,19 @@ army = {
 		home=1129
 	}
 	regiment = {
-		name="1st Tehran Artillery"
+		name="3rd Kashan Artillery"
 		type=artillery
-		home=1121
+		home=1129
 	}
 	regiment = {
-		name="2nd Isfahan Artillery"
+		name="4th Kashan Artillery"
 		type=artillery
-		home=1127
+		home=1129
+	}
+	regiment = {
+		name="1st Arak Artillery"
+		type=artillery
+		home=1128
 	}
 }
 
@@ -562,19 +562,19 @@ army = {
 	name="6th Army"
 	location=1125
 	regiment = {
-		name="3rd Isfahan Irregulars"
+		name="2nd Isfahan Irregulars"
 		type=irregular
 		home=1127
 	}
 	regiment = {
-		name="1st Semnan Irregulars"
+		name="3rd Semnan Irregulars"
 		type=irregular
 		home=1126
 	}
 	regiment = {
-		name="1st Qom Artillery"
+		name="1st Tehran Artillery"
 		type=artillery
-		home=1125
+		home=1121
 	}
 	regiment = {
 		name="2nd Tehran Artillery"
@@ -582,14 +582,14 @@ army = {
 		home=1121
 	}
 	regiment = {
-		name="1st Yasuj Irregulars"
+		name="1st Qom Irregulars"
 		type=irregular
-		home=1137
+		home=1125
 	}
 	regiment = {
-		name="1st Sari Artillery"
+		name="1st Isfahan Artillery"
 		type=artillery
-		home=1115
+		home=1127
 	}
 }
 
@@ -597,37 +597,22 @@ army = {
 	name="3rd Army"
 	location=1137
 	regiment = {
+		name="1st Kashan Irregulars"
+		type=irregular
+		home=1129
+	}
+	regiment = {
 		name="1st Tehran Irregulars"
 		type=irregular
 		home=1121
 	}
 	regiment = {
-		name="1st Arak Irregulars"
+		name="2nd Tehran Irregulars"
 		type=irregular
-		home=1128
+		home=1121
 	}
 	regiment = {
-		name="1st Yazd Irregulars"
-		type=irregular
-		home=1130
-	}
-	regiment = {
-		name="4th Isfahan Irregulars"
-		type=irregular
-		home=1127
-	}
-	regiment = {
-		name="1st Isfahan Artillery"
-		type=artillery
-		home=1127
-	}
-	regiment = {
-		name="3rd Kashan Artillery"
-		type=artillery
-		home=1129
-	}
-	regiment = {
-		name="5th Isfahan Irregulars"
+		name="3rd Isfahan Irregulars"
 		type=irregular
 		home=1127
 	}
@@ -635,6 +620,21 @@ army = {
 		name="3rd Tehran Artillery"
 		type=artillery
 		home=1121
+	}
+	regiment = {
+		name="5th Kashan Artillery"
+		type=artillery
+		home=1129
+	}
+	regiment = {
+		name="2nd Kashan Irregulars"
+		type=irregular
+		home=1129
+	}
+	regiment = {
+		name="1st Qom Artillery"
+		type=artillery
+		home=1125
 	}
 }
 

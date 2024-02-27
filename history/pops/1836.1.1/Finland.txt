@@ -303,7 +303,7 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 325
+		size= 1033
 	}
 
 	artisans=
@@ -345,14 +345,14 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 15741
+		size= 15033
 	}
 
 	soldiers=
 	{
 		culture = finnish
 		religion = orthodox
-		size= 10333
+		size= 13433
 	}
 
 	artisans=
@@ -394,7 +394,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 11519
+		size= 8419
 	}
 
 	soldiers=
@@ -504,13 +504,6 @@
 		size= 301
 	}
 
-	craftsmen=
-	{
-		culture = finnish
-		religion = catholic
-		size= 2716
-	}
-
 	artisans=
 	{
 		culture = finnish
@@ -523,13 +516,6 @@
 		culture = finnish
 		religion = catholic
 		size= 20
-	}
-
-	clerks=
-	{
-		culture = finnish
-		religion = catholic
-		size= 82
 	}
 
 	bureaucrats=
@@ -546,13 +532,6 @@
 		size= 4
 	}
 
-	capitalists=
-	{
-		culture = finnish
-		religion = catholic
-		size= 42
-	}
-
 	aristocrats=
 	{
 		culture = finnish
@@ -564,7 +543,7 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 2079
+		size= 4919
 	}
 
 	soldiers=
@@ -572,13 +551,6 @@
 		culture = finnish
 		religion = orthodox
 		size= 605
-	}
-
-	craftsmen=
-	{
-		culture = finnish
-		religion = orthodox
-		size= 5454
 	}
 
 	artisans=
@@ -595,13 +567,6 @@
 		size= 101
 	}
 
-	clerks=
-	{
-		culture = finnish
-		religion = orthodox
-		size= 411
-	}
-
 	bureaucrats=
 	{
 		culture = finnish
@@ -616,13 +581,6 @@
 		size= 22
 	}
 
-	capitalists=
-	{
-		culture = finnish
-		religion = orthodox
-		size= 208
-	}
-
 	aristocrats=
 	{
 		culture = finnish
@@ -634,7 +592,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 3330
+		size= 9403
 	}
 
 }

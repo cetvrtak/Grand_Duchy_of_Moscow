@@ -594,7 +594,7 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 7233
+		size= 16533
 	}
 
 	craftsmen=
@@ -657,7 +657,7 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 37304
+		size= 28004
 	}
 
 	soldiers=
@@ -1176,100 +1176,100 @@
 398 = {
 	soldiers=
 	{
-		culture = wallonian
+		culture = french
 		religion = catholic
-		size= 725
+		size= 2144
 	}
 
 	artisans=
 	{
-		culture = wallonian
+		culture = french
 		religion = catholic
-		size= 1664
+		size= 2878
 	}
 
 	clergymen=
 	{
-		culture = wallonian
+		culture = french
 		religion = catholic
-		size= 178
+		size= 208
 	}
 
 	bureaucrats=
 	{
-		culture = wallonian
+		culture = french
 		religion = catholic
-		size= 43
+		size= 76
 	}
 
 	officers=
 	{
-		culture = wallonian
+		culture = french
 		religion = catholic
-		size= 19
+		size= 51
 	}
 
 	aristocrats=
 	{
-		culture = wallonian
+		culture = french
 		religion = catholic
-		size= 150
+		size= 269
 	}
 
 	farmers=
 	{
-		culture = wallonian
+		culture = french
 		religion = catholic
-		size= 23113
+		size= 32664
 	}
 
 	soldiers=
 	{
-		culture = wallonian
+		culture = french
 		religion = protestant
-		size= 571
+		size= 288
 	}
 
 	artisans=
 	{
-		culture = wallonian
+		culture = french
 		religion = protestant
-		size= 4821
+		size= 1031
 	}
 
 	clergymen=
 	{
-		culture = wallonian
+		culture = french
 		religion = protestant
-		size= 517
+		size= 74
 	}
 
 	bureaucrats=
 	{
-		culture = wallonian
+		culture = french
 		religion = protestant
-		size= 125
+		size= 28
 	}
 
 	officers=
 	{
-		culture = wallonian
+		culture = french
 		religion = protestant
-		size= 56
+		size= 18
 	}
 
 	aristocrats=
 	{
-		culture = wallonian
+		culture = french
 		religion = protestant
-		size= 434
+		size= 96
 	}
 
 	farmers=
 	{
-		culture = wallonian
+		culture = french
 		religion = protestant
-		size= 13907
+		size= 3616
 	}
 
 }

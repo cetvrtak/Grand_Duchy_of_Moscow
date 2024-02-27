@@ -516,9 +516,29 @@ army = {
 		home=367
 	}
 	regiment = {
+		name="1st Aarhus Infantry"
+		type=infantry
+		home=366
+	}
+	regiment = {
 		name="1st Odense Infantry"
 		type=infantry
 		home=373
+	}
+	regiment = {
+		name="1st Odense Cavalry"
+		type=cavalry
+		home=373
+	}
+	regiment = {
+		name="1st Esbjerg Artillery"
+		type=artillery
+		home=2557
+	}
+	regiment = {
+		name="1st Flensburg Artillery"
+		type=artillery
+		home=370
 	}
 	regiment = {
 		name="2nd Aalborg Infantry"
@@ -532,26 +552,6 @@ army = {
 	}
 	regiment = {
 		name="1st Copenhagen Artillery"
-		type=artillery
-		home=372
-	}
-	regiment = {
-		name="2nd Copenhagen Artillery"
-		type=artillery
-		home=372
-	}
-	regiment = {
-		name="1st Copenhagen Infantry"
-		type=infantry
-		home=372
-	}
-	regiment = {
-		name="2nd Copenhagen Cavalry"
-		type=cavalry
-		home=372
-	}
-	regiment = {
-		name="3rd Copenhagen Artillery"
 		type=artillery
 		home=372
 	}
@@ -610,11 +610,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Bornholm Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Danish Clipper Transport"
+		name="1st Aabenraa Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -622,7 +618,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Aabenraa Clipper Transport"
+		name="1st Copenhagen Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -630,11 +626,15 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
+		name="1st Danish Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
 		name="Dronning Marie"
 		type=manowar
 	}
 	ship = {
-		name="1st Sundsvall Clipper Transport"
+		name="2nd Danish Clipper Transport"
 		type=clipper_transport
 	}
 }

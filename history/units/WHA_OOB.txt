@@ -518,7 +518,7 @@ leader = {
 #Armies
 army = {
 	name="1st Army"
-	location=251
+	location=2636
 	regiment = {
 		name="1st Curacao Infantry"
 		type=infantry
@@ -593,7 +593,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Godthab Clipper Transport"
+		name="2nd Aracaju Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -601,11 +601,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="2nd Aracaju Clipper Transport"
+		name="1st Godthab Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Aracaju Clipper Transport"
+		name="3rd Fernando Pó Clipper Transport"
 		type=clipper_transport
 	}
 }

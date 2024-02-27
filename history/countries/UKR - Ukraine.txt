@@ -1,8 +1,8 @@
 capital = 662
 primary_culture = dummy
+culture = kishinyov
 culture = tatar
 culture = ukrainian
-culture = western_slavic
 culture = zzz_religion_orthodox
 religion = orthodox
 government = absolute_monarchy
@@ -23,7 +23,7 @@ school_reforms = no_schools
 
 # political reforms
 slavery=yes_slavery
-vote_franschise=landed_voting
+vote_franschise=none_voting
 upper_house_composition=appointed
 voting_system=jefferson_method
 public_meetings=no_meeting

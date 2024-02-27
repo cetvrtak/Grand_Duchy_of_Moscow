@@ -375,7 +375,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 4133
+		size= 3193
 	}
 
 	artisans=
@@ -417,7 +417,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 28335
+		size= 29275
 	}
 
 	soldiers=
@@ -475,7 +475,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 4133
+		size= 3111
 	}
 
 	artisans=
@@ -517,7 +517,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 26840
+		size= 27862
 	}
 
 	soldiers=
@@ -731,7 +731,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 7233
+		size= 3669
 	}
 
 	artisans=
@@ -773,7 +773,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 43329
+		size= 46893
 	}
 
 }
@@ -1124,7 +1124,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 16533
+		size= 10333
 	}
 
 	artisans=
@@ -1159,7 +1159,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 7289
+		size= 13489
 	}
 
 	soldiers=
@@ -1210,7 +1210,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 1033
+		size= 555
 	}
 
 	artisans=
@@ -1252,7 +1252,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 8110
+		size= 8588
 	}
 
 	soldiers=
@@ -1552,7 +1552,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 485
+		size= 1033
 	}
 
 	artisans=
@@ -1594,14 +1594,14 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 4341
+		size= 3793
 	}
 
 	soldiers=
 	{
 		culture = north_german
 		religion = protestant
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -1643,7 +1643,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 4572
+		size= 1472
 	}
 
 }
@@ -1701,7 +1701,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 1208
+		size= 7233
 	}
 
 	artisans=
@@ -1743,7 +1743,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 10398
+		size= 4373
 	}
 
 }
@@ -1950,100 +1950,198 @@
 547 = {
 	soldiers=
 	{
+		culture = oldpommeranian
+		religion = catholic
+		size= 544
+	}
+
+	artisans=
+	{
+		culture = oldpommeranian
+		religion = catholic
+		size= 680
+	}
+
+	clergymen=
+	{
+		culture = oldpommeranian
+		religion = catholic
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = oldpommeranian
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = oldpommeranian
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = oldpommeranian
+		religion = catholic
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = oldpommeranian
+		religion = catholic
+		size= 8383
+	}
+
+	soldiers=
+	{
+		culture = oldpommeranian
+		religion = protestant
+		size= 620
+	}
+
+	artisans=
+	{
+		culture = oldpommeranian
+		religion = protestant
+		size= 2230
+	}
+
+	clergymen=
+	{
+		culture = oldpommeranian
+		religion = protestant
+		size= 104
+	}
+
+	bureaucrats=
+	{
+		culture = oldpommeranian
+		religion = protestant
+		size= 38
+	}
+
+	officers=
+	{
+		culture = oldpommeranian
+		religion = protestant
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = oldpommeranian
+		religion = protestant
+		size= 201
+	}
+
+	farmers=
+	{
+		culture = oldpommeranian
+		religion = protestant
+		size= 7850
+	}
+
+	soldiers=
+	{
 		culture = western_slavic
 		religion = catholic
-		size= 892
+		size= 359
 	}
 
 	artisans=
 	{
 		culture = western_slavic
 		religion = catholic
-		size= 1114
+		size= 449
 	}
 
 	clergymen=
 	{
 		culture = western_slavic
 		religion = catholic
-		size= 52
+		size= 21
 	}
 
 	bureaucrats=
 	{
 		culture = western_slavic
 		religion = catholic
-		size= 19
+		size= 8
 	}
 
 	officers=
 	{
 		culture = western_slavic
 		religion = catholic
-		size= 13
+		size= 5
 	}
 
 	aristocrats=
 	{
 		culture = western_slavic
 		religion = catholic
-		size= 67
+		size= 40
 	}
 
 	farmers=
 	{
 		culture = western_slavic
 		religion = catholic
-		size= 13764
+		size= 5531
 	}
 
 	soldiers=
 	{
 		culture = western_slavic
 		religion = protestant
-		size= 1035
+		size= 417
 	}
 
 	artisans=
 	{
 		culture = western_slavic
 		religion = protestant
-		size= 3702
+		size= 1491
 	}
 
 	clergymen=
 	{
 		culture = western_slavic
 		religion = protestant
-		size= 172
+		size= 69
 	}
 
 	bureaucrats=
 	{
 		culture = western_slavic
 		religion = protestant
-		size= 63
+		size= 26
 	}
 
 	officers=
 	{
 		culture = western_slavic
 		religion = protestant
-		size= 42
+		size= 17
 	}
 
 	aristocrats=
 	{
 		culture = western_slavic
 		religion = protestant
-		size= 222
+		size= 134
 	}
 
 	farmers=
 	{
 		culture = western_slavic
 		religion = protestant
-		size= 13249
+		size= 5292
 	}
 
 }
@@ -2101,7 +2199,7 @@
 	{
 		culture = western_slavic
 		religion = protestant
-		size= 4133
+		size= 1181
 	}
 
 	artisans=
@@ -2143,7 +2241,7 @@
 	{
 		culture = western_slavic
 		religion = protestant
-		size= 14281
+		size= 17233
 	}
 
 }
@@ -2201,7 +2299,7 @@
 	{
 		culture = western_slavic
 		religion = protestant
-		size= 13433
+		size= 19633
 	}
 
 	artisans=
@@ -2243,7 +2341,7 @@
 	{
 		culture = western_slavic
 		religion = protestant
-		size= 69132
+		size= 62932
 	}
 
 	soldiers=
@@ -3967,7 +4065,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 267
+		size= 4133
 	}
 
 	artisans=
@@ -4002,14 +4100,14 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 5922
+		size= 2056
 	}
 
 	soldiers=
 	{
 		culture = north_german
 		religion = protestant
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -4044,7 +4142,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 4541
+		size= 1441
 	}
 
 }
@@ -4153,98 +4251,98 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 6022
+		size= 4612
 	}
 
 	artisans=
 	{
 		culture = north_german
 		religion = catholic
-		size= 14334
+		size= 12577
 	}
 
 	clergymen=
 	{
 		culture = north_german
 		religion = catholic
-		size= 1461
+		size= 1282
 	}
 
 	bureaucrats=
 	{
 		culture = north_german
 		religion = catholic
-		size= 267
+		size= 234
 	}
 
 	officers=
 	{
 		culture = north_german
 		religion = catholic
-		size= 165
+		size= 145
 	}
 
 	aristocrats=
 	{
 		culture = north_german
 		religion = catholic
-		size= 1297
+		size= 1139
 	}
 
 	farmers=
 	{
 		culture = north_german
 		religion = catholic
-		size= 85221
+		size= 65101
 	}
 
 	soldiers=
 	{
 		culture = north_german
 		religion = protestant
-		size= 745
+		size= 2170
 	}
 
 	artisans=
 	{
 		culture = north_german
 		religion = protestant
-		size= 2731
+		size= 4528
 	}
 
 	clergymen=
 	{
 		culture = north_german
 		religion = protestant
-		size= 279
+		size= 462
 	}
 
 	bureaucrats=
 	{
 		culture = north_german
 		religion = protestant
-		size= 51
+		size= 85
 	}
 
 	officers=
 	{
 		culture = north_german
 		religion = protestant
-		size= 31
+		size= 52
 	}
 
 	aristocrats=
 	{
 		culture = north_german
 		religion = protestant
-		size= 247
+		size= 409
 	}
 
 	farmers=
 	{
 		culture = north_german
 		religion = protestant
-		size= 9358
+		size= 31505
 	}
 
 }
@@ -4502,7 +4600,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 10333
+		size= 1750
 	}
 
 	artisans=
@@ -4544,7 +4642,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 16983
+		size= 25566
 	}
 
 }
@@ -4702,7 +4800,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 7233
+		size= 10333
 	}
 
 	artisans=
@@ -4744,7 +4842,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 55394
+		size= 52294
 	}
 
 }
@@ -4902,7 +5000,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 1288
+		size= 10333
 	}
 
 	artisans=
@@ -4944,7 +5042,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 33520
+		size= 24475
 	}
 
 }
@@ -5002,7 +5100,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 10333
+		size= 1572
 	}
 
 	artisans=
@@ -5044,7 +5142,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 15297
+		size= 24058
 	}
 
 }
@@ -5202,7 +5300,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 10333
+		size= 22733
 	}
 
 	artisans=
@@ -5286,7 +5384,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 32260
+		size= 19860
 	}
 
 }
@@ -5744,7 +5842,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 7233
+		size= 4151
 	}
 
 	artisans=
@@ -5786,107 +5884,107 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 49940
+		size= 53022
 	}
 
 }
 582 = {
 	soldiers=
 	{
-		culture = north_german
+		culture = dutch
 		religion = catholic
-		size= 1533
+		size= 1404
 	}
 
 	artisans=
 	{
-		culture = north_german
+		culture = dutch
 		religion = catholic
-		size= 3507
+		size= 1755
 	}
 
 	clergymen=
 	{
-		culture = north_german
+		culture = dutch
 		religion = catholic
-		size= 376
+		size= 163
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
+		culture = dutch
 		religion = catholic
-		size= 55
+		size= 23
 	}
 
 	officers=
 	{
-		culture = north_german
+		culture = dutch
 		religion = catholic
-		size= 40
+		size= 20
 	}
 
 	aristocrats=
 	{
-		culture = north_german
+		culture = dutch
 		religion = catholic
-		size= 315
+		size= 158
 	}
 
 	farmers=
 	{
-		culture = north_german
+		culture = dutch
 		religion = catholic
-		size= 22539
+		size= 21549
 	}
 
 	soldiers=
 	{
-		culture = north_german
+		culture = dutch
 		religion = protestant
-		size= 1820
+		size= 1990
 	}
 
 	artisans=
 	{
-		culture = north_german
+		culture = dutch
 		religion = protestant
-		size= 4874
+		size= 6729
 	}
 
 	clergymen=
 	{
-		culture = north_german
+		culture = dutch
 		religion = protestant
-		size= 522
+		size= 625
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
+		culture = dutch
 		religion = protestant
-		size= 77
+		size= 87
 	}
 
 	officers=
 	{
-		culture = north_german
+		culture = dutch
 		religion = protestant
-		size= 55
+		size= 77
 	}
 
 	aristocrats=
 	{
-		culture = north_german
+		culture = dutch
 		religion = protestant
-		size= 439
+		size= 606
 	}
 
 	farmers=
 	{
-		culture = north_german
+		culture = dutch
 		religion = protestant
-		size= 24710
+		size= 25413
 	}
 
 }
@@ -5944,7 +6042,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 4133
+		size= 1585
 	}
 
 	artisans=
@@ -5986,7 +6084,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 8654
+		size= 11202
 	}
 
 }
@@ -5995,98 +6093,98 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 1057
+		size= 1327
 	}
 
 	artisans=
 	{
 		culture = north_german
 		religion = catholic
-		size= 1339
+		size= 505
 	}
 
 	clergymen=
 	{
 		culture = north_german
 		religion = catholic
-		size= 143
+		size= 47
 	}
 
 	bureaucrats=
 	{
 		culture = north_german
 		religion = catholic
-		size= 35
+		size= 9
 	}
 
 	officers=
 	{
 		culture = north_german
 		religion = catholic
-		size= 22
+		size= 9
 	}
 
 	aristocrats=
 	{
 		culture = north_german
 		religion = catholic
-		size= 121
+		size= 45
 	}
 
 	farmers=
 	{
 		culture = north_german
 		religion = catholic
-		size= 20265
+		size= 12478
 	}
 
 	soldiers=
 	{
 		culture = north_german
 		religion = protestant
-		size= 567
+		size= 1950
 	}
 
 	artisans=
 	{
 		culture = north_german
 		religion = protestant
-		size= 3605
+		size= 4482
 	}
 
 	clergymen=
 	{
 		culture = north_german
 		religion = protestant
-		size= 386
+		size= 416
 	}
 
 	bureaucrats=
 	{
 		culture = north_german
 		religion = protestant
-		size= 92
+		size= 83
 	}
 
 	officers=
 	{
 		culture = north_german
 		religion = protestant
-		size= 61
+		size= 77
 	}
 
 	aristocrats=
 	{
 		culture = north_german
 		religion = protestant
-		size= 324
+		size= 404
 	}
 
 	farmers=
 	{
 		culture = north_german
 		religion = protestant
-		size= 7689
+		size= 13786
 	}
 
 }
@@ -6095,98 +6193,98 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 689
+		size= 626
 	}
 
 	artisans=
 	{
 		culture = north_german
 		religion = catholic
-		size= 1578
+		size= 392
 	}
 
 	clergymen=
 	{
 		culture = north_german
 		religion = catholic
-		size= 169
+		size= 42
 	}
 
 	bureaucrats=
 	{
 		culture = north_german
 		religion = catholic
-		size= 26
+		size= 6
 	}
 
 	officers=
 	{
 		culture = north_german
 		religion = catholic
-		size= 19
+		size= 4
 	}
 
 	aristocrats=
 	{
 		culture = north_german
 		religion = catholic
-		size= 143
+		size= 35
 	}
 
 	farmers=
 	{
 		culture = north_german
 		religion = catholic
-		size= 10134
+		size= 10082
 	}
 
 	soldiers=
 	{
 		culture = north_german
 		religion = protestant
-		size= 819
+		size= 7233
 	}
 
 	artisans=
 	{
 		culture = north_german
 		religion = protestant
-		size= 2192
+		size= 3353
 	}
 
 	clergymen=
 	{
 		culture = north_german
 		religion = protestant
-		size= 235
+		size= 359
 	}
 
 	bureaucrats=
 	{
 		culture = north_german
 		religion = protestant
-		size= 35
+		size= 52
 	}
 
 	officers=
 	{
 		culture = north_german
 		religion = protestant
-		size= 25
+		size= 38
 	}
 
 	aristocrats=
 	{
 		culture = north_german
 		religion = protestant
-		size= 197
+		size= 302
 	}
 
 	farmers=
 	{
 		culture = north_german
 		religion = protestant
-		size= 11111
+		size= 4224
 	}
 
 }
@@ -6244,7 +6342,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 4133
+		size= 4119
 	}
 
 	artisans=
@@ -6286,7 +6384,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 61554
+		size= 61568
 	}
 
 }
@@ -6595,7 +6693,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 22733
+		size= 25833
 	}
 
 	artisans=
@@ -6637,7 +6735,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 49872
+		size= 46772
 	}
 
 	soldiers=
@@ -7514,7 +7612,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 22733
+		size= 10395
 	}
 
 	artisans=
@@ -7556,7 +7654,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 94812
+		size= 107150
 	}
 
 	soldiers=
@@ -7714,7 +7812,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 16533
+		size= 10333
 	}
 
 	artisans=
@@ -7756,7 +7854,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 19610
+		size= 25810
 	}
 
 	soldiers=
@@ -8056,7 +8154,7 @@
 	{
 		culture = western_slavic
 		religion = catholic
-		size= 1510
+		size= 7233
 	}
 
 	artisans=
@@ -8098,14 +8196,14 @@
 	{
 		culture = western_slavic
 		religion = catholic
-		size= 23064
+		size= 17341
 	}
 
 	soldiers=
 	{
 		culture = western_slavic
 		religion = protestant
-		size= 16533
+		size= 22733
 	}
 
 	artisans=
@@ -8147,156 +8245,156 @@
 	{
 		culture = western_slavic
 		religion = protestant
-		size= 12967
+		size= 6767
 	}
 
 }
 695 = {
 	soldiers=
 	{
-		culture = pruthenian
+		culture = north_german
 		religion = catholic
 		size= 1729
 	}
 
 	artisans=
 	{
-		culture = pruthenian
+		culture = north_german
 		religion = catholic
 		size= 611
 	}
 
 	clergymen=
 	{
-		culture = pruthenian
+		culture = north_german
 		religion = catholic
 		size= 195
 	}
 
 	bureaucrats=
 	{
-		culture = pruthenian
+		culture = north_german
 		religion = catholic
 		size= 32
 	}
 
 	officers=
 	{
-		culture = pruthenian
+		culture = north_german
 		religion = catholic
 		size= 22
 	}
 
 	aristocrats=
 	{
-		culture = pruthenian
+		culture = north_german
 		religion = catholic
 		size= 189
 	}
 
 	farmers=
 	{
-		culture = pruthenian
+		culture = north_german
 		religion = catholic
 		size= 60399
 	}
 
 	soldiers=
 	{
-		culture = pruthenian
+		culture = north_german
 		religion = orthodox
-		size= 1984
+		size= 7233
 	}
 
 	artisans=
 	{
-		culture = pruthenian
+		culture = north_german
 		religion = orthodox
 		size= 4636
 	}
 
 	clergymen=
 	{
-		culture = pruthenian
+		culture = north_german
 		religion = orthodox
 		size= 1476
 	}
 
 	bureaucrats=
 	{
-		culture = pruthenian
+		culture = north_german
 		religion = orthodox
 		size= 240
 	}
 
 	officers=
 	{
-		culture = pruthenian
+		culture = north_german
 		religion = orthodox
 		size= 164
 	}
 
 	aristocrats=
 	{
-		culture = pruthenian
+		culture = north_german
 		religion = orthodox
 		size= 1427
 	}
 
 	farmers=
 	{
-		culture = pruthenian
+		culture = north_german
 		religion = orthodox
-		size= 62232
+		size= 56983
 	}
 
 }
 697 = {
 	soldiers=
 	{
-		culture = pruthenian
+		culture = north_german
 		religion = catholic
 		size= 627
 	}
 
 	artisans=
 	{
-		culture = pruthenian
+		culture = north_german
 		religion = catholic
 		size= 784
 	}
 
 	clergymen=
 	{
-		culture = pruthenian
+		culture = north_german
 		religion = catholic
 		size= 73
 	}
 
 	bureaucrats=
 	{
-		culture = pruthenian
+		culture = north_german
 		religion = catholic
 		size= 16
 	}
 
 	officers=
 	{
-		culture = pruthenian
+		culture = north_german
 		religion = catholic
 		size= 12
 	}
 
 	aristocrats=
 	{
-		culture = pruthenian
+		culture = north_german
 		religion = catholic
 		size= 71
 	}
 
 	farmers=
 	{
-		culture = pruthenian
+		culture = north_german
 		religion = catholic
 		size= 20807
 	}
@@ -8354,7 +8452,7 @@
 	{
 		culture = lithuanian
 		religion = orthodox
-		size= 1033
+		size= 7233
 	}
 
 	artisans=
@@ -8396,7 +8494,7 @@
 	{
 		culture = lithuanian
 		religion = orthodox
-		size= 24618
+		size= 18418
 	}
 
 }
@@ -8454,7 +8552,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 598
+		size= 1033
 	}
 
 	artisans=
@@ -8496,7 +8594,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 4405
+		size= 3970
 	}
 
 }
@@ -8554,7 +8652,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 13433
+		size= 10333
 	}
 
 	artisans=
@@ -8596,7 +8694,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 28085
+		size= 31185
 	}
 
 }

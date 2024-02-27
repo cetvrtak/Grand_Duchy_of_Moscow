@@ -1,9 +1,8 @@
-owner=WES
-controller=BRA
-add_core=BRA
-add_core=GER
+owner=GLR
+controller=GLR
+add_core=GLR
 add_core=HLR
-add_core=WES
+add_core=NET
 trade_goods = cattle
 life_rating = 40
 fort = 1

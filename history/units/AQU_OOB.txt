@@ -530,24 +530,14 @@ army = {
 	name="Armata de Cremona"
 	location=729
 	regiment = {
-		name="1st Vienna Infantry"
+		name="1st Bergamo Infantry"
 		type=infantry
-		home=619
+		home=727
 	}
 	regiment = {
-		name="1st Parma Infantry"
+		name="1st Maribor Infantry"
 		type=infantry
-		home=738
-	}
-	regiment = {
-		name="2nd Vienna Infantry"
-		type=infantry
-		home=619
-	}
-	regiment = {
-		name="3rd Vienna Infantry"
-		type=infantry
-		home=619
+		home=767
 	}
 	regiment = {
 		name="1st Klagenfurt Infantry"
@@ -555,9 +545,14 @@ army = {
 		home=618
 	}
 	regiment = {
-		name="1st Pola Artillery"
-		type=artillery
-		home=770
+		name="2nd Maribor Infantry"
+		type=infantry
+		home=767
+	}
+	regiment = {
+		name="2nd Bergamo Infantry"
+		type=infantry
+		home=727
 	}
 	regiment = {
 		name="1st Ljubljana Artillery"
@@ -565,12 +560,17 @@ army = {
 		home=768
 	}
 	regiment = {
-		name="1st Vienna Artillery"
+		name="2nd Ljubljana Artillery"
 		type=artillery
-		home=619
+		home=768
 	}
 	regiment = {
 		name="1st Postojna Artillery"
+		type=artillery
+		home=769
+	}
+	regiment = {
+		name="3rd Postojna Artillery"
 		type=artillery
 		home=769
 	}
@@ -578,21 +578,21 @@ army = {
 
 army = {
 	name="Armata de Wien"
-	location=737
+	location=736
 	regiment = {
 		name="1st Postojna Infantry"
 		type=infantry
 		home=769
 	}
 	regiment = {
-		name="1st Ljubljana Infantry"
-		type=infantry
-		home=768
-	}
-	regiment = {
-		name="1st Bergamo Infantry"
+		name="3rd Bergamo Infantry"
 		type=infantry
 		home=727
+	}
+	regiment = {
+		name="1st Pola Infantry"
+		type=infantry
+		home=770
 	}
 	regiment = {
 		name="1st Brescia Infantry"
@@ -600,29 +600,29 @@ army = {
 		home=728
 	}
 	regiment = {
-		name="2nd Vienna Artillery"
+		name="1st Klagenfurt Artillery"
+		type=artillery
+		home=618
+	}
+	regiment = {
+		name="1st Sankt Pölten Artillery"
+		type=artillery
+		home=620
+	}
+	regiment = {
+		name="1st Vienna Artillery"
 		type=artillery
 		home=619
 	}
 	regiment = {
-		name="1st Brescia Artillery"
-		type=artillery
-		home=728
-	}
-	regiment = {
-		name="1st Udine Artillery"
-		type=artillery
+		name="1st Udine Infantry"
+		type=infantry
 		home=733
 	}
 	regiment = {
-		name="3rd Brescia Infantry"
-		type=infantry
-		home=728
-	}
-	regiment = {
-		name="1st Maribor Artillery"
+		name="2nd Postojna Artillery"
 		type=artillery
-		home=767
+		home=769
 	}
 }
 
@@ -630,44 +630,44 @@ army = {
 	name="Armata de Krain"
 	location=769
 	regiment = {
+		name="2nd Postojna Infantry"
+		type=infantry
+		home=769
+	}
+	regiment = {
+		name="3rd Maribor Infantry"
+		type=infantry
+		home=767
+	}
+	regiment = {
 		name="1st Lienz Infantry"
 		type=infantry
 		home=615
 	}
 	regiment = {
-		name="2nd Brescia Infantry"
+		name="4th Bergamo Infantry"
 		type=infantry
+		home=727
+	}
+	regiment = {
+		name="1st Brescia Artillery"
+		type=artillery
 		home=728
 	}
 	regiment = {
-		name="1st Gorizia Infantry"
-		type=infantry
-		home=737
-	}
-	regiment = {
-		name="1st Padua Infantry"
-		type=infantry
-		home=731
-	}
-	regiment = {
-		name="1st Klagenfurt Artillery"
-		type=artillery
-		home=618
-	}
-	regiment = {
-		name="2nd Ljubljana Artillery"
-		type=artillery
-		home=768
-	}
-	regiment = {
-		name="1st Gorizia Artillery"
-		type=artillery
-		home=737
-	}
-	regiment = {
-		name="2nd Maribor Artillery"
+		name="1st Maribor Artillery"
 		type=artillery
 		home=767
+	}
+	regiment = {
+		name="2nd Vienna Artillery"
+		type=artillery
+		home=619
+	}
+	regiment = {
+		name="1st Judenburg Artillery"
+		type=artillery
+		home=617
 	}
 }
 
@@ -720,7 +720,19 @@ navy = {
 		type=frigate
 	}
 	ship = {
+		name="1st Venice Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Venice Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
 		name="1st Udine Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Venice Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -728,35 +740,23 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Padua Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Udine Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Padua Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Friulan Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="1st Pola Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Padua Clipper Transport"
+		name="2nd Pola Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Friulan Clipper Transport"
+		name="3rd Pola Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Trieste Clipper Transport"
+		name="1st Padua Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Padua Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -765,19 +765,19 @@ army = {
 	name="Armata de Wienerwald"
 	location=618
 	regiment = {
-		name="4th Vienna Infantry"
+		name="1st Sankt Pölten Infantry"
 		type=infantry
-		home=619
+		home=620
 	}
 	regiment = {
-		name="2nd Postojna Infantry"
+		name="2nd Lienz Infantry"
 		type=infantry
-		home=769
+		home=615
 	}
 	regiment = {
-		name="5th Vienna Infantry"
+		name="2nd Sankt Pölten Infantry"
 		type=infantry
-		home=619
+		home=620
 	}
 	regiment = {
 		name="3rd Postojna Infantry"

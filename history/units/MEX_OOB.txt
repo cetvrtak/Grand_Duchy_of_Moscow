@@ -518,6 +518,11 @@ army = {
 	name="2nd Army"
 	location=3
 	regiment = {
+		name="1st Fort Washita Infantry"
+		type=infantry
+		home=131
+	}
+	regiment = {
 		name="1st Oaxaca Infantry"
 		type=infantry
 		home=2177
@@ -533,19 +538,14 @@ army = {
 		home=2166
 	}
 	regiment = {
-		name="1st Houston Infantry"
-		type=infantry
-		home=132
+		name="1st Santa Fe Artillery"
+		type=artillery
+		home=105
 	}
 	regiment = {
 		name="1st Oaxaca Artillery"
 		type=artillery
 		home=2177
-	}
-	regiment = {
-		name="1st Santa Fe Artillery"
-		type=artillery
-		home=105
 	}
 	regiment = {
 		name="1st Morelia Artillery"
@@ -558,9 +558,9 @@ army = {
 		home=2167
 	}
 	regiment = {
-		name="4th Oaxaca Infantry"
+		name="1st Houston Infantry"
 		type=infantry
-		home=2177
+		home=132
 	}
 }
 
@@ -617,15 +617,15 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Tepic Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Tepic Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="3rd Houston Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Houston Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Culiacán Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -633,16 +633,6 @@ navy = {
 army = {
 	name="4th Army"
 	location=2151
-	regiment = {
-		name="1st Fort Washita Infantry"
-		type=infantry
-		home=131
-	}
-	regiment = {
-		name="1st Llano Estacado Infantry"
-		type=infantry
-		home=135
-	}
 	regiment = {
 		name="2nd Oaxaca Infantry"
 		type=infantry
@@ -652,6 +642,16 @@ army = {
 		name="3rd Oaxaca Infantry"
 		type=infantry
 		home=2177
+	}
+	regiment = {
+		name="4th Oaxaca Infantry"
+		type=infantry
+		home=2177
+	}
+	regiment = {
+		name="1st Austin Infantry"
+		type=infantry
+		home=133
 	}
 	regiment = {
 		name="6th Oaxaca Infantry"
@@ -676,19 +676,19 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Laredo Clipper Transport"
+		name="1st Colima Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Mérida Clipper Transport"
+		name="1st Campeche Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Laredo Clipper Transport"
+		name="2nd Campeche Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Tapachula Clipper Transport"
+		name="1st Cololo Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -704,7 +704,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Colima Clipper Transport"
+		name="3rd Campeche Clipper Transport"
 		type=clipper_transport
 	}
 }

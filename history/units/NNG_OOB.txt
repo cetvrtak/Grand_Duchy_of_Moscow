@@ -506,22 +506,22 @@ army = {
 		home=1546
 	}
 	regiment = {
-		name="1st Jiujiang Artillery"
+		name="1st Jian Artillery"
 		type=artillery
+		home=1547
+	}
+	regiment = {
+		name="1st Jiujiang Irregulars"
+		type=irregular
 		home=1549
 	}
 	regiment = {
-		name="1st Raozhou Irregulars"
-		type=irregular
-		home=1551
-	}
-	regiment = {
-		name="2nd Guangxin Cavalry"
+		name="1st Jian Cavalry"
 		type=cavalry
-		home=1546
+		home=1547
 	}
 	regiment = {
-		name="2nd Jiujiang Artillery"
+		name="1st Jiujiang Artillery"
 		type=artillery
 		home=1549
 	}

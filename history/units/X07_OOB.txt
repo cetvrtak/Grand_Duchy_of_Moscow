@@ -509,16 +509,26 @@ leader = {
 #Armies
 army = {
 	name="1st Army"
-	location=787
+	location=786
 	regiment = {
-		name="1st Tuzla Infantry"
+		name="1st Bihac Infantry"
 		type=infantry
-		home=786
+		home=784
 	}
 	regiment = {
-		name="1st Foca Infantry"
+		name="2nd Bihac Infantry"
 		type=infantry
-		home=787
+		home=784
+	}
+	regiment = {
+		name="3rd Bihac Infantry"
+		type=infantry
+		home=784
+	}
+	regiment = {
+		name="1st Banja Luka Artillery"
+		type=artillery
+		home=785
 	}
 	regiment = {
 		name="1st Banja Luka Infantry"
@@ -526,19 +536,9 @@ army = {
 		home=785
 	}
 	regiment = {
-		name="1st Tuzla Artillery"
+		name="2nd Banja Luka Artillery"
 		type=artillery
-		home=786
-	}
-	regiment = {
-		name="2nd Tuzla Infantry"
-		type=infantry
-		home=786
-	}
-	regiment = {
-		name="2nd Tuzla Artillery"
-		type=artillery
-		home=786
+		home=785
 	}
 }
 
