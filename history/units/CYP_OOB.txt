@@ -500,7 +500,7 @@ leader = {
 #Armies
 navy = {
 	name="1st Fleet"
-	location=856
+	location=855
 	ship = {
 		name="1st Limassol Clipper Transport"
 		type=clipper_transport
@@ -513,7 +513,7 @@ navy = {
 
 army = {
 	name="1st Army"
-	location=857
+	location=855
 	regiment = {
 		name="1st Nicosia Infantry"
 		type=infantry

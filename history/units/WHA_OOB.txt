@@ -593,7 +593,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Godthab Clipper Transport"
+		name="2nd Fernando Pó Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -601,11 +601,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="3rd Fernando Pó Clipper Transport"
+		name="1st Godthab Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="4th Fernando Pó Clipper Transport"
+		name="2nd Godthab Clipper Transport"
 		type=clipper_transport
 	}
 }

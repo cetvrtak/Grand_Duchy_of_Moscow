@@ -1036,7 +1036,7 @@
 	{
 		culture = oldpommeranian
 		religion = catholic
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -1078,7 +1078,7 @@
 	{
 		culture = oldpommeranian
 		religion = catholic
-		size= 20138
+		size= 17038
 	}
 
 	soldiers=
@@ -1334,7 +1334,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 10333
+		size= 4133
 	}
 
 	artisans=
@@ -1376,7 +1376,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 8211
+		size= 14411
 	}
 
 	soldiers=
@@ -1532,7 +1532,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -1574,7 +1574,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 21159
+		size= 18059
 	}
 
 	soldiers=
@@ -2322,7 +2322,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 7233
+		size= 4133
 	}
 
 	artisans=
@@ -2364,14 +2364,14 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 8240
+		size= 11340
 	}
 
 	soldiers=
 	{
 		culture = polish
 		religion = protestant
-		size= 4133
+		size= 465
 	}
 
 	artisans=
@@ -2413,7 +2413,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 6881
+		size= 10549
 	}
 
 	soldiers=
@@ -3358,7 +3358,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 4133
+		size= 1344
 	}
 
 	artisans=
@@ -3400,7 +3400,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 40959
+		size= 43748
 	}
 
 	soldiers=
@@ -3877,7 +3877,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 4133
+		size= 1033
 	}
 
 	artisans=
@@ -3919,7 +3919,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 29199
+		size= 32299
 	}
 
 	soldiers=
@@ -4862,7 +4862,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 1033
+		size= 817
 	}
 
 	artisans=
@@ -4904,7 +4904,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 25006
+		size= 25222
 	}
 
 	soldiers=

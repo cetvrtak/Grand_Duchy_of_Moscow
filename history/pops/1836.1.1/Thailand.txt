@@ -445,7 +445,7 @@
 	{
 		culture = khmer
 		religion = theravada
-		size= 7233
+		size= 1601
 	}
 
 	artisans=
@@ -487,7 +487,7 @@
 	{
 		culture = khmer
 		religion = theravada
-		size= 18742
+		size= 24374
 	}
 
 	soldiers=
@@ -659,7 +659,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 19633
+		size= 1775
 	}
 
 	artisans=
@@ -701,7 +701,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 7024
+		size= 24882
 	}
 
 }
@@ -1567,7 +1567,7 @@
 	{
 		culture = thai
 		religion = theravada
-		size= 1033
+		size= 794
 	}
 
 	artisans=
@@ -1609,7 +1609,7 @@
 	{
 		culture = thai
 		religion = theravada
-		size= 11970
+		size= 12209
 	}
 
 	soldiers=
@@ -1674,7 +1674,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 7233
+		size= 1969
 	}
 
 	artisans=
@@ -1716,7 +1716,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 13401
+		size= 18665
 	}
 
 }

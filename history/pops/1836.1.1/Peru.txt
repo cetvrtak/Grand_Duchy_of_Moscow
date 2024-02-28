@@ -373,7 +373,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 877
+		size= 1887
 	}
 
 	artisans=
@@ -401,7 +401,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 1033
+		size= 23
 	}
 
 	bureaucrats=
@@ -487,7 +487,7 @@
 	{
 		culture = quechua
 		religion = catholic
-		size= 444
+		size= 1033
 	}
 
 	artisans=
@@ -529,7 +529,7 @@
 	{
 		culture = quechua
 		religion = catholic
-		size= 13672
+		size= 13083
 	}
 
 	soldiers=
@@ -932,7 +932,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 94
+		size= 1033
 	}
 
 	artisans=
@@ -974,7 +974,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 7600
+		size= 6661
 	}
 
 	slaves=
@@ -1188,7 +1188,7 @@
 	{
 		culture = maranon
 		religion = inti
-		size= 1033
+		size= 62
 	}
 
 	artisans=
@@ -1230,7 +1230,7 @@
 	{
 		culture = maranon
 		religion = inti
-		size= 1144
+		size= 2115
 	}
 
 	soldiers=
@@ -1945,7 +1945,7 @@
 	{
 		culture = quechua
 		religion = inti
-		size= 1033
+		size= 86
 	}
 
 	artisans=
@@ -1987,7 +1987,7 @@
 	{
 		culture = quechua
 		religion = inti
-		size= 6986
+		size= 7933
 	}
 
 	slaves=
@@ -2940,7 +2940,7 @@
 	{
 		culture = quechua
 		religion = catholic
-		size= 974
+		size= 1033
 	}
 
 	artisans=
@@ -2982,7 +2982,7 @@
 	{
 		culture = quechua
 		religion = catholic
-		size= 21505
+		size= 21446
 	}
 
 	slaves=
@@ -3201,7 +3201,7 @@
 	{
 		culture = aimara
 		religion = catholic
-		size= 1033
+		size= 394
 	}
 
 	artisans=
@@ -3243,7 +3243,7 @@
 	{
 		culture = aimara
 		religion = catholic
-		size= 5058
+		size= 5697
 	}
 
 	soldiers=
@@ -3609,7 +3609,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 125
+		size= 1033
 	}
 
 	artisans=
@@ -3651,7 +3651,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 5977
+		size= 5069
 	}
 
 	soldiers=
@@ -3786,14 +3786,14 @@
 	{
 		culture = ealimi
 		religion = sunni
-		size= 1033
+		size= 315
 	}
 
 	farmers=
 	{
 		culture = ealimi
 		religion = sunni
-		size= 4107
+		size= 4825
 	}
 
 	artisans=
@@ -3898,7 +3898,7 @@
 	{
 		culture = incacunapic
 		religion = protestant
-		size= 1033
+		size= 385
 	}
 
 	artisans=
@@ -3940,7 +3940,7 @@
 	{
 		culture = incacunapic
 		religion = protestant
-		size= 4317
+		size= 4965
 	}
 
 	slaves=

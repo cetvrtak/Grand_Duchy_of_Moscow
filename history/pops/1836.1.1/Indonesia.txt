@@ -173,7 +173,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 10333
+		size= 4723
 	}
 
 	artisans=
@@ -215,7 +215,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 45235
+		size= 50845
 	}
 
 }
@@ -638,7 +638,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 4133
+		size= 476
 	}
 
 	artisans=
@@ -680,7 +680,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 2531
+		size= 6188
 	}
 
 	farmers=
@@ -838,7 +838,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 4133
+		size= 1955
 	}
 
 	artisans=
@@ -880,7 +880,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 25078
+		size= 27256
 	}
 
 	soldiers=
@@ -980,7 +980,7 @@
 	{
 		culture = javan
 		religion = sunni
-		size= 1033
+		size= 884
 	}
 
 	artisans=
@@ -1022,7 +1022,7 @@
 	{
 		culture = javan
 		religion = sunni
-		size= 12479
+		size= 12628
 	}
 
 	soldiers=
@@ -1178,7 +1178,7 @@
 	{
 		culture = malay
 		religion = hindu
-		size= 4133
+		size= 1116
 	}
 
 	artisans=
@@ -1220,7 +1220,7 @@
 	{
 		culture = malay
 		religion = hindu
-		size= 11891
+		size= 14908
 	}
 
 	slaves=
@@ -1234,7 +1234,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 13433
+		size= 1979
 	}
 
 	artisans=
@@ -1276,7 +1276,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 8280
+		size= 19734
 	}
 
 	slaves=
@@ -1453,7 +1453,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 35133
+		size= 4855
 	}
 
 	artisans=
@@ -1495,7 +1495,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 26805
+		size= 57083
 	}
 
 }
@@ -1874,7 +1874,7 @@
 	{
 		culture = javan
 		religion = hindu
-		size= 41333
+		size= 10333
 	}
 
 	artisans=
@@ -1916,7 +1916,7 @@
 	{
 		culture = javan
 		religion = hindu
-		size= 118446
+		size= 149446
 	}
 
 }
@@ -2118,7 +2118,7 @@
 	{
 		culture = javan
 		religion = hindu
-		size= 7810
+		size= 10333
 	}
 
 	artisans=
@@ -2160,7 +2160,7 @@
 	{
 		culture = javan
 		religion = hindu
-		size= 220601
+		size= 218078
 	}
 
 	soldiers=
@@ -2981,7 +2981,7 @@
 	{
 		culture = bornean
 		religion = hindu
-		size= 4133
+		size= 309
 	}
 
 	artisans=
@@ -3009,7 +3009,7 @@
 	{
 		culture = bornean
 		religion = hindu
-		size= 5361
+		size= 9185
 	}
 
 	slaves=
@@ -3023,7 +3023,7 @@
 	{
 		culture = bornean
 		religion = sunni
-		size= 4133
+		size= 1033
 	}
 
 	artisans=
@@ -3065,7 +3065,7 @@
 	{
 		culture = bornean
 		religion = sunni
-		size= 5404
+		size= 8504
 	}
 
 	slaves=
@@ -3561,7 +3561,7 @@
 	{
 		culture = bornean
 		religion = hindu
-		size= 4133
+		size= 504
 	}
 
 	artisans=
@@ -3603,7 +3603,7 @@
 	{
 		culture = bornean
 		religion = hindu
-		size= 3104
+		size= 6733
 	}
 
 	slaves=
@@ -3845,7 +3845,7 @@
 	{
 		culture = moluccan
 		religion = hindu
-		size= 1033
+		size= 503
 	}
 
 	artisans=
@@ -3887,7 +3887,7 @@
 	{
 		culture = moluccan
 		religion = hindu
-		size= 2978
+		size= 3508
 	}
 
 }
@@ -4017,7 +4017,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 7233
+		size= 972
 	}
 
 	artisans=
@@ -4059,7 +4059,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 5129
+		size= 11390
 	}
 
 	slaves=
@@ -4073,7 +4073,7 @@
 	{
 		culture = moluccan
 		religion = hindu
-		size= 1033
+		size= 799
 	}
 
 	artisans=
@@ -4115,7 +4115,7 @@
 	{
 		culture = moluccan
 		religion = hindu
-		size= 6615
+		size= 6849
 	}
 
 }
@@ -4131,7 +4131,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 28933
+		size= 3687
 	}
 
 	artisans=
@@ -4173,7 +4173,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 24609
+		size= 49855
 	}
 
 }
@@ -4189,7 +4189,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 4133
+		size= 945
 	}
 
 	artisans=
@@ -4231,7 +4231,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 10214
+		size= 13402
 	}
 
 	slaves=
@@ -4303,7 +4303,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 16533
+		size= 1372
 	}
 
 	artisans=
@@ -4345,7 +4345,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 3581
+		size= 18742
 	}
 
 }
@@ -4354,7 +4354,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 4133
+		size= 393
 	}
 
 	artisans=
@@ -4396,7 +4396,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 2319
+		size= 6059
 	}
 
 	soldiers=

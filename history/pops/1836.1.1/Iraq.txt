@@ -322,7 +322,7 @@
 	{
 		culture = assyrian
 		religion = sunni
-		size= 1033
+		size= 229
 	}
 
 	artisans=
@@ -364,7 +364,7 @@
 	{
 		culture = assyrian
 		religion = sunni
-		size= 6807
+		size= 7611
 	}
 
 	soldiers=
@@ -420,7 +420,7 @@
 	{
 		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
 		religion = orthodox
-		size= 1033
+		size= 289
 	}
 
 	artisans=
@@ -462,14 +462,14 @@
 	{
 		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
 		religion = orthodox
-		size= 6579
+		size= 7323
 	}
 
 	soldiers=
 	{
 		culture = kurdish
 		religion = sunni
-		size= 1033
+		size= 241
 	}
 
 	artisans=
@@ -511,7 +511,7 @@
 	{
 		culture = kurdish
 		religion = sunni
-		size= 6990
+		size= 7782
 	}
 
 	soldiers=
@@ -839,7 +839,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -881,7 +881,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 17334
+		size= 14234
 	}
 
 	soldiers=
@@ -1034,7 +1034,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 87
+		size= 1033
 	}
 
 	artisans=
@@ -1076,7 +1076,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 1454
+		size= 508
 	}
 
 }

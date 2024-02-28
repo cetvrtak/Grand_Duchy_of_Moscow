@@ -3,7 +3,7 @@
 	{
 		culture = galician
 		religion = catholic
-		size= 13433
+		size= 6724
 	}
 
 	artisans=
@@ -45,7 +45,7 @@
 	{
 		culture = galician
 		religion = catholic
-		size= 92597
+		size= 99306
 	}
 
 	soldiers=
@@ -154,7 +154,7 @@
 	{
 		culture = galician
 		religion = catholic
-		size= 10333
+		size= 4924
 	}
 
 	artisans=
@@ -196,7 +196,7 @@
 	{
 		culture = galician
 		religion = catholic
-		size= 62527
+		size= 67936
 	}
 
 }
@@ -205,7 +205,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 7233
+		size= 3741
 	}
 
 	artisans=
@@ -247,7 +247,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 46721
+		size= 50213
 	}
 
 	soldiers=
@@ -305,7 +305,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 19633
+		size= 4133
 	}
 
 	artisans=
@@ -347,7 +347,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 24807
+		size= 40307
 	}
 
 	soldiers=
@@ -398,7 +398,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 13433
+		size= 3500
 	}
 
 	artisans=
@@ -440,7 +440,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 42672
+		size= 52605
 	}
 
 	soldiers=
@@ -491,7 +491,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 7233
+		size= 2910
 	}
 
 	artisans=
@@ -533,7 +533,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 36341
+		size= 40664
 	}
 
 }
@@ -591,7 +591,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 1033
+		size= 784
 	}
 
 	artisans=
@@ -633,7 +633,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 31941
+		size= 32190
 	}
 
 }
@@ -642,7 +642,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 4133
+		size= 3187
 	}
 
 	artisans=
@@ -684,7 +684,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 43223
+		size= 44169
 	}
 
 }
@@ -693,7 +693,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 10333
+		size= 3352
 	}
 
 	artisans=
@@ -735,7 +735,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 40180
+		size= 47161
 	}
 
 	soldiers=
@@ -1228,7 +1228,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -1270,7 +1270,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 23557
+		size= 20457
 	}
 
 }
@@ -1328,7 +1328,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 7233
+		size= 2608
 	}
 
 	artisans=
@@ -1370,7 +1370,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 27792
+		size= 32417
 	}
 
 }
@@ -1777,7 +1777,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 1033
+		size= 706
 	}
 
 	artisans=
@@ -1819,7 +1819,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 31487
+		size= 31814
 	}
 
 }
@@ -2377,7 +2377,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 1033
+		size= 667
 	}
 
 	artisans=
@@ -2419,7 +2419,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 29709
+		size= 30075
 	}
 
 }
@@ -2477,7 +2477,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 425
+		size= 4133
 	}
 
 	artisans=
@@ -2519,7 +2519,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 17689
+		size= 13981
 	}
 
 }
@@ -2626,7 +2626,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 722
+		size= 1033
 	}
 
 	artisans=
@@ -2668,7 +2668,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 32023
+		size= 31712
 	}
 
 	soldiers=
@@ -2819,7 +2819,7 @@
 	{
 		culture = andalucian
 		religion = sunni
-		size= 28933
+		size= 840
 	}
 
 	artisans=
@@ -2861,14 +2861,14 @@
 	{
 		culture = andalucian
 		religion = sunni
-		size= 11686
+		size= 39779
 	}
 
 	soldiers=
 	{
 		culture = spanish
 		religion = catholic
-		size= 35133
+		size= 7233
 	}
 
 	artisans=
@@ -2910,7 +2910,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 12381
+		size= 40281
 	}
 
 	soldiers=
@@ -3117,7 +3117,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 4133
+		size= 1100
 	}
 
 	artisans=
@@ -3159,7 +3159,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 42527
+		size= 45560
 	}
 
 }
@@ -3217,7 +3217,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -3259,7 +3259,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 25104
+		size= 22004
 	}
 
 }
@@ -3417,7 +3417,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -3459,7 +3459,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 25275
+		size= 22175
 	}
 
 }
@@ -3617,7 +3617,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 1033
+		size= 936
 	}
 
 	artisans=
@@ -3659,7 +3659,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 38899
+		size= 38996
 	}
 
 }
@@ -3868,7 +3868,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 4133
+		size= 3234
 	}
 
 	artisans=
@@ -3910,7 +3910,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 49080
+		size= 49979
 	}
 
 }
@@ -4068,7 +4068,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 674
+		size= 4133
 	}
 
 	artisans=
@@ -4110,7 +4110,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 30444
+		size= 26985
 	}
 
 }
@@ -4168,7 +4168,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -4210,7 +4210,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 32609
+		size= 29509
 	}
 
 }
@@ -4219,7 +4219,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 13433
+		size= 5116
 	}
 
 	artisans=
@@ -4261,7 +4261,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 32725
+		size= 41042
 	}
 
 }

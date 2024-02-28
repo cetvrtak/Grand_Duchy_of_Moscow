@@ -2701,7 +2701,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 4133
+		size= 2522
 	}
 
 	artisans=
@@ -2743,7 +2743,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 33434
+		size= 35045
 	}
 
 }
@@ -3252,7 +3252,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 1033
+		size= 86
 	}
 
 	artisans=
@@ -3294,7 +3294,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 256
+		size= 1203
 	}
 
 	soldiers=
@@ -3438,7 +3438,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 4133
+		size= 1033
 	}
 
 	artisans=
@@ -3480,7 +3480,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 3339
+		size= 6439
 	}
 
 }
@@ -3489,7 +3489,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 10333
+		size= 1033
 	}
 
 	artisans=
@@ -3531,7 +3531,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 3865
+		size= 13165
 	}
 
 }
@@ -3540,7 +3540,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 13433
+		size= 1021
 	}
 
 	artisans=
@@ -3582,7 +3582,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 2828
+		size= 15240
 	}
 
 }
@@ -3591,21 +3591,21 @@
 	{
 		culture = eastern_algonquian
 		religion = totemism
-		size= 4133
+		size= 1033
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
 		religion = totemism
-		size= 2370
+		size= 5470
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
 		religion = totemism
-		size= 1369
+		size= 2345
 	}
 
 	farmers=
@@ -3647,7 +3647,7 @@
 	{
 		culture = central_algonquian
 		religion = totemism
-		size= 1033
+		size= 57
 	}
 
 	clergymen=
@@ -3698,14 +3698,14 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 4133
+		size= 3489
 	}
 
 	farmers=
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 54286
+		size= 54930
 	}
 
 	soldiers=
@@ -4545,7 +4545,7 @@
 	{
 		culture = eastern_algonquian
 		religion = catholic
-		size= 1033
+		size= 199
 	}
 
 	artisans=
@@ -4587,21 +4587,21 @@
 	{
 		culture = eastern_algonquian
 		religion = catholic
-		size= 1851
+		size= 2685
 	}
 
 	soldiers=
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 1033
+		size= 282
 	}
 
 	farmers=
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 3389
+		size= 4140
 	}
 
 	farmers=
@@ -4650,7 +4650,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 1033
+		size= 366
 	}
 
 	artisans=
@@ -4692,7 +4692,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 4383
+		size= 5050
 	}
 
 	artisans=
@@ -4862,7 +4862,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 1033
+		size= 50
 	}
 
 	artisans=
@@ -4904,7 +4904,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 1291
+		size= 2274
 	}
 
 }
@@ -4990,7 +4990,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 1033
+		size= 418
 	}
 
 	artisans=
@@ -5032,7 +5032,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 18328
+		size= 18943
 	}
 
 	farmers=
@@ -5211,7 +5211,7 @@
 	{
 		culture = vinlander
 		religion = protestant
-		size= 1033
+		size= 252
 	}
 
 	artisans=
@@ -5246,7 +5246,7 @@
 	{
 		culture = vinlander
 		religion = protestant
-		size= 2375
+		size= 3156
 	}
 
 	bureaucrats=
@@ -5297,7 +5297,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 14994
+		size= 15674
 	}
 
 	slaves=
@@ -5346,7 +5346,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 1033
+		size= 353
 	}
 
 }
@@ -5432,7 +5432,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 1033
+		size= 490
 	}
 
 	artisans=
@@ -5474,7 +5474,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 7111
+		size= 7654
 	}
 
 	farmers=
@@ -5637,7 +5637,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 1033
+		size= 246
 	}
 
 	artisans=
@@ -5679,7 +5679,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 2531
+		size= 3318
 	}
 
 }
@@ -5835,7 +5835,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 1033
+		size= 226
 	}
 
 	artisans=
@@ -5877,7 +5877,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 8302
+		size= 9109
 	}
 
 }
@@ -6033,7 +6033,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 1033
+		size= 183
 	}
 
 	artisans=
@@ -6075,7 +6075,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 1665
+		size= 2515
 	}
 
 }

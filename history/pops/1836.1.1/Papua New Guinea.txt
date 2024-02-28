@@ -54,7 +54,7 @@
 	{
 		culture = melanesian
 		religion = animist
-		size= 28933
+		size= 1033
 	}
 
 	artisans=
@@ -96,7 +96,7 @@
 	{
 		culture = melanesian
 		religion = animist
-		size= 4615
+		size= 32515
 	}
 
 	soldiers=
@@ -152,7 +152,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 1033
+		size= 164
 	}
 
 	artisans=
@@ -194,7 +194,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 5483
+		size= 6352
 	}
 
 }

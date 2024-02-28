@@ -527,11 +527,11 @@ navy = {
 	name="Balaeric Sea Squadron"
 	location=2924
 	ship = {
-		name="1st Cape Verde Frigate"
+		name="1st Faro Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Aracaju Frigate"
+		name="1st Cape Verde Frigate"
 		type=frigate
 	}
 }

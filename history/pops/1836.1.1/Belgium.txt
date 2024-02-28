@@ -452,7 +452,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 4133
+		size= 3922
 	}
 
 	artisans=
@@ -494,7 +494,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 55180
+		size= 55391
 	}
 
 	soldiers=
@@ -552,7 +552,7 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 7233
+		size= 5393
 	}
 
 	artisans=
@@ -594,7 +594,7 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 46602
+		size= 48442
 	}
 
 	soldiers=
@@ -852,7 +852,7 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 466
+		size= 1033
 	}
 
 	artisans=
@@ -894,7 +894,7 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 14859
+		size= 14292
 	}
 
 	soldiers=

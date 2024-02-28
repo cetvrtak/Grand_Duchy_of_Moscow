@@ -66,7 +66,7 @@
 	{
 		culture = mongol
 		religion = nestorian
-		size= 13433
+		size= 4133
 	}
 
 	artisans=
@@ -108,7 +108,7 @@
 	{
 		culture = mongol
 		religion = nestorian
-		size= 47863
+		size= 57163
 	}
 
 }
@@ -408,7 +408,7 @@
 	{
 		culture = mongol
 		religion = nestorian
-		size= 4133
+		size= 2132
 	}
 
 	artisans=
@@ -450,7 +450,7 @@
 	{
 		culture = mongol
 		religion = nestorian
-		size= 24873
+		size= 26874
 	}
 
 }
@@ -466,7 +466,7 @@
 	{
 		culture = mongol
 		religion = mahayana
-		size= 1033
+		size= 83
 	}
 
 	artisans=
@@ -508,7 +508,7 @@
 	{
 		culture = mongol
 		religion = mahayana
-		size= 1514
+		size= 2464
 	}
 
 	slaves=
@@ -671,7 +671,7 @@
 	{
 		culture = mongol
 		religion = nestorian
-		size= 62
+		size= 1033
 	}
 
 	artisans=
@@ -713,7 +713,7 @@
 	{
 		culture = mongol
 		religion = nestorian
-		size= 5337
+		size= 4366
 	}
 
 }
@@ -822,7 +822,7 @@
 	{
 		culture = mongol
 		religion = mahayana
-		size= 1033
+		size= 184
 	}
 
 	artisans=
@@ -864,14 +864,14 @@
 	{
 		culture = mongol
 		religion = mahayana
-		size= 5195
+		size= 6044
 	}
 
 	soldiers=
 	{
 		culture = mongol
 		religion = nestorian
-		size= 7233
+		size= 1033
 	}
 
 	artisans=
@@ -913,7 +913,7 @@
 	{
 		culture = mongol
 		religion = nestorian
-		size= 3568
+		size= 9768
 	}
 
 }

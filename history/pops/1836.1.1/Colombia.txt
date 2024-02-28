@@ -313,7 +313,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 1033
+		size= 502
 	}
 
 	artisans=
@@ -355,7 +355,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 12860
+		size= 13391
 	}
 
 }
@@ -413,7 +413,7 @@
 	{
 		culture = chibchan
 		religion = protestant
-		size= 321
+		size= 1033
 	}
 
 	artisans=
@@ -455,7 +455,7 @@
 	{
 		culture = chibchan
 		religion = protestant
-		size= 9747
+		size= 9035
 	}
 
 }
@@ -809,7 +809,7 @@
 	{
 		culture = chibchan
 		religion = protestant
-		size= 1033
+		size= 310
 	}
 
 	artisans=
@@ -851,7 +851,7 @@
 	{
 		culture = chibchan
 		religion = protestant
-		size= 8594
+		size= 9317
 	}
 
 }
@@ -1335,7 +1335,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 21951
+		size= 18851
 	}
 
 	artisans=
@@ -1377,7 +1377,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 1033
+		size= 4133
 	}
 
 	slaves=
@@ -1957,7 +1957,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 78
+		size= 1033
 	}
 
 	artisans=
@@ -1999,7 +1999,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 2227
+		size= 1272
 	}
 
 }

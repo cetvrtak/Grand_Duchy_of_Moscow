@@ -521,29 +521,24 @@ army = {
 	name="Armata di Sirt"
 	location=755
 	regiment = {
-		name="1st Reggio di Calabria Infantry"
-		type=infantry
-		home=759
-	}
-	regiment = {
 		name="1st Messina Infantry"
 		type=infantry
 		home=763
 	}
 	regiment = {
-		name="1st Chania Infantry"
+		name="1st Potenza Infantry"
 		type=infantry
-		home=847
-	}
-	regiment = {
-		name="1st Tuggurt Infantry"
-		type=infantry
-		home=1712
+		home=761
 	}
 	regiment = {
 		name="1st Tripoli Infantry"
 		type=infantry
 		home=1731
+	}
+	regiment = {
+		name="1st Chania Infantry"
+		type=infantry
+		home=847
 	}
 	regiment = {
 		name="1st Catanzaro Infantry"
@@ -556,9 +551,19 @@ army = {
 		home=763
 	}
 	regiment = {
-		name="2nd Tripoli Infantry"
+		name="1st Catania Infantry"
 		type=infantry
-		home=1731
+		home=764
+	}
+	regiment = {
+		name="2nd Potenza Infantry"
+		type=infantry
+		home=761
+	}
+	regiment = {
+		name="1st Brindisi Artillery"
+		type=artillery
+		home=758
 	}
 	regiment = {
 		name="1st Tripoli Artillery"
@@ -566,14 +571,19 @@ army = {
 		home=1731
 	}
 	regiment = {
-		name="1st Misratah Artillery"
+		name="1st Palermo Artillery"
 		type=artillery
-		home=1733
+		home=762
 	}
 	regiment = {
-		name="1st Tozeur Artillery"
+		name="1st Reggio di Calabria Artillery"
 		type=artillery
-		home=1729
+		home=759
+	}
+	regiment = {
+		name="2nd Reggio di Calabria Artillery"
+		type=artillery
+		home=759
 	}
 	regiment = {
 		name="1st Iraklion Artillery"
@@ -581,24 +591,14 @@ army = {
 		home=848
 	}
 	regiment = {
-		name="1st Messina Artillery"
-		type=artillery
-		home=763
-	}
-	regiment = {
-		name="1st Catanzaro Artillery"
-		type=artillery
-		home=760
-	}
-	regiment = {
-		name="2nd Chania Infantry"
+		name="2nd Catania Infantry"
 		type=infantry
-		home=847
+		home=764
 	}
 	regiment = {
-		name="2nd Messina Artillery"
+		name="2nd Palermo Artillery"
 		type=artillery
-		home=763
+		home=762
 	}
 }
 
@@ -708,14 +708,14 @@ army = {
 	name="Armata di Salente"
 	location=755
 	regiment = {
-		name="1st Brindisi Infantry"
+		name="1st Palermo Infantry"
 		type=infantry
-		home=758
+		home=762
 	}
 	regiment = {
-		name="2nd Brindisi Infantry"
+		name="2nd Catanzaro Infantry"
 		type=infantry
-		home=758
+		home=760
 	}
 }
 

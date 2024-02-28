@@ -89,7 +89,7 @@
 	{
 		culture = estonian
 		religion = orthodox
-		size= 10333
+		size= 7233
 	}
 
 	artisans=
@@ -131,7 +131,7 @@
 	{
 		culture = estonian
 		religion = orthodox
-		size= 102728
+		size= 105828
 	}
 
 	soldiers=
@@ -447,7 +447,7 @@
 	{
 		culture = latvian
 		religion = orthodox
-		size= 1033
+		size= 408
 	}
 
 	artisans=
@@ -489,7 +489,7 @@
 	{
 		culture = latvian
 		religion = orthodox
-		size= 19493
+		size= 20118
 	}
 
 	clergymen=

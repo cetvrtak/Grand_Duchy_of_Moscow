@@ -570,14 +570,9 @@ army = {
 		home=1295
 	}
 	regiment = {
-		name="3rd Baroda Irregulars"
+		name="1st Patan Irregulars"
 		type=irregular
-		home=1295
-	}
-	regiment = {
-		name="1st Umerkot Artillery"
-		type=artillery
-		home=1290
+		home=1294
 	}
 	regiment = {
 		name="1st Udaipur Artillery"
@@ -585,9 +580,14 @@ army = {
 		home=1269
 	}
 	regiment = {
-		name="3rd Udaipur Artillery"
+		name="3rd Jodhpur Artillery"
 		type=artillery
-		home=1269
+		home=1266
+	}
+	regiment = {
+		name="1st Lahore Artillery"
+		type=artillery
+		home=1227
 	}
 }
 
@@ -595,9 +595,9 @@ army = {
 	name="26th Army"
 	location=29
 	regiment = {
-		name="1st Umerkot Irregulars"
+		name="2nd Patan Irregulars"
 		type=irregular
-		home=1290
+		home=1294
 	}
 	regiment = {
 		name="1st Karachi Irregulars"
@@ -610,99 +610,9 @@ army = {
 		home=1294
 	}
 	regiment = {
-		name="2nd Umerkot Artillery"
+		name="1st Ghazni Artillery"
 		type=artillery
-		home=1290
-	}
-	regiment = {
-		name="1st Karachi Artillery"
-		type=artillery
-		home=1288
-	}
-	regiment = {
-		name="2nd Patan Artillery"
-		type=artillery
-		home=1294
-	}
-	regiment = {
-		name="2nd Kabul Irregulars"
-		type=irregular
-		home=1209
-	}
-	regiment = {
-		name="2nd Udaipur Artillery"
-		type=artillery
-		home=1269
-	}
-}
-
-army = {
-	name="13th Army"
-	location=29
-	regiment = {
-		name="1st Patan Irregulars"
-		type=irregular
-		home=1294
-	}
-	regiment = {
-		name="1st Ajmer Irregulars"
-		type=irregular
-		home=1264
-	}
-	regiment = {
-		name="1st Kalat Irregulars"
-		type=irregular
-		home=1221
-	}
-}
-
-army = {
-	name="3rd Army"
-	location=1207
-	regiment = {
-		name="1st Udaipur Irregulars"
-		type=irregular
-		home=1269
-	}
-	regiment = {
-		name="2nd Karachi Irregulars"
-		type=irregular
-		home=1288
-	}
-	regiment = {
-		name="2nd Udaipur Irregulars"
-		type=irregular
-		home=1269
-	}
-	regiment = {
-		name="4th Baroda Irregulars"
-		type=irregular
-		home=1295
-	}
-	regiment = {
-		name="2nd Patan Irregulars"
-		type=irregular
-		home=1294
-	}
-	regiment = {
-		name="5th Baroda Irregulars"
-		type=irregular
-		home=1295
-	}
-	regiment = {
-		name="1st Ahmedabad Irregulars"
-		type=irregular
-		home=1291
-	}
-	regiment = {
-		name="1st Sukkur Artillery"
-		type=artillery
-		home=1289
-	}
-	regiment = {
-		name="3rd Patan Artillery"
-		type=artillery
-		home=1294
+		home=1217
 	}
 	regiment = {
 		name="1st Baroda Artillery"
@@ -710,24 +620,114 @@ army = {
 		home=1295
 	}
 	regiment = {
-		name="1st Lahore Artillery"
+		name="2nd Baroda Artillery"
 		type=artillery
-		home=1227
+		home=1295
 	}
 	regiment = {
-		name="1st Peshawar Artillery"
-		type=artillery
-		home=1218
+		name="7th Baroda Irregulars"
+		type=irregular
+		home=1295
 	}
 	regiment = {
-		name="3rd Sukkur Irregulars"
+		name="1st Bikaner Artillery"
+		type=artillery
+		home=1267
+	}
+}
+
+army = {
+	name="13th Army"
+	location=29
+	regiment = {
+		name="3rd Patan Irregulars"
+		type=irregular
+		home=1294
+	}
+	regiment = {
+		name="3rd Baroda Irregulars"
+		type=irregular
+		home=1295
+	}
+	regiment = {
+		name="8th Patan Irregulars"
+		type=irregular
+		home=1294
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1207
+	regiment = {
+		name="4th Patan Irregulars"
+		type=irregular
+		home=1294
+	}
+	regiment = {
+		name="4th Baroda Irregulars"
+		type=irregular
+		home=1295
+	}
+	regiment = {
+		name="1st Sukkur Irregulars"
 		type=irregular
 		home=1289
 	}
 	regiment = {
-		name="4th Baroda Artillery"
-		type=artillery
+		name="5th Baroda Irregulars"
+		type=irregular
 		home=1295
+	}
+	regiment = {
+		name="1st Lahore Irregulars"
+		type=irregular
+		home=1227
+	}
+	regiment = {
+		name="5th Patan Irregulars"
+		type=irregular
+		home=1294
+	}
+	regiment = {
+		name="2nd Lahore Irregulars"
+		type=irregular
+		home=1227
+	}
+	regiment = {
+		name="2nd Udaipur Artillery"
+		type=artillery
+		home=1269
+	}
+	regiment = {
+		name="1st Ahmedabad Artillery"
+		type=artillery
+		home=1291
+	}
+	regiment = {
+		name="1st Gizab Artillery"
+		type=artillery
+		home=2133
+	}
+	regiment = {
+		name="1st Indore Artillery"
+		type=artillery
+		home=1271
+	}
+	regiment = {
+		name="1st Shahpur Artillery"
+		type=artillery
+		home=1232
+	}
+	regiment = {
+		name="3rd Ahmedabad Irregulars"
+		type=irregular
+		home=1291
+	}
+	regiment = {
+		name="1st Multan Artillery"
+		type=artillery
+		home=1228
 	}
 }
 
@@ -739,7 +739,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="2nd Abadan Frigate"
+		name="6th Rajkot Frigate"
 		type=frigate
 	}
 }
@@ -748,11 +748,7 @@ navy = {
 	name="4th Fleet"
 	location=2789
 	ship = {
-		name="1st Bombay Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Gujarati Frigate"
+		name="1st Chittagong Frigate"
 		type=frigate
 	}
 	ship = {
@@ -763,30 +759,34 @@ navy = {
 		name="3rd Rajkot Frigate"
 		type=frigate
 	}
+	ship = {
+		name="4th Rajkot Frigate"
+		type=frigate
+	}
 }
 
 army = {
 	name="1st Army"
 	location=2702
 	regiment = {
+		name="1st Ahmedabad Irregulars"
+		type=irregular
+		home=1291
+	}
+	regiment = {
+		name="1st Jalalabad Irregulars"
+		type=irregular
+		home=1216
+	}
+	regiment = {
+		name="6th Patan Irregulars"
+		type=irregular
+		home=1294
+	}
+	regiment = {
 		name="1st Ghazni Irregulars"
 		type=irregular
 		home=1217
-	}
-	regiment = {
-		name="3rd Udaipur Irregulars"
-		type=irregular
-		home=1269
-	}
-	regiment = {
-		name="1st Surat Irregulars"
-		type=irregular
-		home=1296
-	}
-	regiment = {
-		name="3rd Surat Irregulars"
-		type=irregular
-		home=1296
 	}
 }
 
@@ -794,9 +794,14 @@ army = {
 	name="47th Army"
 	location=29
 	regiment = {
-		name="1st Kandahar Irregulars"
+		name="3rd Lahore Irregulars"
 		type=irregular
-		home=1215
+		home=1227
+	}
+	regiment = {
+		name="1st Kabul Irregulars"
+		type=irregular
+		home=1209
 	}
 	regiment = {
 		name="1st Shahpur Irregulars"
@@ -804,19 +809,14 @@ army = {
 		home=1232
 	}
 	regiment = {
-		name="2nd Shahpur Irregulars"
-		type=irregular
-		home=1232
+		name="3rd Baroda Artillery"
+		type=artillery
+		home=1295
 	}
 	regiment = {
-		name="1st Kalat Artillery"
+		name="1st Samarkand Artillery"
 		type=artillery
-		home=1221
-	}
-	regiment = {
-		name="1st Bukhara Artillery"
-		type=artillery
-		home=1198
+		home=1199
 	}
 }
 
@@ -824,19 +824,19 @@ army = {
 	name="6th Army"
 	location=1207
 	regiment = {
-		name="3rd Patan Irregulars"
+		name="2nd Ahmedabad Irregulars"
 		type=irregular
-		home=1294
+		home=1291
 	}
 	regiment = {
-		name="1st Sukkur Irregulars"
+		name="1st Udaipur Irregulars"
 		type=irregular
-		home=1289
+		home=1269
 	}
 	regiment = {
-		name="4th Sukkur Irregulars"
+		name="3rd Kabul Irregulars"
 		type=irregular
-		home=1289
+		home=1209
 	}
 }
 
@@ -844,14 +844,14 @@ army = {
 	name="10th Army"
 	location=1212
 	regiment = {
-		name="2nd Baroda Artillery"
+		name="1st Sukkur Artillery"
 		type=artillery
-		home=1295
+		home=1289
 	}
 	regiment = {
-		name="2nd Bukhara Artillery"
+		name="1st Surat Artillery"
 		type=artillery
-		home=1198
+		home=1296
 	}
 }
 
@@ -859,24 +859,24 @@ army = {
 	name="14th Army"
 	location=1189
 	regiment = {
-		name="2nd Umerkot Irregulars"
+		name="2nd Kabul Irregulars"
 		type=irregular
-		home=1290
+		home=1209
 	}
 	regiment = {
-		name="1st Ahmedabad Artillery"
-		type=artillery
-		home=1291
-	}
-	regiment = {
-		name="2nd Surat Irregulars"
-		type=irregular
-		home=1296
-	}
-	regiment = {
-		name="2nd Jodhpur Artillery"
+		name="1st Jodhpur Artillery"
 		type=artillery
 		home=1266
+	}
+	regiment = {
+		name="2nd Shahpur Irregulars"
+		type=irregular
+		home=1232
+	}
+	regiment = {
+		name="1st Kandahar Artillery"
+		type=artillery
+		home=1215
 	}
 }
 
@@ -884,7 +884,15 @@ navy = {
 	name="1st Fleet"
 	location=1288
 	ship = {
+		name="1st Bela Man'o'war"
+		type=manowar
+	}
+	ship = {
 		name="1st Rajkot Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Gwadar Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -896,15 +904,11 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="4th Rajkot Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Bela Man'o'war"
-		type=manowar
-	}
-	ship = {
 		name="1st Mandvi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Rajkot Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -916,11 +920,11 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="6th Rajkot Man'o'war"
+		name="2nd Bela Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="2nd Bela Man'o'war"
+		name="1st Sur Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -928,35 +932,35 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="7th Rajkot Man'o'war"
+		name="4th Bela Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="8th Rajkot Man'o'war"
+		name="1st Tanjore Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="9th Rajkot Man'o'war"
+		name="5th Bela Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="10th Rajkot Man'o'war"
-		type=manowar
+		name="1st Bushire Frigate"
+		type=frigate
 	}
 	ship = {
 		name="1st Dubai Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Dubai Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Bela Clipper Transport"
+		name="1st Karachi Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Bela Clipper Transport"
+		name="1st Surat Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Karachi Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -964,15 +968,23 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Mandvi Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Karachi Clipper Transport"
+		name="2nd Surat Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
 		name="2nd Rajkot Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Gwadar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Qatif Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mandvi Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -984,35 +996,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Gwadar Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Surat Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="5th Rajkot Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Bombay Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Duqm Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Karachi Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Duqm Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Qatif Clipper Transport"
+		name="1st Bela Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -1020,15 +1004,31 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Sur Clipper Transport"
+		name="5th Rajkot Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Abu Dhabi Frigate"
+		name="6th Rajkot Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Mandvi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kolhapur Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Rajkot Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bushire Frigate"
 		type=frigate
 	}
 	ship = {
-		name="6th Rajkot Clipper Transport"
+		name="1st Duqm Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -1037,19 +1037,19 @@ navy = {
 	name="5th Fleet"
 	location=2782
 	ship = {
-		name="1st Abadan Frigate"
-		type=frigate
-	}
-	ship = {
-		name="4th Rajkot Frigate"
-		type=frigate
-	}
-	ship = {
 		name="1st Abu Dhabi Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Surat Frigate"
+		name="1st Bela Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Rajkot Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Abu Dhabi Frigate"
 		type=frigate
 	}
 }
@@ -1058,84 +1058,84 @@ army = {
 	name="11th Army"
 	location=1058
 	regiment = {
-		name="2nd Sukkur Irregulars"
+		name="1st Kandahar Irregulars"
 		type=irregular
-		home=1289
+		home=1215
 	}
 	regiment = {
-		name="1st Lahore Irregulars"
+		name="2nd Udaipur Irregulars"
 		type=irregular
-		home=1227
+		home=1269
 	}
 	regiment = {
-		name="1st Quetta Artillery"
+		name="1st Bukhara Artillery"
 		type=artillery
-		home=1219
+		home=1198
 	}
 	regiment = {
-		name="3rd Umerkot Irregulars"
+		name="1st Multan Irregulars"
 		type=irregular
-		home=1290
+		home=1228
 	}
 	regiment = {
-		name="1st Jodhpur Artillery"
+		name="4th Baroda Artillery"
 		type=artillery
-		home=1266
+		home=1295
 	}
 }
 
 army = {
 	name="15th Army"
-	location=1203
+	location=1202
 	regiment = {
-		name="1st Dalbandin Irregulars"
+		name="1st Surat Irregulars"
 		type=irregular
-		home=1220
+		home=1296
 	}
 	regiment = {
-		name="4th Patan Irregulars"
+		name="1st Bamyan Irregulars"
+		type=irregular
+		home=1213
+	}
+	regiment = {
+		name="7th Patan Irregulars"
 		type=irregular
 		home=1294
 	}
 	regiment = {
-		name="2nd Lahore Irregulars"
+		name="4th Lahore Irregulars"
 		type=irregular
 		home=1227
 	}
 	regiment = {
-		name="1st Kabul Irregulars"
-		type=irregular
-		home=1209
+		name="2nd Indore Artillery"
+		type=artillery
+		home=1271
 	}
 	regiment = {
-		name="3rd Baroda Artillery"
+		name="1st Bela Artillery"
 		type=artillery
+		home=1222
+	}
+	regiment = {
+		name="2nd Jodhpur Artillery"
+		type=artillery
+		home=1266
+	}
+	regiment = {
+		name="2nd Bukhara Artillery"
+		type=artillery
+		home=1198
+	}
+	regiment = {
+		name="6th Baroda Irregulars"
+		type=irregular
 		home=1295
 	}
 	regiment = {
-		name="2nd Sukkur Artillery"
-		type=artillery
-		home=1289
-	}
-	regiment = {
-		name="2nd Karachi Artillery"
+		name="1st Karachi Artillery"
 		type=artillery
 		home=1288
-	}
-	regiment = {
-		name="2nd Ahmedabad Artillery"
-		type=artillery
-		home=1291
-	}
-	regiment = {
-		name="3rd Lahore Irregulars"
-		type=irregular
-		home=1227
-	}
-	regiment = {
-		name="4th Patan Artillery"
-		type=artillery
-		home=1294
 	}
 }
 

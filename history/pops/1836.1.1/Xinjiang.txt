@@ -212,7 +212,7 @@
 	{
 		culture = uighur
 		religion = gelugpa
-		size= 10333
+		size= 3450
 	}
 
 	artisans=
@@ -254,7 +254,7 @@
 	{
 		culture = uighur
 		religion = gelugpa
-		size= 22090
+		size= 28973
 	}
 
 	soldiers=
@@ -312,7 +312,7 @@
 	{
 		culture = uighur
 		religion = gelugpa
-		size= 1033
+		size= 916
 	}
 
 	artisans=
@@ -354,7 +354,7 @@
 	{
 		culture = uighur
 		religion = gelugpa
-		size= 14095
+		size= 14212
 	}
 
 	soldiers=
@@ -689,7 +689,7 @@
 	{
 		culture = uighur
 		religion = gelugpa
-		size= 4133
+		size= 432
 	}
 
 	artisans=
@@ -731,7 +731,7 @@
 	{
 		culture = uighur
 		religion = gelugpa
-		size= 3057
+		size= 6758
 	}
 
 }

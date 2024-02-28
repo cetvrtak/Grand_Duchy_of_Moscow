@@ -7237,7 +7237,7 @@
 	{
 		culture = manchu
 		religion = tengri_pagan_reformed
-		size= 22733
+		size= 2198
 	}
 
 	artisans=
@@ -7279,7 +7279,7 @@
 	{
 		culture = manchu
 		religion = tengri_pagan_reformed
-		size= 10757
+		size= 31292
 	}
 
 	slaves=
@@ -7579,7 +7579,7 @@
 	{
 		culture = beifaren
 		religion = gelugpa
-		size= 4133
+		size= 1932
 	}
 
 	artisans=
@@ -7621,7 +7621,7 @@
 	{
 		culture = beifaren
 		religion = gelugpa
-		size= 15287
+		size= 17488
 	}
 
 	slaves=
@@ -7798,7 +7798,7 @@
 	{
 		culture = beifaren
 		religion = gelugpa
-		size= 16533
+		size= 1554
 	}
 
 	artisans=
@@ -7840,7 +7840,7 @@
 	{
 		culture = beifaren
 		religion = gelugpa
-		size= 8791
+		size= 23770
 	}
 
 	soldiers=
@@ -7896,7 +7896,7 @@
 	{
 		culture = dynamic-chihan-culture-num1
 		religion = gelugpa
-		size= 4133
+		size= 1213
 	}
 
 	artisans=
@@ -7938,7 +7938,7 @@
 	{
 		culture = dynamic-chihan-culture-num1
 		religion = gelugpa
-		size= 16804
+		size= 19724
 	}
 
 	soldiers=

@@ -259,7 +259,7 @@
 	{
 		culture = surinamian
 		religion = protestant
-		size= 2336
+		size= 3060
 	}
 
 	slaves=
@@ -301,7 +301,7 @@
 	{
 		culture = surinamian
 		religion = protestant
-		size= 1033
+		size= 309
 	}
 
 	officers=
@@ -736,7 +736,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 1033
+		size= 857
 	}
 
 	artisans=
@@ -778,7 +778,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 4669
+		size= 4845
 	}
 
 	slaves=
@@ -1048,7 +1048,7 @@
 	{
 		culture = north_andean
 		religion = catholic
-		size= 3056
+		size= 3672
 	}
 
 	slaves=
@@ -1069,7 +1069,7 @@
 	{
 		culture = north_andean
 		religion = catholic
-		size= 1033
+		size= 417
 	}
 
 	clergymen=
@@ -1239,7 +1239,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 1033
+		size= 282
 	}
 
 	artisans=
@@ -1281,7 +1281,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 7629
+		size= 8380
 	}
 
 }
@@ -1777,14 +1777,14 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 7697
+		size= 8328
 	}
 
 	soldiers=
 	{
 		culture = yankee
 		religion = protestant
-		size= 1033
+		size= 402
 	}
 
 	artisans=

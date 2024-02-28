@@ -261,7 +261,7 @@
 	{
 		culture = berber
 		religion = catholic
-		size= 896
+		size= 1033
 	}
 
 	artisans=
@@ -303,7 +303,7 @@
 	{
 		culture = berber
 		religion = catholic
-		size= 40935
+		size= 40798
 	}
 
 }
@@ -312,7 +312,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 386
+		size= 1033
 	}
 
 	artisans=
@@ -347,7 +347,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 21954
+		size= 21307
 	}
 
 	aristocrats=
@@ -405,7 +405,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 10333
+		size= 4133
 	}
 
 	artisans=
@@ -447,7 +447,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 47450
+		size= 53650
 	}
 
 	slaves=
@@ -626,7 +626,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 339
+		size= 1033
 	}
 
 	artisans=
@@ -668,7 +668,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 15646
+		size= 14952
 	}
 
 	soldiers=
@@ -819,7 +819,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 4133
+		size= 836
 	}
 
 	artisans=
@@ -861,7 +861,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 9926
+		size= 13223
 	}
 
 }
@@ -1005,7 +1005,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 4133
+		size= 332
 	}
 
 	artisans=
@@ -1047,7 +1047,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 1544
+		size= 5345
 	}
 
 	soldiers=
@@ -1203,7 +1203,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 1033
+		size= 121
 	}
 
 	artisans=
@@ -1245,7 +1245,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 991
+		size= 1903
 	}
 
 }
