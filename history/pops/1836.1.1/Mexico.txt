@@ -10,7 +10,7 @@
 	{
 		culture = sonoran
 		religion = totemism
-		size= 11097
+		size= 11103
 	}
 
 	farmers=
@@ -66,7 +66,7 @@
 	{
 		culture = sonoran
 		religion = totemism
-		size= 24
+		size= 18
 	}
 
 	officers=
@@ -101,7 +101,7 @@
 	{
 		culture = sonoran
 		religion = protestant
-		size= 11
+		size= 9
 	}
 
 	officers=
@@ -122,7 +122,7 @@
 	{
 		culture = sonoran
 		religion = protestant
-		size= 4056
+		size= 4058
 	}
 
 }
@@ -152,7 +152,7 @@
 	{
 		culture = nouvellien
 		religion = catholic
-		size= 688
+		size= 689
 	}
 
 	artisans=
@@ -180,7 +180,7 @@
 	{
 		culture = nouvellien
 		religion = catholic
-		size= 3
+		size= 2
 	}
 
 	officers=
@@ -280,7 +280,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 3
+		size= 2
 	}
 
 	officers=
@@ -301,7 +301,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 722
+		size= 723
 	}
 
 	soldiers=
@@ -315,7 +315,7 @@
 	{
 		culture = sonoran
 		religion = totemism
-		size= 2281
+		size= 2283
 	}
 
 	artisans=
@@ -336,7 +336,7 @@
 	{
 		culture = sonoran
 		religion = totemism
-		size= 7
+		size= 5
 	}
 
 	officers=
@@ -366,7 +366,7 @@
 	{
 		culture = sonoran
 		religion = totemism
-		size= 1853
+		size= 1855
 	}
 
 	farmers=
@@ -401,7 +401,7 @@
 	{
 		culture = sonoran
 		religion = totemism
-		size= 4
+		size= 2
 	}
 
 	officers=
@@ -443,7 +443,7 @@
 	{
 		culture = sonoran
 		religion = protestant
-		size= 2
+		size= 1
 	}
 
 	officers=
@@ -464,7 +464,7 @@
 	{
 		culture = sonoran
 		religion = protestant
-		size= 631
+		size= 632
 	}
 
 }
@@ -473,14 +473,14 @@
 	{
 		culture = sonoran
 		religion = totemism
-		size= 1033
+		size= 255
 	}
 
 	farmers=
 	{
 		culture = sonoran
 		religion = totemism
-		size= 10564
+		size= 11348
 	}
 
 	artisans=
@@ -508,7 +508,7 @@
 	{
 		culture = sonoran
 		religion = totemism
-		size= 30
+		size= 24
 	}
 
 	officers=
@@ -545,7 +545,7 @@
 	{
 		culture = sonoran
 		religion = totemism
-		size= 47
+		size= 36
 	}
 
 	officers=
@@ -750,7 +750,7 @@
 	{
 		culture = na_dene
 		religion = totemism
-		size= 7
+		size= 5
 	}
 
 	officers=
@@ -771,7 +771,7 @@
 	{
 		culture = na_dene
 		religion = totemism
-		size= 3041
+		size= 3043
 	}
 
 }
@@ -801,7 +801,7 @@
 	{
 		culture = sonoran
 		religion = totemism
-		size= 5
+		size= 4
 	}
 
 	officers=
@@ -822,7 +822,7 @@
 	{
 		culture = sonoran
 		religion = totemism
-		size= 2245
+		size= 2246
 	}
 
 }
@@ -852,7 +852,7 @@
 	{
 		culture = sonoran
 		religion = totemism
-		size= 8
+		size= 6
 	}
 
 	officers=
@@ -873,7 +873,7 @@
 	{
 		culture = sonoran
 		religion = totemism
-		size= 3492
+		size= 3494
 	}
 
 }
@@ -952,7 +952,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -973,7 +973,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 369
+		size= 370
 	}
 
 	soldiers=
@@ -1111,13 +1111,6 @@
 		size= 4
 	}
 
-	bureaucrats=
-	{
-		culture = na_dene
-		religion = totemism
-		size= 2
-	}
-
 	officers=
 	{
 		culture = na_dene
@@ -1136,7 +1129,14 @@
 	{
 		culture = na_dene
 		religion = totemism
-		size= 447
+		size= 448
+	}
+
+	bureaucrats=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1
 	}
 
 	soldiers=
@@ -1160,13 +1160,6 @@
 		size= 7
 	}
 
-	bureaucrats=
-	{
-		culture = pueblo
-		religion = totemism
-		size= 3
-	}
-
 	aristocrats=
 	{
 		culture = pueblo
@@ -1178,7 +1171,14 @@
 	{
 		culture = pueblo
 		religion = totemism
-		size= 1005
+		size= 1006
+	}
+
+	bureaucrats=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 2
 	}
 
 	officers=
@@ -1208,7 +1208,7 @@
 	{
 		culture = texan
 		religion = protestant
-		size= 7411
+		size= 7416
 	}
 
 	artisans=
@@ -1243,7 +1243,7 @@
 	{
 		culture = texan
 		religion = protestant
-		size= 21
+		size= 16
 	}
 
 	officers=
@@ -1364,7 +1364,7 @@
 	{
 		culture = texan
 		religion = protestant
-		size= 26
+		size= 17
 	}
 
 	officers=
@@ -1385,7 +1385,7 @@
 	{
 		culture = texan
 		religion = protestant
-		size= 12749
+		size= 12758
 	}
 
 	soldiers=
@@ -1483,7 +1483,7 @@
 	{
 		culture = native_american_minor
 		religion = protestant
-		size= 16
+		size= 11
 	}
 
 	officers=
@@ -1504,7 +1504,7 @@
 	{
 		culture = native_american_minor
 		religion = protestant
-		size= 8079
+		size= 8084
 	}
 
 }
@@ -1618,14 +1618,14 @@
 	{
 		culture = texan
 		religion = protestant
-		size= 4384
+		size= 4387
 	}
 
 	bureaucrats=
 	{
 		culture = texan
 		religion = protestant
-		size= 8
+		size= 5
 	}
 
 	soldiers=
@@ -1702,7 +1702,7 @@
 	{
 		culture = native_american_minor
 		religion = protestant
-		size= 6
+		size= 4
 	}
 
 	officers=
@@ -1723,7 +1723,7 @@
 	{
 		culture = native_american_minor
 		religion = protestant
-		size= 2779
+		size= 2781
 	}
 
 }
@@ -1823,7 +1823,7 @@
 	{
 		culture = native_american_minor
 		religion = protestant
-		size= 16
+		size= 10
 	}
 
 	officers=
@@ -1844,7 +1844,7 @@
 	{
 		culture = native_american_minor
 		religion = protestant
-		size= 7962
+		size= 7968
 	}
 
 }
@@ -2000,7 +2000,7 @@
 	{
 		culture = native_american_minor
 		religion = protestant
-		size= 13
+		size= 10
 	}
 
 	officers=
@@ -2021,7 +2021,7 @@
 	{
 		culture = native_american_minor
 		religion = protestant
-		size= 3579
+		size= 3582
 	}
 
 	clergymen=
@@ -2084,7 +2084,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 15
+		size= 11
 	}
 
 	officers=
@@ -2105,7 +2105,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 4339
+		size= 4343
 	}
 
 }
@@ -2240,7 +2240,7 @@
 	{
 		culture = native_american_minor
 		religion = protestant
-		size= 224
+		size= 1033
 	}
 
 	artisans=
@@ -2261,7 +2261,7 @@
 	{
 		culture = native_american_minor
 		religion = protestant
-		size= 9
+		size= 7
 	}
 
 	officers=
@@ -2282,7 +2282,7 @@
 	{
 		culture = native_american_minor
 		religion = protestant
-		size= 3004
+		size= 2197
 	}
 
 	artisans=
@@ -2331,7 +2331,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 10
+		size= 8
 	}
 
 	officers=
@@ -2352,7 +2352,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 2728
+		size= 2730
 	}
 
 }
@@ -2431,7 +2431,7 @@
 	{
 		culture = native_american_minor
 		religion = protestant
-		size= 19
+		size= 12
 	}
 
 	officers=
@@ -2452,7 +2452,7 @@
 	{
 		culture = native_american_minor
 		religion = protestant
-		size= 9118
+		size= 9125
 	}
 
 }
@@ -2503,14 +2503,14 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 10540
+		size= 13653
 	}
 
 	soldiers=
 	{
 		culture = yankee
 		religion = protestant
-		size= 10333
+		size= 7233
 	}
 
 	artisans=
@@ -2538,7 +2538,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 55
+		size= 40
 	}
 
 	officers=
@@ -2575,7 +2575,7 @@
 	{
 		culture = sonoran
 		religion = totemism
-		size= 13
+		size= 10
 	}
 
 	officers=
@@ -2596,7 +2596,7 @@
 	{
 		culture = sonoran
 		religion = totemism
-		size= 5849
+		size= 5852
 	}
 
 }
@@ -2612,7 +2612,7 @@
 	{
 		culture = native_american_minor
 		religion = animist
-		size= 8653
+		size= 8655
 	}
 
 	soldiers=
@@ -2682,7 +2682,7 @@
 	{
 		culture = native_american_minor
 		religion = animist
-		size= 11
+		size= 9
 	}
 
 	officers=
@@ -2717,7 +2717,7 @@
 	{
 		culture = native_american_minor
 		religion = protestant
-		size= 91
+		size= 72
 	}
 
 	officers=
@@ -2738,7 +2738,7 @@
 	{
 		culture = native_american_minor
 		religion = protestant
-		size= 22486
+		size= 24789
 	}
 
 	clergymen=
@@ -2773,7 +2773,7 @@
 	{
 		culture = mayan
 		religion = protestant
-		size= 5
+		size= 4
 	}
 
 	officers=
@@ -2822,7 +2822,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 91
+		size= 72
 	}
 
 	officers=
@@ -2843,7 +2843,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 24000
+		size= 24018
 	}
 
 }
@@ -2873,14 +2873,14 @@
 	{
 		culture = mayan
 		religion = animist
-		size= 2472
+		size= 2473
 	}
 
 	farmers=
 	{
 		culture = meashighcaw
 		religion = protestant
-		size= 5951
+		size= 5954
 	}
 
 	soldiers=
@@ -2911,13 +2911,6 @@
 		size= 51
 	}
 
-	bureaucrats=
-	{
-		culture = meashighcaw
-		religion = protestant
-		size= 15
-	}
-
 	officers=
 	{
 		culture = meashighcaw
@@ -2925,11 +2918,18 @@
 		size= 17
 	}
 
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 11
+	}
+
 	soldiers=
 	{
 		culture = yankee
 		religion = protestant
-		size= 3342
+		size= 7233
 	}
 
 	artisans=
@@ -2950,7 +2950,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 141
+		size= 106
 	}
 
 	officers=
@@ -2971,7 +2971,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 45108
+		size= 41252
 	}
 
 	artisans=
@@ -3016,13 +3016,6 @@
 		size= 7
 	}
 
-	bureaucrats=
-	{
-		culture = native_american_minor
-		religion = animist
-		size= 1
-	}
-
 	officers=
 	{
 		culture = native_american_minor
@@ -3034,7 +3027,7 @@
 	{
 		culture = mayan
 		religion = animist
-		size= 2
+		size= 1
 	}
 
 	officers=
@@ -3069,7 +3062,7 @@
 	{
 		culture = mayan
 		religion = protestant
-		size= 3
+		size= 2
 	}
 
 	officers=
@@ -3090,7 +3083,7 @@
 	{
 		culture = mayan
 		religion = protestant
-		size= 730
+		size= 731
 	}
 
 }
@@ -3120,7 +3113,7 @@
 	{
 		culture = nahua
 		religion = nahuatl
-		size= 27
+		size= 21
 	}
 
 	officers=
@@ -3141,7 +3134,7 @@
 	{
 		culture = nahua
 		religion = nahuatl
-		size= 15318
+		size= 15324
 	}
 
 	soldiers=
@@ -3169,7 +3162,7 @@
 	{
 		culture = nahua
 		religion = protestant
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -3190,7 +3183,7 @@
 	{
 		culture = nahua
 		religion = protestant
-		size= 109
+		size= 110
 	}
 
 	soldiers=
@@ -3218,7 +3211,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 54
+		size= 42
 	}
 
 	officers=
@@ -3239,7 +3232,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 17222
+		size= 17234
 	}
 
 }
@@ -3269,7 +3262,7 @@
 	{
 		culture = nahua
 		religion = nahuatl
-		size= 49
+		size= 39
 	}
 
 	officers=
@@ -3290,7 +3283,7 @@
 	{
 		culture = nahua
 		religion = nahuatl
-		size= 18737
+		size= 18747
 	}
 
 }
@@ -3320,14 +3313,14 @@
 	{
 		culture = nahua
 		religion = nahuatl
-		size= 5379
+		size= 5380
 	}
 
 	soldiers=
 	{
 		culture = nahua
 		religion = protestant
-		size= 1033
+		size= 305
 	}
 
 	artisans=
@@ -3355,7 +3348,7 @@
 	{
 		culture = nahua
 		religion = protestant
-		size= 12199
+		size= 12933
 	}
 
 	soldiers=
@@ -3393,13 +3386,6 @@
 		size= 239
 	}
 
-	bureaucrats=
-	{
-		culture = meashighcaw
-		religion = protestant
-		size= 1
-	}
-
 	officers=
 	{
 		culture = meashighcaw
@@ -3432,7 +3418,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 28
+		size= 17
 	}
 
 	officers=
@@ -3453,7 +3439,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 8958
+		size= 8969
 	}
 
 	clergymen=
@@ -3463,13 +3449,6 @@
 		size= 10
 	}
 
-	bureaucrats=
-	{
-		culture = nahua
-		religion = nahuatl
-		size= 2
-	}
-
 	officers=
 	{
 		culture = nahua
@@ -3481,7 +3460,7 @@
 	{
 		culture = nahua
 		religion = protestant
-		size= 17
+		size= 11
 	}
 
 	officers=
@@ -3489,6 +3468,13 @@
 		culture = nahua
 		religion = protestant
 		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = nahua
+		religion = nahuatl
+		size= 1
 	}
 
 }
@@ -3514,13 +3500,6 @@
 		size= 3
 	}
 
-	bureaucrats=
-	{
-		culture = mayan
-		religion = mayan
-		size= 1
-	}
-
 	officers=
 	{
 		culture = mayan
@@ -3539,7 +3518,7 @@
 	{
 		culture = mayan
 		religion = mayan
-		size= 1743
+		size= 1744
 	}
 
 	soldiers=
@@ -3567,7 +3546,7 @@
 	{
 		culture = mayan
 		religion = protestant
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -3588,14 +3567,14 @@
 	{
 		culture = mayan
 		religion = protestant
-		size= 4711
+		size= 4712
 	}
 
 	soldiers=
 	{
 		culture = yankee
 		religion = protestant
-		size= 4133
+		size= 1033
 	}
 
 	artisans=
@@ -3616,7 +3595,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 21
+		size= 14
 	}
 
 	officers=
@@ -3637,7 +3616,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 3771
+		size= 6878
 	}
 
 	soldiers=
@@ -3793,7 +3772,7 @@
 	{
 		culture = mayan
 		religion = mayan
-		size= 3308
+		size= 3309
 	}
 
 	soldiers=
@@ -3817,13 +3796,6 @@
 		size= 16
 	}
 
-	bureaucrats=
-	{
-		culture = mayan
-		religion = protestant
-		size= 4
-	}
-
 	officers=
 	{
 		culture = mayan
@@ -3842,7 +3814,7 @@
 	{
 		culture = mayan
 		religion = protestant
-		size= 2420
+		size= 2422
 	}
 
 	soldiers=
@@ -3870,7 +3842,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 12
+		size= 8
 	}
 
 	officers=
@@ -3891,14 +3863,14 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 3534
+		size= 3538
 	}
 
 	bureaucrats=
 	{
 		culture = mayan
-		religion = mayan
-		size= 1
+		religion = protestant
+		size= 2
 	}
 
 }
@@ -4012,7 +3984,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 20
+		size= 14
 	}
 
 	officers=
@@ -4033,7 +4005,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 8782
+		size= 8783
 	}
 
 }
@@ -4063,7 +4035,7 @@
 	{
 		culture = nahua
 		religion = nahuatl
-		size= 74
+		size= 58
 	}
 
 	officers=
@@ -4084,7 +4056,7 @@
 	{
 		culture = nahua
 		religion = nahuatl
-		size= 26965
+		size= 26981
 	}
 
 	soldiers=
@@ -4112,7 +4084,7 @@
 	{
 		culture = tarascan
 		religion = nahuatl
-		size= 102
+		size= 80
 	}
 
 	officers=
@@ -4133,7 +4105,7 @@
 	{
 		culture = tarascan
 		religion = nahuatl
-		size= 35315
+		size= 35337
 	}
 
 }
@@ -4156,7 +4128,7 @@
 	{
 		culture = mayan
 		religion = animist
-		size= 7488
+		size= 7489
 	}
 
 	clergymen=
@@ -4171,13 +4143,6 @@
 		culture = mayan
 		religion = animist
 		size= 7
-	}
-
-	bureaucrats=
-	{
-		culture = mayan
-		religion = animist
-		size= 1
 	}
 
 	officers=
@@ -4212,7 +4177,7 @@
 	{
 		culture = mayan
 		religion = protestant
-		size= 8
+		size= 4
 	}
 
 	officers=
@@ -4233,7 +4198,7 @@
 	{
 		culture = mayan
 		religion = protestant
-		size= 9535
+		size= 9539
 	}
 
 	soldiers=
@@ -4261,7 +4226,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 57
+		size= 29
 	}
 
 	officers=
@@ -4282,7 +4247,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 44016
+		size= 44044
 	}
 
 	soldiers=
@@ -4310,7 +4275,7 @@
 	{
 		culture = nahua
 		religion = nahuatl
-		size= 88
+		size= 44
 	}
 
 	officers=
@@ -4331,7 +4296,7 @@
 	{
 		culture = nahua
 		religion = nahuatl
-		size= 79010
+		size= 79054
 	}
 
 }
@@ -4361,7 +4326,7 @@
 	{
 		culture = nahua
 		religion = nahuatl
-		size= 25
+		size= 20
 	}
 
 	officers=
@@ -4382,7 +4347,7 @@
 	{
 		culture = nahua
 		religion = nahuatl
-		size= 8106
+		size= 8111
 	}
 
 	soldiers=
@@ -4410,7 +4375,7 @@
 	{
 		culture = tarascan
 		religion = nahuatl
-		size= 63
+		size= 50
 	}
 
 	officers=
@@ -4431,7 +4396,7 @@
 	{
 		culture = tarascan
 		religion = nahuatl
-		size= 20716
+		size= 20729
 	}
 
 }
@@ -4461,7 +4426,7 @@
 	{
 		culture = tarascan
 		religion = nahuatl
-		size= 66
+		size= 52
 	}
 
 	officers=
@@ -4482,7 +4447,7 @@
 	{
 		culture = tarascan
 		religion = nahuatl
-		size= 23871
+		size= 23885
 	}
 
 }
@@ -4512,7 +4477,7 @@
 	{
 		culture = tarascan
 		religion = nahuatl
-		size= 160
+		size= 127
 	}
 
 	officers=
@@ -4533,7 +4498,7 @@
 	{
 		culture = tarascan
 		religion = nahuatl
-		size= 54786
+		size= 54819
 	}
 
 	soldiers=
@@ -4701,7 +4666,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 40
+		size= 31
 	}
 
 	officers=
@@ -4722,7 +4687,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 12063
+		size= 12072
 	}
 
 }
@@ -4752,7 +4717,7 @@
 	{
 		culture = zapotec
 		religion = nahuatl
-		size= 43
+		size= 33
 	}
 
 	officers=
@@ -4773,7 +4738,7 @@
 	{
 		culture = zapotec
 		religion = nahuatl
-		size= 14846
+		size= 14856
 	}
 
 	soldiers=
@@ -4801,7 +4766,7 @@
 	{
 		culture = tarascan
 		religion = nahuatl
-		size= 24
+		size= 19
 	}
 
 	officers=
@@ -4822,7 +4787,7 @@
 	{
 		culture = tarascan
 		religion = nahuatl
-		size= 8190
+		size= 8195
 	}
 
 }
@@ -4852,7 +4817,7 @@
 	{
 		culture = nahua
 		religion = nahuatl
-		size= 29
+		size= 21
 	}
 
 	officers=
@@ -4873,7 +4838,7 @@
 	{
 		culture = nahua
 		religion = nahuatl
-		size= 29223
+		size= 29231
 	}
 
 	soldiers=
@@ -4901,7 +4866,7 @@
 	{
 		culture = nahua
 		religion = protestant
-		size= 205
+		size= 148
 	}
 
 	officers=
@@ -4922,7 +4887,7 @@
 	{
 		culture = nahua
 		religion = protestant
-		size= 85183
+		size= 85240
 	}
 
 }
@@ -4952,7 +4917,7 @@
 	{
 		culture = nahua
 		religion = nahuatl
-		size= 8
+		size= 5
 	}
 
 	officers=
@@ -4973,7 +4938,7 @@
 	{
 		culture = nahua
 		religion = nahuatl
-		size= 11746
+		size= 11749
 	}
 
 	soldiers=
@@ -5001,7 +4966,7 @@
 	{
 		culture = nahua
 		religion = protestant
-		size= 77
+		size= 49
 	}
 
 	officers=
@@ -5022,7 +4987,7 @@
 	{
 		culture = nahua
 		religion = protestant
-		size= 40540
+		size= 40568
 	}
 
 	soldiers=
@@ -5050,7 +5015,7 @@
 	{
 		culture = meashighcaw
 		religion = protestant
-		size= 36
+		size= 23
 	}
 
 	officers=
@@ -5071,7 +5036,7 @@
 	{
 		culture = meashighcaw
 		religion = protestant
-		size= 18647
+		size= 18660
 	}
 
 }
@@ -5115,7 +5080,7 @@
 	{
 		culture = nahua
 		religion = nahuatl
-		size= 7260
+		size= 7267
 	}
 
 	soldiers=
@@ -5164,7 +5129,7 @@
 	{
 		culture = meashighcaw
 		religion = protestant
-		size= 896
+		size= 7233
 	}
 
 	artisans=
@@ -5185,7 +5150,7 @@
 	{
 		culture = meashighcaw
 		religion = protestant
-		size= 14
+		size= 9
 	}
 
 	officers=
@@ -5206,7 +5171,7 @@
 	{
 		culture = meashighcaw
 		religion = protestant
-		size= 14530
+		size= 8198
 	}
 
 	soldiers=
@@ -5234,7 +5199,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 29
+		size= 19
 	}
 
 	officers=
@@ -5255,14 +5220,14 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 8994
+		size= 9004
 	}
 
 	bureaucrats=
 	{
 		culture = nahua
 		religion = nahuatl
-		size= 20
+		size= 13
 	}
 
 }
@@ -5292,7 +5257,7 @@
 	{
 		culture = nahua
 		religion = nahuatl
-		size= 6
+		size= 4
 	}
 
 	officers=
@@ -5313,7 +5278,7 @@
 	{
 		culture = nahua
 		religion = nahuatl
-		size= 8344
+		size= 8346
 	}
 
 	soldiers=
@@ -5341,7 +5306,7 @@
 	{
 		culture = nahua
 		religion = protestant
-		size= 60
+		size= 38
 	}
 
 	officers=
@@ -5362,7 +5327,7 @@
 	{
 		culture = nahua
 		religion = protestant
-		size= 33263
+		size= 33285
 	}
 
 }
@@ -5392,7 +5357,7 @@
 	{
 		culture = nahua
 		religion = nahuatl
-		size= 5
+		size= 3
 	}
 
 	officers=
@@ -5413,7 +5378,7 @@
 	{
 		culture = nahua
 		religion = nahuatl
-		size= 18393
+		size= 18395
 	}
 
 	soldiers=
@@ -5441,7 +5406,7 @@
 	{
 		culture = nahua
 		religion = mayan
-		size= 6
+		size= 4
 	}
 
 	officers=
@@ -5462,7 +5427,7 @@
 	{
 		culture = nahua
 		religion = mayan
-		size= 3826
+		size= 3828
 	}
 
 	soldiers=
@@ -5490,7 +5455,7 @@
 	{
 		culture = nahua
 		religion = protestant
-		size= 164
+		size= 104
 	}
 
 	officers=
@@ -5511,7 +5476,7 @@
 	{
 		culture = nahua
 		religion = protestant
-		size= 75819
+		size= 75875
 	}
 
 }
@@ -5541,7 +5506,7 @@
 	{
 		culture = zapotec
 		religion = nahuatl
-		size= 16
+		size= 12
 	}
 
 	officers=
@@ -5562,7 +5527,7 @@
 	{
 		culture = zapotec
 		religion = nahuatl
-		size= 11711
+		size= 11715
 	}
 
 	soldiers=
@@ -5590,7 +5555,7 @@
 	{
 		culture = zapotec
 		religion = catholic
-		size= 149
+		size= 118
 	}
 
 	officers=
@@ -5611,7 +5576,7 @@
 	{
 		culture = zapotec
 		religion = catholic
-		size= 16027
+		size= 19158
 	}
 
 	soldiers=
@@ -5639,7 +5604,7 @@
 	{
 		culture = nahua
 		religion = nahuatl
-		size= 5
+		size= 4
 	}
 
 	officers=
@@ -5660,7 +5625,7 @@
 	{
 		culture = nahua
 		religion = nahuatl
-		size= 3766
+		size= 3767
 	}
 
 	soldiers=
@@ -5688,7 +5653,7 @@
 	{
 		culture = nahua
 		religion = protestant
-		size= 45
+		size= 36
 	}
 
 	officers=
@@ -5709,7 +5674,7 @@
 	{
 		culture = nahua
 		religion = protestant
-		size= 13552
+		size= 13561
 	}
 
 }
@@ -5746,7 +5711,7 @@
 	{
 		culture = zapotec
 		religion = nahuatl
-		size= 4704
+		size= 4705
 	}
 
 	soldiers=
@@ -5774,7 +5739,7 @@
 	{
 		culture = zapotec
 		religion = catholic
-		size= 53
+		size= 43
 	}
 
 	aristocrats=
@@ -5788,7 +5753,7 @@
 	{
 		culture = zapotec
 		religion = catholic
-		size= 18028
+		size= 18038
 	}
 
 	soldiers=
@@ -5851,7 +5816,7 @@
 	{
 		culture = zapotec
 		religion = nahuatl
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -5888,7 +5853,7 @@
 	{
 		culture = zapotec
 		religion = nahuatl
-		size= 111
+		size= 88
 	}
 
 	officers=
@@ -5909,7 +5874,7 @@
 	{
 		culture = zapotec
 		religion = nahuatl
-		size= 42480
+		size= 42503
 	}
 
 }
@@ -5939,7 +5904,7 @@
 	{
 		culture = nahua
 		religion = nahuatl
-		size= 6
+		size= 4
 	}
 
 	officers=
@@ -5960,7 +5925,7 @@
 	{
 		culture = nahua
 		religion = nahuatl
-		size= 2298
+		size= 2300
 	}
 
 	soldiers=
@@ -5988,7 +5953,7 @@
 	{
 		culture = zapotec
 		religion = nahuatl
-		size= 3
+		size= 2
 	}
 
 	officers=
@@ -6009,7 +5974,7 @@
 	{
 		culture = zapotec
 		religion = nahuatl
-		size= 2804
+		size= 2805
 	}
 
 	soldiers=
@@ -6037,7 +6002,7 @@
 	{
 		culture = zapotec
 		religion = catholic
-		size= 30
+		size= 22
 	}
 
 	officers=
@@ -6058,7 +6023,7 @@
 	{
 		culture = zapotec
 		religion = catholic
-		size= 10066
+		size= 10074
 	}
 
 }
@@ -6084,13 +6049,6 @@
 		size= 10
 	}
 
-	bureaucrats=
-	{
-		culture = mayan
-		religion = mayan
-		size= 2
-	}
-
 	officers=
 	{
 		culture = mayan
@@ -6109,7 +6067,7 @@
 	{
 		culture = mayan
 		religion = mayan
-		size= 5754
+		size= 5755
 	}
 
 	soldiers=
@@ -6137,7 +6095,7 @@
 	{
 		culture = mayan
 		religion = protestant
-		size= 6
+		size= 4
 	}
 
 	officers=
@@ -6158,7 +6116,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 4133
+		size= 181
 	}
 
 	artisans=
@@ -6179,7 +6137,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 21
+		size= 13
 	}
 
 	officers=
@@ -6200,14 +6158,21 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 2452
+		size= 6412
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 1
 	}
 
 	farmers=
 	{
 		culture = mayan
 		religion = protestant
-		size= 4499
+		size= 4501
 	}
 
 }
@@ -6261,13 +6226,6 @@
 		size= 3
 	}
 
-	bureaucrats=
-	{
-		culture = zapotec
-		religion = mayan
-		size= 1
-	}
-
 	officers=
 	{
 		culture = zapotec
@@ -6286,7 +6244,7 @@
 	{
 		culture = zapotec
 		religion = mayan
-		size= 1422
+		size= 1423
 	}
 
 	soldiers=
@@ -6314,7 +6272,7 @@
 	{
 		culture = zapotec
 		religion = protestant
-		size= 2
+		size= 1
 	}
 
 	officers=
@@ -6335,7 +6293,7 @@
 	{
 		culture = zapotec
 		religion = protestant
-		size= 1264
+		size= 1265
 	}
 
 	soldiers=
@@ -6363,7 +6321,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 7
+		size= 5
 	}
 
 	officers=
@@ -6384,7 +6342,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 954
+		size= 956
 	}
 
 	clergymen=
@@ -6419,7 +6377,7 @@
 	{
 		culture = zapotec
 		religion = catholic
-		size= 3
+		size= 2
 	}
 
 	officers=
@@ -6440,7 +6398,7 @@
 	{
 		culture = zapotec
 		religion = catholic
-		size= 1561
+		size= 1562
 	}
 
 	soldiers=
@@ -6554,7 +6512,7 @@
 	{
 		culture = mayan
 		religion = mayan
-		size= 38
+		size= 25
 	}
 
 	officers=
@@ -6575,7 +6533,7 @@
 	{
 		culture = mayan
 		religion = mayan
-		size= 27662
+		size= 27675
 	}
 
 	soldiers=
@@ -6603,7 +6561,7 @@
 	{
 		culture = mayan
 		religion = protestant
-		size= 39
+		size= 25
 	}
 
 	officers=
@@ -6624,7 +6582,7 @@
 	{
 		culture = mayan
 		religion = protestant
-		size= 18357
+		size= 18371
 	}
 
 }
@@ -6654,7 +6612,7 @@
 	{
 		culture = mayan
 		religion = mayan
-		size= 18
+		size= 11
 	}
 
 	officers=
@@ -6675,7 +6633,7 @@
 	{
 		culture = mayan
 		religion = mayan
-		size= 13118
+		size= 13125
 	}
 
 	soldiers=
@@ -6703,7 +6661,7 @@
 	{
 		culture = mayan
 		religion = protestant
-		size= 20
+		size= 13
 	}
 
 	officers=
@@ -6724,7 +6682,7 @@
 	{
 		culture = mayan
 		religion = protestant
-		size= 9446
+		size= 9453
 	}
 
 }
@@ -6754,7 +6712,7 @@
 	{
 		culture = mayan
 		religion = mayan
-		size= 3
+		size= 2
 	}
 
 	officers=
@@ -6775,14 +6733,14 @@
 	{
 		culture = mayan
 		religion = mayan
-		size= 5086
+		size= 5087
 	}
 
 	soldiers=
 	{
 		culture = mayan
 		religion = protestant
-		size= 1033
+		size= 526
 	}
 
 	artisans=
@@ -6803,7 +6761,7 @@
 	{
 		culture = mayan
 		religion = protestant
-		size= 15
+		size= 10
 	}
 
 	officers=
@@ -6824,7 +6782,7 @@
 	{
 		culture = mayan
 		religion = protestant
-		size= 7109
+		size= 7621
 	}
 
 	soldiers=
@@ -6866,7 +6824,7 @@
 	{
 		culture = meashighcaw
 		religion = protestant
-		size= 4155
+		size= 4158
 	}
 
 	soldiers=
@@ -6922,7 +6880,7 @@
 	{
 		culture = meashighcaw
 		religion = protestant
-		size= 8
+		size= 5
 	}
 
 	soldiers=
@@ -6950,7 +6908,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -6971,7 +6929,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 2067
+		size= 2068
 	}
 
 }

@@ -24,7 +24,7 @@
 	{
 		culture = berber
 		religion = catholic
-		size= 84
+		size= 71
 	}
 
 	officers=
@@ -45,7 +45,7 @@
 	{
 		culture = berber
 		religion = catholic
-		size= 22967
+		size= 22980
 	}
 
 	soldiers=
@@ -73,7 +73,7 @@
 	{
 		culture = berber
 		religion = animist
-		size= 8
+		size= 7
 	}
 
 	officers=

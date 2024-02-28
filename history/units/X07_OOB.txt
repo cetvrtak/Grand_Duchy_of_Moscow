@@ -521,9 +521,9 @@ army = {
 		home=784
 	}
 	regiment = {
-		name="3rd Bihac Infantry"
+		name="1st Banja Luka Infantry"
 		type=infantry
-		home=784
+		home=785
 	}
 	regiment = {
 		name="1st Banja Luka Artillery"
@@ -531,9 +531,9 @@ army = {
 		home=785
 	}
 	regiment = {
-		name="1st Banja Luka Infantry"
+		name="3rd Bihac Infantry"
 		type=infantry
-		home=785
+		home=784
 	}
 	regiment = {
 		name="2nd Banja Luka Artillery"

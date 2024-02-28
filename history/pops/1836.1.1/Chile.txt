@@ -17,7 +17,7 @@
 	{
 		culture = ealimi
 		religion = sunni
-		size= 4660
+		size= 4662
 	}
 
 	soldiers=
@@ -52,7 +52,7 @@
 	{
 		culture = ealimi
 		religion = sunni
-		size= 10
+		size= 8
 	}
 
 	officers=
@@ -87,7 +87,7 @@
 	{
 		culture = ealimi
 		religion = catholic
-		size= 38
+		size= 31
 	}
 
 	officers=
@@ -108,7 +108,7 @@
 	{
 		culture = ealimi
 		religion = catholic
-		size= 8178
+		size= 8185
 	}
 
 }
@@ -187,7 +187,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -208,7 +208,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 3543
+		size= 3544
 	}
 
 	soldiers=
@@ -236,7 +236,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 6
+		size= 5
 	}
 
 	officers=
@@ -257,7 +257,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 793
+		size= 794
 	}
 
 	soldiers=
@@ -285,7 +285,7 @@
 	{
 		culture = falklander
 		religion = protestant
-		size= 13
+		size= 11
 	}
 
 	officers=
@@ -306,7 +306,7 @@
 	{
 		culture = falklander
 		religion = protestant
-		size= 655
+		size= 657
 	}
 
 }
@@ -455,7 +455,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -476,7 +476,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 725
+		size= 726
 	}
 
 	soldiers=
@@ -504,7 +504,7 @@
 	{
 		culture = falklander
 		religion = protestant
-		size= 8
+		size= 7
 	}
 
 	officers=
@@ -525,7 +525,7 @@
 	{
 		culture = falklander
 		religion = protestant
-		size= 385
+		size= 386
 	}
 
 }
@@ -660,7 +660,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -681,7 +681,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 3519
+		size= 3520
 	}
 
 	soldiers=
@@ -709,7 +709,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 6
+		size= 5
 	}
 
 	officers=
@@ -730,7 +730,7 @@
 	{
 		culture = platinean
 		religion = protestant
-		size= 868
+		size= 869
 	}
 
 	soldiers=
@@ -758,7 +758,7 @@
 	{
 		culture = falklander
 		religion = protestant
-		size= 13
+		size= 11
 	}
 
 	officers=
@@ -779,7 +779,7 @@
 	{
 		culture = falklander
 		religion = protestant
-		size= 661
+		size= 663
 	}
 
 }
@@ -809,7 +809,7 @@
 	{
 		culture = south_andean
 		religion = catholic
-		size= 1584
+		size= 1585
 	}
 
 	artisans=
@@ -837,7 +837,7 @@
 	{
 		culture = south_andean
 		religion = catholic
-		size= 5
+		size= 4
 	}
 
 	officers=
@@ -858,7 +858,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 7233
+		size= 1033
 	}
 
 	artisans=
@@ -879,7 +879,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 38
+		size= 28
 	}
 
 	officers=
@@ -900,7 +900,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 7796
+		size= 14006
 	}
 
 }
@@ -972,14 +972,14 @@
 	{
 		culture = south_andean
 		religion = catholic
-		size= 14735
+		size= 14743
 	}
 
 	bureaucrats=
 	{
 		culture = south_andean
 		religion = catholic
-		size= 38
+		size= 29
 	}
 
 	officers=
@@ -1009,7 +1009,7 @@
 	{
 		culture = south_andean
 		religion = catholic
-		size= 85073
+		size= 85128
 	}
 
 	artisans=
@@ -1044,7 +1044,7 @@
 	{
 		culture = south_andean
 		religion = catholic
-		size= 236
+		size= 177
 	}
 
 	officers=
@@ -1074,7 +1074,7 @@
 	{
 		culture = south_andean
 		religion = catholic
-		size= 26186
+		size= 26202
 	}
 
 	artisans=
@@ -1102,7 +1102,7 @@
 	{
 		culture = south_andean
 		religion = catholic
-		size= 72
+		size= 54
 	}
 
 	officers=
@@ -1188,14 +1188,14 @@
 	{
 		culture = south_andean
 		religion = catholic
-		size= 13302
+		size= 13310
 	}
 
 	bureaucrats=
 	{
 		culture = south_andean
 		religion = catholic
-		size= 35
+		size= 26
 	}
 
 	officers=
@@ -1225,7 +1225,7 @@
 	{
 		culture = south_andean
 		religion = catholic
-		size= 3577
+		size= 3579
 	}
 
 	artisans=
@@ -1260,7 +1260,7 @@
 	{
 		culture = south_andean
 		religion = catholic
-		size= 8
+		size= 6
 	}
 
 	officers=
@@ -1290,7 +1290,7 @@
 	{
 		culture = south_andean
 		religion = catholic
-		size= 1884
+		size= 1885
 	}
 
 	artisans=
@@ -1318,7 +1318,7 @@
 	{
 		culture = south_andean
 		religion = catholic
-		size= 5
+		size= 4
 	}
 
 	officers=
@@ -1360,7 +1360,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 38
+		size= 29
 	}
 
 	officers=
@@ -1381,7 +1381,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 13883
+		size= 13892
 	}
 
 }
@@ -1404,7 +1404,7 @@
 	{
 		culture = south_andean
 		religion = catholic
-		size= 738
+		size= 739
 	}
 
 	artisans=
@@ -1439,7 +1439,7 @@
 	{
 		culture = south_andean
 		religion = catholic
-		size= 2
+		size= 1
 	}
 
 	officers=
@@ -1474,7 +1474,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 15
+		size= 11
 	}
 
 	officers=
@@ -1495,7 +1495,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 5403
+		size= 5407
 	}
 
 }
@@ -1518,7 +1518,7 @@
 	{
 		culture = south_andean
 		religion = catholic
-		size= 12227
+		size= 12234
 	}
 
 	artisans=
@@ -1546,7 +1546,7 @@
 	{
 		culture = south_andean
 		religion = catholic
-		size= 31
+		size= 24
 	}
 
 	officers=
@@ -1583,7 +1583,7 @@
 	{
 		culture = south_andean
 		religion = catholic
-		size= 6436
+		size= 6440
 	}
 
 	artisans=
@@ -1611,7 +1611,7 @@
 	{
 		culture = south_andean
 		religion = catholic
-		size= 16
+		size= 12
 	}
 
 	soldiers=
@@ -1648,7 +1648,7 @@
 	{
 		culture = south_andean
 		religion = catholic
-		size= 1387
+		size= 1388
 	}
 
 	artisans=
@@ -1676,7 +1676,7 @@
 	{
 		culture = south_andean
 		religion = catholic
-		size= 4
+		size= 3
 	}
 
 	soldiers=
@@ -1718,7 +1718,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 28
+		size= 21
 	}
 
 	officers=
@@ -1739,7 +1739,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 10208
+		size= 10215
 	}
 
 }
@@ -1762,7 +1762,7 @@
 	{
 		culture = south_andean
 		religion = catholic
-		size= 245
+		size= 246
 	}
 
 	artisans=
@@ -1784,13 +1784,6 @@
 		culture = south_andean
 		religion = catholic
 		size= 2
-	}
-
-	bureaucrats=
-	{
-		culture = south_andean
-		religion = catholic
-		size= 1
 	}
 
 	aristocrats=
@@ -1825,7 +1818,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 5
+		size= 4
 	}
 
 	officers=
@@ -1846,7 +1839,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 1783
+		size= 1784
 	}
 
 }
@@ -1925,7 +1918,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -1946,7 +1939,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 1186
+		size= 1187
 	}
 
 }

@@ -518,14 +518,9 @@ army = {
 	name="6th Army"
 	location=2410
 	regiment = {
-		name="1st Rio de Janeiro Infantry"
+		name="1st Recife Infantry"
 		type=infantry
-		home=2447
-	}
-	regiment = {
-		name="2nd Rio de Janeiro Infantry"
-		type=infantry
-		home=2447
+		home=2432
 	}
 	regiment = {
 		name="1st Natal Infantry"
@@ -533,39 +528,9 @@ army = {
 		home=2431
 	}
 	regiment = {
-		name="1st Ouro Preto Infantry"
-		type=infantry
-		home=2441
-	}
-	regiment = {
 		name="1st Paraíba Infantry"
 		type=infantry
 		home=2428
-	}
-	regiment = {
-		name="1st Ouro Preto Artillery"
-		type=artillery
-		home=2441
-	}
-	regiment = {
-		name="1st Sabará Artillery"
-		type=artillery
-		home=2442
-	}
-	regiment = {
-		name="1st Juazeiro Artillery"
-		type=artillery
-		home=2437
-	}
-	regiment = {
-		name="1st Paraíba Artillery"
-		type=artillery
-		home=2428
-	}
-	regiment = {
-		name="2nd Juazeiro Artillery"
-		type=artillery
-		home=2437
 	}
 	regiment = {
 		name="2nd Recife Infantry"
@@ -573,9 +538,44 @@ army = {
 		home=2432
 	}
 	regiment = {
-		name="1st Maceió Artillery"
+		name="2nd Natal Infantry"
+		type=infantry
+		home=2431
+	}
+	regiment = {
+		name="1st Januária Artillery"
 		type=artillery
-		home=2434
+		home=2443
+	}
+	regiment = {
+		name="1st Ouro Preto Artillery"
+		type=artillery
+		home=2441
+	}
+	regiment = {
+		name="2nd Ouro Preto Artillery"
+		type=artillery
+		home=2441
+	}
+	regiment = {
+		name="1st Rio de Janeiro Artillery"
+		type=artillery
+		home=2447
+	}
+	regiment = {
+		name="2nd Rio de Janeiro Artillery"
+		type=artillery
+		home=2447
+	}
+	regiment = {
+		name="1st Juazeiro Infantry"
+		type=infantry
+		home=2437
+	}
+	regiment = {
+		name="1st Sabará Artillery"
+		type=artillery
+		home=2442
 	}
 }
 
@@ -600,29 +600,29 @@ army = {
 	name="2nd Army"
 	location=2410
 	regiment = {
-		name="1st Fortaleza Infantry"
-		type=infantry
-		home=2429
-	}
-	regiment = {
-		name="2nd Natal Infantry"
-		type=infantry
-		home=2431
-	}
-	regiment = {
-		name="3rd Rio de Janeiro Infantry"
+		name="1st Rio de Janeiro Infantry"
 		type=infantry
 		home=2447
 	}
 	regiment = {
-		name="2nd Paraíba Artillery"
-		type=artillery
-		home=2428
+		name="1st Crato Infantry"
+		type=infantry
+		home=2430
 	}
 	regiment = {
-		name="1st São Luís Artillery"
+		name="2nd Rio de Janeiro Infantry"
+		type=infantry
+		home=2447
+	}
+	regiment = {
+		name="1st Vila do Barra Artillery"
 		type=artillery
-		home=2424
+		home=2438
+	}
+	regiment = {
+		name="1st Paraíba Artillery"
+		type=artillery
+		home=2428
 	}
 }
 
@@ -635,9 +635,9 @@ army = {
 		home=2435
 	}
 	regiment = {
-		name="1st Recife Infantry"
+		name="1st Fortaleza Infantry"
 		type=infantry
-		home=2432
+		home=2429
 	}
 }
 
@@ -653,19 +653,23 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Macapá Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Porto Seguro Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="1st Natal Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Macapá Clipper Transport"
+		name="1st Rio de Janeiro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Fortaleza Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Rio de Janeiro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Recife Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -673,19 +677,15 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Porto Seguro Clipper Transport"
+		name="1st Welsh Brazilian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Salvador da Bahia Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
 		name="1st Aracaju Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Iguape Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Paraíba Clipper Transport"
 		type=clipper_transport
 	}
 }

@@ -24,7 +24,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 64
+		size= 41
 	}
 
 	officers=
@@ -45,7 +45,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 39735
+		size= 39758
 	}
 
 	soldiers=
@@ -73,7 +73,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 7
+		size= 4
 	}
 
 	officers=
@@ -94,7 +94,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 766
+		size= 769
 	}
 
 }
@@ -120,13 +120,6 @@
 		size= 288
 	}
 
-	bureaucrats=
-	{
-		culture = greek
-		religion = catholic
-		size= 38
-	}
-
 	officers=
 	{
 		culture = greek
@@ -145,7 +138,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 38890
+		size= 38909
 	}
 
 	soldiers=
@@ -197,6 +190,13 @@
 		size= 1399
 	}
 
+	bureaucrats=
+	{
+		culture = greek
+		religion = catholic
+		size= 19
+	}
+
 	soldiers=
 	{
 		culture = greek
@@ -222,7 +222,7 @@
 	{
 		culture = greek
 		religion = protestant
-		size= 7
+		size= 3
 	}
 
 	officers=
@@ -243,7 +243,7 @@
 	{
 		culture = greek
 		religion = protestant
-		size= 1667
+		size= 1671
 	}
 
 }
@@ -252,7 +252,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 442
+		size= 1033
 	}
 
 	artisans=
@@ -273,7 +273,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 23
+		size= 18
 	}
 
 	officers=
@@ -294,7 +294,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 7676
+		size= 7090
 	}
 
 	soldiers=
@@ -322,7 +322,7 @@
 	{
 		culture = greek
 		religion = protestant
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -343,7 +343,7 @@
 	{
 		culture = greek
 		religion = protestant
-		size= 185
+		size= 186
 	}
 
 }
@@ -352,7 +352,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 1033
+		size= 441
 	}
 
 	artisans=
@@ -373,7 +373,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 14
+		size= 8
 	}
 
 	officers=
@@ -394,7 +394,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 12410
+		size= 13008
 	}
 
 	soldiers=
@@ -422,7 +422,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2
+		size= 1
 	}
 
 	officers=
@@ -443,7 +443,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 263
+		size= 264
 	}
 
 }
@@ -452,7 +452,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 1033
+		size= 453
 	}
 
 	artisans=
@@ -473,7 +473,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 15
+		size= 8
 	}
 
 	officers=
@@ -494,7 +494,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 12757
+		size= 13344
 	}
 
 	soldiers=
@@ -522,7 +522,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 2
+		size= 1
 	}
 
 	officers=
@@ -543,7 +543,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 270
+		size= 271
 	}
 
 }

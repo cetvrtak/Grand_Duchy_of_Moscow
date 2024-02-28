@@ -24,7 +24,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 11
+		size= 9
 	}
 
 	officers=
@@ -45,7 +45,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 9697
+		size= 9699
 	}
 
 	soldiers=
@@ -73,7 +73,7 @@
 	{
 		culture = finnish
 		religion = protestant
-		size= 3
+		size= 2
 	}
 
 	officers=
@@ -94,7 +94,7 @@
 	{
 		culture = finnish
 		religion = protestant
-		size= 347
+		size= 348
 	}
 
 	soldiers=
@@ -122,7 +122,7 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 25
+		size= 20
 	}
 
 	officers=
@@ -143,7 +143,7 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 3733
+		size= 3738
 	}
 
 }
@@ -173,7 +173,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 3
+		size= 2
 	}
 
 	officers=
@@ -194,7 +194,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 2779
+		size= 2780
 	}
 
 }
@@ -220,13 +220,6 @@
 		size= 61
 	}
 
-	bureaucrats=
-	{
-		culture = sami
-		religion = catholic
-		size= 12
-	}
-
 	officers=
 	{
 		culture = sami
@@ -245,7 +238,7 @@
 	{
 		culture = sami
 		religion = catholic
-		size= 7598
+		size= 7603
 	}
 
 	soldiers=
@@ -269,13 +262,6 @@
 		size= 3
 	}
 
-	bureaucrats=
-	{
-		culture = sami
-		religion = animist
-		size= 1
-	}
-
 	officers=
 	{
 		culture = sami
@@ -294,7 +280,14 @@
 	{
 		culture = sami
 		religion = animist
-		size= 9
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = sami
+		religion = catholic
+		size= 7
 	}
 
 }
@@ -303,7 +296,7 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 1033
+		size= 325
 	}
 
 	artisans=
@@ -345,14 +338,14 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 15033
+		size= 15741
 	}
 
 	soldiers=
 	{
 		culture = finnish
 		religion = orthodox
-		size= 13433
+		size= 4133
 	}
 
 	artisans=
@@ -373,7 +366,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 24
+		size= 16
 	}
 
 	officers=
@@ -394,7 +387,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 8419
+		size= 17727
 	}
 
 	soldiers=
@@ -422,7 +415,7 @@
 	{
 		culture = finnish
 		religion = protestant
-		size= 6
+		size= 4
 	}
 
 	officers=
@@ -443,7 +436,7 @@
 	{
 		culture = finnish
 		religion = protestant
-		size= 2304
+		size= 2306
 	}
 
 	soldiers=
@@ -471,7 +464,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 42
+		size= 27
 	}
 
 	officers=
@@ -492,7 +485,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 4301
+		size= 4305
 	}
 
 }
@@ -522,7 +515,7 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 4
+		size= 2
 	}
 
 	officers=
@@ -543,7 +536,7 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 4919
+		size= 4921
 	}
 
 	soldiers=
@@ -571,7 +564,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 19
+		size= 12
 	}
 
 	officers=
@@ -592,7 +585,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 9403
+		size= 9410
 	}
 
 }
@@ -622,7 +615,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 41
+		size= 27
 	}
 
 	officers=
@@ -643,7 +636,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 23522
+		size= 23536
 	}
 
 }
@@ -673,7 +666,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 55
+		size= 35
 	}
 
 	officers=
@@ -694,7 +687,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 30774
+		size= 30794
 	}
 
 }
@@ -724,7 +717,7 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 8
+		size= 5
 	}
 
 	officers=
@@ -745,7 +738,7 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 10175
+		size= 10178
 	}
 
 	soldiers=
@@ -773,7 +766,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 39
+		size= 25
 	}
 
 	officers=
@@ -794,7 +787,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 19454
+		size= 19468
 	}
 
 }
@@ -824,7 +817,7 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 2
+		size= 1
 	}
 
 	officers=
@@ -845,7 +838,7 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 3189
+		size= 3190
 	}
 
 	soldiers=
@@ -873,7 +866,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 9
+		size= 5
 	}
 
 	officers=
@@ -894,7 +887,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 5451
+		size= 5455
 	}
 
 }
@@ -924,7 +917,7 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 103
+		size= 66
 	}
 
 	officers=
@@ -945,7 +938,7 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 56974
+		size= 57011
 	}
 
 }
@@ -975,7 +968,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 52
+		size= 43
 	}
 
 	officers=
@@ -996,7 +989,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 46930
+		size= 46939
 	}
 
 	soldiers=
@@ -1024,7 +1017,7 @@
 	{
 		culture = finnish
 		religion = protestant
-		size= 14
+		size= 11
 	}
 
 	officers=
@@ -1045,7 +1038,7 @@
 	{
 		culture = finnish
 		religion = protestant
-		size= 1677
+		size= 1680
 	}
 
 	soldiers=
@@ -1073,7 +1066,7 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 122
+		size= 98
 	}
 
 	officers=
@@ -1094,7 +1087,7 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 18065
+		size= 18089
 	}
 
 }
@@ -1124,7 +1117,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 18
+		size= 9
 	}
 
 	officers=
@@ -1145,7 +1138,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 15267
+		size= 15276
 	}
 
 	soldiers=
@@ -1173,7 +1166,7 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 3
+		size= 2
 	}
 
 	officers=
@@ -1194,7 +1187,7 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 1700
+		size= 1701
 	}
 
 }
@@ -1224,7 +1217,7 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -1245,7 +1238,7 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 2224
+		size= 2225
 	}
 
 }

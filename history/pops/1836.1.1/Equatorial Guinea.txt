@@ -24,7 +24,7 @@
 	{
 		culture = scottish
 		religion = catholic
-		size= 883
+		size= 884
 	}
 
 	slaves=
@@ -66,7 +66,7 @@
 	{
 		culture = scottish
 		religion = catholic
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -103,7 +103,7 @@
 	{
 		culture = fang
 		religion = shamanism
-		size= 23506
+		size= 23517
 	}
 
 	slaves=
@@ -145,7 +145,7 @@
 	{
 		culture = fang
 		religion = catholic
-		size= 4044
+		size= 4045
 	}
 
 	clergymen=
@@ -165,15 +165,8 @@
 	bureaucrats=
 	{
 		culture = fang
-		religion = catholic
-		size= 12
-	}
-
-	bureaucrats=
-	{
-		culture = fang
 		religion = shamanism
-		size= 50
+		size= 38
 	}
 
 	officers=
@@ -181,6 +174,13 @@
 		culture = fang
 		religion = shamanism
 		size= 41
+	}
+
+	bureaucrats=
+	{
+		culture = fang
+		religion = catholic
+		size= 9
 	}
 
 	officers=

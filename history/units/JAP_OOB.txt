@@ -507,14 +507,14 @@ army = {
 	name="Kamikawa Gun"
 	location=1642
 	regiment = {
-		name="1st Kobe Irregulars"
+		name="1st Tokushima Irregulars"
 		type=irregular
-		home=1659
+		home=1667
 	}
 	regiment = {
-		name="2nd Kobe Irregulars"
+		name="1st Nagasaki Irregulars"
 		type=irregular
-		home=1659
+		home=1661
 	}
 	regiment = {
 		name="1st Nara Irregulars"
@@ -522,24 +522,24 @@ army = {
 		home=1658
 	}
 	regiment = {
-		name="1st Yamaguchi Irregulars"
-		type=irregular
-		home=1640
-	}
-	regiment = {
 		name="1st Hiroshima Irregulars"
 		type=irregular
 		home=1638
 	}
 	regiment = {
-		name="3rd Kobe Irregulars"
+		name="2nd Tokushima Irregulars"
 		type=irregular
-		home=1659
+		home=1667
 	}
 	regiment = {
-		name="4th Kobe Irregulars"
+		name="2nd Nara Irregulars"
 		type=irregular
-		home=1659
+		home=1658
+	}
+	regiment = {
+		name="1st Fukui Irregulars"
+		type=irregular
+		home=1647
 	}
 	regiment = {
 		name="1st Kobe Artillery"
@@ -547,9 +547,9 @@ army = {
 		home=1659
 	}
 	regiment = {
-		name="1st Wakayama Artillery"
+		name="1st Kochi Artillery"
 		type=artillery
-		home=1656
+		home=1665
 	}
 	regiment = {
 		name="2nd Kobe Artillery"
@@ -557,9 +557,9 @@ army = {
 		home=1659
 	}
 	regiment = {
-		name="1st Kyoto Artillery"
+		name="3rd Kobe Artillery"
 		type=artillery
-		home=1657
+		home=1659
 	}
 }
 
@@ -580,97 +580,7 @@ army = {
 	name="Oshima Dan"
 	location=1647
 	regiment = {
-		name="1st Wakayama Irregulars"
-		type=irregular
-		home=1656
-	}
-	regiment = {
-		name="5th Kobe Irregulars"
-		type=irregular
-		home=1659
-	}
-	regiment = {
-		name="2nd Yamaguchi Irregulars"
-		type=irregular
-		home=1640
-	}
-	regiment = {
-		name="2nd Hiroshima Irregulars"
-		type=irregular
-		home=1638
-	}
-	regiment = {
-		name="6th Kobe Irregulars"
-		type=irregular
-		home=1659
-	}
-	regiment = {
-		name="1st Kyoto Irregulars"
-		type=irregular
-		home=1657
-	}
-	regiment = {
-		name="7th Kobe Irregulars"
-		type=irregular
-		home=1659
-	}
-	regiment = {
-		name="1st Nara Artillery"
-		type=artillery
-		home=1658
-	}
-	regiment = {
-		name="1st Kochi Artillery"
-		type=artillery
-		home=1665
-	}
-	regiment = {
-		name="2nd Kochi Artillery"
-		type=artillery
-		home=1665
-	}
-	regiment = {
-		name="2nd Matsuyama Irregulars"
-		type=irregular
-		home=1666
-	}
-	regiment = {
-		name="11th Kobe Artillery"
-		type=artillery
-		home=1659
-	}
-}
-
-army = {
-	name="Chishima Retto Gun"
-	location=1653
-	regiment = {
-		name="8th Kobe Irregulars"
-		type=irregular
-		home=1659
-	}
-	regiment = {
-		name="1st Tokushima Irregulars"
-		type=irregular
-		home=1667
-	}
-	regiment = {
-		name="9th Kobe Irregulars"
-		type=irregular
-		home=1659
-	}
-	regiment = {
-		name="10th Kobe Irregulars"
-		type=irregular
-		home=1659
-	}
-	regiment = {
-		name="2nd Tokushima Irregulars"
-		type=irregular
-		home=1667
-	}
-	regiment = {
-		name="11th Kobe Irregulars"
+		name="1st Kobe Irregulars"
 		type=irregular
 		home=1659
 	}
@@ -680,14 +590,34 @@ army = {
 		home=1667
 	}
 	regiment = {
-		name="3rd Kobe Artillery"
-		type=artillery
+		name="4th Tokushima Irregulars"
+		type=irregular
+		home=1667
+	}
+	regiment = {
+		name="2nd Hiroshima Irregulars"
+		type=irregular
+		home=1638
+	}
+	regiment = {
+		name="5th Tokushima Irregulars"
+		type=irregular
+		home=1667
+	}
+	regiment = {
+		name="2nd Kobe Irregulars"
+		type=irregular
 		home=1659
 	}
 	regiment = {
-		name="1st Yamaguchi Artillery"
+		name="1st Okayama Irregulars"
+		type=irregular
+		home=1639
+	}
+	regiment = {
+		name="1st Nara Artillery"
 		type=artillery
-		home=1640
+		home=1658
 	}
 	regiment = {
 		name="4th Kobe Artillery"
@@ -695,9 +625,79 @@ army = {
 		home=1659
 	}
 	regiment = {
-		name="3rd Yamaguchi Artillery"
+		name="1st Tokushima Artillery"
 		type=artillery
-		home=1640
+		home=1667
+	}
+	regiment = {
+		name="3rd Okayama Irregulars"
+		type=irregular
+		home=1639
+	}
+	regiment = {
+		name="10th Kobe Artillery"
+		type=artillery
+		home=1659
+	}
+}
+
+army = {
+	name="Chishima Retto Gun"
+	location=1650
+	regiment = {
+		name="3rd Kobe Irregulars"
+		type=irregular
+		home=1659
+	}
+	regiment = {
+		name="3rd Nara Irregulars"
+		type=irregular
+		home=1658
+	}
+	regiment = {
+		name="4th Kobe Irregulars"
+		type=irregular
+		home=1659
+	}
+	regiment = {
+		name="5th Kobe Irregulars"
+		type=irregular
+		home=1659
+	}
+	regiment = {
+		name="6th Kobe Irregulars"
+		type=irregular
+		home=1659
+	}
+	regiment = {
+		name="2nd Okayama Irregulars"
+		type=irregular
+		home=1639
+	}
+	regiment = {
+		name="7th Kobe Irregulars"
+		type=irregular
+		home=1659
+	}
+	regiment = {
+		name="5th Kobe Artillery"
+		type=artillery
+		home=1659
+	}
+	regiment = {
+		name="6th Kobe Artillery"
+		type=artillery
+		home=1659
+	}
+	regiment = {
+		name="7th Kobe Artillery"
+		type=artillery
+		home=1659
+	}
+	regiment = {
+		name="11th Kobe Artillery"
+		type=artillery
+		home=1659
 	}
 }
 
@@ -720,7 +720,7 @@ navy = {
 
 navy = {
 	name="Awa Sendan"
-	location=2841
+	location=2831
 	ship = {
 		name="Fujisan"
 		type=frigate
@@ -748,82 +748,32 @@ army = {
 		home=1665
 	}
 	regiment = {
-		name="1st Matsuyama Irregulars"
-		type=irregular
-		home=1666
-	}
-	regiment = {
-		name="12th Kobe Irregulars"
-		type=irregular
-		home=1659
-	}
-	regiment = {
-		name="13th Kobe Irregulars"
-		type=irregular
-		home=1659
-	}
-	regiment = {
-		name="2nd Kochi Irregulars"
-		type=irregular
-		home=1665
-	}
-	regiment = {
-		name="1st Utsunomiya Irregulars"
-		type=irregular
-		home=1674
-	}
-	regiment = {
-		name="2nd Nara Irregulars"
+		name="4th Nara Irregulars"
 		type=irregular
 		home=1658
 	}
 	regiment = {
-		name="5th Kobe Artillery"
-		type=artillery
-		home=1659
+		name="1st Wakayama Irregulars"
+		type=irregular
+		home=1656
 	}
 	regiment = {
-		name="6th Kobe Artillery"
-		type=artillery
-		home=1659
-	}
-	regiment = {
-		name="7th Kobe Artillery"
-		type=artillery
-		home=1659
-	}
-	regiment = {
-		name="2nd Yamaguchi Artillery"
-		type=artillery
-		home=1640
-	}
-	regiment = {
-		name="3rd Nara Irregulars"
+		name="5th Nara Irregulars"
 		type=irregular
 		home=1658
 	}
-}
-
-army = {
-	name="Kii Zei"
-	location=1088
+	regiment = {
+		name="8th Kobe Irregulars"
+		type=irregular
+		home=1659
+	}
+	regiment = {
+		name="3rd Hiroshima Irregulars"
+		type=irregular
+		home=1638
+	}
 	regiment = {
 		name="2nd Wakayama Irregulars"
-		type=irregular
-		home=1656
-	}
-	regiment = {
-		name="14th Kobe Irregulars"
-		type=irregular
-		home=1659
-	}
-	regiment = {
-		name="3rd Wakayama Irregulars"
-		type=irregular
-		home=1656
-	}
-	regiment = {
-		name="4th Wakayama Irregulars"
 		type=irregular
 		home=1656
 	}
@@ -833,24 +783,74 @@ army = {
 		home=1659
 	}
 	regiment = {
+		name="2nd Tokushima Artillery"
+		type=artillery
+		home=1667
+	}
+	regiment = {
+		name="1st Kyoto Artillery"
+		type=artillery
+		home=1657
+	}
+	regiment = {
+		name="1st Wakayama Artillery"
+		type=artillery
+		home=1656
+	}
+	regiment = {
+		name="2nd Kochi Irregulars"
+		type=irregular
+		home=1665
+	}
+}
+
+army = {
+	name="Kii Zei"
+	location=1089
+	regiment = {
+		name="9th Kobe Irregulars"
+		type=irregular
+		home=1659
+	}
+	regiment = {
+		name="3rd Wakayama Irregulars"
+		type=irregular
+		home=1656
+	}
+	regiment = {
+		name="10th Kobe Irregulars"
+		type=irregular
+		home=1659
+	}
+	regiment = {
+		name="1st Yamaguchi Irregulars"
+		type=irregular
+		home=1640
+	}
+	regiment = {
+		name="3rd Tokushima Artillery"
+		type=artillery
+		home=1667
+	}
+	regiment = {
+		name="4th Tokushima Artillery"
+		type=artillery
+		home=1667
+	}
+	regiment = {
 		name="9th Kobe Artillery"
 		type=artillery
 		home=1659
 	}
 	regiment = {
-		name="10th Kobe Artillery"
-		type=artillery
-		home=1659
-	}
-	regiment = {
-		name="5th Wakayama Irregulars"
+		name="4th Wakayama Irregulars"
 		type=irregular
 		home=1656
 	}
 	regiment = {
-		name="12th Kobe Artillery"
+		name="1st Yamaguchi Artillery"
 		type=artillery
-		home=1659
+		home=1640
 	}
 }
 
@@ -898,67 +898,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Aomori Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Osaka Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Wakayama Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Matsuyama Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Okinawa Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Okinawa Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Yamaguchi Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Matsue Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Osaka Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Okinawa Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Nagasaki Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Osaka Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Yokohama Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Etorofu Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="4th Okinawa Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Hakodate Clipper Transport"
+		name="1st Kobe Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -966,27 +906,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Kobe Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Etorofu Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="4th Osaka Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Shizuoka Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="5th Okinawa Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Miyazaki Clipper Transport"
+		name="1st Wakayama Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -994,7 +914,87 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Niigata Clipper Transport"
+		name="1st Matsue Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Wakayama Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Meakan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Okinawa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Matsuyama Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Okinawa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kochi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Morioka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Hiroshima Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Amami Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Boli Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Yamagata Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kobe Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Matsue Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Shizuoka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Kobe Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Osaka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Yamaguchi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Wakayama Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Matsuyama Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Shizuoka Clipper Transport"
 		type=clipper_transport
 	}
 }

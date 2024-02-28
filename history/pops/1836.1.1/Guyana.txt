@@ -17,7 +17,7 @@
 	{
 		culture = north_andean
 		religion = catholic
-		size= 675
+		size= 676
 	}
 
 	artisans=
@@ -45,7 +45,7 @@
 	{
 		culture = north_andean
 		religion = catholic
-		size= 2
+		size= 1
 	}
 
 	officers=
@@ -131,7 +131,7 @@
 	{
 		culture = north_andean
 		religion = catholic
-		size= 29
+		size= 22
 	}
 
 	officers=
@@ -303,7 +303,7 @@
 	{
 		culture = north_andean
 		religion = catholic
-		size= 17
+		size= 13
 	}
 
 	officers=

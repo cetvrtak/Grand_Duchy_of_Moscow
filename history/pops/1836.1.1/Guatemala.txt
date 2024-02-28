@@ -24,7 +24,7 @@
 	{
 		culture = mayan
 		religion = mayan
-		size= 3
+		size= 2
 	}
 
 	officers=
@@ -45,7 +45,7 @@
 	{
 		culture = mayan
 		religion = mayan
-		size= 9645
+		size= 9646
 	}
 
 	soldiers=
@@ -73,7 +73,7 @@
 	{
 		culture = mayan
 		religion = protestant
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -94,14 +94,14 @@
 	{
 		culture = mayan
 		religion = protestant
-		size= 605
+		size= 606
 	}
 
 	soldiers=
 	{
 		culture = yankee
 		religion = protestant
-		size= 504
+		size= 1033
 	}
 
 	artisans=
@@ -122,7 +122,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 43
+		size= 28
 	}
 
 	officers=
@@ -143,7 +143,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 22924
+		size= 22410
 	}
 
 }
@@ -173,7 +173,7 @@
 	{
 		culture = mayan
 		religion = mayan
-		size= 4
+		size= 2
 	}
 
 	officers=
@@ -194,7 +194,7 @@
 	{
 		culture = mayan
 		religion = mayan
-		size= 4844
+		size= 4846
 	}
 
 	soldiers=
@@ -222,7 +222,7 @@
 	{
 		culture = mayan
 		religion = catholic
-		size= 34
+		size= 22
 	}
 
 	officers=
@@ -243,7 +243,7 @@
 	{
 		culture = mayan
 		religion = catholic
-		size= 18653
+		size= 18665
 	}
 
 }
@@ -269,13 +269,6 @@
 		size= 3
 	}
 
-	bureaucrats=
-	{
-		culture = mayan
-		religion = mayan
-		size= 1
-	}
-
 	officers=
 	{
 		culture = mayan
@@ -294,7 +287,7 @@
 	{
 		culture = mayan
 		religion = mayan
-		size= 3463
+		size= 3464
 	}
 
 	soldiers=
@@ -318,13 +311,6 @@
 		size= 3
 	}
 
-	bureaucrats=
-	{
-		culture = mayan
-		religion = catholic
-		size= 1
-	}
-
 	officers=
 	{
 		culture = mayan
@@ -343,7 +329,7 @@
 	{
 		culture = mayan
 		religion = catholic
-		size= 107
+		size= 108
 	}
 
 	soldiers=
@@ -371,7 +357,7 @@
 	{
 		culture = central_american
 		religion = catholic
-		size= 4
+		size= 2
 	}
 
 	officers=
@@ -392,7 +378,7 @@
 	{
 		culture = central_american
 		religion = catholic
-		size= 2953
+		size= 2955
 	}
 
 	soldiers=
@@ -420,7 +406,7 @@
 	{
 		culture = mexican
 		religion = catholic
-		size= 21
+		size= 13
 	}
 
 	officers=
@@ -441,7 +427,7 @@
 	{
 		culture = mexican
 		religion = catholic
-		size= 9526
+		size= 9534
 	}
 
 }
@@ -541,7 +527,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 5
+		size= 3
 	}
 
 	officers=
@@ -562,7 +548,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 2300
+		size= 2302
 	}
 
 }
@@ -592,7 +578,7 @@
 	{
 		culture = mayan
 		religion = mayan
-		size= 5
+		size= 3
 	}
 
 	officers=
@@ -613,7 +599,7 @@
 	{
 		culture = mayan
 		religion = mayan
-		size= 14222
+		size= 14224
 	}
 
 	soldiers=
@@ -641,7 +627,7 @@
 	{
 		culture = mayan
 		religion = protestant
-		size= 11
+		size= 7
 	}
 
 	officers=
@@ -662,7 +648,7 @@
 	{
 		culture = mayan
 		religion = protestant
-		size= 7539
+		size= 7543
 	}
 
 	soldiers=
@@ -690,7 +676,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 30
+		size= 19
 	}
 
 	officers=
@@ -711,7 +697,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 6993
+		size= 7004
 	}
 
 }

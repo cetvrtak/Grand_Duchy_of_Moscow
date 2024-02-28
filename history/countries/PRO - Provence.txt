@@ -65,6 +65,7 @@ no_standard = 1
 piston_steam_engine = 1
 post_napoleonic_thought = 1
 post_nelsonian_thought = 1
+private_banks = 1
 the_command_principle = 1
 prestige=0.000143884
 oob = "PRO_OOB.txt"

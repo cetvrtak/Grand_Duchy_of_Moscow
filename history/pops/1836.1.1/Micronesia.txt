@@ -91,7 +91,7 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 948
+		size= 949
 	}
 
 	artisans=
@@ -126,7 +126,7 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -156,7 +156,7 @@
 	{
 		culture = australienne
 		religion = catholic
-		size= 1242
+		size= 1243
 	}
 
 	artisans=
@@ -191,7 +191,7 @@
 	{
 		culture = australienne
 		religion = catholic
-		size= 5
+		size= 4
 	}
 
 	officers=
@@ -398,13 +398,6 @@
 		size= 1
 	}
 
-	bureaucrats=
-	{
-		culture = janubii
-		religion = sunni
-		size= 1
-	}
-
 	aristocrats=
 	{
 		culture = janubii
@@ -416,7 +409,7 @@
 	{
 		culture = janubii
 		religion = sunni
-		size= 139
+		size= 140
 	}
 
 }
@@ -448,7 +441,7 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 2075
+		size= 2076
 	}
 
 	artisans=
@@ -472,18 +465,18 @@
 		size= 25
 	}
 
-	bureaucrats=
-	{
-		culture = australian
-		religion = protestant
-		size= 9
-	}
-
 	soldiers=
 	{
 		culture = australian
 		religion = protestant
 		size= 131
+	}
+
+	bureaucrats=
+	{
+		culture = australian
+		religion = protestant
+		size= 7
 	}
 
 	officers=
@@ -513,7 +506,7 @@
 	{
 		culture = australienne
 		religion = catholic
-		size= 432
+		size= 433
 	}
 
 	artisans=
@@ -541,7 +534,7 @@
 	{
 		culture = australienne
 		religion = catholic
-		size= 2
+		size= 1
 	}
 
 	aristocrats=

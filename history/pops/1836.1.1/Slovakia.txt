@@ -6,13 +6,6 @@
 		size= 8000
 	}
 
-	craftsmen=
-	{
-		culture = slovak
-		religion = catholic
-		size= 8070
-	}
-
 	artisans=
 	{
 		culture = slovak
@@ -27,18 +20,11 @@
 		size= 2499
 	}
 
-	clerks=
-	{
-		culture = slovak
-		religion = catholic
-		size= 493
-	}
-
 	bureaucrats=
 	{
 		culture = slovak
 		religion = catholic
-		size= 499
+		size= 410
 	}
 
 	officers=
@@ -46,13 +32,6 @@
 		culture = slovak
 		religion = catholic
 		size= 428
-	}
-
-	capitalists=
-	{
-		culture = slovak
-		religion = catholic
-		size= 88
 	}
 
 	aristocrats=
@@ -66,7 +45,7 @@
 	{
 		culture = slovak
 		religion = catholic
-		size= 119734
+		size= 128574
 	}
 
 	aristocrats=
@@ -95,13 +74,6 @@
 		culture = ashkenazi
 		religion = jewish
 		size= 200
-	}
-
-	craftsmen=
-	{
-		culture = ashkenazi
-		religion = jewish
-		size= 100
 	}
 
 	farmers=
@@ -138,7 +110,7 @@
 	{
 		culture = slovak
 		religion = catholic
-		size= 324
+		size= 273
 	}
 
 	officers=
@@ -159,7 +131,7 @@
 	{
 		culture = slovak
 		religion = catholic
-		size= 81183
+		size= 81234
 	}
 
 	clergymen=
@@ -217,7 +189,7 @@
 	{
 		culture = slovak
 		religion = catholic
-		size= 64
+		size= 51
 	}
 
 	officers=
@@ -238,7 +210,7 @@
 	{
 		culture = slovak
 		religion = catholic
-		size= 49874
+		size= 49887
 	}
 
 	soldiers=
@@ -266,7 +238,7 @@
 	{
 		culture = slovak
 		religion = protestant
-		size= 193
+		size= 153
 	}
 
 	officers=
@@ -287,7 +259,7 @@
 	{
 		culture = slovak
 		religion = protestant
-		size= 46956
+		size= 46996
 	}
 
 }
@@ -317,7 +289,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 24
+		size= 19
 	}
 
 	officers=
@@ -338,7 +310,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 36766
+		size= 36772
 	}
 
 	soldiers=
@@ -366,7 +338,7 @@
 	{
 		culture = hungarian
 		religion = protestant
-		size= 53
+		size= 42
 	}
 
 	officers=
@@ -387,7 +359,7 @@
 	{
 		culture = hungarian
 		religion = protestant
-		size= 19769
+		size= 19780
 	}
 
 	soldiers=
@@ -415,7 +387,7 @@
 	{
 		culture = slovak
 		religion = protestant
-		size= 115
+		size= 91
 	}
 
 	officers=
@@ -436,7 +408,7 @@
 	{
 		culture = slovak
 		religion = protestant
-		size= 7507
+		size= 7531
 	}
 
 }
@@ -466,7 +438,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 139
+		size= 118
 	}
 
 	officers=
@@ -487,7 +459,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 86527
+		size= 86548
 	}
 
 	soldiers=
@@ -515,7 +487,7 @@
 	{
 		culture = hungarian
 		religion = protestant
-		size= 20
+		size= 17
 	}
 
 	officers=
@@ -557,7 +529,7 @@
 	{
 		culture = slovak
 		religion = catholic
-		size= 237
+		size= 200
 	}
 
 	officers=
@@ -578,7 +550,7 @@
 	{
 		culture = slovak
 		religion = catholic
-		size= 10531
+		size= 10568
 	}
 
 }
@@ -608,7 +580,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 44
+		size= 37
 	}
 
 	officers=
@@ -629,7 +601,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 27066
+		size= 27073
 	}
 
 	soldiers=
@@ -657,7 +629,7 @@
 	{
 		culture = hungarian
 		religion = protestant
-		size= 6
+		size= 5
 	}
 
 	officers=
@@ -699,7 +671,7 @@
 	{
 		culture = slovak
 		religion = catholic
-		size= 75
+		size= 64
 	}
 
 	officers=
@@ -720,7 +692,7 @@
 	{
 		culture = slovak
 		religion = catholic
-		size= 3293
+		size= 3304
 	}
 
 }

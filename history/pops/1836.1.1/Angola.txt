@@ -173,7 +173,7 @@
 	{
 		culture = bakongo
 		religion = shamanism
-		size= 19411
+		size= 19423
 	}
 
 	slaves=
@@ -211,13 +211,6 @@
 		size= 344
 	}
 
-	bureaucrats=
-	{
-		culture = bakongo
-		religion = shamanism
-		size= 64
-	}
-
 	aristocrats=
 	{
 		culture = bakongo
@@ -236,7 +229,7 @@
 	{
 		culture = bakongo
 		religion = catholic
-		size= 23
+		size= 19
 	}
 
 	aristocrats=
@@ -244,6 +237,13 @@
 		culture = bakongo
 		religion = catholic
 		size= 66
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 52
 	}
 
 	officers=

@@ -506,29 +506,29 @@ army = {
 	name="4th Army"
 	location=2296
 	regiment = {
-		name="1st Puno Infantry"
+		name="1st Lima Infantry"
 		type=infantry
+		home=2295
+	}
+	regiment = {
+		name="1st Tacna Infantry"
+		type=infantry
+		home=2578
+	}
+	regiment = {
+		name="1st Puno Cavalry"
+		type=cavalry
 		home=2303
 	}
 	regiment = {
-		name="1st Pucallpa Infantry"
+		name="1st La Paz Infantry"
 		type=infantry
-		home=2300
+		home=2310
 	}
 	regiment = {
-		name="1st Huánuco Cavalry"
+		name="1st Tacna Cavalry"
 		type=cavalry
-		home=2293
-	}
-	regiment = {
-		name="2nd Puno Infantry"
-		type=infantry
-		home=2303
-	}
-	regiment = {
-		name="1st Cusco Cavalry"
-		type=cavalry
-		home=2302
+		home=2578
 	}
 }
 

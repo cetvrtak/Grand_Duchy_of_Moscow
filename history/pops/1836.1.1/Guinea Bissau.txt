@@ -31,7 +31,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 75
+		size= 61
 	}
 
 	officers=
@@ -52,7 +52,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 18630
+		size= 18644
 	}
 
 }
@@ -89,7 +89,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 61
+		size= 50
 	}
 
 	officers=
@@ -110,7 +110,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 14981
+		size= 14992
 	}
 
 }

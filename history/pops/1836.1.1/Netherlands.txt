@@ -24,7 +24,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 47
+		size= 34
 	}
 
 	officers=
@@ -45,7 +45,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 43457
+		size= 43470
 	}
 
 	soldiers=
@@ -73,7 +73,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 170
+		size= 123
 	}
 
 	officers=
@@ -94,7 +94,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 47093
+		size= 47140
 	}
 
 }
@@ -124,7 +124,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 70
+		size= 58
 	}
 
 	officers=
@@ -145,7 +145,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 51141
+		size= 51153
 	}
 
 	soldiers=
@@ -173,7 +173,7 @@
 	{
 		culture = dutch
 		religion = animist
-		size= 17
+		size= 14
 	}
 
 	officers=
@@ -215,7 +215,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 319
+		size= 262
 	}
 
 	officers=
@@ -236,7 +236,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 55189
+		size= 55246
 	}
 
 }
@@ -266,7 +266,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 22
+		size= 18
 	}
 
 	officers=
@@ -287,7 +287,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 13779
+		size= 13783
 	}
 
 	soldiers=
@@ -315,7 +315,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 80
+		size= 64
 	}
 
 	officers=
@@ -336,7 +336,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 14983
+		size= 14999
 	}
 
 }
@@ -366,7 +366,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 74
+		size= 60
 	}
 
 	officers=
@@ -387,7 +387,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 16425
+		size= 16428
 	}
 
 	soldiers=
@@ -415,7 +415,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 45
+		size= 37
 	}
 
 	officers=
@@ -436,7 +436,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 18929
+		size= 18937
 	}
 
 }
@@ -466,7 +466,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 42
+		size= 30
 	}
 
 	officers=
@@ -487,7 +487,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 39288
+		size= 39300
 	}
 
 	soldiers=
@@ -515,7 +515,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 73
+		size= 53
 	}
 
 	officers=
@@ -536,7 +536,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 14361
+		size= 14365
 	}
 
 }
@@ -566,7 +566,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 16
+		size= 12
 	}
 
 	officers=
@@ -587,7 +587,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 15316
+		size= 15320
 	}
 
 	soldiers=
@@ -615,7 +615,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 58
+		size= 42
 	}
 
 	officers=
@@ -636,7 +636,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 16584
+		size= 16600
 	}
 
 }
@@ -666,7 +666,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 34
+		size= 26
 	}
 
 	officers=
@@ -715,7 +715,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 120
+		size= 86
 	}
 
 	officers=
@@ -736,7 +736,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 30966
+		size= 31000
 	}
 
 }
@@ -766,7 +766,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 25
+		size= 13
 	}
 
 	officers=
@@ -787,7 +787,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 43128
+		size= 43140
 	}
 
 	soldiers=
@@ -815,7 +815,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 96
+		size= 48
 	}
 
 	officers=
@@ -836,7 +836,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 49844
+		size= 49892
 	}
 
 }
@@ -866,7 +866,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 16
+		size= 12
 	}
 
 	officers=
@@ -887,7 +887,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 18640
+		size= 18644
 	}
 
 	soldiers=
@@ -915,7 +915,7 @@
 	{
 		culture = dutch
 		religion = animist
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -957,7 +957,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 71
+		size= 51
 	}
 
 	officers=
@@ -978,7 +978,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 20424
+		size= 20444
 	}
 
 }
@@ -1008,7 +1008,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 19
+		size= 14
 	}
 
 	officers=
@@ -1029,7 +1029,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 17960
+		size= 17965
 	}
 
 	soldiers=
@@ -1057,7 +1057,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 71
+		size= 52
 	}
 
 	officers=
@@ -1078,7 +1078,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 20342
+		size= 20361
 	}
 
 }
@@ -1108,7 +1108,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 15
+		size= 12
 	}
 
 	officers=
@@ -1129,7 +1129,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 20457
+		size= 20461
 	}
 
 	soldiers=
@@ -1157,7 +1157,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 125
+		size= 101
 	}
 
 	officers=
@@ -1178,7 +1178,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 20444
+		size= 20467
 	}
 
 }
@@ -1208,7 +1208,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 8
+		size= 6
 	}
 
 	officers=
@@ -1229,7 +1229,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 7320
+		size= 7322
 	}
 
 	soldiers=
@@ -1257,7 +1257,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 29
+		size= 21
 	}
 
 	officers=
@@ -1278,7 +1278,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 8293
+		size= 8301
 	}
 
 }

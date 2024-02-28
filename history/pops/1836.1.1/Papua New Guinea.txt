@@ -24,7 +24,7 @@
 	{
 		culture = melanesian
 		religion = animist
-		size= 60
+		size= 50
 	}
 
 	officers=
@@ -45,7 +45,7 @@
 	{
 		culture = melanesian
 		religion = animist
-		size= 18545
+		size= 18555
 	}
 
 }
@@ -75,7 +75,7 @@
 	{
 		culture = melanesian
 		religion = animist
-		size= 26
+		size= 21
 	}
 
 	officers=
@@ -96,7 +96,7 @@
 	{
 		culture = melanesian
 		religion = animist
-		size= 4610
+		size= 4615
 	}
 
 	soldiers=
@@ -124,7 +124,7 @@
 	{
 		culture = melanesian
 		religion = protestant
-		size= 30
+		size= 25
 	}
 
 	officers=
@@ -145,14 +145,14 @@
 	{
 		culture = melanesian
 		religion = protestant
-		size= 2307
+		size= 2312
 	}
 
 	soldiers=
 	{
 		culture = english
 		religion = protestant
-		size= 164
+		size= 1033
 	}
 
 	artisans=
@@ -173,7 +173,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 80
+		size= 67
 	}
 
 	officers=
@@ -194,7 +194,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 6339
+		size= 5483
 	}
 
 }
@@ -224,7 +224,7 @@
 	{
 		culture = melanesian
 		religion = animist
-		size= 76
+		size= 63
 	}
 
 	officers=
@@ -245,7 +245,7 @@
 	{
 		culture = melanesian
 		religion = animist
-		size= 22285
+		size= 22298
 	}
 
 }
@@ -275,7 +275,7 @@
 	{
 		culture = melanesian
 		religion = animist
-		size= 72
+		size= 60
 	}
 
 	officers=
@@ -296,7 +296,7 @@
 	{
 		culture = melanesian
 		religion = animist
-		size= 45417
+		size= 45429
 	}
 
 	soldiers=
@@ -324,7 +324,7 @@
 	{
 		culture = melanesian
 		religion = protestant
-		size= 82
+		size= 68
 	}
 
 	officers=
@@ -345,7 +345,7 @@
 	{
 		culture = melanesian
 		religion = protestant
-		size= 1605
+		size= 1619
 	}
 
 }
@@ -375,7 +375,7 @@
 	{
 		culture = melanesian
 		religion = animist
-		size= 175
+		size= 146
 	}
 
 	officers=
@@ -396,7 +396,7 @@
 	{
 		culture = melanesian
 		religion = animist
-		size= 53562
+		size= 53591
 	}
 
 }
@@ -426,7 +426,7 @@
 	{
 		culture = melanesian
 		religion = animist
-		size= 84
+		size= 70
 	}
 
 	officers=
@@ -447,7 +447,7 @@
 	{
 		culture = melanesian
 		religion = animist
-		size= 25677
+		size= 25691
 	}
 
 }
@@ -477,7 +477,7 @@
 	{
 		culture = melanesian
 		religion = animist
-		size= 34
+		size= 28
 	}
 
 	officers=
@@ -498,7 +498,7 @@
 	{
 		culture = melanesian
 		religion = animist
-		size= 10307
+		size= 10313
 	}
 
 }

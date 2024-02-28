@@ -391,7 +391,7 @@
 	{
 		culture = edo
 		religion = sunni
-		size= 68
+		size= 34
 	}
 
 	officers=
@@ -412,7 +412,7 @@
 	{
 		culture = edo
 		religion = sunni
-		size= 119761
+		size= 119795
 	}
 
 	slaves=
@@ -447,7 +447,7 @@
 	{
 		culture = edo
 		religion = ibadi
-		size= 6
+		size= 3
 	}
 
 	officers=
@@ -468,7 +468,7 @@
 	{
 		culture = edo
 		religion = ibadi
-		size= 1829
+		size= 1832
 	}
 
 	slaves=
@@ -503,7 +503,7 @@
 	{
 		culture = edo
 		religion = catholic
-		size= 215
+		size= 107
 	}
 
 	officers=
@@ -524,7 +524,7 @@
 	{
 		culture = edo
 		religion = catholic
-		size= 105603
+		size= 105711
 	}
 
 }
@@ -875,7 +875,7 @@
 	{
 		culture = yoruba
 		religion = sunni
-		size= 164
+		size= 130
 	}
 
 	officers=
@@ -896,7 +896,7 @@
 	{
 		culture = yoruba
 		religion = sunni
-		size= 48775
+		size= 48809
 	}
 
 }
@@ -991,7 +991,7 @@
 	{
 		culture = ibo
 		religion = sunni
-		size= 429
+		size= 322
 	}
 
 	officers=
@@ -1012,7 +1012,7 @@
 	{
 		culture = ibo
 		religion = sunni
-		size= 152044
+		size= 152151
 	}
 
 }
@@ -1967,7 +1967,7 @@
 	{
 		culture = hausa
 		religion = sunni
-		size= 124
+		size= 93
 	}
 
 	officers=
@@ -1988,7 +1988,7 @@
 	{
 		culture = hausa
 		religion = sunni
-		size= 53064
+		size= 53095
 	}
 
 }

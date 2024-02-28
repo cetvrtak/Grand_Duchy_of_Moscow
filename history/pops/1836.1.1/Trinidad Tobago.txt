@@ -143,7 +143,7 @@
 	{
 		culture = mexican
 		religion = catholic
-		size= 15
+		size= 13
 	}
 
 	officers=
@@ -192,7 +192,7 @@
 	{
 		culture = mexican
 		religion = protestant
-		size= 19
+		size= 16
 	}
 
 	officers=
@@ -313,7 +313,7 @@
 	{
 		culture = mexican
 		religion = catholic
-		size= 5
+		size= 4
 	}
 
 	officers=
@@ -362,7 +362,7 @@
 	{
 		culture = mexican
 		religion = protestant
-		size= 6
+		size= 5
 	}
 
 	officers=

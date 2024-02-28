@@ -512,19 +512,9 @@ army = {
 	name="2nd Army"
 	location=1427
 	regiment = {
-		name="1st Tarakan Irregulars"
-		type=irregular
-		home=1425
-	}
-	regiment = {
 		name="1st Banjarmasin Irregulars"
 		type=irregular
 		home=1423
-	}
-	regiment = {
-		name="1st Kota Waringin Artillery"
-		type=artillery
-		home=1427
 	}
 	regiment = {
 		name="1st Kota Waringin Irregulars"
@@ -532,9 +522,19 @@ army = {
 		home=1427
 	}
 	regiment = {
-		name="1st Muraleve Artillery"
+		name="1st Tarakan Artillery"
 		type=artillery
-		home=1422
+		home=1425
+	}
+	regiment = {
+		name="1st Samarinda Irregulars"
+		type=irregular
+		home=1429
+	}
+	regiment = {
+		name="2nd Sintang Artillery"
+		type=artillery
+		home=1428
 	}
 }
 
@@ -554,11 +554,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Samarinda Clipper Transport"
+		name="1st Tarakan Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Tarakan Clipper Transport"
+		name="1st Banjarmasin Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -581,31 +581,31 @@ navy = {
 
 army = {
 	name="1st Army"
-	location=1424
+	location=1423
+	regiment = {
+		name="2nd Kota Waringin Irregulars"
+		type=irregular
+		home=1427
+	}
+	regiment = {
+		name="1st Tarakan Irregulars"
+		type=irregular
+		home=1425
+	}
 	regiment = {
 		name="2nd Tarakan Irregulars"
 		type=irregular
 		home=1425
 	}
 	regiment = {
+		name="1st Sintang Artillery"
+		type=artillery
+		home=1428
+	}
+	regiment = {
 		name="3rd Tarakan Irregulars"
 		type=irregular
 		home=1425
-	}
-	regiment = {
-		name="4th Tarakan Irregulars"
-		type=irregular
-		home=1425
-	}
-	regiment = {
-		name="1st Samarinda Artillery"
-		type=artillery
-		home=1429
-	}
-	regiment = {
-		name="1st Sintang Irregulars"
-		type=irregular
-		home=1428
 	}
 }
 

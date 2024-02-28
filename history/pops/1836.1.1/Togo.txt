@@ -110,7 +110,7 @@
 	{
 		culture = akan
 		religion = sunni
-		size= 11
+		size= 8
 	}
 
 	officers=
@@ -131,7 +131,7 @@
 	{
 		culture = akan
 		religion = sunni
-		size= 9397
+		size= 9400
 	}
 
 	slaves=
@@ -166,7 +166,7 @@
 	{
 		culture = yoruba
 		religion = sunni
-		size= 44
+		size= 33
 	}
 
 	officers=
@@ -187,7 +187,7 @@
 	{
 		culture = yoruba
 		religion = sunni
-		size= 13211
+		size= 13222
 	}
 
 }
@@ -213,13 +213,6 @@
 		size= 2
 	}
 
-	bureaucrats=
-	{
-		culture = fon
-		religion = sunni
-		size= 1
-	}
-
 	aristocrats=
 	{
 		culture = fon
@@ -231,7 +224,7 @@
 	{
 		culture = fon
 		religion = sunni
-		size= 1966
+		size= 1967
 	}
 
 	soldiers=
@@ -259,7 +252,7 @@
 	{
 		culture = yoruba
 		religion = sunni
-		size= 7
+		size= 5
 	}
 
 	officers=
@@ -280,7 +273,7 @@
 	{
 		culture = yoruba
 		religion = sunni
-		size= 2665
+		size= 2667
 	}
 
 	soldiers=
@@ -308,7 +301,7 @@
 	{
 		culture = yoruba
 		religion = kharijite
-		size= 3
+		size= 2
 	}
 
 	officers=

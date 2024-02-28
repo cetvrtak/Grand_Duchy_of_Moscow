@@ -31,7 +31,7 @@
 	{
 		culture = nguni
 		religion = shamanism
-		size= 211
+		size= 176
 	}
 
 	officers=
@@ -52,7 +52,7 @@
 	{
 		culture = nguni
 		religion = shamanism
-		size= 55694
+		size= 55729
 	}
 
 }
@@ -89,7 +89,7 @@
 	{
 		culture = nguni
 		religion = shamanism
-		size= 186
+		size= 155
 	}
 
 	officers=
@@ -110,7 +110,7 @@
 	{
 		culture = nguni
 		religion = shamanism
-		size= 35145
+		size= 35176
 	}
 
 }
@@ -147,7 +147,7 @@
 	{
 		culture = nguni
 		religion = shamanism
-		size= 206
+		size= 171
 	}
 
 	officers=
@@ -168,7 +168,7 @@
 	{
 		culture = nguni
 		religion = shamanism
-		size= 53109
+		size= 53144
 	}
 
 }
@@ -205,7 +205,7 @@
 	{
 		culture = nguni
 		religion = shamanism
-		size= 33
+		size= 28
 	}
 
 	officers=
@@ -226,7 +226,7 @@
 	{
 		culture = nguni
 		religion = shamanism
-		size= 5594
+		size= 5599
 	}
 
 	slaves=
@@ -261,7 +261,7 @@
 	{
 		culture = shona
 		religion = shamanism
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -282,7 +282,7 @@
 	{
 		culture = shona
 		religion = shamanism
-		size= 6313
+		size= 6314
 	}
 
 	slaves=
@@ -317,7 +317,7 @@
 	{
 		culture = shona
 		religion = sunni
-		size= 153
+		size= 127
 	}
 
 	officers=
@@ -338,7 +338,7 @@
 	{
 		culture = shona
 		religion = sunni
-		size= 21921
+		size= 21947
 	}
 
 	slaves=
@@ -373,7 +373,7 @@
 	{
 		culture = shona
 		religion = shiite
-		size= 9
+		size= 8
 	}
 
 	officers=
@@ -859,7 +859,7 @@
 	{
 		culture = nguni
 		religion = sunni
-		size= 30
+		size= 24
 	}
 
 	officers=
@@ -880,7 +880,7 @@
 	{
 		culture = nguni
 		religion = sunni
-		size= 21597
+		size= 21603
 	}
 
 	slaves=
@@ -915,7 +915,7 @@
 	{
 		culture = shona
 		religion = sunni
-		size= 137
+		size= 108
 	}
 
 	officers=
@@ -936,7 +936,7 @@
 	{
 		culture = shona
 		religion = sunni
-		size= 36661
+		size= 36690
 	}
 
 }
@@ -1017,7 +1017,7 @@
 	{
 		culture = nyasa
 		religion = sunni
-		size= 52
+		size= 42
 	}
 
 	officers=
@@ -1038,7 +1038,7 @@
 	{
 		culture = nyasa
 		religion = sunni
-		size= 13016
+		size= 13026
 	}
 
 }
@@ -1075,7 +1075,7 @@
 	{
 		culture = swahili
 		religion = sunni
-		size= 64
+		size= 53
 	}
 
 	officers=
@@ -1096,7 +1096,7 @@
 	{
 		culture = swahili
 		religion = sunni
-		size= 11645
+		size= 11655
 	}
 
 	slaves=
@@ -1154,7 +1154,7 @@
 	{
 		culture = swahili
 		religion = sunni
-		size= 125
+		size= 99
 	}
 
 	officers=
@@ -1175,7 +1175,7 @@
 	{
 		culture = swahili
 		religion = sunni
-		size= 47415
+		size= 47441
 	}
 
 	slaves=
@@ -1210,7 +1210,7 @@
 	{
 		culture = swahili
 		religion = shiite
-		size= 10
+		size= 8
 	}
 
 	officers=
@@ -1261,7 +1261,7 @@
 	{
 		culture = swahili
 		religion = sunni
-		size= 176
+		size= 146
 	}
 
 	officers=
@@ -1282,7 +1282,7 @@
 	{
 		culture = swahili
 		religion = sunni
-		size= 45458
+		size= 45487
 	}
 
 	slaves=
@@ -1340,7 +1340,7 @@
 	{
 		culture = makua
 		religion = shamanism
-		size= 128
+		size= 96
 	}
 
 	officers=
@@ -1361,7 +1361,7 @@
 	{
 		culture = makua
 		religion = shamanism
-		size= 51164
+		size= 51196
 	}
 
 }
@@ -1398,7 +1398,7 @@
 	{
 		culture = nyasa
 		religion = shamanism
-		size= 3
+		size= 2
 	}
 
 	officers=
@@ -1419,7 +1419,7 @@
 	{
 		culture = nyasa
 		religion = shamanism
-		size= 3762
+		size= 3763
 	}
 
 	slaves=
@@ -1454,7 +1454,7 @@
 	{
 		culture = nyasa
 		religion = sunni
-		size= 9
+		size= 7
 	}
 
 	officers=
@@ -1475,7 +1475,7 @@
 	{
 		culture = nyasa
 		religion = sunni
-		size= 4809
+		size= 4811
 	}
 
 	slaves=
@@ -1510,7 +1510,7 @@
 	{
 		culture = shona
 		religion = sunni
-		size= 40
+		size= 30
 	}
 
 	officers=
@@ -1531,7 +1531,7 @@
 	{
 		culture = shona
 		religion = sunni
-		size= 8674
+		size= 8684
 	}
 
 }

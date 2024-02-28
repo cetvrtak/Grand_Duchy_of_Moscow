@@ -24,7 +24,7 @@
 	{
 		culture = maori
 		religion = animist
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -45,14 +45,14 @@
 	{
 		culture = maori
 		religion = animist
-		size= 2508
+		size= 2509
 	}
 
 	soldiers=
 	{
 		culture = maori
 		religion = protestant
-		size= 176
+		size= 1033
 	}
 
 	artisans=
@@ -73,7 +73,7 @@
 	{
 		culture = maori
 		religion = protestant
-		size= 12
+		size= 9
 	}
 
 	officers=
@@ -94,7 +94,7 @@
 	{
 		culture = maori
 		religion = protestant
-		size= 2668
+		size= 1814
 	}
 
 }
@@ -173,7 +173,7 @@
 	{
 		culture = maori
 		religion = protestant
-		size= 6
+		size= 5
 	}
 
 	officers=
@@ -194,7 +194,7 @@
 	{
 		culture = maori
 		religion = protestant
-		size= 1831
+		size= 1832
 	}
 
 }
@@ -224,7 +224,7 @@
 	{
 		culture = maori
 		religion = animist
-		size= 2
+		size= 1
 	}
 
 	officers=
@@ -245,7 +245,7 @@
 	{
 		culture = maori
 		religion = animist
-		size= 1451
+		size= 1452
 	}
 
 	soldiers=
@@ -273,7 +273,7 @@
 	{
 		culture = maori
 		religion = protestant
-		size= 5
+		size= 4
 	}
 
 	officers=
@@ -294,7 +294,7 @@
 	{
 		culture = maori
 		religion = protestant
-		size= 1260
+		size= 1261
 	}
 
 }
@@ -373,7 +373,7 @@
 	{
 		culture = maori
 		religion = protestant
-		size= 5
+		size= 4
 	}
 
 	officers=
@@ -394,7 +394,7 @@
 	{
 		culture = maori
 		religion = protestant
-		size= 1718
+		size= 1719
 	}
 
 }
@@ -582,7 +582,7 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 5
+		size= 4
 	}
 
 	officers=
@@ -596,7 +596,7 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 1181
+		size= 1182
 	}
 
 }
@@ -675,7 +675,7 @@
 	{
 		culture = maori
 		religion = protestant
-		size= 6
+		size= 5
 	}
 
 	officers=
@@ -696,7 +696,7 @@
 	{
 		culture = maori
 		religion = protestant
-		size= 1903
+		size= 1904
 	}
 
 }

@@ -513,7 +513,7 @@ navy = {
 	name="1st Fleet"
 	location=2410
 	ship = {
-		name="1st Belém Clipper Transport"
+		name="1st São Luís Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -521,20 +521,20 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Belém Clipper Transport"
+		name="3rd São Luís Clipper Transport"
 		type=clipper_transport
 	}
 }
 
 navy = {
 	name="3rd Fleet"
-	location=2985
+	location=2984
 	ship = {
-		name="2nd Belém Frigate"
+		name="1st Belém Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st São Luís Frigate"
+		name="2nd Belém Frigate"
 		type=frigate
 	}
 }

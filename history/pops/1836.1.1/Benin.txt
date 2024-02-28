@@ -159,7 +159,7 @@
 	{
 		culture = akan
 		religion = sunni
-		size= 47
+		size= 36
 	}
 
 	officers=
@@ -180,7 +180,7 @@
 	{
 		culture = akan
 		religion = sunni
-		size= 38624
+		size= 38635
 	}
 
 	slaves=
@@ -215,7 +215,7 @@
 	{
 		culture = yoruba
 		religion = sunni
-		size= 189
+		size= 142
 	}
 
 	officers=
@@ -236,7 +236,7 @@
 	{
 		culture = yoruba
 		religion = sunni
-		size= 54145
+		size= 54192
 	}
 
 }
@@ -394,7 +394,7 @@
 	{
 		culture = yoruba
 		religion = sunni
-		size= 10
+		size= 8
 	}
 
 	officers=
@@ -415,7 +415,7 @@
 	{
 		culture = yoruba
 		religion = sunni
-		size= 3662
+		size= 3664
 	}
 
 	soldiers=
@@ -443,7 +443,7 @@
 	{
 		culture = yoruba
 		religion = kharijite
-		size= 4
+		size= 3
 	}
 
 	officers=

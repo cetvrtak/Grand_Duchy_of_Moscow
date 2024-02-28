@@ -161,7 +161,7 @@
 	{
 		culture = akan
 		religion = sunni
-		size= 54
+		size= 43
 	}
 
 	officers=
@@ -182,7 +182,7 @@
 	{
 		culture = akan
 		religion = sunni
-		size= 16452
+		size= 16463
 	}
 
 }
@@ -377,7 +377,7 @@
 	{
 		culture = akan
 		religion = sunni
-		size= 41
+		size= 31
 	}
 
 	officers=
@@ -398,7 +398,7 @@
 	{
 		culture = akan
 		religion = sunni
-		size= 13298
+		size= 13308
 	}
 
 }
@@ -435,7 +435,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 191
+		size= 151
 	}
 
 	officers=
@@ -456,7 +456,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 61074
+		size= 61114
 	}
 
 }
@@ -493,7 +493,7 @@
 	{
 		culture = akan
 		religion = sunni
-		size= 110
+		size= 83
 	}
 
 	officers=
@@ -514,7 +514,7 @@
 	{
 		culture = akan
 		religion = sunni
-		size= 39704
+		size= 39731
 	}
 
 }
@@ -530,7 +530,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 3757
+		size= 7233
 	}
 
 	artisans=
@@ -551,7 +551,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 188
+		size= 154
 	}
 
 	officers=
@@ -572,7 +572,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 44193
+		size= 40751
 	}
 
 }

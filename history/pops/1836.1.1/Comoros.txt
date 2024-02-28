@@ -31,7 +31,7 @@
 	{
 		culture = kilombero
 		religion = sunni
-		size= 10
+		size= 9
 	}
 
 	officers=
@@ -52,7 +52,7 @@
 	{
 		culture = kilombero
 		religion = sunni
-		size= 6148
+		size= 6149
 	}
 
 	slaves=
@@ -87,7 +87,7 @@
 	{
 		culture = kilombero
 		religion = catholic
-		size= 29
+		size= 24
 	}
 
 	officers=
@@ -108,7 +108,7 @@
 	{
 		culture = kilombero
 		religion = catholic
-		size= 5196
+		size= 5201
 	}
 
 }
@@ -194,7 +194,7 @@
 	{
 		culture = kilombero
 		religion = catholic
-		size= 2
+		size= 1
 	}
 
 	officers=
@@ -215,7 +215,7 @@
 	{
 		culture = kilombero
 		religion = catholic
-		size= 211
+		size= 212
 	}
 
 }

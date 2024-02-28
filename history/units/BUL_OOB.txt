@@ -526,19 +526,79 @@ army = {
 	name="19th Army"
 	location=894
 	regiment = {
+		name="1st Izmir Infantry"
+		type=infantry
+		home=869
+	}
+	regiment = {
+		name="1st Ruse Infantry"
+		type=infantry
+		home=811
+	}
+	regiment = {
+		name="1st Aleppo Infantry"
+		type=infantry
+		home=897
+	}
+	regiment = {
 		name="1st Chios Infantry"
 		type=infantry
 		home=843
 	}
 	regiment = {
-		name="1st Bitola Infantry"
+		name="1st Amasya Infantry"
 		type=infantry
-		home=807
+		home=877
 	}
 	regiment = {
-		name="1st Niš Infantry"
+		name="1st Afyon Infantry"
 		type=infantry
-		home=798
+		home=866
+	}
+	regiment = {
+		name="1st Izmir Artillery"
+		type=artillery
+		home=869
+	}
+	regiment = {
+		name="1st Shumen Artillery"
+		type=artillery
+		home=813
+	}
+	regiment = {
+		name="1st Bucharest Infantry"
+		type=infantry
+		home=664
+	}
+	regiment = {
+		name="2nd Izmir Artillery"
+		type=artillery
+		home=869
+	}
+}
+
+army = {
+	name="56th Army"
+	location=884
+	regiment = {
+		name="1st Burdur Infantry"
+		type=infantry
+		home=874
+	}
+	regiment = {
+		name="1st Sofia Infantry"
+		type=infantry
+		home=809
+	}
+	regiment = {
+		name="1st Sivas Infantry"
+		type=infantry
+		home=879
+	}
+	regiment = {
+		name="1st Pleven Infantry"
+		type=infantry
+		home=812
 	}
 	regiment = {
 		name="2nd Chios Infantry"
@@ -551,84 +611,24 @@ army = {
 		home=843
 	}
 	regiment = {
-		name="1st Marash Infantry"
-		type=infantry
-		home=896
-	}
-	regiment = {
-		name="1st Izmir Artillery"
+		name="1st Silistre Artillery"
 		type=artillery
-		home=869
-	}
-	regiment = {
-		name="1st Burdur Artillery"
-		type=artillery
-		home=874
-	}
-	regiment = {
-		name="1st Damascus Infantry"
-		type=infantry
-		home=902
+		home=818
 	}
 	regiment = {
 		name="1st Varna Artillery"
 		type=artillery
 		home=814
 	}
-}
-
-army = {
-	name="56th Army"
-	location=884
 	regiment = {
-		name="4th Chios Infantry"
+		name="2nd Sivas Infantry"
 		type=infantry
-		home=843
-	}
-	regiment = {
-		name="5th Chios Infantry"
-		type=infantry
-		home=843
-	}
-	regiment = {
-		name="1st Konya Infantry"
-		type=infantry
-		home=873
-	}
-	regiment = {
-		name="1st Pleven Infantry"
-		type=infantry
-		home=812
-	}
-	regiment = {
-		name="1st Homs Infantry"
-		type=infantry
-		home=903
-	}
-	regiment = {
-		name="1st Sofia Infantry"
-		type=infantry
-		home=809
-	}
-	regiment = {
-		name="1st Mugla Artillery"
-		type=artillery
-		home=872
+		home=879
 	}
 	regiment = {
 		name="1st Tulcea Artillery"
 		type=artillery
 		home=675
-	}
-	regiment = {
-		name="2nd Afyon Infantry"
-		type=infantry
-		home=866
-	}
-	regiment = {
-		name="1st Pleven Artillery"
-		type=artillery
-		home=812
 	}
 }
 
@@ -636,19 +636,24 @@ army = {
 	name="1st Army"
 	location=817
 	regiment = {
-		name="1st Beirut Infantry"
+		name="2nd Izmir Infantry"
 		type=infantry
-		home=913
+		home=869
 	}
 	regiment = {
-		name="2nd Pleven Infantry"
+		name="3rd Izmir Infantry"
 		type=infantry
-		home=812
+		home=869
 	}
 	regiment = {
-		name="1st Bucharest Infantry"
+		name="1st Ankara Infantry"
 		type=infantry
-		home=664
+		home=876
+	}
+	regiment = {
+		name="1st Marash Infantry"
+		type=infantry
+		home=896
 	}
 	regiment = {
 		name="1st Sinop Infantry"
@@ -656,14 +661,9 @@ army = {
 		home=883
 	}
 	regiment = {
-		name="2nd Sinop Infantry"
+		name="1st Niš Infantry"
 		type=infantry
-		home=883
-	}
-	regiment = {
-		name="1st Istanbul Infantry"
-		type=infantry
-		home=860
+		home=798
 	}
 	regiment = {
 		name="1st Ruse Artillery"
@@ -671,14 +671,14 @@ army = {
 		home=811
 	}
 	regiment = {
-		name="1st Shumen Artillery"
+		name="1st Konya Artillery"
 		type=artillery
-		home=813
+		home=873
 	}
 	regiment = {
-		name="1st Constanta Artillery"
+		name="1st Skopje Artillery"
 		type=artillery
-		home=674
+		home=806
 	}
 }
 
@@ -686,29 +686,24 @@ army = {
 	name="3rd Army"
 	location=890
 	regiment = {
-		name="2nd Marash Infantry"
+		name="1st Malatya Infantry"
 		type=infantry
-		home=896
+		home=889
 	}
 	regiment = {
-		name="3rd Pleven Infantry"
+		name="1st Bolu Infantry"
 		type=infantry
-		home=812
+		home=881
 	}
 	regiment = {
-		name="1st Skopje Infantry"
-		type=infantry
-		home=806
-	}
-	regiment = {
-		name="2nd Konya Infantry"
+		name="1st Konya Infantry"
 		type=infantry
 		home=873
 	}
 	regiment = {
-		name="1st Kayseri Infantry"
+		name="1st Constanta Infantry"
 		type=infantry
-		home=878
+		home=674
 	}
 	regiment = {
 		name="1st Kastamonu Infantry"
@@ -716,14 +711,19 @@ army = {
 		home=880
 	}
 	regiment = {
-		name="1st Silistre Artillery"
-		type=artillery
-		home=818
+		name="1st Polygyros Infantry"
+		type=infantry
+		home=822
 	}
 	regiment = {
-		name="2nd Izmir Artillery"
+		name="1st Burdur Artillery"
 		type=artillery
-		home=869
+		home=874
+	}
+	regiment = {
+		name="1st Antalya Artillery"
+		type=artillery
+		home=875
 	}
 	regiment = {
 		name="2nd Burdur Artillery"
@@ -731,15 +731,15 @@ army = {
 		home=874
 	}
 	regiment = {
-		name="1st Myteline Artillery"
+		name="2nd Konya Artillery"
 		type=artillery
-		home=844
+		home=873
 	}
 }
 
 navy = {
 	name="6th Fleet"
-	location=823
+	location=830
 	ship = {
 		name="Lyuben Karavelov"
 		type=manowar
@@ -761,55 +761,55 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Mersin Man'o'war"
+		name="1st Polygyros Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Adana Man'o'war"
+		name="2nd Khalkis Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Gallipoli Man'o'war"
+		name="2nd Polygyros Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Myteline Man'o'war"
+		name="1st Tulcea Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Mugla Man'o'war"
+		name="1st Izmir Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Constanta Man'o'war"
+		name="1st Giresun Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Sinop Man'o'war"
+		name="2nd Mugla Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="2nd Sinop Man'o'war"
+		name="1st Dubrovnik Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Kavala Man'o'war"
+		name="3rd Polygyros Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="2nd Gallipoli Man'o'war"
+		name="1st Cattaro Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="3rd Gallipoli Man'o'war"
+		name="2nd Izmir Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="2nd Mersin Man'o'war"
+		name="3rd Mugla Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="3rd Mersin Man'o'war"
+		name="2nd Adana Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -833,15 +833,15 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Cattaro Frigate"
+		name="1st Chios Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Bulgarian Frigate"
+		name="1st Tulcea Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Cattaro Frigate"
+		name="2nd Adana Frigate"
 		type=frigate
 	}
 	ship = {
@@ -849,47 +849,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Burgas Clipper Transport"
+		name="1st Cattaro Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Canakkale Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Canakkale Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Mugla Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Myteline Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Myteline Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Polygyros Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Myteline Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Bulgarian Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Izmail Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Xanthe Clipper Transport"
+		name="1st Latakia Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -897,23 +861,15 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="4th Myteline Clipper Transport"
+		name="2nd Cattaro Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Canakkale Clipper Transport"
+		name="1st Myteline Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Bulgarian Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Chios Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Izmir Clipper Transport"
+		name="1st Burgas Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -921,39 +877,83 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Athens Clipper Transport"
+		name="2nd Latakia Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Kalamata Clipper Transport"
+		name="1st Polygyros Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Cyclades Clipper Transport"
+		name="3rd Cattaro Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Bulgarian Clipper Transport"
+		name="1st Gallipoli Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Trablos Clipper Transport"
+		name="2nd Mersin Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Antalya Clipper Transport"
+		name="1st Amfissa Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Dubrovnik Clipper Transport"
+		name="1st Dedeagatch Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Chios Frigate"
+		name="2nd Polygyros Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Beirut Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Dedeagatch Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kirklareli Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Varna Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Izmail Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kastamonu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kavala Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Cattaro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Canakkale Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Dodecanese Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Gallipoli Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Athens Clipper Transport"
+		name="2nd Dodecanese Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -962,11 +962,23 @@ navy = {
 	name="10th Fleet"
 	location=2777
 	ship = {
-		name="2nd Dodecanese Frigate"
+		name="1st Khalkis Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Balikesir Frigate"
+		name="3rd Adana Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Senj Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Latakia Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bolu Frigate"
 		type=frigate
 	}
 	ship = {
@@ -974,31 +986,19 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="2nd Mersin Frigate"
+		name="4th Adana Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Antakya Frigate"
+		name="1st Izmir Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Khalkis Frigate"
+		name="2nd Bolu Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Adana Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Mugla Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Khalkis Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Senj Frigate"
+		name="1st Dodecanese Frigate"
 		type=frigate
 	}
 }
@@ -1007,34 +1007,29 @@ army = {
 	name="5th Army"
 	location=859
 	regiment = {
-		name="1st Iasi Infantry"
+		name="1st Bitola Infantry"
 		type=infantry
-		home=670
+		home=807
 	}
 	regiment = {
-		name="1st Debar Infantry"
+		name="1st Leskovac Infantry"
 		type=infantry
-		home=1780
+		home=799
 	}
 	regiment = {
-		name="2nd Bucharest Infantry"
+		name="4th Chios Infantry"
 		type=infantry
-		home=664
+		home=843
 	}
 	regiment = {
-		name="1st Afyon Infantry"
+		name="5th Chios Infantry"
 		type=infantry
-		home=866
+		home=843
 	}
 	regiment = {
-		name="1st Skopje Artillery"
+		name="1st Pleven Artillery"
 		type=artillery
-		home=806
-	}
-	regiment = {
-		name="1st Konya Artillery"
-		type=artillery
-		home=873
+		home=812
 	}
 	regiment = {
 		name="3rd Burdur Artillery"
@@ -1042,9 +1037,14 @@ army = {
 		home=874
 	}
 	regiment = {
-		name="1st Izmir Infantry"
+		name="1st Afyon Artillery"
+		type=artillery
+		home=866
+	}
+	regiment = {
+		name="2nd Sofia Infantry"
 		type=infantry
-		home=869
+		home=809
 	}
 }
 

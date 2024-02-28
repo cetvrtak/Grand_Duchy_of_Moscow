@@ -17,7 +17,7 @@
 	{
 		culture = meashighcaw
 		religion = protestant
-		size= 12514
+		size= 12518
 	}
 
 	soldiers=
@@ -52,7 +52,7 @@
 	{
 		culture = meashighcaw
 		religion = protestant
-		size= 19
+		size= 14
 	}
 
 	officers=
@@ -87,7 +87,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 70
+		size= 52
 	}
 
 	officers=
@@ -108,7 +108,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 22426
+		size= 22444
 	}
 
 }
@@ -152,7 +152,7 @@
 	{
 		culture = mayan
 		religion = protestant
-		size= 4133
+		size= 267
 	}
 
 	artisans=
@@ -167,13 +167,6 @@
 		culture = mayan
 		religion = protestant
 		size= 49
-	}
-
-	bureaucrats=
-	{
-		culture = mayan
-		religion = protestant
-		size= 8
 	}
 
 	officers=
@@ -194,7 +187,14 @@
 	{
 		culture = mayan
 		religion = protestant
-		size= 8032
+		size= 11902
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 4
 	}
 
 	soldiers=
@@ -222,7 +222,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 14
+		size= 7
 	}
 
 	officers=
@@ -243,7 +243,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 3864
+		size= 3871
 	}
 
 }
@@ -266,7 +266,7 @@
 	{
 		culture = meashighcaw
 		religion = protestant
-		size= 5002
+		size= 5006
 	}
 
 	artisans=
@@ -301,7 +301,7 @@
 	{
 		culture = meashighcaw
 		religion = protestant
-		size= 8
+		size= 4
 	}
 
 	officers=
@@ -336,7 +336,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 27
+		size= 20
 	}
 
 	officers=
@@ -357,7 +357,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 7319
+		size= 7326
 	}
 
 	farmers=
@@ -485,7 +485,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -506,7 +506,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 1418
+		size= 1419
 	}
 
 }

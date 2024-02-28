@@ -17,7 +17,7 @@
 	{
 		culture = meashighcaw
 		religion = protestant
-		size= 209
+		size= 210
 	}
 
 	artisans=
@@ -45,7 +45,7 @@
 	{
 		culture = meashighcaw
 		religion = protestant
-		size= 9
+		size= 8
 	}
 
 	officers=
@@ -87,7 +87,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 132
+		size= 110
 	}
 
 	officers=
@@ -108,7 +108,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 37735
+		size= 37757
 	}
 
 }
@@ -187,7 +187,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 26
+		size= 22
 	}
 
 	officers=
@@ -208,7 +208,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 7544
+		size= 7548
 	}
 
 }
@@ -231,7 +231,7 @@
 	{
 		culture = meashighcaw
 		religion = protestant
-		size= 9189
+		size= 9195
 	}
 
 	artisans=
@@ -259,7 +259,7 @@
 	{
 		culture = meashighcaw
 		religion = protestant
-		size= 23
+		size= 17
 	}
 
 	officers=
@@ -303,7 +303,7 @@
 	{
 		culture = meashighcaw
 		religion = protestant
-		size= 1064
+		size= 1066
 	}
 
 	artisans=
@@ -345,7 +345,7 @@
 	{
 		culture = meashighcaw
 		religion = protestant
-		size= 6
+		size= 4
 	}
 
 	officers=
