@@ -502,13 +502,13 @@ army = {
 	name="1st Army"
 	location=1535
 	regiment = {
-		name="1st Lanzhou Irregulars"
-		type=irregular
+		name="1st Lanzhou Infantry"
+		type=infantry
 		home=1490
 	}
 	regiment = {
-		name="2nd Lanzhou Irregulars"
-		type=irregular
+		name="2nd Lanzhou Infantry"
+		type=infantry
 		home=1490
 	}
 }

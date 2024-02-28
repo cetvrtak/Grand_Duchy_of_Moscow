@@ -24,7 +24,7 @@
 	{
 		culture = swiss
 		religion = catholic
-		size= 415
+		size= 350
 	}
 
 	officers=
@@ -45,7 +45,7 @@
 	{
 		culture = swiss
 		religion = catholic
-		size= 110739
+		size= 110804
 	}
 
 	soldiers=
@@ -73,7 +73,7 @@
 	{
 		culture = swiss
 		religion = protestant
-		size= 62
+		size= 53
 	}
 
 	officers=
@@ -94,7 +94,7 @@
 	{
 		culture = swiss
 		religion = protestant
-		size= 2574
+		size= 2583
 	}
 
 }
@@ -103,7 +103,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 4133
+		size= 3550
 	}
 
 	artisans=
@@ -124,7 +124,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 139
+		size= 120
 	}
 
 	officers=
@@ -145,7 +145,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 27342
+		size= 27944
 	}
 
 	soldiers=
@@ -173,7 +173,7 @@
 	{
 		culture = swiss
 		religion = catholic
-		size= 104
+		size= 91
 	}
 
 	officers=
@@ -194,7 +194,7 @@
 	{
 		culture = swiss
 		religion = catholic
-		size= 23786
+		size= 23799
 	}
 
 	soldiers=
@@ -222,7 +222,7 @@
 	{
 		culture = swiss
 		religion = protestant
-		size= 16
+		size= 14
 	}
 
 	officers=
@@ -243,7 +243,7 @@
 	{
 		culture = swiss
 		religion = protestant
-		size= 497
+		size= 499
 	}
 
 }
@@ -273,7 +273,7 @@
 	{
 		culture = swiss
 		religion = catholic
-		size= 274
+		size= 236
 	}
 
 	officers=
@@ -294,7 +294,7 @@
 	{
 		culture = swiss
 		religion = catholic
-		size= 66785
+		size= 66823
 	}
 
 	soldiers=
@@ -322,7 +322,7 @@
 	{
 		culture = swiss
 		religion = animist
-		size= 10
+		size= 9
 	}
 
 	officers=
@@ -343,7 +343,7 @@
 	{
 		culture = swiss
 		religion = animist
-		size= 1013
+		size= 1014
 	}
 
 	soldiers=
@@ -371,7 +371,7 @@
 	{
 		culture = swiss
 		religion = protestant
-		size= 56
+		size= 48
 	}
 
 	officers=
@@ -392,7 +392,7 @@
 	{
 		culture = swiss
 		religion = protestant
-		size= 1866
+		size= 1874
 	}
 
 }
@@ -401,7 +401,7 @@
 	{
 		culture = swiss
 		religion = catholic
-		size= 4133
+		size= 16533
 	}
 
 	artisans=
@@ -422,7 +422,7 @@
 	{
 		culture = swiss
 		religion = catholic
-		size= 80
+		size= 66
 	}
 
 	officers=
@@ -443,7 +443,7 @@
 	{
 		culture = swiss
 		religion = catholic
-		size= 17978
+		size= 5592
 	}
 
 	soldiers=
@@ -471,7 +471,7 @@
 	{
 		culture = swiss
 		religion = animist
-		size= 27
+		size= 22
 	}
 
 	officers=
@@ -492,7 +492,7 @@
 	{
 		culture = swiss
 		religion = animist
-		size= 9285
+		size= 9290
 	}
 
 }
@@ -522,7 +522,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 235
+		size= 198
 	}
 
 	officers=
@@ -543,7 +543,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 61318
+		size= 61355
 	}
 
 	soldiers=
@@ -571,7 +571,7 @@
 	{
 		culture = north_italian
 		religion = protestant
-		size= 36
+		size= 30
 	}
 
 	officers=
@@ -592,7 +592,7 @@
 	{
 		culture = north_italian
 		religion = protestant
-		size= 1002
+		size= 1008
 	}
 
 }
@@ -622,7 +622,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 41
+		size= 35
 	}
 
 	officers=
@@ -643,7 +643,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 10787
+		size= 10793
 	}
 
 	soldiers=
@@ -671,7 +671,7 @@
 	{
 		culture = north_italian
 		religion = protestant
-		size= 6
+		size= 5
 	}
 
 	officers=
@@ -692,7 +692,7 @@
 	{
 		culture = north_italian
 		religion = protestant
-		size= 176
+		size= 177
 	}
 
 }
@@ -722,7 +722,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 64
+		size= 55
 	}
 
 	officers=
@@ -743,7 +743,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 14906
+		size= 14915
 	}
 
 	soldiers=
@@ -771,7 +771,7 @@
 	{
 		culture = north_italian
 		religion = animist
-		size= 6
+		size= 5
 	}
 
 	officers=
@@ -794,7 +794,7 @@
 	{
 		culture = swiss
 		religion = catholic
-		size= 10333
+		size= 1033
 	}
 
 	artisans=
@@ -815,7 +815,7 @@
 	{
 		culture = swiss
 		religion = catholic
-		size= 60
+		size= 51
 	}
 
 	officers=
@@ -836,7 +836,7 @@
 	{
 		culture = swiss
 		religion = catholic
-		size= 3955
+		size= 13264
 	}
 
 	soldiers=
@@ -864,7 +864,7 @@
 	{
 		culture = swiss
 		religion = protestant
-		size= 18
+		size= 16
 	}
 
 	officers=
@@ -885,7 +885,7 @@
 	{
 		culture = swiss
 		religion = protestant
-		size= 3066
+		size= 3068
 	}
 
 }
@@ -915,7 +915,7 @@
 	{
 		culture = swiss
 		religion = catholic
-		size= 79
+		size= 68
 	}
 
 	officers=
@@ -936,14 +936,14 @@
 	{
 		culture = swiss
 		religion = catholic
-		size= 5434
+		size= 5445
 	}
 
 	soldiers=
 	{
 		culture = swiss
 		religion = protestant
-		size= 1033
+		size= 313
 	}
 
 	artisans=
@@ -964,7 +964,7 @@
 	{
 		culture = swiss
 		religion = protestant
-		size= 24
+		size= 20
 	}
 
 	officers=
@@ -985,7 +985,7 @@
 	{
 		culture = swiss
 		religion = protestant
-		size= 3331
+		size= 4055
 	}
 
 }

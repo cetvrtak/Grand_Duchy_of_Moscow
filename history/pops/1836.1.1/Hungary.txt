@@ -24,7 +24,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 18
+		size= 14
 	}
 
 	officers=
@@ -45,7 +45,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 13025
+		size= 13029
 	}
 
 	soldiers=
@@ -73,7 +73,7 @@
 	{
 		culture = hungarian
 		religion = protestant
-		size= 52
+		size= 41
 	}
 
 	officers=
@@ -94,7 +94,7 @@
 	{
 		culture = hungarian
 		religion = protestant
-		size= 10202
+		size= 10213
 	}
 
 }
@@ -124,7 +124,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 136
+		size= 107
 	}
 
 	officers=
@@ -145,7 +145,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 97773
+		size= 97803
 	}
 
 	soldiers=
@@ -173,7 +173,7 @@
 	{
 		culture = hungarian
 		religion = protestant
-		size= 400
+		size= 316
 	}
 
 	officers=
@@ -194,7 +194,7 @@
 	{
 		culture = hungarian
 		religion = protestant
-		size= 76570
+		size= 76653
 	}
 
 }
@@ -224,7 +224,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 204
+		size= 168
 	}
 
 	officers=
@@ -245,7 +245,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 56953
+		size= 56989
 	}
 
 }
@@ -275,7 +275,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 478
+		size= 393
 	}
 
 	officers=
@@ -296,7 +296,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 130451
+		size= 130536
 	}
 
 	aristocrats=
@@ -340,7 +340,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 25833
+		size= 22733
 	}
 
 	artisans=
@@ -361,7 +361,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 289
+		size= 238
 	}
 
 	officers=
@@ -382,7 +382,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 58048
+		size= 61199
 	}
 
 	clergymen=
@@ -440,7 +440,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 286
+		size= 235
 	}
 
 	officers=
@@ -461,7 +461,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 76682
+		size= 76733
 	}
 
 }
@@ -491,7 +491,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 299
+		size= 246
 	}
 
 	officers=
@@ -512,7 +512,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 82731
+		size= 82784
 	}
 
 	clergymen=
@@ -570,7 +570,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 80
+		size= 65
 	}
 
 	officers=
@@ -591,7 +591,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 20581
+		size= 20596
 	}
 
 	clergymen=
@@ -649,7 +649,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 68
+		size= 58
 	}
 
 	officers=
@@ -670,14 +670,14 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 31889
+		size= 31900
 	}
 
 	soldiers=
 	{
 		culture = hungarian
 		religion = protestant
-		size= 2172
+		size= 7233
 	}
 
 	artisans=
@@ -698,7 +698,7 @@
 	{
 		culture = hungarian
 		religion = protestant
-		size= 242
+		size= 208
 	}
 
 	officers=
@@ -719,7 +719,7 @@
 	{
 		culture = hungarian
 		religion = protestant
-		size= 33633
+		size= 28605
 	}
 
 }
@@ -728,7 +728,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 10333
+		size= 801
 	}
 
 	artisans=
@@ -749,7 +749,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 33
+		size= 28
 	}
 
 	officers=
@@ -770,14 +770,14 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 6008
+		size= 15545
 	}
 
 	soldiers=
 	{
 		culture = hungarian
 		religion = protestant
-		size= 13433
+		size= 10333
 	}
 
 	artisans=
@@ -798,7 +798,7 @@
 	{
 		culture = hungarian
 		religion = protestant
-		size= 118
+		size= 102
 	}
 
 	officers=
@@ -819,7 +819,7 @@
 	{
 		culture = hungarian
 		religion = protestant
-		size= 4159
+		size= 7275
 	}
 
 }
@@ -849,7 +849,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 478
+		size= 393
 	}
 
 	officers=
@@ -870,7 +870,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 130401
+		size= 130486
 	}
 
 	clergymen=
@@ -928,7 +928,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 38
+		size= 28
 	}
 
 	officers=
@@ -949,14 +949,14 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 32953
+		size= 32963
 	}
 
 	soldiers=
 	{
 		culture = hungarian
 		religion = protestant
-		size= 4133
+		size= 10333
 	}
 
 	artisans=
@@ -977,7 +977,7 @@
 	{
 		culture = hungarian
 		religion = protestant
-		size= 134
+		size= 101
 	}
 
 	officers=
@@ -998,7 +998,7 @@
 	{
 		culture = hungarian
 		religion = protestant
-		size= 32543
+		size= 26376
 	}
 
 }

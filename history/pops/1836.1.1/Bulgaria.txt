@@ -24,7 +24,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 168
+		size= 141
 	}
 
 	officers=
@@ -45,7 +45,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 42499
+		size= 42526
 	}
 
 }
@@ -54,14 +54,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 2053
-	}
-
-	craftsmen=
-	{
-		culture = bulgarian
-		religion = orthodox
-		size= 8170
+		size= 4133
 	}
 
 	artisans=
@@ -78,18 +71,11 @@
 		size= 503
 	}
 
-	clerks=
-	{
-		culture = bulgarian
-		religion = orthodox
-		size= 493
-	}
-
 	bureaucrats=
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 225
+		size= 185
 	}
 
 	officers=
@@ -97,13 +83,6 @@
 		culture = bulgarian
 		religion = orthodox
 		size= 29
-	}
-
-	capitalists=
-	{
-		culture = bulgarian
-		religion = orthodox
-		size= 138
 	}
 
 	aristocrats=
@@ -117,7 +96,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 55998
+		size= 62759
 	}
 
 	aristocrats=
@@ -189,7 +168,7 @@
 	{
 		culture = aromanian
 		religion = orthodox
-		size= 133
+		size= 105
 	}
 
 	officers=
@@ -210,7 +189,7 @@
 	{
 		culture = aromanian
 		religion = orthodox
-		size= 44379
+		size= 44407
 	}
 
 	soldiers=
@@ -247,7 +226,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 2717
+		size= 4133
 	}
 
 	artisans=
@@ -268,7 +247,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 171
+		size= 141
 	}
 
 	officers=
@@ -289,7 +268,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 47589
+		size= 46203
 	}
 
 	soldiers=
@@ -326,7 +305,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 10333
+		size= 4133
 	}
 
 	artisans=
@@ -347,7 +326,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 225
+		size= 194
 	}
 
 	officers=
@@ -368,7 +347,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 41408
+		size= 47639
 	}
 
 }
@@ -398,7 +377,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 171
+		size= 141
 	}
 
 	officers=
@@ -419,7 +398,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 47797
+		size= 47827
 	}
 
 }
@@ -449,7 +428,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 170
+		size= 140
 	}
 
 	officers=
@@ -470,7 +449,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 47395
+		size= 47425
 	}
 
 }
@@ -500,7 +479,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 142
+		size= 113
 	}
 
 	officers=
@@ -521,7 +500,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 53384
+		size= 53413
 	}
 
 	aristocrats=
@@ -586,7 +565,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 106
+		size= 84
 	}
 
 	officers=
@@ -607,7 +586,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 39855
+		size= 39877
 	}
 
 }
@@ -637,7 +616,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 172
+		size= 145
 	}
 
 	officers=
@@ -658,7 +637,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 43495
+		size= 43522
 	}
 
 }
@@ -688,7 +667,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 119
+		size= 89
 	}
 
 	officers=
@@ -709,7 +688,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 54148
+		size= 54178
 	}
 
 }

@@ -45,7 +45,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 1942
+		size= 1943
 	}
 
 	slaves=
@@ -76,18 +76,18 @@
 		size= 18
 	}
 
-	bureaucrats=
-	{
-		culture = platinean
-		religion = sunni
-		size= 8
-	}
-
 	soldiers=
 	{
 		culture = platinean
 		religion = sunni
 		size= 59
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 6
 	}
 
 	officers=
@@ -129,7 +129,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 31
+		size= 26
 	}
 
 	officers=
@@ -150,7 +150,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 4436
+		size= 4441
 	}
 
 }
@@ -180,7 +180,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 1806
+		size= 1808
 	}
 
 	artisans=
@@ -215,7 +215,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 6
+		size= 4
 	}
 
 	officers=
@@ -308,7 +308,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 6016
+		size= 6019
 	}
 
 	artisans=
@@ -343,7 +343,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 20
+		size= 17
 	}
 
 	officers=
@@ -378,7 +378,7 @@
 	{
 		culture = brazilian
 		religion = catholic
-		size= 8
+		size= 6
 	}
 
 	officers=
@@ -399,7 +399,7 @@
 	{
 		culture = brazilian
 		religion = catholic
-		size= 4
+		size= 6
 	}
 
 	soldiers=
@@ -436,7 +436,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 1209
+		size= 1210
 	}
 
 	artisans=
@@ -471,7 +471,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -506,7 +506,7 @@
 	{
 		culture = brazilian
 		religion = catholic
-		size= 2
+		size= 1
 	}
 
 	officers=
@@ -527,7 +527,7 @@
 	{
 		culture = brazilian
 		religion = catholic
-		size= 1
+		size= 2
 	}
 
 	soldiers=
@@ -557,7 +557,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 615
+		size= 616
 	}
 
 	artisans=
@@ -579,13 +579,6 @@
 		culture = celtic_american
 		religion = catholic
 		size= 6
-	}
-
-	bureaucrats=
-	{
-		culture = celtic_american
-		religion = catholic
-		size= 2
 	}
 
 	aristocrats=
@@ -651,6 +644,13 @@
 		size= 89
 	}
 
+	bureaucrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 1
+	}
+
 	officers=
 	{
 		culture = celtic_american
@@ -685,7 +685,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 1776
+		size= 1778
 	}
 
 	artisans=
@@ -720,7 +720,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 6
+		size= 4
 	}
 
 	officers=
@@ -806,7 +806,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 615
+		size= 616
 	}
 
 	artisans=
@@ -828,13 +828,6 @@
 		culture = celtic_american
 		religion = catholic
 		size= 6
-	}
-
-	bureaucrats=
-	{
-		culture = celtic_american
-		religion = catholic
-		size= 2
 	}
 
 	aristocrats=
@@ -900,6 +893,13 @@
 		size= 89
 	}
 
+	bureaucrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 1
+	}
+
 	officers=
 	{
 		culture = celtic_american
@@ -927,7 +927,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 1253
+		size= 1254
 	}
 
 	artisans=
@@ -962,7 +962,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 6
+		size= 5
 	}
 
 	officers=
@@ -992,7 +992,7 @@
 	{
 		culture = tupinamba
 		religion = animist
-		size= 3118
+		size= 3119
 	}
 
 	artisans=
@@ -1020,7 +1020,7 @@
 	{
 		culture = tupinamba
 		religion = animist
-		size= 3
+		size= 2
 	}
 
 	officers=
@@ -1062,7 +1062,7 @@
 	{
 		culture = tupinamba
 		religion = catholic
-		size= 10
+		size= 8
 	}
 
 	officers=
@@ -1083,7 +1083,7 @@
 	{
 		culture = tupinamba
 		religion = catholic
-		size= 1962
+		size= 1964
 	}
 
 	slaves=
@@ -1118,7 +1118,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 26
+		size= 22
 	}
 
 	officers=
@@ -1139,7 +1139,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 2740
+		size= 2744
 	}
 
 	slaves=
@@ -1174,7 +1174,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 10
+		size= 8
 	}
 
 	officers=
@@ -1195,7 +1195,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 690
+		size= 692
 	}
 
 }
@@ -1225,7 +1225,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 2341
+		size= 2344
 	}
 
 	artisans=
@@ -1267,7 +1267,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 14
+		size= 11
 	}
 
 	officers=
@@ -1297,7 +1297,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 1229
+		size= 1230
 	}
 
 	artisans=
@@ -1332,7 +1332,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 6
+		size= 5
 	}
 
 	officers=
@@ -1362,7 +1362,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 1843
+		size= 1845
 	}
 
 	artisans=
@@ -1397,7 +1397,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 8
+		size= 6
 	}
 
 	officers=
@@ -1441,7 +1441,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 1446
+		size= 1447
 	}
 
 	artisans=
@@ -1483,7 +1483,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 6
+		size= 5
 	}
 
 	officers=
@@ -1513,7 +1513,7 @@
 	{
 		culture = guarani
 		religion = animist
-		size= 732
+		size= 733
 	}
 
 	farmers=
@@ -1579,13 +1579,6 @@
 		size= 3
 	}
 
-	bureaucrats=
-	{
-		culture = guarani
-		religion = catholic
-		size= 2
-	}
-
 	aristocrats=
 	{
 		culture = guarani
@@ -1597,7 +1590,7 @@
 	{
 		culture = guarani
 		religion = catholic
-		size= 180
+		size= 181
 	}
 
 	soldiers=
@@ -1625,7 +1618,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 17
+		size= 15
 	}
 
 	officers=
@@ -1646,7 +1639,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 2439
+		size= 2441
 	}
 
 	soldiers=
@@ -1744,7 +1737,7 @@
 	{
 		culture = ealimi
 		religion = catholic
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -1765,7 +1758,7 @@
 	{
 		culture = ealimi
 		religion = catholic
-		size= 815
+		size= 816
 	}
 
 	aristocrats=
@@ -1785,7 +1778,7 @@
 	bureaucrats=
 	{
 		culture = guarani
-		religion = animist
+		religion = catholic
 		size= 1
 	}
 
@@ -1821,7 +1814,7 @@
 	{
 		culture = redwoodian
 		religion = catholic
-		size= 5
+		size= 4
 	}
 
 	officers=
@@ -1842,7 +1835,7 @@
 	{
 		culture = redwoodian
 		religion = catholic
-		size= 923
+		size= 924
 	}
 
 }
@@ -1872,7 +1865,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 1833
+		size= 1835
 	}
 
 	artisans=
@@ -1907,7 +1900,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 10
+		size= 8
 	}
 
 	officers=
@@ -1949,7 +1942,7 @@
 	{
 		culture = tupinamba
 		religion = animist
-		size= 1621
+		size= 1622
 	}
 
 	aristocrats=
@@ -2078,13 +2071,6 @@
 		size= 1
 	}
 
-	bureaucrats=
-	{
-		culture = carribean
-		religion = animist
-		size= 1
-	}
-
 	soldiers=
 	{
 		culture = tupinamba
@@ -2096,7 +2082,7 @@
 	{
 		culture = tupinamba
 		religion = animist
-		size= 7
+		size= 6
 	}
 
 	officers=
@@ -2140,7 +2126,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 1376
+		size= 1377
 	}
 
 	artisans=
@@ -2171,13 +2157,6 @@
 		size= 4
 	}
 
-	bureaucrats=
-	{
-		culture = platinean
-		religion = sunni
-		size= 2
-	}
-
 	soldiers=
 	{
 		culture = platinean
@@ -2203,7 +2182,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 15
+		size= 13
 	}
 
 	aristocrats=
@@ -2217,7 +2196,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 2494
+		size= 2496
 	}
 
 	soldiers=
@@ -2267,6 +2246,13 @@
 		culture = platinean
 		religion = catholic
 		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 1
 	}
 
 	officers=
@@ -2380,7 +2366,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 441
+		size= 442
 	}
 
 	soldiers=
@@ -2485,7 +2471,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 3
+		size= 2
 	}
 
 	officers=
@@ -2676,7 +2662,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 8
+		size= 7
 	}
 
 	officers=
@@ -2697,7 +2683,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 1098
+		size= 1099
 	}
 
 	soldiers=
@@ -2930,7 +2916,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 1803
+		size= 1804
 	}
 
 	artisans=
@@ -2965,7 +2951,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 7
+		size= 6
 	}
 
 	slaves=
@@ -3000,7 +2986,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 16
+		size= 13
 	}
 
 	officers=
@@ -3021,7 +3007,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 616
+		size= 619
 	}
 
 	slaves=
@@ -3056,7 +3042,7 @@
 	{
 		culture = redwoodian
 		religion = catholic
-		size= 7
+		size= 6
 	}
 
 	officers=
@@ -3077,7 +3063,7 @@
 	{
 		culture = redwoodian
 		religion = catholic
-		size= 586
+		size= 587
 	}
 
 	slaves=
@@ -3347,7 +3333,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 6
+		size= 5
 	}
 
 	aristocrats=
@@ -3361,7 +3347,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 1125
+		size= 1126
 	}
 
 	artisans=
@@ -3489,7 +3475,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 4670
+		size= 4673
 	}
 
 	soldiers=
@@ -3524,7 +3510,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 20
+		size= 16
 	}
 
 	officers=
@@ -3566,7 +3552,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 89
+		size= 74
 	}
 
 	officers=
@@ -3587,7 +3573,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 8258
+		size= 8273
 	}
 
 	artisans=
@@ -3678,7 +3664,7 @@
 	{
 		culture = je
 		religion = catholic
-		size= 5
+		size= 4
 	}
 
 	officers=
@@ -3699,7 +3685,7 @@
 	{
 		culture = je
 		religion = catholic
-		size= 92
+		size= 93
 	}
 
 }
@@ -3785,7 +3771,7 @@
 	{
 		culture = je
 		religion = catholic
-		size= 2
+		size= 1
 	}
 
 	officers=
@@ -3806,7 +3792,7 @@
 	{
 		culture = je
 		religion = catholic
-		size= 149
+		size= 150
 	}
 
 	soldiers=
@@ -3834,7 +3820,7 @@
 	{
 		culture = redwoodian
 		religion = catholic
-		size= 18
+		size= 15
 	}
 
 	officers=
@@ -3855,7 +3841,7 @@
 	{
 		culture = redwoodian
 		religion = catholic
-		size= 3139
+		size= 3142
 	}
 
 	farmers=
@@ -3932,7 +3918,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 9
+		size= 7
 	}
 
 	officers=
@@ -3953,7 +3939,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 1280
+		size= 1282
 	}
 
 }
@@ -4011,7 +3997,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 6672
+		size= 6676
 	}
 
 	soldiers=
@@ -4046,7 +4032,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 27
+		size= 23
 	}
 
 	officers=
@@ -4088,7 +4074,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 86
+		size= 72
 	}
 
 	officers=
@@ -4109,7 +4095,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 8739
+		size= 8753
 	}
 
 }
@@ -4139,7 +4125,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 2452
+		size= 2453
 	}
 
 	artisans=
@@ -4174,7 +4160,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 5
+		size= 4
 	}
 
 	officers=
@@ -4209,7 +4195,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 24
+		size= 19
 	}
 
 	officers=
@@ -4230,7 +4216,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 3823
+		size= 3828
 	}
 
 	artisans=
@@ -4400,7 +4386,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 1033
+		size= 458
 	}
 
 	artisans=
@@ -4421,7 +4407,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 15
+		size= 14
 	}
 
 	officers=
@@ -4442,7 +4428,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 4583
+		size= 5159
 	}
 
 	slaves=
@@ -4477,7 +4463,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 61
+		size= 53
 	}
 
 	officers=
@@ -4498,7 +4484,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 2921
+		size= 2929
 	}
 
 	slaves=
@@ -4520,13 +4506,6 @@
 		culture = je
 		religion = animist
 		size= 866
-	}
-
-	bureaucrats=
-	{
-		culture = ealimi
-		religion = sunni
-		size= 1
 	}
 
 }
@@ -4563,7 +4542,7 @@
 	{
 		culture = ealimi
 		religion = sunni
-		size= 10465
+		size= 10471
 	}
 
 	soldiers=
@@ -4598,7 +4577,7 @@
 	{
 		culture = ealimi
 		religion = sunni
-		size= 35
+		size= 29
 	}
 
 	officers=
@@ -4640,7 +4619,7 @@
 	{
 		culture = ealimi
 		religion = catholic
-		size= 104
+		size= 87
 	}
 
 	officers=
@@ -4661,7 +4640,7 @@
 	{
 		culture = ealimi
 		religion = catholic
-		size= 10337
+		size= 10354
 	}
 
 }
@@ -4719,14 +4698,14 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 507
+		size= 1033
 	}
 
 	farmers=
 	{
 		culture = platinean
 		religion = sunni
-		size= 4264
+		size= 3741
 	}
 
 	artisans=
@@ -4754,7 +4733,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 16
+		size= 12
 	}
 
 	officers=
@@ -4796,7 +4775,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 23
+		size= 19
 	}
 
 	officers=
@@ -4817,7 +4796,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 107
+		size= 111
 	}
 
 }
@@ -4861,7 +4840,7 @@
 	{
 		culture = ealimi
 		religion = sunni
-		size= 5479
+		size= 5483
 	}
 
 	artisans=
@@ -4889,7 +4868,7 @@
 	{
 		culture = ealimi
 		religion = sunni
-		size= 24
+		size= 20
 	}
 
 	officers=
@@ -4931,7 +4910,7 @@
 	{
 		culture = ealimi
 		religion = catholic
-		size= 76
+		size= 63
 	}
 
 	officers=
@@ -4952,7 +4931,7 @@
 	{
 		culture = ealimi
 		religion = catholic
-		size= 3885
+		size= 3898
 	}
 
 }
@@ -4989,7 +4968,7 @@
 	{
 		culture = ealimi
 		religion = sunni
-		size= 575
+		size= 576
 	}
 
 	artisans=
@@ -5017,7 +4996,7 @@
 	{
 		culture = ealimi
 		religion = sunni
-		size= 4
+		size= 3
 	}
 
 	soldiers=
@@ -5059,7 +5038,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 43
+		size= 37
 	}
 
 	officers=
@@ -5080,7 +5059,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 8156
+		size= 8162
 	}
 
 	slaves=
@@ -5115,7 +5094,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 130
+		size= 111
 	}
 
 	officers=
@@ -5136,7 +5115,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 5529
+		size= 5548
 	}
 
 }
@@ -5194,7 +5173,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 2423
+		size= 2426
 	}
 
 	soldiers=
@@ -5229,7 +5208,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 19
+		size= 16
 	}
 
 	officers=
@@ -5271,7 +5250,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 48
+		size= 41
 	}
 
 	officers=
@@ -5292,7 +5271,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 485
+		size= 492
 	}
 
 }
@@ -5329,7 +5308,7 @@
 	{
 		culture = ealimi
 		religion = sunni
-		size= 230
+		size= 231
 	}
 
 	soldiers=
@@ -5364,7 +5343,7 @@
 	{
 		culture = ealimi
 		religion = sunni
-		size= 3
+		size= 2
 	}
 
 	officers=
@@ -5399,7 +5378,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 29
+		size= 24
 	}
 
 	officers=
@@ -5420,7 +5399,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 8595
+		size= 8600
 	}
 
 	slaves=
@@ -5434,7 +5413,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 1033
+		size= 1001
 	}
 
 	artisans=
@@ -5455,7 +5434,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 85
+		size= 71
 	}
 
 	officers=
@@ -5476,7 +5455,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 7626
+		size= 7672
 	}
 
 }
@@ -5527,7 +5506,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 5704
+		size= 5708
 	}
 
 	soldiers=
@@ -5558,18 +5537,18 @@
 		size= 57
 	}
 
-	bureaucrats=
-	{
-		culture = platinean
-		religion = sunni
-		size= 27
-	}
-
 	officers=
 	{
 		culture = platinean
 		religion = sunni
 		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 22
 	}
 
 	slaves=
@@ -5604,7 +5583,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 67
+		size= 56
 	}
 
 	officers=
@@ -5625,7 +5604,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 2597
+		size= 2608
 	}
 
 }
@@ -5648,7 +5627,7 @@
 	{
 		culture = tupinamba
 		religion = animist
-		size= 20558
+		size= 20563
 	}
 
 	artisans=
@@ -5676,7 +5655,7 @@
 	{
 		culture = tupinamba
 		religion = animist
-		size= 24
+		size= 19
 	}
 
 	officers=
@@ -5718,7 +5697,7 @@
 	{
 		culture = tupinamba
 		religion = catholic
-		size= 38
+		size= 31
 	}
 
 	officers=
@@ -5739,7 +5718,7 @@
 	{
 		culture = tupinamba
 		religion = catholic
-		size= 4532
+		size= 4539
 	}
 
 	slaves=
@@ -5774,7 +5753,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 192
+		size= 160
 	}
 
 	officers=
@@ -5795,7 +5774,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 15441
+		size= 15473
 	}
 
 	slaves=
@@ -5823,7 +5802,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 8134
+		size= 8138
 	}
 
 	soldiers=
@@ -5858,7 +5837,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 27
+		size= 23
 	}
 
 	officers=
@@ -5923,14 +5902,14 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 1033
+		size= 1029
 	}
 
 	farmers=
 	{
 		culture = platinean
 		religion = sunni
-		size= 4879
+		size= 4889
 	}
 
 	artisans=
@@ -5958,7 +5937,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 40
+		size= 34
 	}
 
 	officers=
@@ -6000,7 +5979,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 109
+		size= 92
 	}
 
 	officers=
@@ -6021,7 +6000,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 1519
+		size= 1536
 	}
 
 	slaves=
@@ -6056,7 +6035,7 @@
 	{
 		culture = platinean
 		religion = shiite
-		size= 3
+		size= 2
 	}
 
 	officers=
@@ -6077,7 +6056,7 @@
 	{
 		culture = platinean
 		religion = shiite
-		size= 468
+		size= 469
 	}
 
 }
@@ -6135,7 +6114,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 9256
+		size= 9262
 	}
 
 	soldiers=
@@ -6170,7 +6149,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 41
+		size= 34
 	}
 
 	officers=
@@ -6212,7 +6191,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 64
+		size= 53
 	}
 
 	officers=
@@ -6233,7 +6212,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 136
+		size= 147
 	}
 
 }
@@ -6298,7 +6277,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 3313
+		size= 3317
 	}
 
 	artisans=
@@ -6326,7 +6305,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 29
+		size= 24
 	}
 
 	officers=
@@ -6368,7 +6347,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 86
+		size= 71
 	}
 
 	officers=
@@ -6389,7 +6368,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 3303
+		size= 3318
 	}
 
 }
@@ -6447,7 +6426,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 2525
+		size= 2530
 	}
 
 	artisans=
@@ -6475,7 +6454,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 32
+		size= 26
 	}
 
 	soldiers=
@@ -6524,7 +6503,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 68
+		size= 57
 	}
 
 	officers=
@@ -6603,7 +6582,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 15423
+		size= 15435
 	}
 
 	artisans=
@@ -6631,7 +6610,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 91
+		size= 78
 	}
 
 	officers=
@@ -6673,7 +6652,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 144
+		size= 123
 	}
 
 	officers=
@@ -6694,7 +6673,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 4609
+		size= 4630
 	}
 
 }
@@ -6752,7 +6731,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 5496
+		size= 5503
 	}
 
 	soldiers=
@@ -6787,7 +6766,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 44
+		size= 36
 	}
 
 	officers=
@@ -6829,7 +6808,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 64
+		size= 54
 	}
 
 	officers=
@@ -6901,14 +6880,14 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 3897
+		size= 3750
 	}
 
 	soldiers=
 	{
 		culture = platinean
 		religion = sunni
-		size= 882
+		size= 1033
 	}
 
 	artisans=
@@ -6936,7 +6915,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 29
+		size= 25
 	}
 
 	officers=
@@ -6978,7 +6957,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 44
+		size= 37
 	}
 
 	officers=
@@ -7050,7 +7029,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 7053
+		size= 7062
 	}
 
 	soldiers=
@@ -7085,7 +7064,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 60
+		size= 50
 	}
 
 	officers=
@@ -7164,7 +7143,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 1115
+		size= 1116
 	}
 
 	artisans=
@@ -7199,7 +7178,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 10
+		size= 9
 	}
 
 	officers=
@@ -7241,7 +7220,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 38
+		size= 32
 	}
 
 	officers=
@@ -7262,7 +7241,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 2200
+		size= 2206
 	}
 
 }
@@ -7313,7 +7292,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 2364
+		size= 2367
 	}
 
 	soldiers=
@@ -7348,7 +7327,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 19
+		size= 15
 	}
 
 	officers=
@@ -7390,7 +7369,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 70
+		size= 59
 	}
 
 	officers=
@@ -7411,7 +7390,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 4981
+		size= 4992
 	}
 
 }
@@ -7469,7 +7448,7 @@
 	{
 		culture = ealimi
 		religion = sunni
-		size= 56607
+		size= 56636
 	}
 
 	soldiers=
@@ -7504,7 +7483,7 @@
 	{
 		culture = ealimi
 		religion = sunni
-		size= 191
+		size= 159
 	}
 
 	officers=
@@ -7525,7 +7504,7 @@
 	{
 		culture = ealimi
 		religion = catholic
-		size= 4133
+		size= 7233
 	}
 
 	artisans=
@@ -7546,7 +7525,7 @@
 	{
 		culture = ealimi
 		religion = catholic
-		size= 592
+		size= 493
 	}
 
 	officers=
@@ -7567,7 +7546,7 @@
 	{
 		culture = ealimi
 		religion = catholic
-		size= 64428
+		size= 61427
 	}
 
 }
@@ -7618,7 +7597,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 4550
+		size= 4554
 	}
 
 	soldiers=
@@ -7653,7 +7632,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 26
+		size= 22
 	}
 
 	officers=
@@ -7695,7 +7674,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 98
+		size= 82
 	}
 
 	officers=
@@ -7716,7 +7695,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 5572
+		size= 5588
 	}
 
 }
@@ -7753,7 +7732,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 4454
+		size= 4458
 	}
 
 	soldiers=
@@ -7788,7 +7767,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 26
+		size= 22
 	}
 
 	officers=
@@ -7830,7 +7809,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 93
+		size= 77
 	}
 
 	officers=
@@ -7851,7 +7830,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 7572
+		size= 7588
 	}
 
 }
@@ -7909,7 +7888,7 @@
 	{
 		culture = ealimi
 		religion = sunni
-		size= 12879
+		size= 12887
 	}
 
 	soldiers=
@@ -7944,7 +7923,7 @@
 	{
 		culture = ealimi
 		religion = sunni
-		size= 64
+		size= 55
 	}
 
 	officers=
@@ -7986,7 +7965,7 @@
 	{
 		culture = ealimi
 		religion = catholic
-		size= 212
+		size= 177
 	}
 
 	officers=
@@ -8007,7 +7986,7 @@
 	{
 		culture = ealimi
 		religion = catholic
-		size= 20086
+		size= 20121
 	}
 
 }
@@ -8051,7 +8030,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 5665
+		size= 5669
 	}
 
 	artisans=
@@ -8079,7 +8058,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 26
+		size= 22
 	}
 
 	officers=
@@ -8121,7 +8100,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 98
+		size= 81
 	}
 
 	officers=
@@ -8142,7 +8121,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 8414
+		size= 8431
 	}
 
 }
@@ -8200,7 +8179,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 1908
+		size= 1909
 	}
 
 	artisans=
@@ -8224,18 +8203,18 @@
 		size= 21
 	}
 
-	bureaucrats=
-	{
-		culture = platinean
-		religion = sunni
-		size= 9
-	}
-
 	soldiers=
 	{
 		culture = platinean
 		religion = sunni
 		size= 68
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 7
 	}
 
 	officers=
@@ -8277,7 +8256,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 35
+		size= 29
 	}
 
 	officers=
@@ -8298,7 +8277,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 4317
+		size= 4323
 	}
 
 }
@@ -8419,7 +8398,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 6
+		size= 5
 	}
 
 	officers=
@@ -8440,7 +8419,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 823
+		size= 824
 	}
 
 }
@@ -8484,7 +8463,7 @@
 	{
 		culture = ealimi
 		religion = sunni
-		size= 2885
+		size= 2887
 	}
 
 	slaves=
@@ -8519,7 +8498,7 @@
 	{
 		culture = ealimi
 		religion = sunni
-		size= 14
+		size= 12
 	}
 
 	officers=
@@ -8568,7 +8547,7 @@
 	{
 		culture = ealimi
 		religion = catholic
-		size= 47
+		size= 39
 	}
 
 	officers=
@@ -8589,7 +8568,7 @@
 	{
 		culture = ealimi
 		religion = catholic
-		size= 4500
+		size= 4508
 	}
 
 }
@@ -8710,7 +8689,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 6
+		size= 5
 	}
 
 	officers=
@@ -8731,7 +8710,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 823
+		size= 824
 	}
 
 }
@@ -8768,7 +8747,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 7680
+		size= 7684
 	}
 
 	soldiers=
@@ -8803,7 +8782,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 30
+		size= 25
 	}
 
 	officers=
@@ -8845,7 +8824,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 113
+		size= 94
 	}
 
 	officers=
@@ -8866,7 +8845,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 16819
+		size= 16838
 	}
 
 }
@@ -8903,7 +8882,7 @@
 	{
 		culture = ealimi
 		religion = sunni
-		size= 4022
+		size= 4027
 	}
 
 	artisans=
@@ -8931,7 +8910,7 @@
 	{
 		culture = ealimi
 		religion = sunni
-		size= 25
+		size= 20
 	}
 
 	officers=
@@ -8982,7 +8961,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 2587
+		size= 2588
 	}
 
 	artisans=
@@ -9010,7 +8989,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 6
+		size= 5
 	}
 
 	soldiers=
@@ -9059,7 +9038,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 24
+		size= 18
 	}
 
 	officers=
@@ -9080,7 +9059,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 4968
+		size= 4974
 	}
 
 }
@@ -9110,7 +9089,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 2721
+		size= 2722
 	}
 
 	slaves=
@@ -9152,7 +9131,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 10
+		size= 9
 	}
 
 	officers=
@@ -9194,7 +9173,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 41
+		size= 34
 	}
 
 	officers=
@@ -9215,7 +9194,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 6625
+		size= 6632
 	}
 
 }
@@ -9252,7 +9231,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 3751
+		size= 3754
 	}
 
 	artisans=
@@ -9287,7 +9266,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 10
+		size= 7
 	}
 
 	officers=
@@ -9329,7 +9308,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 35
+		size= 27
 	}
 
 	officers=
@@ -9350,7 +9329,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 6306
+		size= 6314
 	}
 
 }
@@ -9387,7 +9366,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 2995
+		size= 2997
 	}
 
 	artisans=
@@ -9422,7 +9401,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 8
+		size= 6
 	}
 
 	officers=
@@ -9464,7 +9443,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 32
+		size= 24
 	}
 
 	officers=
@@ -9485,7 +9464,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 5660
+		size= 5668
 	}
 
 }
@@ -9522,7 +9501,7 @@
 	{
 		culture = ealimi
 		religion = sunni
-		size= 10125
+		size= 10131
 	}
 
 	artisans=
@@ -9557,7 +9536,7 @@
 	{
 		culture = ealimi
 		religion = sunni
-		size= 23
+		size= 17
 	}
 
 	officers=
@@ -9599,7 +9578,7 @@
 	{
 		culture = ealimi
 		religion = catholic
-		size= 83
+		size= 62
 	}
 
 	officers=
@@ -9620,7 +9599,7 @@
 	{
 		culture = ealimi
 		religion = catholic
-		size= 19788
+		size= 19809
 	}
 
 }
@@ -9650,7 +9629,7 @@
 	{
 		culture = ealimi
 		religion = sunni
-		size= 1647
+		size= 1648
 	}
 
 	slaves=
@@ -9692,7 +9671,7 @@
 	{
 		culture = ealimi
 		religion = sunni
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -9734,7 +9713,7 @@
 	{
 		culture = ealimi
 		religion = catholic
-		size= 16
+		size= 12
 	}
 
 	officers=
@@ -9755,7 +9734,7 @@
 	{
 		culture = ealimi
 		religion = catholic
-		size= 3164
+		size= 3168
 	}
 
 }
@@ -9792,7 +9771,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 14899
+		size= 14911
 	}
 
 	soldiers=
@@ -9827,7 +9806,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 54
+		size= 40
 	}
 
 	officers=
@@ -9871,7 +9850,7 @@
 	{
 		culture = ealimi
 		religion = sunni
-		size= 66
+		size= 67
 	}
 
 	artisans=
@@ -9899,7 +9878,7 @@
 	{
 		culture = ealimi
 		religion = sunni
-		size= 3
+		size= 2
 	}
 
 	officers=
@@ -9941,7 +9920,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 40
+		size= 30
 	}
 
 	officers=
@@ -9962,7 +9941,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 10600
+		size= 10610
 	}
 
 }
@@ -10048,7 +10027,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 16
+		size= 12
 	}
 
 	officers=
@@ -10069,7 +10048,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 6699
+		size= 6703
 	}
 
 }
@@ -10162,7 +10141,7 @@
 	{
 		culture = brazilian
 		religion = catholic
-		size= 583
+		size= 584
 	}
 
 	artisans=
@@ -10197,7 +10176,7 @@
 	{
 		culture = brazilian
 		religion = catholic
-		size= 2
+		size= 1
 	}
 
 	officers=
@@ -10227,7 +10206,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 2360
+		size= 2361
 	}
 
 	artisans=
@@ -10255,7 +10234,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 10
+		size= 9
 	}
 
 	soldiers=
@@ -10292,7 +10271,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 2366
+		size= 2368
 	}
 
 	artisans=
@@ -10327,7 +10306,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 10
+		size= 8
 	}
 
 	officers=
@@ -10357,7 +10336,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 1852
+		size= 1854
 	}
 
 	artisans=
@@ -10392,7 +10371,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 8
+		size= 6
 	}
 
 	officers=

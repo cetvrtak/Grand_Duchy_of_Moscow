@@ -24,7 +24,7 @@
 	{
 		culture = dynamic-al_suryah_arabic-oghuz-culture-num1
 		religion = sunni
-		size= 23
+		size= 19
 	}
 
 	officers=
@@ -45,7 +45,7 @@
 	{
 		culture = dynamic-al_suryah_arabic-oghuz-culture-num1
 		religion = sunni
-		size= 26380
+		size= 26384
 	}
 
 	soldiers=
@@ -73,7 +73,7 @@
 	{
 		culture = dynamic-al_suryah_arabic-oghuz-culture-num1
 		religion = orthodox
-		size= 48
+		size= 40
 	}
 
 	officers=
@@ -94,7 +94,7 @@
 	{
 		culture = dynamic-al_suryah_arabic-oghuz-culture-num1
 		religion = orthodox
-		size= 12556
+		size= 12564
 	}
 
 	soldiers=
@@ -122,7 +122,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 199
+		size= 168
 	}
 
 	officers=
@@ -143,7 +143,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 28299
+		size= 28330
 	}
 
 }
@@ -173,7 +173,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 8
+		size= 6
 	}
 
 	officers=
@@ -194,7 +194,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 7390
+		size= 7392
 	}
 
 	soldiers=
@@ -222,7 +222,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 41
+		size= 31
 	}
 
 	officers=
@@ -243,7 +243,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 12048
+		size= 12058
 	}
 
 }
@@ -273,7 +273,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 283
+		size= 239
 	}
 
 	officers=
@@ -294,7 +294,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 69077
+		size= 69121
 	}
 
 	clergymen=
@@ -338,7 +338,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 17
+		size= 15
 	}
 
 	officers=
@@ -359,14 +359,14 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 8245
+		size= 8247
 	}
 
 	soldiers=
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 1033
+		size= 891
 	}
 
 	artisans=
@@ -387,7 +387,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 87
+		size= 75
 	}
 
 	officers=
@@ -408,7 +408,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 14160
+		size= 14314
 	}
 
 }
@@ -438,7 +438,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 15
+		size= 13
 	}
 
 	officers=
@@ -459,7 +459,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 8312
+		size= 8314
 	}
 
 	soldiers=
@@ -487,7 +487,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 76
+		size= 64
 	}
 
 	officers=
@@ -508,7 +508,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 14490
+		size= 14502
 	}
 
 }
@@ -538,7 +538,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 59
+		size= 44
 	}
 
 	officers=
@@ -559,7 +559,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 26459
+		size= 26474
 	}
 
 }
@@ -589,7 +589,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 9
+		size= 7
 	}
 
 	officers=
@@ -610,7 +610,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 3979
+		size= 3981
 	}
 
 }
@@ -689,7 +689,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 12
+		size= 9
 	}
 
 	officers=
@@ -710,7 +710,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 3400
+		size= 3403
 	}
 
 	soldiers=
@@ -738,7 +738,7 @@
 	{
 		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
 		religion = sunni
-		size= 2
+		size= 1
 	}
 
 	officers=
@@ -759,7 +759,7 @@
 	{
 		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
 		religion = sunni
-		size= 1303
+		size= 1304
 	}
 
 	soldiers=
@@ -787,7 +787,7 @@
 	{
 		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
 		religion = orthodox
-		size= 8
+		size= 6
 	}
 
 	officers=
@@ -808,7 +808,7 @@
 	{
 		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
 		religion = orthodox
-		size= 2212
+		size= 2214
 	}
 
 }
@@ -887,7 +887,7 @@
 	{
 		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
 		religion = orthodox
-		size= 41
+		size= 31
 	}
 
 	officers=
@@ -908,7 +908,7 @@
 	{
 		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
 		religion = orthodox
-		size= 11716
+		size= 11726
 	}
 
 	soldiers=
@@ -936,7 +936,7 @@
 	{
 		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
 		religion = protestant
-		size= 9
+		size= 7
 	}
 
 	officers=
@@ -957,7 +957,7 @@
 	{
 		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
 		religion = protestant
-		size= 880
+		size= 882
 	}
 
 }

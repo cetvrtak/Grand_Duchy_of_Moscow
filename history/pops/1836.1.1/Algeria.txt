@@ -24,7 +24,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 172
+		size= 136
 	}
 
 	officers=
@@ -45,7 +45,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 62357
+		size= 62393
 	}
 
 	aristocrats=
@@ -124,7 +124,7 @@
 	{
 		culture = maghrebi
 		religion = sunni
-		size= 233
+		size= 175
 	}
 
 	officers=
@@ -145,7 +145,7 @@
 	{
 		culture = maghrebi
 		religion = sunni
-		size= 98048
+		size= 98106
 	}
 
 }
@@ -182,7 +182,7 @@
 	{
 		culture = maghrebi
 		religion = sunni
-		size= 231
+		size= 173
 	}
 
 	officers=
@@ -203,7 +203,7 @@
 	{
 		culture = maghrebi
 		religion = sunni
-		size= 95922
+		size= 95980
 	}
 
 }
@@ -233,7 +233,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 14
+		size= 10
 	}
 
 	officers=
@@ -254,7 +254,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 12879
+		size= 12883
 	}
 
 	soldiers=
@@ -282,7 +282,7 @@
 	{
 		culture = berber
 		religion = catholic
-		size= 103
+		size= 77
 	}
 
 	officers=
@@ -303,7 +303,7 @@
 	{
 		culture = berber
 		religion = catholic
-		size= 40909
+		size= 40935
 	}
 
 }
@@ -312,7 +312,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 1033
+		size= 386
 	}
 
 	artisans=
@@ -333,7 +333,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 49
+		size= 36
 	}
 
 	aristocrats=
@@ -347,7 +347,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 21294
+		size= 21954
 	}
 
 	aristocrats=
@@ -405,7 +405,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 1324
+		size= 10333
 	}
 
 	artisans=
@@ -426,7 +426,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 70
+		size= 53
 	}
 
 	officers=
@@ -447,7 +447,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 56442
+		size= 47450
 	}
 
 	slaves=
@@ -482,7 +482,7 @@
 	{
 		culture = berber
 		religion = catholic
-		size= 103
+		size= 77
 	}
 
 	officers=
@@ -503,7 +503,7 @@
 	{
 		culture = berber
 		religion = catholic
-		size= 6450
+		size= 6476
 	}
 
 }
@@ -540,7 +540,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 10
+		size= 7
 	}
 
 	officers=
@@ -561,7 +561,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 8726
+		size= 8729
 	}
 
 	slaves=
@@ -596,7 +596,7 @@
 	{
 		culture = berber
 		religion = catholic
-		size= 73
+		size= 55
 	}
 
 	officers=
@@ -617,7 +617,7 @@
 	{
 		culture = berber
 		religion = catholic
-		size= 27658
+		size= 27676
 	}
 
 }
@@ -626,7 +626,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 7233
+		size= 339
 	}
 
 	artisans=
@@ -647,7 +647,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 17
+		size= 13
 	}
 
 	officers=
@@ -668,7 +668,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 8748
+		size= 15646
 	}
 
 	soldiers=
@@ -696,7 +696,7 @@
 	{
 		culture = berber
 		religion = catholic
-		size= 25
+		size= 19
 	}
 
 	officers=
@@ -717,7 +717,7 @@
 	{
 		culture = berber
 		religion = catholic
-		size= 2586
+		size= 2592
 	}
 
 }
@@ -747,7 +747,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 124
+		size= 93
 	}
 
 	officers=
@@ -768,7 +768,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 54020
+		size= 54051
 	}
 
 	aristocrats=
@@ -819,7 +819,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 836
+		size= 4133
 	}
 
 	artisans=
@@ -840,7 +840,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 30
+		size= 22
 	}
 
 	officers=
@@ -861,7 +861,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 13215
+		size= 9926
 	}
 
 }
@@ -891,7 +891,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 47
+		size= 37
 	}
 
 	officers=
@@ -912,7 +912,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 19742
+		size= 19752
 	}
 
 	soldiers=
@@ -975,7 +975,7 @@
 	{
 		culture = berber
 		religion = catholic
-		size= 11
+		size= 9
 	}
 
 	officers=
@@ -996,7 +996,7 @@
 	{
 		culture = berber
 		religion = catholic
-		size= 562
+		size= 564
 	}
 
 }
@@ -1005,7 +1005,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -1026,7 +1026,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 10
+		size= 7
 	}
 
 	officers=
@@ -1047,7 +1047,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 4641
+		size= 1544
 	}
 
 	soldiers=
@@ -1075,7 +1075,7 @@
 	{
 		culture = berber
 		religion = catholic
-		size= 8
+		size= 6
 	}
 
 	officers=
@@ -1096,7 +1096,7 @@
 	{
 		culture = berber
 		religion = catholic
-		size= 341
+		size= 343
 	}
 
 	soldiers=
@@ -1203,7 +1203,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 121
+		size= 1033
 	}
 
 	artisans=
@@ -1224,7 +1224,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 5
+		size= 3
 	}
 
 	officers=
@@ -1245,7 +1245,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 1901
+		size= 991
 	}
 
 }
@@ -1261,7 +1261,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 513
+		size= 1033
 	}
 
 	artisans=
@@ -1282,7 +1282,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 26
+		size= 19
 	}
 
 	officers=
@@ -1303,7 +1303,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 21744
+		size= 21231
 	}
 
 	slaves=
@@ -1338,7 +1338,7 @@
 	{
 		culture = berber
 		religion = catholic
-		size= 36
+		size= 27
 	}
 
 	officers=
@@ -1359,7 +1359,7 @@
 	{
 		culture = berber
 		religion = catholic
-		size= 2626
+		size= 2635
 	}
 
 }
@@ -1368,7 +1368,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 1033
+		size= 349
 	}
 
 	artisans=
@@ -1389,7 +1389,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 17
+		size= 13
 	}
 
 	officers=
@@ -1410,7 +1410,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 14984
+		size= 15672
 	}
 
 	soldiers=
@@ -1438,7 +1438,7 @@
 	{
 		culture = berber
 		religion = catholic
-		size= 25
+		size= 19
 	}
 
 	officers=
@@ -1459,7 +1459,7 @@
 	{
 		culture = berber
 		religion = catholic
-		size= 1775
+		size= 1781
 	}
 
 }
@@ -1550,13 +1550,6 @@
 		size= 34
 	}
 
-	craftsmen=
-	{
-		culture = ifriqi
-		religion = shamanism
-		size= 8170
-	}
-
 	artisans=
 	{
 		culture = ifriqi
@@ -1569,13 +1562,6 @@
 		culture = ifriqi
 		religion = shamanism
 		size= 13
-	}
-
-	clerks=
-	{
-		culture = ifriqi
-		religion = shamanism
-		size= 493
 	}
 
 	bureaucrats=
@@ -1592,18 +1578,18 @@
 		size= 1
 	}
 
-	capitalists=
-	{
-		culture = ifriqi
-		religion = shamanism
-		size= 88
-	}
-
 	aristocrats=
 	{
 		culture = ifriqi
 		religion = shamanism
 		size= 14
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = shamanism
+		size= 1392
 	}
 
 }

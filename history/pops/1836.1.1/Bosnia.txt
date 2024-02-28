@@ -24,7 +24,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 113
+		size= 85
 	}
 
 	aristocrats=
@@ -38,7 +38,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 50968
+		size= 50996
 	}
 
 	aristocrats=
@@ -110,7 +110,7 @@
 	{
 		culture = bosniak
 		religion = catholic
-		size= 73
+		size= 63
 	}
 
 	officers=
@@ -131,7 +131,7 @@
 	{
 		culture = bosniak
 		religion = catholic
-		size= 17209
+		size= 17212
 	}
 
 	soldiers=
@@ -159,7 +159,7 @@
 	{
 		culture = bosniak
 		religion = protestant
-		size= 23
+		size= 20
 	}
 
 	officers=
@@ -203,7 +203,7 @@
 	{
 		culture = bosniak
 		religion = catholic
-		size= 100
+		size= 86
 	}
 
 	officers=
@@ -224,7 +224,7 @@
 	{
 		culture = bosniak
 		religion = catholic
-		size= 18845
+		size= 18859
 	}
 
 	soldiers=
@@ -252,7 +252,7 @@
 	{
 		culture = bosniak
 		religion = protestant
-		size= 11
+		size= 10
 	}
 
 	officers=
@@ -296,7 +296,7 @@
 	{
 		culture = bosniak
 		religion = catholic
-		size= 183
+		size= 157
 	}
 
 	officers=
@@ -317,7 +317,7 @@
 	{
 		culture = bosniak
 		religion = catholic
-		size= 39102
+		size= 39128
 	}
 
 }
@@ -347,7 +347,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 46
+		size= 34
 	}
 
 	officers=
@@ -368,7 +368,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 20703
+		size= 20715
 	}
 
 }
@@ -398,7 +398,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 76
+		size= 62
 	}
 
 	officers=
@@ -419,7 +419,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 24717
+		size= 24731
 	}
 
 }
@@ -449,7 +449,7 @@
 	{
 		culture = bosniak
 		religion = orthodox
-		size= 69
+		size= 52
 	}
 
 	officers=
@@ -470,7 +470,7 @@
 	{
 		culture = bosniak
 		religion = orthodox
-		size= 27925
+		size= 27942
 	}
 
 }

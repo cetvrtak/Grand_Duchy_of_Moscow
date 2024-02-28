@@ -10,7 +10,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 7233
+		size= 4317
 	}
 
 	artisans=
@@ -31,7 +31,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 154
+		size= 116
 	}
 
 	officers=
@@ -52,7 +52,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 44580
+		size= 47534
 	}
 
 }
@@ -89,7 +89,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 31
+		size= 26
 	}
 
 	officers=
@@ -110,7 +110,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 5983
+		size= 5988
 	}
 
 	slaves=
@@ -145,7 +145,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 94
+		size= 79
 	}
 
 	officers=
@@ -166,7 +166,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 18326
+		size= 18341
 	}
 
 	slaves=
@@ -201,7 +201,7 @@
 	{
 		culture = fulbe
 		religion = sunni
-		size= 10
+		size= 8
 	}
 
 	officers=
@@ -222,7 +222,7 @@
 	{
 		culture = fulbe
 		religion = sunni
-		size= 4189
+		size= 4191
 	}
 
 	slaves=
@@ -257,7 +257,7 @@
 	{
 		culture = ifriqi
 		religion = sunni
-		size= 27
+		size= 23
 	}
 
 	officers=
@@ -278,7 +278,7 @@
 	{
 		culture = ifriqi
 		religion = sunni
-		size= 2917
+		size= 2921
 	}
 
 }
@@ -315,7 +315,7 @@
 	{
 		culture = wolof
 		religion = shamanism
-		size= 6
+		size= 4
 	}
 
 	officers=
@@ -336,7 +336,7 @@
 	{
 		culture = wolof
 		religion = shamanism
-		size= 3281
+		size= 3283
 	}
 
 	slaves=
@@ -350,7 +350,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 1790
+		size= 4133
 	}
 
 	artisans=
@@ -371,7 +371,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 70
+		size= 52
 	}
 
 	officers=
@@ -392,7 +392,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 14722
+		size= 12397
 	}
 
 }
@@ -429,7 +429,7 @@
 	{
 		culture = wolof
 		religion = shamanism
-		size= 7
+		size= 5
 	}
 
 	officers=
@@ -450,7 +450,7 @@
 	{
 		culture = wolof
 		religion = shamanism
-		size= 3576
+		size= 3578
 	}
 
 	slaves=
@@ -464,7 +464,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 1748
+		size= 4133
 	}
 
 	artisans=
@@ -485,7 +485,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 69
+		size= 52
 	}
 
 	officers=
@@ -506,7 +506,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 14108
+		size= 11740
 	}
 
 }
@@ -522,7 +522,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 4133
+		size= 1537
 	}
 
 	artisans=
@@ -543,7 +543,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 184
+		size= 146
 	}
 
 	officers=
@@ -564,7 +564,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 61620
+		size= 64254
 	}
 
 }
@@ -601,7 +601,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 256
+		size= 211
 	}
 
 	officers=
@@ -622,7 +622,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 42393
+		size= 42438
 	}
 
 }
@@ -659,7 +659,7 @@
 	{
 		culture = mande
 		religion = shamanism
-		size= 244
+		size= 183
 	}
 
 	officers=
@@ -680,7 +680,7 @@
 	{
 		culture = mande
 		religion = shamanism
-		size= 85822
+		size= 85883
 	}
 
 }
@@ -696,7 +696,7 @@
 	{
 		culture = wolof
 		religion = shamanism
-		size= 7233
+		size= 4133
 	}
 
 	artisans=
@@ -717,7 +717,7 @@
 	{
 		culture = wolof
 		religion = shamanism
-		size= 69
+		size= 54
 	}
 
 	officers=
@@ -738,7 +738,7 @@
 	{
 		culture = wolof
 		religion = shamanism
-		size= 14318
+		size= 17433
 	}
 
 }
@@ -775,7 +775,7 @@
 	{
 		culture = mande
 		religion = shamanism
-		size= 211
+		size= 167
 	}
 
 	officers=
@@ -796,7 +796,7 @@
 	{
 		culture = mande
 		religion = shamanism
-		size= 65986
+		size= 66030
 	}
 
 }
@@ -833,7 +833,7 @@
 	{
 		culture = songhai
 		religion = shamanism
-		size= 86
+		size= 68
 	}
 
 	officers=
@@ -854,7 +854,7 @@
 	{
 		culture = songhai
 		religion = shamanism
-		size= 22879
+		size= 22897
 	}
 
 	slaves=
@@ -889,7 +889,7 @@
 	{
 		culture = bambara
 		religion = shamanism
-		size= 133
+		size= 106
 	}
 
 	officers=
@@ -910,7 +910,7 @@
 	{
 		culture = bambara
 		religion = shamanism
-		size= 35359
+		size= 35386
 	}
 
 }
@@ -947,7 +947,7 @@
 	{
 		culture = bambara
 		religion = sunni
-		size= 184
+		size= 151
 	}
 
 	officers=
@@ -968,7 +968,7 @@
 	{
 		culture = bambara
 		religion = sunni
-		size= 31075
+		size= 31108
 	}
 
 	slaves=
@@ -1003,7 +1003,7 @@
 	{
 		culture = bambara
 		religion = shamanism
-		size= 35
+		size= 29
 	}
 
 	officers=
@@ -1024,7 +1024,7 @@
 	{
 		culture = bambara
 		religion = shamanism
-		size= 8618
+		size= 8624
 	}
 
 	slaves=
@@ -1059,7 +1059,7 @@
 	{
 		culture = bambara
 		religion = shiite
-		size= 7
+		size= 6
 	}
 
 	officers=
@@ -1115,7 +1115,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 133
+		size= 109
 	}
 
 	officers=
@@ -1136,7 +1136,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 32443
+		size= 32467
 	}
 
 }
@@ -1173,7 +1173,7 @@
 	{
 		culture = songhai
 		religion = sunni
-		size= 62
+		size= 47
 	}
 
 	officers=
@@ -1194,7 +1194,7 @@
 	{
 		culture = songhai
 		religion = sunni
-		size= 7127
+		size= 7142
 	}
 
 	slaves=
@@ -1278,7 +1278,7 @@
 	{
 		culture = bambara
 		religion = sunni
-		size= 65
+		size= 48
 	}
 
 	officers=
@@ -1299,7 +1299,7 @@
 	{
 		culture = bambara
 		religion = sunni
-		size= 6968
+		size= 6985
 	}
 
 }
@@ -1343,7 +1343,7 @@
 	{
 		culture = ifriqi
 		religion = sunni
-		size= 1033
+		size= 90
 	}
 
 	artisans=
@@ -1364,7 +1364,7 @@
 	{
 		culture = ifriqi
 		religion = sunni
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -1385,7 +1385,7 @@
 	{
 		culture = ifriqi
 		religion = sunni
-		size= 451
+		size= 1395
 	}
 
 	soldiers=
@@ -1413,7 +1413,7 @@
 	{
 		culture = songhai
 		religion = sunni
-		size= 3
+		size= 2
 	}
 
 	officers=
@@ -1434,7 +1434,7 @@
 	{
 		culture = songhai
 		religion = sunni
-		size= 1304
+		size= 1305
 	}
 
 }
@@ -1464,7 +1464,7 @@
 	{
 		culture = ifriqi
 		religion = shamanism
-		size= 8
+		size= 6
 	}
 
 	officers=
@@ -1485,7 +1485,7 @@
 	{
 		culture = ifriqi
 		religion = shamanism
-		size= 2394
+		size= 2396
 	}
 
 }

@@ -59,7 +59,7 @@
 	{
 		culture = surinamian
 		religion = protestant
-		size= 32167
+		size= 32196
 	}
 
 	artisans=
@@ -87,7 +87,7 @@
 	{
 		culture = surinamian
 		religion = protestant
-		size= 191
+		size= 159
 	}
 
 	officers=
@@ -201,7 +201,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 6
+		size= 4
 	}
 
 	officers=
@@ -222,7 +222,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 606
+		size= 608
 	}
 
 }
@@ -259,7 +259,7 @@
 	{
 		culture = surinamian
 		religion = protestant
-		size= 2334
+		size= 2336
 	}
 
 	slaves=
@@ -294,7 +294,7 @@
 	{
 		culture = surinamian
 		religion = protestant
-		size= 28
+		size= 26
 	}
 
 	soldiers=
@@ -329,7 +329,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 1341
+		size= 1343
 	}
 
 	artisans=
@@ -371,7 +371,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 12
+		size= 10
 	}
 
 	officers=
@@ -415,7 +415,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 3643
+		size= 3646
 	}
 
 	slaves=
@@ -450,7 +450,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 18
+		size= 15
 	}
 
 	officers=
@@ -508,7 +508,7 @@
 	{
 		culture = surinamian
 		religion = protestant
-		size= 6793
+		size= 7266
 	}
 
 	slaves=
@@ -543,7 +543,7 @@
 	{
 		culture = surinamian
 		religion = protestant
-		size= 43
+		size= 36
 	}
 
 	officers=
@@ -557,7 +557,7 @@
 	{
 		culture = surinamian
 		religion = protestant
-		size= 1033
+		size= 566
 	}
 
 }
@@ -601,7 +601,7 @@
 	{
 		culture = guyanese
 		religion = protestant
-		size= 6164
+		size= 6955
 	}
 
 	slaves=
@@ -632,18 +632,18 @@
 		size= 66
 	}
 
-	bureaucrats=
-	{
-		culture = guyanese
-		religion = protestant
-		size= 31
-	}
-
 	soldiers=
 	{
 		culture = guyanese
 		religion = protestant
-		size= 1033
+		size= 248
+	}
+
+	bureaucrats=
+	{
+		culture = guyanese
+		religion = protestant
+		size= 24
 	}
 
 	officers=
@@ -687,7 +687,7 @@
 	{
 		culture = north_andean
 		religion = catholic
-		size= 3045
+		size= 3047
 	}
 
 	soldiers=
@@ -722,7 +722,7 @@
 	{
 		culture = north_andean
 		religion = catholic
-		size= 14
+		size= 12
 	}
 
 	officers=
@@ -757,7 +757,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 59
+		size= 48
 	}
 
 	officers=
@@ -778,7 +778,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 4658
+		size= 4669
 	}
 
 	slaves=
@@ -843,7 +843,7 @@
 	{
 		culture = north_andean
 		religion = catholic
-		size= 7528
+		size= 7531
 	}
 
 	artisans=
@@ -885,7 +885,7 @@
 	{
 		culture = north_andean
 		religion = catholic
-		size= 13
+		size= 10
 	}
 
 	officers=
@@ -899,7 +899,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 4133
+		size= 1033
 	}
 
 	artisans=
@@ -920,7 +920,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 48
+		size= 37
 	}
 
 	officers=
@@ -941,7 +941,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 6495
+		size= 9606
 	}
 
 	soldiers=
@@ -1048,7 +1048,7 @@
 	{
 		culture = north_andean
 		religion = catholic
-		size= 3053
+		size= 3056
 	}
 
 	slaves=
@@ -1090,7 +1090,7 @@
 	{
 		culture = north_andean
 		religion = catholic
-		size= 20
+		size= 17
 	}
 
 	officers=
@@ -1125,7 +1125,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 20
+		size= 16
 	}
 
 	officers=
@@ -1146,7 +1146,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 2119
+		size= 2123
 	}
 
 	soldiers=
@@ -1190,7 +1190,7 @@
 	{
 		culture = north_andean
 		religion = catholic
-		size= 3864
+		size= 3866
 	}
 
 	artisans=
@@ -1225,7 +1225,7 @@
 	{
 		culture = north_andean
 		religion = catholic
-		size= 11
+		size= 9
 	}
 
 	officers=
@@ -1239,7 +1239,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 282
+		size= 1033
 	}
 
 	artisans=
@@ -1260,7 +1260,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 46
+		size= 36
 	}
 
 	officers=
@@ -1281,7 +1281,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 8370
+		size= 7629
 	}
 
 }
@@ -1311,7 +1311,7 @@
 	{
 		culture = north_andean
 		religion = catholic
-		size= 1734
+		size= 1735
 	}
 
 	slaves=
@@ -1353,7 +1353,7 @@
 	{
 		culture = north_andean
 		religion = catholic
-		size= 3
+		size= 2
 	}
 
 	officers=
@@ -1388,7 +1388,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 8
+		size= 6
 	}
 
 	officers=
@@ -1409,7 +1409,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 1205
+		size= 1207
 	}
 
 	farmers=
@@ -1423,7 +1423,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 1067
+		size= 1068
 	}
 
 	artisans=
@@ -1465,7 +1465,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -1523,7 +1523,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 2682
+		size= 2685
 	}
 
 	artisans=
@@ -1551,7 +1551,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 21
+		size= 18
 	}
 
 	officers=
@@ -1721,7 +1721,7 @@
 	{
 		culture = guyanese
 		religion = protestant
-		size= 3980
+		size= 3983
 	}
 
 	slaves=
@@ -1763,7 +1763,7 @@
 	{
 		culture = guyanese
 		religion = protestant
-		size= 22
+		size= 19
 	}
 
 	officers=
@@ -1777,14 +1777,14 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 8320
+		size= 7697
 	}
 
 	soldiers=
 	{
 		culture = yankee
 		religion = protestant
-		size= 402
+		size= 1033
 	}
 
 	artisans=
@@ -1812,7 +1812,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 55
+		size= 46
 	}
 
 	officers=
@@ -1842,7 +1842,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 2387
+		size= 1386
 	}
 
 	artisans=
@@ -1870,14 +1870,14 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 11
+		size= 9
 	}
 
 	soldiers=
 	{
 		culture = yankee
 		religion = protestant
-		size= 30
+		size= 1033
 	}
 
 	officers=
@@ -1907,7 +1907,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 615
+		size= 616
 	}
 
 	artisans=
@@ -1935,7 +1935,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 3
+		size= 2
 	}
 
 	officers=

@@ -493,13 +493,13 @@ army = {
 	name="3rd Army"
 	location=1194
 	regiment = {
-		name="1st Novopetrovskoye Irregulars"
-		type=irregular
+		name="1st Novopetrovskoye Infantry"
+		type=infantry
 		home=1194
 	}
 	regiment = {
-		name="2nd Novopetrovskoye Irregulars"
-		type=irregular
+		name="2nd Novopetrovskoye Infantry"
+		type=infantry
 		home=1194
 	}
 }

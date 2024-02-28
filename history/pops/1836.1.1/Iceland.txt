@@ -24,7 +24,7 @@
 	{
 		culture = icelandic
 		religion = catholic
-		size= 8
+		size= 6
 	}
 
 	officers=
@@ -45,7 +45,7 @@
 	{
 		culture = icelandic
 		religion = catholic
-		size= 5523
+		size= 5525
 	}
 
 	soldiers=
@@ -73,7 +73,7 @@
 	{
 		culture = icelandic
 		religion = protestant
-		size= 26
+		size= 21
 	}
 
 	officers=
@@ -94,7 +94,7 @@
 	{
 		culture = icelandic
 		religion = protestant
-		size= 5979
+		size= 5984
 	}
 
 }

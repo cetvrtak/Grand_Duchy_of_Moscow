@@ -38,7 +38,7 @@
 	{
 		culture = fang
 		religion = shamanism
-		size= 45362
+		size= 45391
 	}
 
 	slaves=
@@ -80,21 +80,14 @@
 	{
 		culture = fang
 		religion = catholic
-		size= 7864
-	}
-
-	bureaucrats=
-	{
-		culture = fang
-		religion = shamanism
-		size= 120
+		size= 7865
 	}
 
 	bureaucrats=
 	{
 		culture = fang
 		religion = catholic
-		size= 27
+		size= 21
 	}
 
 	officers=
@@ -102,6 +95,13 @@
 		culture = fang
 		religion = catholic
 		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 89
 	}
 
 	officers=
@@ -145,7 +145,7 @@
 	{
 		culture = ibo
 		religion = sunni
-		size= 100
+		size= 75
 	}
 
 	officers=
@@ -166,7 +166,7 @@
 	{
 		culture = ibo
 		religion = sunni
-		size= 35241
+		size= 35266
 	}
 
 }
@@ -196,7 +196,7 @@
 	{
 		culture = fang
 		religion = shamanism
-		size= 23969
+		size= 23983
 	}
 
 	slaves=
@@ -238,7 +238,7 @@
 	{
 		culture = fang
 		religion = catholic
-		size= 4157
+		size= 4158
 	}
 
 	clergymen=
@@ -259,7 +259,7 @@
 	{
 		culture = fang
 		religion = catholic
-		size= 15
+		size= 11
 	}
 
 	officers=
@@ -273,7 +273,7 @@
 	{
 		culture = fang
 		religion = shamanism
-		size= 64
+		size= 48
 	}
 
 	officers=

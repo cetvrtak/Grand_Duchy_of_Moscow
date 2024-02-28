@@ -6,13 +6,6 @@
 		size= 386
 	}
 
-	craftsmen=
-	{
-		culture = wolof
-		religion = sunni
-		size= 8170
-	}
-
 	artisans=
 	{
 		culture = wolof
@@ -27,18 +20,11 @@
 		size= 145
 	}
 
-	clerks=
-	{
-		culture = wolof
-		religion = sunni
-		size= 493
-	}
-
 	bureaucrats=
 	{
 		culture = wolof
 		religion = sunni
-		size= 46
+		size= 37
 	}
 
 	officers=
@@ -46,13 +32,6 @@
 		culture = wolof
 		religion = sunni
 		size= 15
-	}
-
-	capitalists=
-	{
-		culture = wolof
-		religion = sunni
-		size= 88
 	}
 
 	aristocrats=
@@ -66,7 +45,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 8949
+		size= 17709
 	}
 
 }
@@ -103,7 +82,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 41
+		size= 33
 	}
 
 	officers=
@@ -124,7 +103,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 14654
+		size= 14662
 	}
 
 }
@@ -154,7 +133,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 55
+		size= 41
 	}
 
 	officers=
@@ -175,7 +154,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 24188
+		size= 24202
 	}
 
 }
@@ -212,7 +191,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 134
+		size= 106
 	}
 
 	officers=
@@ -233,7 +212,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 41203
+		size= 41231
 	}
 
 }
@@ -270,7 +249,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 55
+		size= 43
 	}
 
 	officers=
@@ -291,7 +270,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 16782
+		size= 16794
 	}
 
 }
@@ -328,7 +307,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 120
+		size= 95
 	}
 
 	officers=
@@ -349,7 +328,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 37561
+		size= 37586
 	}
 
 }
@@ -386,7 +365,7 @@
 	{
 		culture = fulbe
 		religion = sunni
-		size= 63
+		size= 50
 	}
 
 	officers=
@@ -407,7 +386,7 @@
 	{
 		culture = fulbe
 		religion = sunni
-		size= 38082
+		size= 38095
 	}
 
 	slaves=
@@ -442,7 +421,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 150
+		size= 119
 	}
 
 	officers=
@@ -463,7 +442,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 19259
+		size= 19290
 	}
 
 }
@@ -500,7 +479,7 @@
 	{
 		culture = fulbe
 		religion = sunni
-		size= 40
+		size= 31
 	}
 
 	officers=
@@ -521,7 +500,7 @@
 	{
 		culture = fulbe
 		religion = sunni
-		size= 19348
+		size= 19357
 	}
 
 	slaves=
@@ -556,7 +535,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 94
+		size= 75
 	}
 
 	officers=
@@ -577,7 +556,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 8933
+		size= 8952
 	}
 
 }
@@ -614,7 +593,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 31
+		size= 26
 	}
 
 	officers=
@@ -635,7 +614,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 6348
+		size= 6353
 	}
 
 	slaves=
@@ -670,7 +649,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 94
+		size= 79
 	}
 
 	officers=
@@ -691,7 +670,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 19438
+		size= 19453
 	}
 
 	slaves=
@@ -726,7 +705,7 @@
 	{
 		culture = fulbe
 		religion = sunni
-		size= 9
+		size= 8
 	}
 
 	officers=
@@ -747,7 +726,7 @@
 	{
 		culture = fulbe
 		religion = sunni
-		size= 4413
+		size= 4414
 	}
 
 	slaves=
@@ -782,7 +761,7 @@
 	{
 		culture = ifriqi
 		religion = sunni
-		size= 27
+		size= 23
 	}
 
 	officers=
@@ -803,7 +782,7 @@
 	{
 		culture = ifriqi
 		religion = sunni
-		size= 3126
+		size= 3130
 	}
 
 }
@@ -840,7 +819,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 142
+		size= 106
 	}
 
 	officers=
@@ -861,7 +840,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 59114
+		size= 59150
 	}
 
 }
@@ -898,7 +877,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 53
+		size= 40
 	}
 
 	officers=
@@ -919,7 +898,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 19527
+		size= 19540
 	}
 
 }
@@ -956,7 +935,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 127
+		size= 101
 	}
 
 	officers=
@@ -977,7 +956,7 @@
 	{
 		culture = wolof
 		religion = sunni
-		size= 41263
+		size= 41289
 	}
 
 }

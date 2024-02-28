@@ -229,7 +229,7 @@
 	{
 		culture = mashriqi
 		religion = shiite
-		size= 11
+		size= 9
 	}
 
 	officers=
@@ -250,7 +250,7 @@
 	{
 		culture = mashriqi
 		religion = shiite
-		size= 4893
+		size= 4895
 	}
 
 	soldiers=
@@ -278,7 +278,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 54
+		size= 47
 	}
 
 	officers=
@@ -299,7 +299,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 8471
+		size= 8478
 	}
 
 }
@@ -329,7 +329,7 @@
 	{
 		culture = mashriqi
 		religion = shiite
-		size= 7
+		size= 6
 	}
 
 	officers=
@@ -350,7 +350,7 @@
 	{
 		culture = mashriqi
 		religion = shiite
-		size= 3404
+		size= 3405
 	}
 
 	soldiers=
@@ -378,7 +378,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 35
+		size= 30
 	}
 
 	officers=
@@ -399,7 +399,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 5894
+		size= 5899
 	}
 
 }
@@ -662,7 +662,7 @@
 	{
 		culture = misri
 		religion = orthodox
-		size= 1033
+		size= 137
 	}
 
 	artisans=
@@ -704,7 +704,7 @@
 	{
 		culture = misri
 		religion = orthodox
-		size= 4472
+		size= 5368
 	}
 
 }
@@ -734,7 +734,7 @@
 	{
 		culture = mashriqi
 		religion = shiite
-		size= 5
+		size= 4
 	}
 
 	officers=
@@ -755,7 +755,7 @@
 	{
 		culture = mashriqi
 		religion = shiite
-		size= 2455
+		size= 2456
 	}
 
 	soldiers=
@@ -783,7 +783,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 25
+		size= 22
 	}
 
 	officers=
@@ -804,7 +804,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 4250
+		size= 4253
 	}
 
 }

@@ -6,13 +6,6 @@
 		size= 2874
 	}
 
-	craftsmen=
-	{
-		culture = dutch
-		religion = catholic
-		size= 3595
-	}
-
 	artisans=
 	{
 		culture = dutch
@@ -27,18 +20,11 @@
 		size= 836
 	}
 
-	clerks=
-	{
-		culture = dutch
-		religion = catholic
-		size= 122
-	}
-
 	bureaucrats=
 	{
 		culture = dutch
 		religion = catholic
-		size= 221
+		size= 186
 	}
 
 	officers=
@@ -46,13 +32,6 @@
 		culture = dutch
 		religion = catholic
 		size= 48
-	}
-
-	capitalists=
-	{
-		culture = dutch
-		religion = catholic
-		size= 95
 	}
 
 	aristocrats=
@@ -66,7 +45,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 39611
+		size= 43261
 	}
 
 	soldiers=
@@ -74,13 +53,6 @@
 		culture = dutch
 		religion = protestant
 		size= 3179
-	}
-
-	craftsmen=
-	{
-		culture = dutch
-		religion = protestant
-		size= 3976
 	}
 
 	artisans=
@@ -97,18 +69,11 @@
 		size= 494
 	}
 
-	clerks=
-	{
-		culture = dutch
-		religion = protestant
-		size= 72
-	}
-
 	bureaucrats=
 	{
 		culture = dutch
 		religion = protestant
-		size= 131
+		size= 110
 	}
 
 	officers=
@@ -116,13 +81,6 @@
 		culture = dutch
 		religion = protestant
 		size= 28
-	}
-
-	capitalists=
-	{
-		culture = dutch
-		religion = protestant
-		size= 56
 	}
 
 	aristocrats=
@@ -136,7 +94,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 44437
+		size= 49022
 	}
 
 }
@@ -166,7 +124,7 @@
 	{
 		culture = flemish
 		religion = catholic
-		size= 60
+		size= 48
 	}
 
 	officers=
@@ -187,7 +145,7 @@
 	{
 		culture = flemish
 		religion = catholic
-		size= 43348
+		size= 43360
 	}
 
 	soldiers=
@@ -215,7 +173,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 230
+		size= 182
 	}
 
 	officers=
@@ -236,7 +194,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 51194
+		size= 51242
 	}
 
 }
@@ -266,7 +224,7 @@
 	{
 		culture = flemish
 		religion = catholic
-		size= 19
+		size= 14
 	}
 
 	officers=
@@ -287,7 +245,7 @@
 	{
 		culture = flemish
 		religion = catholic
-		size= 70327
+		size= 70332
 	}
 
 	soldiers=
@@ -315,7 +273,7 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 214
+		size= 160
 	}
 
 	officers=
@@ -336,7 +294,7 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 5495
+		size= 5501
 	}
 
 	soldiers=
@@ -364,7 +322,7 @@
 	{
 		culture = wallonian
 		religion = protestant
-		size= 134
+		size= 100
 	}
 
 	officers=
@@ -385,7 +343,7 @@
 	{
 		culture = wallonian
 		religion = protestant
-		size= 75991
+		size= 76025
 	}
 
 }
@@ -415,7 +373,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 191
+		size= 161
 	}
 
 	officers=
@@ -436,7 +394,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 36915
+		size= 36920
 	}
 
 	soldiers=
@@ -464,7 +422,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 115
+		size= 97
 	}
 
 	officers=
@@ -485,7 +443,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 41986
+		size= 42004
 	}
 
 }
@@ -494,7 +452,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 3922
+		size= 4133
 	}
 
 	artisans=
@@ -515,7 +473,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 165
+		size= 133
 	}
 
 	officers=
@@ -536,7 +494,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 55359
+		size= 55180
 	}
 
 	soldiers=
@@ -564,7 +522,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 26
+		size= 21
 	}
 
 	officers=
@@ -585,7 +543,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 1385
+		size= 1390
 	}
 
 }
@@ -594,14 +552,7 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 16533
-	}
-
-	craftsmen=
-	{
-		culture = wallonian
-		religion = catholic
-		size= 9549
+		size= 7233
 	}
 
 	artisans=
@@ -618,18 +569,11 @@
 		size= 984
 	}
 
-	clerks=
-	{
-		culture = wallonian
-		religion = catholic
-		size= 644
-	}
-
 	bureaucrats=
 	{
 		culture = wallonian
 		religion = catholic
-		size= 184
+		size= 150
 	}
 
 	officers=
@@ -637,13 +581,6 @@
 		culture = wallonian
 		religion = catholic
 		size= 157
-	}
-
-	capitalists=
-	{
-		culture = wallonian
-		religion = catholic
-		size= 115
 	}
 
 	aristocrats=
@@ -657,7 +594,7 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 28004
+		size= 46602
 	}
 
 	soldiers=
@@ -665,13 +602,6 @@
 		culture = wallonian
 		religion = protestant
 		size= 3836
-	}
-
-	craftsmen=
-	{
-		culture = wallonian
-		religion = protestant
-		size= 6791
 	}
 
 	artisans=
@@ -688,18 +618,11 @@
 		size= 522
 	}
 
-	clerks=
-	{
-		culture = wallonian
-		religion = protestant
-		size= 341
-	}
-
 	bureaucrats=
 	{
 		culture = wallonian
 		religion = protestant
-		size= 98
+		size= 80
 	}
 
 	officers=
@@ -707,13 +630,6 @@
 		culture = wallonian
 		religion = protestant
 		size= 84
-	}
-
-	capitalists=
-	{
-		culture = wallonian
-		religion = protestant
-		size= 61
 	}
 
 	aristocrats=
@@ -727,7 +643,7 @@
 	{
 		culture = wallonian
 		religion = protestant
-		size= 24653
+		size= 31864
 	}
 
 }
@@ -757,7 +673,7 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 158
+		size= 129
 	}
 
 	officers=
@@ -778,7 +694,7 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 34720
+		size= 34725
 	}
 
 	soldiers=
@@ -806,7 +722,7 @@
 	{
 		culture = wallonian
 		religion = protestant
-		size= 95
+		size= 78
 	}
 
 	officers=
@@ -827,7 +743,7 @@
 	{
 		culture = wallonian
 		religion = protestant
-		size= 37730
+		size= 37747
 	}
 
 }
@@ -857,7 +773,7 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 189
+		size= 155
 	}
 
 	officers=
@@ -878,7 +794,7 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 41515
+		size= 41521
 	}
 
 	soldiers=
@@ -906,7 +822,7 @@
 	{
 		culture = wallonian
 		religion = protestant
-		size= 114
+		size= 94
 	}
 
 	officers=
@@ -927,7 +843,7 @@
 	{
 		culture = wallonian
 		religion = protestant
-		size= 45117
+		size= 45137
 	}
 
 }
@@ -957,7 +873,7 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 28
+		size= 24
 	}
 
 	officers=
@@ -978,7 +894,7 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 14855
+		size= 14859
 	}
 
 	soldiers=
@@ -1006,7 +922,7 @@
 	{
 		culture = wallonian
 		religion = protestant
-		size= 80
+		size= 69
 	}
 
 	officers=
@@ -1027,7 +943,7 @@
 	{
 		culture = wallonian
 		religion = protestant
-		size= 8937
+		size= 8948
 	}
 
 }
@@ -1037,13 +953,6 @@
 		culture = wallonian
 		religion = catholic
 		size= 214
-	}
-
-	craftsmen=
-	{
-		culture = wallonian
-		religion = catholic
-		size= 4567
 	}
 
 	artisans=
@@ -1060,18 +969,11 @@
 		size= 53
 	}
 
-	clerks=
-	{
-		culture = wallonian
-		religion = catholic
-		size= 126
-	}
-
 	bureaucrats=
 	{
 		culture = wallonian
 		religion = catholic
-		size= 12
+		size= 11
 	}
 
 	officers=
@@ -1079,13 +981,6 @@
 		culture = wallonian
 		religion = catholic
 		size= 6
-	}
-
-	capitalists=
-	{
-		culture = wallonian
-		religion = catholic
-		size= 22
 	}
 
 	aristocrats=
@@ -1099,7 +994,7 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 2166
+		size= 6838
 	}
 
 	soldiers=
@@ -1107,13 +1002,6 @@
 		culture = wallonian
 		religion = protestant
 		size= 170
-	}
-
-	craftsmen=
-	{
-		culture = wallonian
-		religion = protestant
-		size= 3604
 	}
 
 	artisans=
@@ -1130,18 +1018,11 @@
 		size= 153
 	}
 
-	clerks=
-	{
-		culture = wallonian
-		religion = protestant
-		size= 366
-	}
-
 	bureaucrats=
 	{
 		culture = wallonian
 		religion = protestant
-		size= 37
+		size= 32
 	}
 
 	officers=
@@ -1149,13 +1030,6 @@
 		culture = wallonian
 		religion = protestant
 		size= 16
-	}
-
-	capitalists=
-	{
-		culture = wallonian
-		religion = protestant
-		size= 65
 	}
 
 	aristocrats=
@@ -1169,7 +1043,7 @@
 	{
 		culture = wallonian
 		religion = protestant
-		size= 799
+		size= 4119
 	}
 
 }
@@ -1199,7 +1073,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 76
+		size= 61
 	}
 
 	officers=
@@ -1220,7 +1094,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 32664
+		size= 32679
 	}
 
 	soldiers=
@@ -1248,7 +1122,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 28
+		size= 22
 	}
 
 	officers=
@@ -1269,7 +1143,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 3616
+		size= 3622
 	}
 
 }

@@ -31,7 +31,7 @@
 	{
 		culture = chibchan
 		religion = inti
-		size= 25
+		size= 19
 	}
 
 	officers=
@@ -52,7 +52,7 @@
 	{
 		culture = chibchan
 		religion = inti
-		size= 20557
+		size= 20563
 	}
 
 	slaves=
@@ -66,7 +66,7 @@
 	{
 		culture = chibchan
 		religion = protestant
-		size= 1033
+		size= 495
 	}
 
 	artisans=
@@ -87,7 +87,7 @@
 	{
 		culture = chibchan
 		religion = protestant
-		size= 124
+		size= 93
 	}
 
 	officers=
@@ -108,7 +108,7 @@
 	{
 		culture = chibchan
 		religion = protestant
-		size= 33648
+		size= 34217
 	}
 
 }
@@ -145,7 +145,7 @@
 	{
 		culture = chibchan
 		religion = inti
-		size= 7
+		size= 5
 	}
 
 	officers=
@@ -166,7 +166,7 @@
 	{
 		culture = chibchan
 		religion = inti
-		size= 5626
+		size= 5628
 	}
 
 	slaves=
@@ -201,7 +201,7 @@
 	{
 		culture = chibchan
 		religion = protestant
-		size= 34
+		size= 25
 	}
 
 	officers=
@@ -222,7 +222,7 @@
 	{
 		culture = chibchan
 		religion = protestant
-		size= 9846
+		size= 9855
 	}
 
 }
@@ -259,7 +259,7 @@
 	{
 		culture = chibchan
 		religion = inti
-		size= 7
+		size= 6
 	}
 
 	officers=
@@ -280,7 +280,7 @@
 	{
 		culture = chibchan
 		religion = inti
-		size= 2063
+		size= 2064
 	}
 
 	slaves=
@@ -315,7 +315,7 @@
 	{
 		culture = chibchan
 		religion = protestant
-		size= 33
+		size= 26
 	}
 
 	officers=
@@ -336,7 +336,7 @@
 	{
 		culture = chibchan
 		religion = protestant
-		size= 3290
+		size= 3297
 	}
 
 }
@@ -345,7 +345,7 @@
 	{
 		culture = quechua
 		religion = inti
-		size= 1033
+		size= 758
 	}
 
 	artisans=
@@ -366,7 +366,7 @@
 	{
 		culture = quechua
 		religion = inti
-		size= 16
+		size= 13
 	}
 
 	officers=
@@ -387,7 +387,7 @@
 	{
 		culture = quechua
 		religion = inti
-		size= 24915
+		size= 25193
 	}
 
 	soldiers=
@@ -415,7 +415,7 @@
 	{
 		culture = quechua
 		religion = protestant
-		size= 19
+		size= 15
 	}
 
 	officers=
@@ -436,7 +436,7 @@
 	{
 		culture = quechua
 		religion = protestant
-		size= 615
+		size= 619
 	}
 
 	soldiers=
@@ -464,7 +464,7 @@
 	{
 		culture = chibchan
 		religion = protestant
-		size= 63
+		size= 50
 	}
 
 	officers=
@@ -485,7 +485,7 @@
 	{
 		culture = chibchan
 		religion = protestant
-		size= 6858
+		size= 6871
 	}
 
 }
@@ -515,7 +515,7 @@
 	{
 		culture = chibchan
 		religion = inti
-		size= 18
+		size= 14
 	}
 
 	officers=
@@ -536,7 +536,7 @@
 	{
 		culture = chibchan
 		religion = inti
-		size= 13576
+		size= 13580
 	}
 
 	soldiers=
@@ -564,7 +564,7 @@
 	{
 		culture = chibchan
 		religion = protestant
-		size= 87
+		size= 69
 	}
 
 	officers=
@@ -585,7 +585,7 @@
 	{
 		culture = chibchan
 		religion = protestant
-		size= 22761
+		size= 22779
 	}
 
 }
@@ -615,7 +615,7 @@
 	{
 		culture = incacunapic
 		religion = protestant
-		size= 5090
+		size= 5094
 	}
 
 	artisans=
@@ -643,7 +643,7 @@
 	{
 		culture = incacunapic
 		religion = protestant
-		size= 23
+		size= 18
 	}
 
 	soldiers=

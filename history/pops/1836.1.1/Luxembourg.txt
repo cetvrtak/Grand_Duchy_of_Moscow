@@ -24,7 +24,7 @@
 	{
 		culture = flemish
 		religion = catholic
-		size= 33
+		size= 27
 	}
 
 	officers=
@@ -45,7 +45,7 @@
 	{
 		culture = flemish
 		religion = catholic
-		size= 20035
+		size= 20041
 	}
 
 	soldiers=
@@ -73,7 +73,7 @@
 	{
 		culture = flemish
 		religion = protestant
-		size= 101
+		size= 83
 	}
 
 	officers=
@@ -94,7 +94,7 @@
 	{
 		culture = flemish
 		religion = protestant
-		size= 16954
+		size= 16972
 	}
 
 }

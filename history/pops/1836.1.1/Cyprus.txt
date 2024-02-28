@@ -38,7 +38,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 14260
+		size= 14266
 	}
 
 	slaves=
@@ -73,7 +73,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 14
+		size= 8
 	}
 
 	officers=
@@ -108,7 +108,7 @@
 	{
 		culture = greek
 		religion = protestant
-		size= 2
+		size= 1
 	}
 
 	officers=
@@ -159,7 +159,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 10026
+		size= 10032
 	}
 
 	artisans=
@@ -181,13 +181,6 @@
 		culture = greek
 		religion = catholic
 		size= 7
-	}
-
-	bureaucrats=
-	{
-		culture = greek
-		religion = orthodox
-		size= 10
 	}
 
 	officers=
@@ -215,7 +208,7 @@
 	{
 		culture = greek
 		religion = protestant
-		size= 2
+		size= 1
 	}
 
 	officers=
@@ -230,6 +223,13 @@
 		culture = greek
 		religion = protestant
 		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size= 4
 	}
 
 }
@@ -266,7 +266,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 10821
+		size= 10827
 	}
 
 	artisans=
@@ -288,13 +288,6 @@
 		culture = greek
 		religion = catholic
 		size= 7
-	}
-
-	bureaucrats=
-	{
-		culture = greek
-		religion = orthodox
-		size= 10
 	}
 
 	officers=
@@ -322,7 +315,7 @@
 	{
 		culture = greek
 		religion = protestant
-		size= 2
+		size= 1
 	}
 
 	officers=
@@ -337,6 +330,13 @@
 		culture = greek
 		religion = protestant
 		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size= 4
 	}
 
 }

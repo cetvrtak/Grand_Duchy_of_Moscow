@@ -13,11 +13,11 @@
 		size= 25
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = ealimi
 		religion = sunni
-		size= 1501
+		size= 145
 	}
 
 	artisans=
@@ -25,20 +25,6 @@
 		culture = ealimi
 		religion = sunni
 		size= 31
-	}
-
-	clerks=
-	{
-		culture = ealimi
-		religion = sunni
-		size= 44
-	}
-
-	capitalists=
-	{
-		culture = ealimi
-		religion = sunni
-		size= 8
 	}
 
 	clergymen=
@@ -69,13 +55,6 @@
 		size= 111
 	}
 
-	craftsmen=
-	{
-		culture = ealimi
-		religion = catholic
-		size= 6672
-	}
-
 	artisans=
 	{
 		culture = ealimi
@@ -90,18 +69,11 @@
 		size= 33
 	}
 
-	clerks=
-	{
-		culture = ealimi
-		religion = catholic
-		size= 448
-	}
-
 	bureaucrats=
 	{
 		culture = ealimi
 		religion = catholic
-		size= 6
+		size= 5
 	}
 
 	officers=
@@ -111,18 +83,18 @@
 		size= 4
 	}
 
-	capitalists=
-	{
-		culture = ealimi
-		religion = catholic
-		size= 80
-	}
-
 	aristocrats=
 	{
 		culture = ealimi
 		religion = catholic
 		size= 56
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 369
 	}
 
 }

@@ -124,7 +124,7 @@
 	{
 		culture = danish
 		religion = catholic
-		size= 37
+		size= 29
 	}
 
 	officers=
@@ -145,7 +145,7 @@
 	{
 		culture = danish
 		religion = catholic
-		size= 28584
+		size= 28592
 	}
 
 	soldiers=
@@ -173,7 +173,7 @@
 	{
 		culture = danish
 		religion = protestant
-		size= 121
+		size= 95
 	}
 
 	officers=
@@ -194,7 +194,7 @@
 	{
 		culture = danish
 		religion = protestant
-		size= 30066
+		size= 30092
 	}
 
 }
@@ -224,7 +224,7 @@
 	{
 		culture = danish
 		religion = catholic
-		size= 19
+		size= 16
 	}
 
 	officers=
@@ -245,7 +245,7 @@
 	{
 		culture = danish
 		religion = catholic
-		size= 10409
+		size= 10412
 	}
 
 	soldiers=
@@ -273,7 +273,7 @@
 	{
 		culture = danish
 		religion = protestant
-		size= 58
+		size= 49
 	}
 
 	officers=
@@ -294,7 +294,7 @@
 	{
 		culture = danish
 		religion = protestant
-		size= 4994
+		size= 5003
 	}
 
 }
@@ -324,7 +324,7 @@
 	{
 		culture = danish
 		religion = catholic
-		size= 18
+		size= 15
 	}
 
 	officers=
@@ -345,14 +345,14 @@
 	{
 		culture = danish
 		religion = catholic
-		size= 11279
+		size= 11282
 	}
 
 	soldiers=
 	{
 		culture = danish
 		religion = protestant
-		size= 415
+		size= 1033
 	}
 
 	artisans=
@@ -373,7 +373,7 @@
 	{
 		culture = danish
 		religion = protestant
-		size= 60
+		size= 49
 	}
 
 	officers=
@@ -394,7 +394,7 @@
 	{
 		culture = danish
 		religion = protestant
-		size= 10340
+		size= 9733
 	}
 
 }
@@ -424,7 +424,7 @@
 	{
 		culture = danish
 		religion = catholic
-		size= 32
+		size= 26
 	}
 
 	officers=
@@ -445,7 +445,7 @@
 	{
 		culture = danish
 		religion = catholic
-		size= 25784
+		size= 25790
 	}
 
 	soldiers=
@@ -473,7 +473,7 @@
 	{
 		culture = danish
 		religion = animist
-		size= 9
+		size= 8
 	}
 
 	officers=
@@ -494,14 +494,14 @@
 	{
 		culture = danish
 		religion = animist
-		size= 147
+		size= 148
 	}
 
 	soldiers=
 	{
 		culture = danish
 		religion = protestant
-		size= 1033
+		size= 892
 	}
 
 	artisans=
@@ -522,7 +522,7 @@
 	{
 		culture = danish
 		religion = protestant
-		size= 130
+		size= 107
 	}
 
 	officers=
@@ -543,7 +543,7 @@
 	{
 		culture = danish
 		religion = protestant
-		size= 22208
+		size= 22372
 	}
 
 }
@@ -573,7 +573,7 @@
 	{
 		culture = danish
 		religion = catholic
-		size= 14
+		size= 11
 	}
 
 	officers=
@@ -594,7 +594,7 @@
 	{
 		culture = danish
 		religion = catholic
-		size= 10970
+		size= 10973
 	}
 
 	soldiers=
@@ -622,7 +622,7 @@
 	{
 		culture = danish
 		religion = animist
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -643,7 +643,7 @@
 	{
 		culture = danish
 		religion = animist
-		size= 64
+		size= 65
 	}
 
 	soldiers=
@@ -671,7 +671,7 @@
 	{
 		culture = danish
 		religion = protestant
-		size= 56
+		size= 46
 	}
 
 	officers=
@@ -692,7 +692,7 @@
 	{
 		culture = danish
 		religion = protestant
-		size= 9506
+		size= 9516
 	}
 
 }
@@ -722,7 +722,7 @@
 	{
 		culture = danish
 		religion = catholic
-		size= 69
+		size= 57
 	}
 
 	officers=
@@ -743,14 +743,14 @@
 	{
 		culture = danish
 		religion = catholic
-		size= 43309
+		size= 43321
 	}
 
 	soldiers=
 	{
 		culture = danish
 		religion = protestant
-		size= 1551
+		size= 7233
 	}
 
 	artisans=
@@ -771,7 +771,7 @@
 	{
 		culture = danish
 		religion = protestant
-		size= 224
+		size= 184
 	}
 
 	officers=
@@ -792,7 +792,7 @@
 	{
 		culture = danish
 		religion = protestant
-		size= 39183
+		size= 33541
 	}
 
 }
@@ -822,7 +822,7 @@
 	{
 		culture = danish
 		religion = catholic
-		size= 28
+		size= 22
 	}
 
 	officers=
@@ -843,14 +843,14 @@
 	{
 		culture = danish
 		religion = catholic
-		size= 22515
+		size= 22521
 	}
 
 	soldiers=
 	{
 		culture = danish
 		religion = protestant
-		size= 4133
+		size= 1033
 	}
 
 	artisans=
@@ -871,7 +871,7 @@
 	{
 		culture = danish
 		religion = protestant
-		size= 126
+		size= 104
 	}
 
 	officers=
@@ -892,7 +892,7 @@
 	{
 		culture = danish
 		religion = protestant
-		size= 18314
+		size= 21436
 	}
 
 }
@@ -922,7 +922,7 @@
 	{
 		culture = danish
 		religion = catholic
-		size= 3
+		size= 2
 	}
 
 	officers=
@@ -943,7 +943,7 @@
 	{
 		culture = danish
 		religion = catholic
-		size= 1754
+		size= 1755
 	}
 
 	soldiers=
@@ -971,7 +971,7 @@
 	{
 		culture = danish
 		religion = protestant
-		size= 9
+		size= 7
 	}
 
 	officers=
@@ -992,7 +992,7 @@
 	{
 		culture = danish
 		religion = protestant
-		size= 1594
+		size= 1596
 	}
 
 }
@@ -1022,7 +1022,7 @@
 	{
 		culture = danish
 		religion = catholic
-		size= 24
+		size= 21
 	}
 
 	officers=
@@ -1043,14 +1043,14 @@
 	{
 		culture = danish
 		religion = catholic
-		size= 11718
+		size= 11721
 	}
 
 	soldiers=
 	{
 		culture = danish
 		religion = protestant
-		size= 1033
+		size= 402
 	}
 
 	artisans=
@@ -1071,7 +1071,7 @@
 	{
 		culture = danish
 		religion = protestant
-		size= 76
+		size= 65
 	}
 
 	officers=
@@ -1092,7 +1092,7 @@
 	{
 		culture = danish
 		religion = protestant
-		size= 9426
+		size= 10068
 	}
 
 }

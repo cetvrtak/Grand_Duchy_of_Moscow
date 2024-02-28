@@ -24,7 +24,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 146
+		size= 120
 	}
 
 	officers=
@@ -45,7 +45,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 39699
+		size= 39725
 	}
 
 	clergymen=
@@ -103,7 +103,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 157
+		size= 129
 	}
 
 	officers=
@@ -124,7 +124,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 44656
+		size= 44684
 	}
 
 	soldiers=
@@ -182,7 +182,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 101
+		size= 75
 	}
 
 	officers=
@@ -203,7 +203,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 40355
+		size= 40381
 	}
 
 	soldiers=
@@ -268,7 +268,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 428
+		size= 352
 	}
 
 	officers=
@@ -289,7 +289,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 109206
+		size= 109282
 	}
 
 	clergymen=
@@ -347,7 +347,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 181
+		size= 156
 	}
 
 	officers=
@@ -368,7 +368,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 50564
+		size= 50589
 	}
 
 	soldiers=
@@ -396,7 +396,7 @@
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 17
+		size= 15
 	}
 
 	officers=
@@ -417,7 +417,7 @@
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 396
+		size= 398
 	}
 
 }
@@ -454,7 +454,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 277
+		size= 238
 	}
 
 	officers=
@@ -475,7 +475,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 76745
+		size= 76784
 	}
 
 	slaves=
@@ -510,7 +510,7 @@
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 27
+		size= 23
 	}
 
 	officers=
@@ -531,7 +531,7 @@
 	{
 		culture = greek
 		religion = hellenic_pagan
-		size= 598
+		size= 602
 	}
 
 }
@@ -568,7 +568,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 249
+		size= 197
 	}
 
 	officers=
@@ -589,7 +589,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 95000
+		size= 95052
 	}
 
 	soldiers=
@@ -647,7 +647,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 125
+		size= 99
 	}
 
 	officers=
@@ -668,7 +668,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 47377
+		size= 47403
 	}
 
 }
@@ -698,7 +698,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 81
+		size= 64
 	}
 
 	officers=
@@ -719,7 +719,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 30761
+		size= 30778
 	}
 
 }
@@ -749,7 +749,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 47
+		size= 37
 	}
 
 	officers=
@@ -770,7 +770,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 15995
+		size= 16005
 	}
 
 	soldiers=
@@ -798,7 +798,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 6
+		size= 4
 	}
 
 	officers=
@@ -819,7 +819,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 133
+		size= 135
 	}
 
 }
@@ -849,7 +849,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 96
+		size= 81
 	}
 
 	officers=
@@ -870,7 +870,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 23386
+		size= 23401
 	}
 
 }
@@ -900,7 +900,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 86
+		size= 68
 	}
 
 	officers=
@@ -921,7 +921,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 32566
+		size= 32584
 	}
 
 }
@@ -930,7 +930,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 7233
+		size= 13433
 	}
 
 	artisans=
@@ -951,7 +951,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 281
+		size= 237
 	}
 
 	officers=
@@ -972,7 +972,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 64654
+		size= 58498
 	}
 
 	aristocrats=
@@ -1037,7 +1037,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 180
+		size= 148
 	}
 
 	officers=
@@ -1058,7 +1058,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 52313
+		size= 52345
 	}
 
 }
@@ -1088,7 +1088,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 262
+		size= 221
 	}
 
 	officers=
@@ -1109,7 +1109,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 64361
+		size= 64402
 	}
 
 }
@@ -1118,7 +1118,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1033
+		size= 251
 	}
 
 	artisans=
@@ -1139,7 +1139,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 80
+		size= 68
 	}
 
 	officers=
@@ -1160,7 +1160,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 22597
+		size= 23391
 	}
 
 }
@@ -1197,7 +1197,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 258
+		size= 204
 	}
 
 	officers=
@@ -1218,7 +1218,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 80095
+		size= 80149
 	}
 
 }
@@ -1227,7 +1227,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 7233
+		size= 10333
 	}
 
 	artisans=
@@ -1248,7 +1248,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 98
+		size= 74
 	}
 
 	officers=
@@ -1269,7 +1269,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 38596
+		size= 35520
 	}
 
 }
@@ -1299,7 +1299,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 105
+		size= 79
 	}
 
 	officers=
@@ -1320,7 +1320,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 47421
+		size= 47447
 	}
 
 }
@@ -1350,7 +1350,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 199
+		size= 167
 	}
 
 	officers=
@@ -1371,7 +1371,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 50177
+		size= 50209
 	}
 
 }
@@ -1380,7 +1380,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 933
+		size= 1033
 	}
 
 	artisans=
@@ -1401,7 +1401,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 77
+		size= 62
 	}
 
 	officers=
@@ -1422,7 +1422,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 26977
+		size= 26892
 	}
 
 	soldiers=
@@ -1450,7 +1450,7 @@
 	{
 		culture = greek
 		religion = animist
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -1471,7 +1471,7 @@
 	{
 		culture = greek
 		religion = animist
-		size= 434
+		size= 435
 	}
 
 }
@@ -1508,7 +1508,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 254
+		size= 191
 	}
 
 	officers=
@@ -1529,7 +1529,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 114919
+		size= 114982
 	}
 
 }
@@ -1538,7 +1538,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 1664
+		size= 4133
 	}
 
 	artisans=
@@ -1559,7 +1559,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 190
+		size= 160
 	}
 
 	officers=
@@ -1580,7 +1580,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 46773
+		size= 44334
 	}
 
 }
@@ -1610,7 +1610,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 214
+		size= 181
 	}
 
 	officers=
@@ -1631,7 +1631,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 52305
+		size= 52332
 	}
 
 	soldiers=
@@ -1659,7 +1659,7 @@
 	{
 		culture = greek
 		religion = animist
-		size= 28
+		size= 23
 	}
 
 	officers=
@@ -1680,7 +1680,7 @@
 	{
 		culture = greek
 		religion = animist
-		size= 10612
+		size= 10617
 	}
 
 }
@@ -1689,7 +1689,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 255
+		size= 1033
 	}
 
 	artisans=
@@ -1710,7 +1710,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 92
+		size= 79
 	}
 
 	officers=
@@ -1731,7 +1731,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 23587
+		size= 22822
 	}
 
 }
@@ -1761,7 +1761,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 207
+		size= 179
 	}
 
 	officers=
@@ -1782,7 +1782,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 46061
+		size= 46089
 	}
 
 }
@@ -1791,7 +1791,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 4133
+		size= 1391
 	}
 
 	artisans=
@@ -1812,7 +1812,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 139
+		size= 114
 	}
 
 	officers=
@@ -1833,7 +1833,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 42345
+		size= 45112
 	}
 
 }
@@ -1863,7 +1863,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 102
+		size= 84
 	}
 
 	officers=
@@ -1884,7 +1884,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 33364
+		size= 33382
 	}
 
 }
@@ -1914,7 +1914,7 @@
 	{
 		culture = armenian
 		religion = sunni
-		size= 46
+		size= 37
 	}
 
 	officers=
@@ -1935,7 +1935,7 @@
 	{
 		culture = armenian
 		religion = sunni
-		size= 36242
+		size= 36251
 	}
 
 	soldiers=
@@ -1963,7 +1963,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 215
+		size= 170
 	}
 
 	officers=
@@ -1984,7 +1984,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 62687
+		size= 62732
 	}
 
 }
@@ -2021,7 +2021,7 @@
 	{
 		culture = georgian
 		religion = coptic
-		size= 28
+		size= 14
 	}
 
 	officers=
@@ -2042,7 +2042,7 @@
 	{
 		culture = georgian
 		religion = coptic
-		size= 48962
+		size= 48976
 	}
 
 	slaves=
@@ -2077,7 +2077,7 @@
 	{
 		culture = georgian
 		religion = orthodox
-		size= 96
+		size= 48
 	}
 
 	officers=
@@ -2098,7 +2098,7 @@
 	{
 		culture = georgian
 		religion = orthodox
-		size= 50398
+		size= 50446
 	}
 
 }
@@ -2128,7 +2128,7 @@
 	{
 		culture = armenian
 		religion = coptic
-		size= 16
+		size= 12
 	}
 
 	officers=
@@ -2149,7 +2149,7 @@
 	{
 		culture = armenian
 		religion = coptic
-		size= 14107
+		size= 14111
 	}
 
 	soldiers=
@@ -2177,7 +2177,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 72
+		size= 54
 	}
 
 	officers=
@@ -2198,7 +2198,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 21381
+		size= 21399
 	}
 
 }
@@ -2228,7 +2228,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 40
+		size= 31
 	}
 
 	officers=
@@ -2249,7 +2249,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 36313
+		size= 36322
 	}
 
 	soldiers=
@@ -2277,7 +2277,7 @@
 	{
 		culture = armenian
 		religion = animist
-		size= 9
+		size= 7
 	}
 
 	officers=
@@ -2298,7 +2298,7 @@
 	{
 		culture = armenian
 		religion = animist
-		size= 90
+		size= 92
 	}
 
 	soldiers=
@@ -2326,7 +2326,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 145
+		size= 115
 	}
 
 	officers=
@@ -2347,7 +2347,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 29372
+		size= 29402
 	}
 
 }
@@ -2377,7 +2377,7 @@
 	{
 		culture = armenian
 		religion = sunni
-		size= 16
+		size= 12
 	}
 
 	officers=
@@ -2398,14 +2398,14 @@
 	{
 		culture = armenian
 		religion = sunni
-		size= 11628
+		size= 11632
 	}
 
 	soldiers=
 	{
 		culture = armenian
 		religion = orthodox
-		size= 710
+		size= 1033
 	}
 
 	artisans=
@@ -2426,7 +2426,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 76
+		size= 61
 	}
 
 	officers=
@@ -2447,7 +2447,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 19543
+		size= 19235
 	}
 
 	soldiers=
@@ -2475,7 +2475,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 29
+		size= 23
 	}
 
 	officers=
@@ -2496,7 +2496,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 9673
+		size= 9679
 	}
 
 }
@@ -2533,7 +2533,7 @@
 	{
 		culture = armenian
 		religion = coptic
-		size= 44
+		size= 37
 	}
 
 	officers=
@@ -2554,7 +2554,7 @@
 	{
 		culture = armenian
 		religion = coptic
-		size= 23516
+		size= 23523
 	}
 
 	slaves=
@@ -2589,7 +2589,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 199
+		size= 168
 	}
 
 	officers=
@@ -2610,7 +2610,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 35638
+		size= 35669
 	}
 
 }
@@ -2640,7 +2640,7 @@
 	{
 		culture = armenian
 		religion = sunni
-		size= 5
+		size= 4
 	}
 
 	officers=
@@ -2661,7 +2661,7 @@
 	{
 		culture = armenian
 		religion = sunni
-		size= 3512
+		size= 3513
 	}
 
 	soldiers=
@@ -2689,7 +2689,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 36
+		size= 28
 	}
 
 	officers=
@@ -2710,7 +2710,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 8205
+		size= 8213
 	}
 
 	soldiers=
@@ -2738,7 +2738,7 @@
 	{
 		culture = kurdish
 		religion = sunni
-		size= 2
+		size= 1
 	}
 
 	officers=
@@ -2759,7 +2759,7 @@
 	{
 		culture = kurdish
 		religion = sunni
-		size= 2753
+		size= 2754
 	}
 
 	soldiers=
@@ -2838,7 +2838,7 @@
 	{
 		culture = armenian
 		religion = sunni
-		size= 9
+		size= 7
 	}
 
 	officers=
@@ -2859,7 +2859,7 @@
 	{
 		culture = armenian
 		religion = sunni
-		size= 7871
+		size= 7873
 	}
 
 	soldiers=
@@ -2887,7 +2887,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 39
+		size= 29
 	}
 
 	officers=
@@ -2908,7 +2908,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 11606
+		size= 11616
 	}
 
 }
@@ -2938,7 +2938,7 @@
 	{
 		culture = armenian
 		religion = sunni
-		size= 23
+		size= 17
 	}
 
 	officers=
@@ -2959,7 +2959,7 @@
 	{
 		culture = armenian
 		religion = sunni
-		size= 22007
+		size= 22013
 	}
 
 	soldiers=
@@ -2987,7 +2987,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 112
+		size= 84
 	}
 
 	officers=
@@ -3008,7 +3008,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 39625
+		size= 39653
 	}
 
 }
@@ -3038,7 +3038,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 184
+		size= 151
 	}
 
 	officers=
@@ -3059,7 +3059,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 52142
+		size= 52175
 	}
 
 }
@@ -3089,7 +3089,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 71
+		size= 58
 	}
 
 	officers=
@@ -3110,7 +3110,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 20634
+		size= 20647
 	}
 
 }
@@ -3140,7 +3140,7 @@
 	{
 		culture = armenian
 		religion = sunni
-		size= 19
+		size= 15
 	}
 
 	officers=
@@ -3161,14 +3161,14 @@
 	{
 		culture = armenian
 		religion = sunni
-		size= 14577
+		size= 14581
 	}
 
 	soldiers=
 	{
 		culture = armenian
 		religion = orthodox
-		size= 4133
+		size= 1033
 	}
 
 	artisans=
@@ -3189,7 +3189,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 93
+		size= 73
 	}
 
 	officers=
@@ -3210,7 +3210,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 22469
+		size= 25589
 	}
 
 }
@@ -3240,7 +3240,7 @@
 	{
 		culture = armenian
 		religion = sunni
-		size= 26
+		size= 21
 	}
 
 	officers=
@@ -3261,7 +3261,7 @@
 	{
 		culture = armenian
 		religion = sunni
-		size= 18874
+		size= 18879
 	}
 
 	soldiers=
@@ -3289,7 +3289,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 130
+		size= 103
 	}
 
 	officers=
@@ -3310,7 +3310,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 32551
+		size= 32578
 	}
 
 }
@@ -3347,7 +3347,7 @@
 	{
 		culture = armenian
 		religion = sunni
-		size= 40
+		size= 32
 	}
 
 	officers=
@@ -3368,7 +3368,7 @@
 	{
 		culture = armenian
 		religion = sunni
-		size= 29431
+		size= 29439
 	}
 
 	slaves=
@@ -3403,7 +3403,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 184
+		size= 145
 	}
 
 	officers=
@@ -3424,7 +3424,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 45013
+		size= 45052
 	}
 
 }
@@ -3454,7 +3454,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 77
+		size= 57
 	}
 
 	officers=
@@ -3475,7 +3475,7 @@
 	{
 		culture = greek
 		religion = orthodox
-		size= 35407
+		size= 35417
 	}
 
 }
@@ -3505,7 +3505,7 @@
 	{
 		culture = armenian
 		religion = sunni
-		size= 8
+		size= 6
 	}
 
 	officers=
@@ -3526,7 +3526,7 @@
 	{
 		culture = armenian
 		religion = sunni
-		size= 6846
+		size= 6848
 	}
 
 	soldiers=
@@ -3554,7 +3554,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 34
+		size= 26
 	}
 
 	officers=
@@ -3575,7 +3575,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 10094
+		size= 10102
 	}
 
 }

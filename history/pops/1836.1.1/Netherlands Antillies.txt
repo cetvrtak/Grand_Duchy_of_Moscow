@@ -38,7 +38,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 548
+		size= 550
 	}
 
 	slaves=
@@ -80,7 +80,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 9
+		size= 7
 	}
 
 	officers=
@@ -117,7 +117,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 281
+		size= 282
 	}
 
 	artisans=
@@ -152,7 +152,7 @@
 	{
 		culture = celtic_american
 		religion = catholic
-		size= 2
+		size= 1
 	}
 
 	officers=

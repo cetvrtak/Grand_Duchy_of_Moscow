@@ -101,7 +101,7 @@
 	{
 		culture = mexican
 		religion = catholic
-		size= 2
+		size= 1
 	}
 
 	officers=
@@ -159,7 +159,7 @@
 	{
 		culture = caribeno
 		religion = catholic
-		size= 24421
+		size= 24469
 	}
 
 	artisans=
@@ -183,18 +183,18 @@
 		size= 662
 	}
 
-	bureaucrats=
-	{
-		culture = caribeno
-		religion = catholic
-		size= 204
-	}
-
 	officers=
 	{
 		culture = caribeno
 		religion = catholic
 		size= 213
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 152
 	}
 
 }
@@ -231,7 +231,7 @@
 	{
 		culture = caribeno
 		religion = catholic
-		size= 6726
+		size= 6754
 	}
 
 	artisans=
@@ -259,7 +259,7 @@
 	{
 		culture = caribeno
 		religion = catholic
-		size= 149
+		size= 119
 	}
 
 	officers=
@@ -310,7 +310,7 @@
 	{
 		culture = caribeno
 		religion = catholic
-		size= 5017
+		size= 5023
 	}
 
 	artisans=
@@ -338,7 +338,7 @@
 	{
 		culture = caribeno
 		religion = catholic
-		size= 34
+		size= 28
 	}
 
 	soldiers=
@@ -380,7 +380,7 @@
 	{
 		culture = mexican
 		religion = catholic
-		size= 60
+		size= 48
 	}
 
 	officers=
@@ -401,7 +401,7 @@
 	{
 		culture = mexican
 		religion = catholic
-		size= 282
+		size= 294
 	}
 
 }
@@ -438,7 +438,7 @@
 	{
 		culture = caribeno
 		religion = catholic
-		size= 6139
+		size= 6795
 	}
 
 	artisans=
@@ -466,14 +466,14 @@
 	{
 		culture = caribeno
 		religion = catholic
-		size= 28
+		size= 22
 	}
 
 	soldiers=
 	{
 		culture = caribeno
 		religion = catholic
-		size= 1033
+		size= 383
 	}
 
 	officers=
@@ -508,7 +508,7 @@
 	{
 		culture = mexican
 		religion = catholic
-		size= 48
+		size= 38
 	}
 
 	officers=
@@ -529,7 +529,7 @@
 	{
 		culture = mexican
 		religion = catholic
-		size= 2033
+		size= 2043
 	}
 
 }

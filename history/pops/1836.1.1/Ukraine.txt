@@ -24,7 +24,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 40
+		size= 31
 	}
 
 	officers=
@@ -45,7 +45,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 29168
+		size= 29178
 	}
 
 	soldiers=
@@ -73,7 +73,7 @@
 	{
 		culture = kishinyov
 		religion = orthodox
-		size= 137
+		size= 109
 	}
 
 	officers=
@@ -94,7 +94,7 @@
 	{
 		culture = kishinyov
 		religion = orthodox
-		size= 31528
+		size= 31555
 	}
 
 }
@@ -124,7 +124,7 @@
 	{
 		culture = pecheneg
 		religion = orthodox
-		size= 82
+		size= 41
 	}
 
 	officers=
@@ -145,7 +145,7 @@
 	{
 		culture = pecheneg
 		religion = orthodox
-		size= 69954
+		size= 69995
 	}
 
 	farmers=
@@ -203,7 +203,7 @@
 	{
 		culture = kishinyov
 		religion = orthodox
-		size= 629
+		size= 541
 	}
 
 	officers=
@@ -224,7 +224,7 @@
 	{
 		culture = kishinyov
 		religion = orthodox
-		size= 127393
+		size= 127481
 	}
 
 	aristocrats=
@@ -289,7 +289,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 630
+		size= 518
 	}
 
 	officers=
@@ -310,7 +310,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 179616
+		size= 179728
 	}
 
 	clergymen=
@@ -368,7 +368,7 @@
 	{
 		culture = kishinyov
 		religion = orthodox
-		size= 250
+		size= 198
 	}
 
 	officers=
@@ -389,7 +389,7 @@
 	{
 		culture = kishinyov
 		religion = orthodox
-		size= 89697
+		size= 89749
 	}
 
 	clergymen=
@@ -447,7 +447,7 @@
 	{
 		culture = kishinyov
 		religion = orthodox
-		size= 1329
+		size= 1144
 	}
 
 	officers=
@@ -468,7 +468,7 @@
 	{
 		culture = kishinyov
 		religion = orthodox
-		size= 274839
+		size= 275024
 	}
 
 	clergymen=
@@ -526,7 +526,7 @@
 	{
 		culture = kishinyov
 		religion = orthodox
-		size= 315
+		size= 266
 	}
 
 	officers=
@@ -547,7 +547,7 @@
 	{
 		culture = kishinyov
 		religion = orthodox
-		size= 71874
+		size= 71923
 	}
 
 	clergymen=
@@ -605,7 +605,7 @@
 	{
 		culture = pecheneg
 		religion = orthodox
-		size= 178
+		size= 115
 	}
 
 	officers=
@@ -626,7 +626,7 @@
 	{
 		culture = pecheneg
 		religion = orthodox
-		size= 87288
+		size= 87351
 	}
 
 	clergymen=
@@ -684,7 +684,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 180
+		size= 116
 	}
 
 	officers=
@@ -705,7 +705,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 88100
+		size= 88164
 	}
 
 	aristocrats=
@@ -770,7 +770,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 167
+		size= 107
 	}
 
 	officers=
@@ -791,7 +791,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 82381
+		size= 82441
 	}
 
 	clergymen=
@@ -849,7 +849,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 210
+		size= 151
 	}
 
 	officers=
@@ -870,7 +870,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 80175
+		size= 80234
 	}
 
 	clergymen=
@@ -928,7 +928,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 206
+		size= 149
 	}
 
 	officers=
@@ -949,7 +949,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 88110
+		size= 88167
 	}
 
 	soldiers=
@@ -977,7 +977,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 27
+		size= 19
 	}
 
 	officers=
@@ -998,7 +998,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 4944
+		size= 4952
 	}
 
 }
@@ -1028,7 +1028,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 26
+		size= 17
 	}
 
 	officers=
@@ -1049,7 +1049,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 29446
+		size= 29457
 	}
 
 	soldiers=
@@ -1077,7 +1077,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 118
+		size= 76
 	}
 
 	officers=
@@ -1098,7 +1098,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 44441
+		size= 44481
 	}
 
 }
@@ -1128,7 +1128,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 121
+		size= 60
 	}
 
 	officers=
@@ -1149,7 +1149,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 83114
+		size= 83175
 	}
 
 	clergymen=
@@ -1189,13 +1189,6 @@
 		size= 2459
 	}
 
-	craftsmen=
-	{
-		culture = pecheneg
-		religion = catholic
-		size= 3114
-	}
-
 	artisans=
 	{
 		culture = pecheneg
@@ -1210,18 +1203,11 @@
 		size= 141
 	}
 
-	clerks=
-	{
-		culture = pecheneg
-		religion = catholic
-		size= 94
-	}
-
 	bureaucrats=
 	{
 		culture = pecheneg
 		religion = catholic
-		size= 31
+		size= 20
 	}
 
 	officers=
@@ -1229,13 +1215,6 @@
 		culture = pecheneg
 		religion = catholic
 		size= 36
-	}
-
-	capitalists=
-	{
-		culture = pecheneg
-		religion = catholic
-		size= 48
 	}
 
 	aristocrats=
@@ -1249,7 +1228,7 @@
 	{
 		culture = pecheneg
 		religion = catholic
-		size= 30823
+		size= 34157
 	}
 
 	soldiers=
@@ -1257,13 +1236,6 @@
 		culture = pecheneg
 		religion = orthodox
 		size= 3995
-	}
-
-	craftsmen=
-	{
-		culture = pecheneg
-		religion = orthodox
-		size= 5056
 	}
 
 	artisans=
@@ -1280,18 +1252,11 @@
 		size= 595
 	}
 
-	clerks=
-	{
-		culture = pecheneg
-		religion = orthodox
-		size= 399
-	}
-
 	bureaucrats=
 	{
 		culture = pecheneg
 		religion = orthodox
-		size= 134
+		size= 86
 	}
 
 	officers=
@@ -1299,13 +1264,6 @@
 		culture = pecheneg
 		religion = orthodox
 		size= 153
-	}
-
-	capitalists=
-	{
-		culture = pecheneg
-		religion = orthodox
-		size= 202
 	}
 
 	aristocrats=
@@ -1319,7 +1277,7 @@
 	{
 		culture = pecheneg
 		religion = orthodox
-		size= 41145
+		size= 46783
 	}
 
 }
@@ -1329,13 +1287,6 @@
 		culture = ukrainian
 		religion = catholic
 		size= 6118
-	}
-
-	craftsmen=
-	{
-		culture = ukrainian
-		religion = catholic
-		size= 3427
 	}
 
 	artisans=
@@ -1352,18 +1303,11 @@
 		size= 231
 	}
 
-	clerks=
-	{
-		culture = ukrainian
-		religion = catholic
-		size= 104
-	}
-
 	bureaucrats=
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 74
+		size= 57
 	}
 
 	officers=
@@ -1371,13 +1315,6 @@
 		culture = ukrainian
 		religion = catholic
 		size= 80
-	}
-
-	capitalists=
-	{
-		culture = ukrainian
-		religion = catholic
-		size= 52
 	}
 
 	aristocrats=
@@ -1391,7 +1328,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 50351
+		size= 53975
 	}
 
 	soldiers=
@@ -1399,13 +1336,6 @@
 		culture = ukrainian
 		religion = orthodox
 		size= 8465
-	}
-
-	craftsmen=
-	{
-		culture = ukrainian
-		religion = orthodox
-		size= 4742
 	}
 
 	artisans=
@@ -1422,18 +1352,11 @@
 		size= 867
 	}
 
-	clerks=
-	{
-		culture = ukrainian
-		religion = orthodox
-		size= 390
-	}
-
 	bureaucrats=
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 278
+		size= 214
 	}
 
 	officers=
@@ -1441,13 +1364,6 @@
 		culture = ukrainian
 		religion = orthodox
 		size= 302
-	}
-
-	capitalists=
-	{
-		culture = ukrainian
-		religion = orthodox
-		size= 197
 	}
 
 	aristocrats=
@@ -1461,7 +1377,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 60347
+		size= 65716
 	}
 
 }
@@ -1491,7 +1407,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 107
+		size= 69
 	}
 
 	officers=
@@ -1512,7 +1428,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 126509
+		size= 126549
 	}
 
 	soldiers=
@@ -1540,7 +1456,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 444
+		size= 285
 	}
 
 	officers=
@@ -1561,7 +1477,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 167622
+		size= 167779
 	}
 
 }
@@ -1591,7 +1507,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 19
+		size= 12
 	}
 
 	officers=
@@ -1612,7 +1528,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 25075
+		size= 25083
 	}
 
 	soldiers=
@@ -1640,7 +1556,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 21
+		size= 14
 	}
 
 	officers=
@@ -1661,7 +1577,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 573
+		size= 580
 	}
 
 }
@@ -1671,13 +1587,6 @@
 		culture = tatar
 		religion = orthodox
 		size= 454
-	}
-
-	craftsmen=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 7783
 	}
 
 	artisans=
@@ -1694,18 +1603,11 @@
 		size= 56
 	}
 
-	clerks=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 235
-	}
-
 	bureaucrats=
 	{
 		culture = tatar
 		religion = orthodox
-		size= 19
+		size= 12
 	}
 
 	officers=
@@ -1713,13 +1615,6 @@
 		culture = tatar
 		religion = orthodox
 		size= 11
-	}
-
-	capitalists=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 119
 	}
 
 	aristocrats=
@@ -1733,7 +1628,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 16407
+		size= 24579
 	}
 
 	soldiers=
@@ -1741,13 +1636,6 @@
 		culture = russian
 		religion = orthodox
 		size= 23
-	}
-
-	craftsmen=
-	{
-		culture = russian
-		religion = orthodox
-		size= 387
 	}
 
 	artisans=
@@ -1764,18 +1652,11 @@
 		size= 61
 	}
 
-	clerks=
-	{
-		culture = russian
-		religion = orthodox
-		size= 258
-	}
-
 	bureaucrats=
 	{
 		culture = russian
 		religion = orthodox
-		size= 21
+		size= 14
 	}
 
 	officers=
@@ -1783,13 +1664,6 @@
 		culture = russian
 		religion = orthodox
 		size= 12
-	}
-
-	capitalists=
-	{
-		culture = russian
-		religion = orthodox
-		size= 131
 	}
 
 	aristocrats=
@@ -1801,9 +1675,9 @@
 
 	farmers=
 	{
-		culture = ashkenazi
-		religion = jewish
-		size= 1550
+		culture = russian
+		religion = orthodox
+		size= 442
 	}
 
 }
@@ -1826,7 +1700,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 6
+		size= 3
 	}
 
 	officers=
@@ -1847,7 +1721,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 11022
+		size= 11026
 	}
 
 	soldiers=
@@ -1868,7 +1742,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 7
+		size= 3
 	}
 
 	officers=
@@ -1889,7 +1763,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 199
+		size= 202
 	}
 
 }
@@ -1915,13 +1789,6 @@
 		size= 68
 	}
 
-	bureaucrats=
-	{
-		culture = tatar
-		religion = orthodox
-		size= 7
-	}
-
 	officers=
 	{
 		culture = tatar
@@ -1940,7 +1807,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 13834
+		size= 13838
 	}
 
 	soldiers=
@@ -1964,13 +1831,6 @@
 		size= 9
 	}
 
-	bureaucrats=
-	{
-		culture = tatar
-		religion = animist
-		size= 1
-	}
-
 	officers=
 	{
 		culture = tatar
@@ -1983,6 +1843,13 @@
 		culture = tatar
 		religion = animist
 		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 3
 	}
 
 	soldiers=
@@ -2010,7 +1877,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 9
+		size= 4
 	}
 
 	officers=
@@ -2061,7 +1928,7 @@
 	{
 		culture = pecheneg
 		religion = catholic
-		size= 7
+		size= 3
 	}
 
 	officers=
@@ -2082,7 +1949,7 @@
 	{
 		culture = pecheneg
 		religion = catholic
-		size= 24448
+		size= 24453
 	}
 
 	soldiers=
@@ -2110,7 +1977,7 @@
 	{
 		culture = pecheneg
 		religion = orthodox
-		size= 34
+		size= 17
 	}
 
 	officers=
@@ -2131,7 +1998,7 @@
 	{
 		culture = pecheneg
 		religion = orthodox
-		size= 46276
+		size= 46292
 	}
 
 	soldiers=
@@ -2159,7 +2026,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 42
+		size= 21
 	}
 
 	officers=
@@ -2203,7 +2070,7 @@
 	{
 		culture = pecheneg
 		religion = catholic
-		size= 11
+		size= 5
 	}
 
 	officers=
@@ -2224,7 +2091,7 @@
 	{
 		culture = pecheneg
 		religion = catholic
-		size= 36529
+		size= 36535
 	}
 
 	soldiers=
@@ -2252,7 +2119,7 @@
 	{
 		culture = pecheneg
 		religion = orthodox
-		size= 52
+		size= 26
 	}
 
 	officers=
@@ -2273,7 +2140,7 @@
 	{
 		culture = pecheneg
 		religion = orthodox
-		size= 69146
+		size= 69171
 	}
 
 	soldiers=
@@ -2301,7 +2168,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 64
+		size= 32
 	}
 
 	officers=
@@ -2345,7 +2212,7 @@
 	{
 		culture = pecheneg
 		religion = orthodox
-		size= 32
+		size= 16
 	}
 
 	officers=
@@ -2366,7 +2233,7 @@
 	{
 		culture = pecheneg
 		religion = orthodox
-		size= 56107
+		size= 56124
 	}
 
 	soldiers=
@@ -2394,7 +2261,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 36
+		size= 18
 	}
 
 	officers=
@@ -2415,7 +2282,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 735
+		size= 752
 	}
 
 }
@@ -2445,7 +2312,7 @@
 	{
 		culture = pecheneg
 		religion = orthodox
-		size= 33
+		size= 16
 	}
 
 	officers=
@@ -2466,7 +2333,7 @@
 	{
 		culture = pecheneg
 		religion = orthodox
-		size= 56453
+		size= 56472
 	}
 
 	soldiers=
@@ -2494,7 +2361,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 36
+		size= 18
 	}
 
 	officers=
@@ -2515,7 +2382,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 740
+		size= 756
 	}
 
 }
@@ -2545,7 +2412,7 @@
 	{
 		culture = pecheneg
 		religion = catholic
-		size= 6
+		size= 3
 	}
 
 	aristocrats=
@@ -2559,14 +2426,14 @@
 	{
 		culture = pecheneg
 		religion = catholic
-		size= 22467
+		size= 22470
 	}
 
 	soldiers=
 	{
 		culture = pecheneg
 		religion = orthodox
-		size= 1033
+		size= 546
 	}
 
 	artisans=
@@ -2587,7 +2454,7 @@
 	{
 		culture = pecheneg
 		religion = orthodox
-		size= 21
+		size= 11
 	}
 
 	aristocrats=
@@ -2601,7 +2468,7 @@
 	{
 		culture = pecheneg
 		religion = orthodox
-		size= 23875
+		size= 24372
 	}
 
 	soldiers=
@@ -2629,7 +2496,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 38
+		size= 19
 	}
 
 	aristocrats=
@@ -2643,7 +2510,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 4006
+		size= 4025
 	}
 
 }
@@ -2673,7 +2540,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 14
+		size= 9
 	}
 
 	officers=
@@ -2694,7 +2561,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 18152
+		size= 18157
 	}
 
 	soldiers=
@@ -2722,7 +2589,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 15
+		size= 10
 	}
 
 	officers=
@@ -2743,7 +2610,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 320
+		size= 325
 	}
 
 }
@@ -2773,7 +2640,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 27
+		size= 13
 	}
 
 	officers=
@@ -2794,7 +2661,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 46447
+		size= 46461
 	}
 
 	soldiers=
@@ -2822,7 +2689,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 39
+		size= 19
 	}
 
 	officers=
@@ -2843,7 +2710,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 5120
+		size= 5140
 	}
 
 }
@@ -2873,7 +2740,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 10
+		size= 7
 	}
 
 	officers=
@@ -2894,7 +2761,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 6148
+		size= 6151
 	}
 
 	soldiers=
@@ -2922,7 +2789,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 23
+		size= 17
 	}
 
 	officers=
@@ -2960,13 +2827,6 @@
 		size= 1
 	}
 
-	bureaucrats=
-	{
-		culture = tatar
-		religion = sunni
-		size= 1
-	}
-
 	officers=
 	{
 		culture = tatar
@@ -2985,7 +2845,7 @@
 	{
 		culture = tatar
 		religion = sunni
-		size= 5073
+		size= 5074
 	}
 
 	soldiers=
@@ -3013,7 +2873,7 @@
 	{
 		culture = tatar
 		religion = protestant
-		size= 2
+		size= 1
 	}
 
 	officers=
@@ -3034,7 +2894,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 3865
+		size= 3870
 	}
 
 }
@@ -3064,7 +2924,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 34
+		size= 25
 	}
 
 	officers=
@@ -3085,7 +2945,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 21769
+		size= 21778
 	}
 
 	soldiers=
@@ -3113,7 +2973,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 82
+		size= 60
 	}
 
 	officers=
@@ -3176,7 +3036,7 @@
 	{
 		culture = tatar
 		religion = sunni
-		size= 17961
+		size= 17962
 	}
 
 	soldiers=
@@ -3204,7 +3064,7 @@
 	{
 		culture = tatar
 		religion = protestant
-		size= 6
+		size= 4
 	}
 
 	officers=
@@ -3225,7 +3085,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 13681
+		size= 13699
 	}
 
 }
@@ -3255,7 +3115,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 106
+		size= 82
 	}
 
 	officers=
@@ -3276,7 +3136,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 79288
+		size= 79312
 	}
 
 	soldiers=
@@ -3304,7 +3164,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 247
+		size= 191
 	}
 
 	officers=
@@ -3325,7 +3185,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 38992
+		size= 39048
 	}
 
 }
@@ -3355,7 +3215,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 114
+		size= 88
 	}
 
 	officers=
@@ -3376,7 +3236,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 85545
+		size= 85571
 	}
 
 	soldiers=
@@ -3404,7 +3264,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 265
+		size= 205
 	}
 
 	officers=
@@ -3425,7 +3285,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 42068
+		size= 42128
 	}
 
 }

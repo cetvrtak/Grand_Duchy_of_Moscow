@@ -24,7 +24,7 @@
 	{
 		culture = scottish
 		religion = catholic
-		size= 29
+		size= 22
 	}
 
 	officers=
@@ -45,7 +45,7 @@
 	{
 		culture = scottish
 		religion = catholic
-		size= 53298
+		size= 53305
 	}
 
 	soldiers=
@@ -73,7 +73,7 @@
 	{
 		culture = scottish
 		religion = protestant
-		size= 250
+		size= 188
 	}
 
 	officers=
@@ -94,7 +94,7 @@
 	{
 		culture = scottish
 		religion = protestant
-		size= 68946
+		size= 69008
 	}
 
 }
@@ -124,7 +124,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 12
+		size= 9
 	}
 
 	officers=
@@ -145,7 +145,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 45936
+		size= 45939
 	}
 
 	soldiers=
@@ -173,7 +173,7 @@
 	{
 		culture = scottish
 		religion = catholic
-		size= 17
+		size= 13
 	}
 
 	officers=
@@ -194,7 +194,7 @@
 	{
 		culture = scottish
 		religion = catholic
-		size= 8240
+		size= 8244
 	}
 
 	soldiers=
@@ -222,7 +222,7 @@
 	{
 		culture = scottish
 		religion = protestant
-		size= 244
+		size= 183
 	}
 
 	officers=
@@ -243,7 +243,7 @@
 	{
 		culture = scottish
 		religion = protestant
-		size= 66663
+		size= 66724
 	}
 
 }
@@ -273,7 +273,7 @@
 	{
 		culture = scottish
 		religion = catholic
-		size= 15
+		size= 11
 	}
 
 	officers=
@@ -294,7 +294,7 @@
 	{
 		culture = scottish
 		religion = catholic
-		size= 27062
+		size= 27066
 	}
 
 	soldiers=
@@ -322,7 +322,7 @@
 	{
 		culture = scottish
 		religion = protestant
-		size= 127
+		size= 96
 	}
 
 	officers=
@@ -343,7 +343,7 @@
 	{
 		culture = scottish
 		religion = protestant
-		size= 35010
+		size= 35041
 	}
 
 }
@@ -373,7 +373,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 27
+		size= 21
 	}
 
 	officers=
@@ -394,7 +394,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 50872
+		size= 50878
 	}
 
 	soldiers=
@@ -422,7 +422,7 @@
 	{
 		culture = irish
 		religion = protestant
-		size= 228
+		size= 170
 	}
 
 	officers=
@@ -443,7 +443,7 @@
 	{
 		culture = irish
 		religion = protestant
-		size= 61987
+		size= 62045
 	}
 
 }
@@ -473,7 +473,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 30
+		size= 23
 	}
 
 	officers=
@@ -494,7 +494,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 56683
+		size= 56690
 	}
 
 	soldiers=
@@ -522,7 +522,7 @@
 	{
 		culture = irish
 		religion = protestant
-		size= 253
+		size= 190
 	}
 
 	officers=
@@ -543,7 +543,7 @@
 	{
 		culture = irish
 		religion = protestant
-		size= 68714
+		size= 68777
 	}
 
 }
@@ -573,7 +573,7 @@
 	{
 		culture = scottish
 		religion = catholic
-		size= 43
+		size= 32
 	}
 
 	officers=
@@ -594,7 +594,7 @@
 	{
 		culture = scottish
 		religion = catholic
-		size= 79461
+		size= 79472
 	}
 
 	soldiers=
@@ -622,7 +622,7 @@
 	{
 		culture = scottish
 		religion = protestant
-		size= 357
+		size= 267
 	}
 
 	officers=
@@ -643,7 +643,7 @@
 	{
 		culture = scottish
 		religion = protestant
-		size= 97310
+		size= 97400
 	}
 
 }
@@ -673,7 +673,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 49
+		size= 37
 	}
 
 	officers=
@@ -694,7 +694,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 91963
+		size= 91975
 	}
 
 	soldiers=
@@ -722,7 +722,7 @@
 	{
 		culture = irish
 		religion = protestant
-		size= 409
+		size= 307
 	}
 
 	officers=
@@ -743,7 +743,7 @@
 	{
 		culture = irish
 		religion = protestant
-		size= 110936
+		size= 111038
 	}
 
 }
@@ -773,7 +773,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 35
+		size= 26
 	}
 
 	officers=
@@ -794,7 +794,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 81927
+		size= 81936
 	}
 
 	soldiers=
@@ -822,7 +822,7 @@
 	{
 		culture = irish
 		religion = animist
-		size= 10
+		size= 7
 	}
 
 	officers=
@@ -843,7 +843,7 @@
 	{
 		culture = irish
 		religion = animist
-		size= 60
+		size= 63
 	}
 
 	soldiers=
@@ -871,7 +871,7 @@
 	{
 		culture = irish
 		religion = protestant
-		size= 375
+		size= 281
 	}
 
 	officers=
@@ -892,7 +892,7 @@
 	{
 		culture = irish
 		religion = protestant
-		size= 103255
+		size= 103349
 	}
 
 }
@@ -922,7 +922,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 12
+		size= 9
 	}
 
 	officers=
@@ -943,7 +943,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 46824
+		size= 46827
 	}
 
 	soldiers=
@@ -971,7 +971,7 @@
 	{
 		culture = scottish
 		religion = catholic
-		size= 17
+		size= 12
 	}
 
 	officers=
@@ -992,7 +992,7 @@
 	{
 		culture = scottish
 		religion = catholic
-		size= 7180
+		size= 7185
 	}
 
 	soldiers=
@@ -1020,7 +1020,7 @@
 	{
 		culture = scottish
 		religion = protestant
-		size= 252
+		size= 189
 	}
 
 	officers=
@@ -1041,7 +1041,7 @@
 	{
 		culture = scottish
 		religion = protestant
-		size= 70162
+		size= 70225
 	}
 
 }
@@ -1071,7 +1071,7 @@
 	{
 		culture = scottish
 		religion = catholic
-		size= 48
+		size= 36
 	}
 
 	officers=
@@ -1092,7 +1092,7 @@
 	{
 		culture = scottish
 		religion = catholic
-		size= 88149
+		size= 88161
 	}
 
 	soldiers=
@@ -1120,7 +1120,7 @@
 	{
 		culture = scottish
 		religion = protestant
-		size= 399
+		size= 299
 	}
 
 	officers=
@@ -1141,7 +1141,7 @@
 	{
 		culture = scottish
 		religion = protestant
-		size= 107712
+		size= 107812
 	}
 
 }
@@ -1171,7 +1171,7 @@
 	{
 		culture = scottish
 		religion = catholic
-		size= 35
+		size= 28
 	}
 
 	officers=
@@ -1192,7 +1192,7 @@
 	{
 		culture = scottish
 		religion = catholic
-		size= 52276
+		size= 52283
 	}
 
 	soldiers=
@@ -1220,7 +1220,7 @@
 	{
 		culture = scottish
 		religion = protestant
-		size= 295
+		size= 233
 	}
 
 	officers=
@@ -1241,7 +1241,7 @@
 	{
 		culture = scottish
 		religion = protestant
-		size= 54166
+		size= 54228
 	}
 
 }
@@ -1271,7 +1271,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 5
+		size= 4
 	}
 
 	officers=
@@ -1292,7 +1292,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 18051
+		size= 18052
 	}
 
 	soldiers=
@@ -1320,7 +1320,7 @@
 	{
 		culture = scottish
 		religion = catholic
-		size= 20
+		size= 14
 	}
 
 	officers=
@@ -1341,14 +1341,14 @@
 	{
 		culture = scottish
 		religion = catholic
-		size= 26374
+		size= 26380
 	}
 
 	soldiers=
 	{
 		culture = scottish
 		religion = protestant
-		size= 3675
+		size= 7233
 	}
 
 	artisans=
@@ -1369,7 +1369,7 @@
 	{
 		culture = scottish
 		religion = protestant
-		size= 203
+		size= 153
 	}
 
 	officers=
@@ -1390,7 +1390,7 @@
 	{
 		culture = scottish
 		religion = protestant
-		size= 55082
+		size= 51574
 	}
 
 }

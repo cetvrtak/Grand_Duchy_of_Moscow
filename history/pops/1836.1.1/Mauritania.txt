@@ -133,7 +133,7 @@
 	{
 		culture = ifriqi
 		religion = shamanism
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -154,7 +154,7 @@
 	{
 		culture = ifriqi
 		religion = shamanism
-		size= 2262
+		size= 2263
 	}
 
 	slaves=
@@ -189,7 +189,7 @@
 	{
 		culture = ifriqi
 		religion = sunni
-		size= 34
+		size= 26
 	}
 
 	officers=
@@ -210,7 +210,7 @@
 	{
 		culture = ifriqi
 		religion = sunni
-		size= 2615
+		size= 2623
 	}
 
 }
@@ -247,7 +247,7 @@
 	{
 		culture = ifriqi
 		religion = sunni
-		size= 13
+		size= 10
 	}
 
 	officers=
@@ -268,7 +268,7 @@
 	{
 		culture = ifriqi
 		religion = sunni
-		size= 2317
+		size= 2320
 	}
 
 }

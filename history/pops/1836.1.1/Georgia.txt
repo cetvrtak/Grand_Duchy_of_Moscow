@@ -24,7 +24,7 @@
 	{
 		culture = armenian
 		religion = coptic
-		size= 43
+		size= 34
 	}
 
 	officers=
@@ -45,7 +45,7 @@
 	{
 		culture = armenian
 		religion = coptic
-		size= 35604
+		size= 35613
 	}
 
 	soldiers=
@@ -73,7 +73,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 102
+		size= 79
 	}
 
 	officers=
@@ -94,7 +94,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 18570
+		size= 18593
 	}
 
 }
@@ -103,7 +103,7 @@
 	{
 		culture = georgian
 		religion = coptic
-		size= 1033
+		size= 679
 	}
 
 	artisans=
@@ -124,7 +124,7 @@
 	{
 		culture = georgian
 		religion = coptic
-		size= 13
+		size= 10
 	}
 
 	officers=
@@ -145,7 +145,7 @@
 	{
 		culture = georgian
 		religion = coptic
-		size= 10070
+		size= 10427
 	}
 
 	soldiers=
@@ -173,7 +173,7 @@
 	{
 		culture = georgian
 		religion = orthodox
-		size= 31
+		size= 24
 	}
 
 	officers=
@@ -194,7 +194,7 @@
 	{
 		culture = georgian
 		religion = orthodox
-		size= 5282
+		size= 5289
 	}
 
 }
@@ -224,7 +224,7 @@
 	{
 		culture = georgian
 		religion = coptic
-		size= 17
+		size= 14
 	}
 
 	officers=
@@ -245,7 +245,7 @@
 	{
 		culture = georgian
 		religion = coptic
-		size= 14784
+		size= 14787
 	}
 
 	soldiers=
@@ -273,7 +273,7 @@
 	{
 		culture = georgian
 		religion = orthodox
-		size= 52
+		size= 40
 	}
 
 	officers=
@@ -294,7 +294,7 @@
 	{
 		culture = georgian
 		religion = orthodox
-		size= 8542
+		size= 8554
 	}
 
 }
@@ -324,7 +324,7 @@
 	{
 		culture = georgian
 		religion = coptic
-		size= 4
+		size= 2
 	}
 
 	officers=
@@ -345,7 +345,7 @@
 	{
 		culture = georgian
 		religion = coptic
-		size= 4836
+		size= 4838
 	}
 
 	soldiers=
@@ -373,7 +373,7 @@
 	{
 		culture = georgian
 		religion = orthodox
-		size= 9
+		size= 6
 	}
 
 	officers=
@@ -394,7 +394,7 @@
 	{
 		culture = georgian
 		religion = orthodox
-		size= 3386
+		size= 3389
 	}
 
 }
@@ -424,7 +424,7 @@
 	{
 		culture = georgian
 		religion = coptic
-		size= 3
+		size= 2
 	}
 
 	officers=
@@ -445,7 +445,7 @@
 	{
 		culture = georgian
 		religion = coptic
-		size= 15794
+		size= 15795
 	}
 
 	soldiers=
@@ -473,7 +473,7 @@
 	{
 		culture = georgian
 		religion = orthodox
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -494,7 +494,7 @@
 	{
 		culture = georgian
 		religion = orthodox
-		size= 4123
+		size= 4124
 	}
 
 	soldiers=
@@ -522,7 +522,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 12
+		size= 8
 	}
 
 	officers=
@@ -543,7 +543,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 6394
+		size= 6398
 	}
 
 	soldiers=
@@ -571,7 +571,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 21
+		size= 13
 	}
 
 	officers=
@@ -592,7 +592,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 65
+		size= 73
 	}
 
 }
@@ -622,7 +622,7 @@
 	{
 		culture = georgian
 		religion = coptic
-		size= 10
+		size= 6
 	}
 
 	officers=
@@ -643,7 +643,7 @@
 	{
 		culture = georgian
 		religion = coptic
-		size= 27264
+		size= 27268
 	}
 
 	soldiers=
@@ -671,7 +671,7 @@
 	{
 		culture = georgian
 		religion = orthodox
-		size= 12
+		size= 8
 	}
 
 	officers=
@@ -692,7 +692,7 @@
 	{
 		culture = georgian
 		religion = orthodox
-		size= 2996
+		size= 3000
 	}
 
 	soldiers=
@@ -720,7 +720,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 75
+		size= 48
 	}
 
 	officers=
@@ -741,7 +741,7 @@
 	{
 		culture = tatar
 		religion = orthodox
-		size= 33875
+		size= 33902
 	}
 
 }
@@ -750,7 +750,7 @@
 	{
 		culture = georgian
 		religion = coptic
-		size= 240
+		size= 7233
 	}
 
 	artisans=
@@ -771,7 +771,7 @@
 	{
 		culture = georgian
 		religion = coptic
-		size= 8
+		size= 5
 	}
 
 	officers=
@@ -792,7 +792,7 @@
 	{
 		culture = georgian
 		religion = coptic
-		size= 11420
+		size= 4430
 	}
 
 	soldiers=
@@ -820,7 +820,7 @@
 	{
 		culture = georgian
 		religion = orthodox
-		size= 21
+		size= 14
 	}
 
 	officers=
@@ -841,7 +841,7 @@
 	{
 		culture = georgian
 		religion = orthodox
-		size= 8087
+		size= 8094
 	}
 
 }

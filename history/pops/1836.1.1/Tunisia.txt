@@ -31,7 +31,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 248
+		size= 186
 	}
 
 	officers=
@@ -52,7 +52,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 92328
+		size= 92390
 	}
 
 	clergymen=
@@ -103,7 +103,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 134
+		size= 100
 	}
 
 	officers=
@@ -124,7 +124,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 56559
+		size= 56593
 	}
 
 	artisans=
@@ -168,7 +168,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 56
+		size= 41
 	}
 
 	officers=
@@ -189,7 +189,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 21479
+		size= 21494
 	}
 
 }
@@ -226,7 +226,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 31
+		size= 24
 	}
 
 	officers=
@@ -247,7 +247,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 21446
+		size= 21453
 	}
 
 	slaves=
@@ -282,7 +282,7 @@
 	{
 		culture = berber
 		religion = shiite
-		size= 3
+		size= 2
 	}
 
 	officers=
@@ -303,7 +303,7 @@
 	{
 		culture = berber
 		religion = shiite
-		size= 789
+		size= 790
 	}
 
 	slaves=
@@ -338,7 +338,7 @@
 	{
 		culture = guiscard
 		religion = sunni
-		size= 81
+		size= 61
 	}
 
 	officers=
@@ -359,7 +359,7 @@
 	{
 		culture = guiscard
 		religion = sunni
-		size= 10366
+		size= 10386
 	}
 
 }
@@ -396,7 +396,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 41
+		size= 31
 	}
 
 	officers=
@@ -417,7 +417,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 13838
+		size= 13848
 	}
 
 }
@@ -450,13 +450,6 @@
 		size= 6
 	}
 
-	bureaucrats=
-	{
-		culture = berber
-		religion = catholic
-		size= 2
-	}
-
 	officers=
 	{
 		culture = berber
@@ -475,7 +468,7 @@
 	{
 		culture = berber
 		religion = catholic
-		size= 4223
+		size= 4224
 	}
 
 	slaves=
@@ -510,7 +503,7 @@
 	{
 		culture = berber
 		religion = shiite
-		size= 30
+		size= 23
 	}
 
 	officers=
@@ -531,7 +524,7 @@
 	{
 		culture = berber
 		religion = shiite
-		size= 10598
+		size= 10605
 	}
 
 	slaves=
@@ -566,7 +559,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 67
+		size= 50
 	}
 
 	officers=
@@ -587,7 +580,14 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 24759
+		size= 24776
+	}
+
+	bureaucrats=
+	{
+		culture = berber
+		religion = catholic
+		size= 1
 	}
 
 }

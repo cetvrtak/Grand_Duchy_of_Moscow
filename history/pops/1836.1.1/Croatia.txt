@@ -3,7 +3,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 1887
+		size= 4133
 	}
 
 	artisans=
@@ -31,7 +31,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 25376
+		size= 23149
 	}
 
 	soldiers=
@@ -66,21 +66,14 @@
 	{
 		culture = croat
 		religion = protestant
-		size= 13765
-	}
-
-	bureaucrats=
-	{
-		culture = croat
-		religion = catholic
-		size= 101
+		size= 13766
 	}
 
 	bureaucrats=
 	{
 		culture = croat
 		religion = protestant
-		size= 37
+		size= 31
 	}
 
 	officers=
@@ -88,6 +81,13 @@
 		culture = croat
 		religion = protestant
 		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = croat
+		religion = catholic
+		size= 82
 	}
 
 	officers=
@@ -124,7 +124,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 61
+		size= 51
 	}
 
 	officers=
@@ -145,7 +145,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 32754
+		size= 32764
 	}
 
 	soldiers=
@@ -173,7 +173,7 @@
 	{
 		culture = croat
 		religion = protestant
-		size= 196
+		size= 165
 	}
 
 	officers=
@@ -194,7 +194,7 @@
 	{
 		culture = croat
 		religion = protestant
-		size= 29622
+		size= 29653
 	}
 
 }
@@ -224,7 +224,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 24
+		size= 20
 	}
 
 	officers=
@@ -245,7 +245,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 12796
+		size= 12800
 	}
 
 	soldiers=
@@ -273,7 +273,7 @@
 	{
 		culture = croat
 		religion = protestant
-		size= 76
+		size= 64
 	}
 
 	officers=
@@ -294,7 +294,7 @@
 	{
 		culture = croat
 		religion = protestant
-		size= 11573
+		size= 11585
 	}
 
 }
@@ -324,7 +324,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 141
+		size= 122
 	}
 
 	officers=
@@ -345,7 +345,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 30654
+		size= 30673
 	}
 
 }
@@ -375,7 +375,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 83
+		size= 71
 	}
 
 	officers=
@@ -396,7 +396,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 20736
+		size= 20748
 	}
 
 	soldiers=
@@ -424,7 +424,7 @@
 	{
 		culture = croat
 		religion = animist
-		size= 8
+		size= 7
 	}
 
 	officers=
@@ -468,7 +468,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 13
+		size= 11
 	}
 
 	officers=
@@ -489,7 +489,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 7304
+		size= 7306
 	}
 
 	soldiers=
@@ -517,7 +517,7 @@
 	{
 		culture = croat
 		religion = protestant
-		size= 45
+		size= 38
 	}
 
 	officers=
@@ -538,7 +538,7 @@
 	{
 		culture = croat
 		religion = protestant
-		size= 7004
+		size= 7011
 	}
 
 }
@@ -568,7 +568,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 51
+		size= 44
 	}
 
 	officers=
@@ -589,7 +589,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 11318
+		size= 11325
 	}
 
 	soldiers=
@@ -626,7 +626,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 1033
+		size= 589
 	}
 
 	artisans=
@@ -647,7 +647,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 76
+		size= 65
 	}
 
 	officers=
@@ -668,7 +668,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 16431
+		size= 16886
 	}
 
 }
@@ -698,7 +698,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 52
+		size= 45
 	}
 
 	officers=
@@ -719,7 +719,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 11314
+		size= 11321
 	}
 
 }
@@ -749,7 +749,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 102
+		size= 86
 	}
 
 	officers=
@@ -770,7 +770,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 25565
+		size= 25581
 	}
 
 }
@@ -800,7 +800,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 128
+		size= 110
 	}
 
 	officers=
@@ -821,7 +821,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 35746
+		size= 35764
 	}
 
 	soldiers=
@@ -849,7 +849,7 @@
 	{
 		culture = croat
 		religion = protestant
-		size= 19
+		size= 16
 	}
 
 	officers=
@@ -870,7 +870,7 @@
 	{
 		culture = croat
 		religion = protestant
-		size= 1326
+		size= 1329
 	}
 
 }
@@ -900,7 +900,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 105
+		size= 91
 	}
 
 	officers=
@@ -921,7 +921,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 29520
+		size= 29534
 	}
 
 	soldiers=
@@ -949,7 +949,7 @@
 	{
 		culture = croat
 		religion = protestant
-		size= 16
+		size= 14
 	}
 
 	officers=
@@ -970,7 +970,7 @@
 	{
 		culture = croat
 		religion = protestant
-		size= 1121
+		size= 1123
 	}
 
 }
@@ -1000,7 +1000,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 23
+		size= 17
 	}
 
 	officers=
@@ -1021,7 +1021,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 12002
+		size= 12008
 	}
 
 	artisans=
@@ -1042,7 +1042,7 @@
 	{
 		culture = serb
 		religion = animist
-		size= 3
+		size= 2
 	}
 
 	officers=
@@ -1065,7 +1065,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 775
+		size= 1033
 	}
 
 	artisans=
@@ -1086,7 +1086,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 89
+		size= 75
 	}
 
 	officers=
@@ -1107,7 +1107,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 22213
+		size= 21969
 	}
 
 }

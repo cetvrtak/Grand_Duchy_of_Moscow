@@ -24,7 +24,7 @@
 	{
 		culture = serb
 		religion = catholic
-		size= 19
+		size= 16
 	}
 
 	officers=
@@ -45,14 +45,14 @@
 	{
 		culture = serb
 		religion = catholic
-		size= 9176
+		size= 9179
 	}
 
 	soldiers=
 	{
 		culture = hungarian
 		religion = catholic
-		size= 1033
+		size= 7233
 	}
 
 	artisans=
@@ -73,7 +73,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 85
+		size= 73
 	}
 
 	officers=
@@ -94,7 +94,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 13082
+		size= 6894
 	}
 
 }
@@ -124,7 +124,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 36
+		size= 29
 	}
 
 	officers=
@@ -145,7 +145,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 26830
+		size= 26837
 	}
 
 	soldiers=
@@ -173,7 +173,7 @@
 	{
 		culture = hungarian
 		religion = protestant
-		size= 130
+		size= 103
 	}
 
 	officers=
@@ -194,7 +194,7 @@
 	{
 		culture = hungarian
 		religion = protestant
-		size= 28784
+		size= 28811
 	}
 
 }
@@ -224,7 +224,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 147
+		size= 110
 	}
 
 	officers=
@@ -245,7 +245,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 54858
+		size= 54895
 	}
 
 	farmers=
@@ -303,7 +303,7 @@
 	{
 		culture = aromanian
 		religion = orthodox
-		size= 112
+		size= 84
 	}
 
 	officers=
@@ -324,7 +324,7 @@
 	{
 		culture = aromanian
 		religion = orthodox
-		size= 45177
+		size= 45205
 	}
 
 }
@@ -354,7 +354,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 84
+		size= 63
 	}
 
 	officers=
@@ -375,7 +375,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 38101
+		size= 38122
 	}
 
 }
@@ -405,7 +405,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 27
+		size= 20
 	}
 
 	officers=
@@ -426,7 +426,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 12327
+		size= 12334
 	}
 
 }
@@ -436,13 +436,6 @@
 		culture = macedonian
 		religion = orthodox
 		size= 1909
-	}
-
-	craftsmen=
-	{
-		culture = macedonian
-		religion = orthodox
-		size= 8170
 	}
 
 	artisans=
@@ -459,18 +452,11 @@
 		size= 511
 	}
 
-	clerks=
-	{
-		culture = macedonian
-		religion = orthodox
-		size= 493
-	}
-
 	bureaucrats=
 	{
 		culture = macedonian
 		religion = orthodox
-		size= 136
+		size= 102
 	}
 
 	officers=
@@ -478,13 +464,6 @@
 		culture = macedonian
 		religion = orthodox
 		size= 109
-	}
-
-	capitalists=
-	{
-		culture = macedonian
-		religion = orthodox
-		size= 138
 	}
 
 	aristocrats=
@@ -498,7 +477,7 @@
 	{
 		culture = macedonian
 		religion = orthodox
-		size= 46580
+		size= 55415
 	}
 
 }
@@ -528,7 +507,7 @@
 	{
 		culture = macedonian
 		religion = orthodox
-		size= 120
+		size= 90
 	}
 
 	officers=
@@ -549,7 +528,7 @@
 	{
 		culture = macedonian
 		religion = orthodox
-		size= 48688
+		size= 48718
 	}
 
 }
@@ -579,7 +558,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 183
+		size= 154
 	}
 
 	officers=
@@ -600,7 +579,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 44376
+		size= 44405
 	}
 
 	farmers=
@@ -637,7 +616,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 202
+		size= 170
 	}
 
 	officers=
@@ -658,7 +637,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 48616
+		size= 48648
 	}
 
 	farmers=
@@ -695,7 +674,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 88
+		size= 66
 	}
 
 	officers=
@@ -716,7 +695,7 @@
 	{
 		culture = serb
 		religion = orthodox
-		size= 40101
+		size= 40123
 	}
 
 }
@@ -725,7 +704,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 10333
+		size= 4595
 	}
 
 	artisans=
@@ -746,7 +725,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 245
+		size= 194
 	}
 
 	officers=
@@ -767,7 +746,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 73119
+		size= 78908
 	}
 
 	aristocrats=

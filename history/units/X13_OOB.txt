@@ -550,15 +550,20 @@ army = {
 		home=2528
 	}
 	regiment = {
-		name="2nd Van Diemen's Land Artillery"
+		name="1st Cooktown Artillery"
 		type=artillery
-		home=2482
+		home=2488
 	}
 }
 
 army = {
 	name="4th Army"
-	location=2506
+	location=2507
+	regiment = {
+		name="1st Gladstone Infantry"
+		type=infantry
+		home=2484
+	}
 	regiment = {
 		name="1st Van Diemen's Land Infantry"
 		type=infantry
@@ -575,11 +580,6 @@ army = {
 		home=2497
 	}
 	regiment = {
-		name="2nd Perth Infantry"
-		type=infantry
-		home=2497
-	}
-	regiment = {
 		name="1st Port Essington Infantry"
 		type=infantry
 		home=2505
@@ -590,33 +590,8 @@ army = {
 		home=2469
 	}
 	regiment = {
-		name="1st Gladstone Artillery"
-		type=artillery
-		home=2484
-	}
-	regiment = {
 		name="1st Port Moresby Artillery"
 		type=artillery
-		home=2528
-	}
-	regiment = {
-		name="4th Port Moresby Artillery"
-		type=artillery
-		home=2528
-	}
-}
-
-army = {
-	name="8th Army"
-	location=2604
-	regiment = {
-		name="1st Geraldton Infantry"
-		type=infantry
-		home=2499
-	}
-	regiment = {
-		name="2nd Port Moresby Infantry"
-		type=infantry
 		home=2528
 	}
 	regiment = {
@@ -625,31 +600,56 @@ army = {
 		home=2528
 	}
 	regiment = {
+		name="1st Auckland Artillery"
+		type=artillery
+		home=2509
+	}
+}
+
+army = {
+	name="8th Army"
+	location=2604
+	regiment = {
+		name="2nd Port Moresby Infantry"
+		type=infantry
+		home=2528
+	}
+	regiment = {
+		name="3rd Port Moresby Infantry"
+		type=infantry
+		home=2528
+	}
+	regiment = {
 		name="3rd Port Moresby Artillery"
 		type=artillery
 		home=2528
 	}
 	regiment = {
-		name="1st Van Diemen's Land Artillery"
+		name="1st Wagga Wagga Artillery"
 		type=artillery
-		home=2482
+		home=2473
 	}
 	regiment = {
-		name="1st Warrnambool Artillery"
+		name="4th Port Moresby Artillery"
 		type=artillery
-		home=2477
+		home=2528
+	}
+	regiment = {
+		name="5th Port Moresby Artillery"
+		type=artillery
+		home=2528
 	}
 }
 
 navy = {
 	name="2nd Fleet"
-	location=2864
+	location=2860
 	ship = {
-		name="1st Gladstone Clipper Transport"
+		name="1st Port Macquarie Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Port Macquarie Clipper Transport"
+		name="1st Gladstone Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -657,23 +657,23 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Sale Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Sale Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Gladstone Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="2nd Port Macquarie Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Van Diemen's Land Clipper Transport"
+		name="1st Inhambane Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Van Diemen's Land Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Normanton Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Port Macquarie Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -686,11 +686,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="2nd Gladstone Frigate"
+		name="2nd Port Macquarie Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Van Diemen's Land Frigate"
+		name="3rd Port Macquarie Frigate"
 		type=frigate
 	}
 }
@@ -698,11 +698,6 @@ navy = {
 army = {
 	name="1st Army"
 	location=2604
-	regiment = {
-		name="3rd Port Moresby Infantry"
-		type=infantry
-		home=2528
-	}
 	regiment = {
 		name="4th Port Moresby Infantry"
 		type=infantry
@@ -713,15 +708,16 @@ army = {
 		type=infantry
 		home=2528
 	}
+	regiment = {
+		name="2nd Van Diemen's Land Infantry"
+		type=infantry
+		home=2482
+	}
 }
 
 navy = {
 	name="1st Fleet"
 	location=2861
-	ship = {
-		name="1st Van Diemen's Land Man'o'war"
-		type=manowar
-	}
 	ship = {
 		name="1st Gladstone Man'o'war"
 		type=manowar
@@ -735,15 +731,15 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Van Diemen's Land Clipper Transport"
+		name="4th Gladstone Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bougainville Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Sydney Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Port Macquarie Clipper Transport"
+		name="1st Eden Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -751,23 +747,27 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Sale Clipper Transport"
+		name="1st Sale Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="4th Port Macquarie Clipper Transport"
+		name="3rd Gladstone Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Van Diemen's Land Clipper Transport"
+		name="4th Gladstone Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="4th Sale Clipper Transport"
+		name="2nd Eden Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Bougainville Clipper Transport"
+		name="5th Gladstone Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Gladstone Clipper Transport"
 		type=clipper_transport
 	}
 }

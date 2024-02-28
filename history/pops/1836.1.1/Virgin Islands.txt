@@ -87,7 +87,7 @@
 	{
 		culture = mexican
 		religion = catholic
-		size= 3
+		size= 2
 	}
 
 	officers=
@@ -108,7 +108,7 @@
 	{
 		culture = mexican
 		religion = catholic
-		size= 160
+		size= 161
 	}
 
 }

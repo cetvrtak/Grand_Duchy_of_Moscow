@@ -187,7 +187,7 @@
 	{
 		culture = caribeno
 		religion = catholic
-		size= 7
+		size= 5
 	}
 
 	soldiers=
@@ -215,7 +215,7 @@
 	{
 		culture = mexican
 		religion = catholic
-		size= 46
+		size= 34
 	}
 
 	officers=
@@ -273,7 +273,7 @@
 	{
 		culture = caribeno
 		religion = catholic
-		size= 6
+		size= 8
 	}
 
 	artisans=
@@ -297,18 +297,18 @@
 		size= 31
 	}
 
-	bureaucrats=
-	{
-		culture = caribeno
-		religion = catholic
-		size= 11
-	}
-
 	officers=
 	{
 		culture = caribeno
 		religion = catholic
 		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 8
 	}
 
 	soldiers=
@@ -336,7 +336,7 @@
 	{
 		culture = mexican
 		religion = catholic
-		size= 65
+		size= 51
 	}
 
 	officers=

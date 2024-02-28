@@ -24,7 +24,7 @@
 	{
 		culture = africaine
 		religion = catholic
-		size= 32202
+		size= 32224
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = africaine
 		religion = catholic
-		size= 152
+		size= 127
 	}
 
 	officers=
@@ -182,7 +182,7 @@
 	{
 		culture = africaine
 		religion = catholic
-		size= 19070
+		size= 19083
 	}
 
 	soldiers=
@@ -217,7 +217,7 @@
 	{
 		culture = africaine
 		religion = catholic
-		size= 90
+		size= 75
 	}
 
 	officers=
@@ -247,7 +247,7 @@
 	{
 		culture = africaine
 		religion = catholic
-		size= 17276
+		size= 17288
 	}
 
 	soldiers=
@@ -282,7 +282,7 @@
 	{
 		culture = africaine
 		religion = catholic
-		size= 82
+		size= 68
 	}
 
 	officers=
@@ -312,7 +312,7 @@
 	{
 		culture = africaine
 		religion = catholic
-		size= 5148
+		size= 5151
 	}
 
 	artisans=
@@ -340,7 +340,7 @@
 	{
 		culture = africaine
 		religion = catholic
-		size= 23
+		size= 19
 	}
 
 	officers=
@@ -377,7 +377,7 @@
 	{
 		culture = africaine
 		religion = catholic
-		size= 4275
+		size= 4277
 	}
 
 	artisans=
@@ -412,7 +412,7 @@
 	{
 		culture = africaine
 		religion = catholic
-		size= 18
+		size= 16
 	}
 
 	soldiers=
@@ -491,7 +491,7 @@
 	{
 		culture = africaine
 		religion = catholic
-		size= 2997
+		size= 2999
 	}
 
 	artisans=
@@ -519,7 +519,7 @@
 	{
 		culture = africaine
 		religion = catholic
-		size= 14
+		size= 11
 	}
 
 	soldiers=
@@ -577,7 +577,7 @@
 	{
 		culture = morado
 		religion = catholic
-		size= 16319
+		size= 16332
 	}
 
 	artisans=
@@ -605,7 +605,7 @@
 	{
 		culture = morado
 		religion = catholic
-		size= 100
+		size= 84
 	}
 
 	officers=
@@ -672,7 +672,7 @@
 	{
 		culture = anglo_african
 		religion = protestant
-		size= 9369
+		size= 9375
 	}
 
 	artisans=
@@ -707,7 +707,7 @@
 	{
 		culture = anglo_african
 		religion = protestant
-		size= 44
+		size= 37
 	}
 
 	officers=
@@ -737,7 +737,7 @@
 	{
 		culture = anglo_african
 		religion = protestant
-		size= 12238
+		size= 12246
 	}
 
 	artisans=
@@ -772,7 +772,7 @@
 	{
 		culture = anglo_african
 		religion = protestant
-		size= 57
+		size= 48
 	}
 
 	officers=
@@ -809,7 +809,7 @@
 	{
 		culture = xhosa
 		religion = shamanism
-		size= 56
+		size= 46
 	}
 
 	officers=
@@ -830,7 +830,7 @@
 	{
 		culture = xhosa
 		religion = shamanism
-		size= 17070
+		size= 17080
 	}
 
 }
@@ -860,7 +860,7 @@
 	{
 		culture = xhosa
 		religion = shamanism
-		size= 56
+		size= 46
 	}
 
 	officers=
@@ -881,7 +881,7 @@
 	{
 		culture = xhosa
 		religion = shamanism
-		size= 17070
+		size= 17080
 	}
 
 }
@@ -918,7 +918,7 @@
 	{
 		culture = xhosa
 		religion = shamanism
-		size= 101
+		size= 84
 	}
 
 	officers=
@@ -939,7 +939,7 @@
 	{
 		culture = xhosa
 		religion = shamanism
-		size= 29903
+		size= 29920
 	}
 
 }
@@ -997,7 +997,7 @@
 	{
 		culture = morado
 		religion = catholic
-		size= 20445
+		size= 20462
 	}
 
 	aristocrats=
@@ -1018,7 +1018,7 @@
 	{
 		culture = morado
 		religion = catholic
-		size= 119
+		size= 99
 	}
 
 	officers=
@@ -1076,7 +1076,7 @@
 	{
 		culture = morado
 		religion = catholic
-		size= 13189
+		size= 13199
 	}
 
 	soldiers=
@@ -1104,7 +1104,7 @@
 	{
 		culture = morado
 		religion = catholic
-		size= 77
+		size= 64
 	}
 
 	officers=
@@ -1162,7 +1162,7 @@
 	{
 		culture = morado
 		religion = catholic
-		size= 10464
+		size= 10473
 	}
 
 	aristocrats=
@@ -1183,7 +1183,7 @@
 	{
 		culture = morado
 		religion = catholic
-		size= 61
+		size= 51
 	}
 
 	soldiers=
@@ -1255,7 +1255,7 @@
 	{
 		culture = morado
 		religion = catholic
-		size= 31396
+		size= 31421
 	}
 
 	clergymen=
@@ -1276,7 +1276,7 @@
 	{
 		culture = morado
 		religion = catholic
-		size= 177
+		size= 147
 	}
 
 	officers=
@@ -1320,7 +1320,7 @@
 	{
 		culture = khoisan
 		religion = shamanism
-		size= 16
+		size= 13
 	}
 
 	officers=
@@ -1341,7 +1341,7 @@
 	{
 		culture = khoisan
 		religion = shamanism
-		size= 8945
+		size= 8948
 	}
 
 	slaves=
@@ -1376,7 +1376,7 @@
 	{
 		culture = morado
 		religion = catholic
-		size= 60
+		size= 50
 	}
 
 	officers=
@@ -1397,7 +1397,7 @@
 	{
 		culture = morado
 		religion = catholic
-		size= 11910
+		size= 11920
 	}
 
 }
@@ -1434,7 +1434,7 @@
 	{
 		culture = khoisan
 		religion = shamanism
-		size= 13
+		size= 11
 	}
 
 	officers=
@@ -1455,7 +1455,7 @@
 	{
 		culture = khoisan
 		religion = shamanism
-		size= 7446
+		size= 7448
 	}
 
 	slaves=
@@ -1490,7 +1490,7 @@
 	{
 		culture = morado
 		religion = catholic
-		size= 51
+		size= 42
 	}
 
 	officers=
@@ -1511,7 +1511,7 @@
 	{
 		culture = morado
 		religion = catholic
-		size= 9903
+		size= 9912
 	}
 
 }
@@ -1548,7 +1548,7 @@
 	{
 		culture = khoisan
 		religion = shamanism
-		size= 16
+		size= 13
 	}
 
 	officers=
@@ -1569,7 +1569,7 @@
 	{
 		culture = khoisan
 		religion = shamanism
-		size= 9351
+		size= 9354
 	}
 
 	slaves=
@@ -1604,7 +1604,7 @@
 	{
 		culture = morado
 		religion = catholic
-		size= 61
+		size= 51
 	}
 
 	officers=
@@ -1625,7 +1625,7 @@
 	{
 		culture = morado
 		religion = catholic
-		size= 12482
+		size= 12492
 	}
 
 }
@@ -1669,7 +1669,7 @@
 	{
 		culture = swahili
 		religion = sunni
-		size= 47466
+		size= 47507
 	}
 
 	artisans=
@@ -1697,7 +1697,7 @@
 	{
 		culture = swahili
 		religion = sunni
-		size= 292
+		size= 244
 	}
 
 	officers=
@@ -1776,7 +1776,7 @@
 	{
 		culture = morado
 		religion = catholic
-		size= 38024
+		size= 38055
 	}
 
 	clergymen=
@@ -1790,7 +1790,7 @@
 	{
 		culture = morado
 		religion = catholic
-		size= 233
+		size= 194
 	}
 
 	officers=
@@ -1834,7 +1834,7 @@
 	{
 		culture = nguni
 		religion = shamanism
-		size= 24
+		size= 20
 	}
 
 	officers=
@@ -1855,7 +1855,7 @@
 	{
 		culture = nguni
 		religion = shamanism
-		size= 6267
+		size= 6271
 	}
 
 }
@@ -1892,7 +1892,7 @@
 	{
 		culture = zulu
 		religion = shamanism
-		size= 64
+		size= 53
 	}
 
 	officers=
@@ -1913,7 +1913,7 @@
 	{
 		culture = zulu
 		religion = shamanism
-		size= 18031
+		size= 18042
 	}
 
 }
@@ -1964,7 +1964,7 @@
 	{
 		culture = morado
 		religion = catholic
-		size= 14397
+		size= 14408
 	}
 
 	soldiers=
@@ -1992,7 +1992,7 @@
 	{
 		culture = morado
 		religion = catholic
-		size= 81
+		size= 67
 	}
 
 	officers=
@@ -2036,7 +2036,7 @@
 	{
 		culture = nguni
 		religion = shamanism
-		size= 308
+		size= 257
 	}
 
 	officers=
@@ -2057,7 +2057,7 @@
 	{
 		culture = nguni
 		religion = shamanism
-		size= 89187
+		size= 89238
 	}
 
 }
@@ -2094,7 +2094,7 @@
 	{
 		culture = nguni
 		religion = shamanism
-		size= 125
+		size= 104
 	}
 
 	officers=
@@ -2115,7 +2115,7 @@
 	{
 		culture = nguni
 		religion = shamanism
-		size= 35895
+		size= 35916
 	}
 
 }
@@ -2138,7 +2138,7 @@
 	{
 		culture = africaine
 		religion = catholic
-		size= 4390
+		size= 4393
 	}
 
 	artisans=
@@ -2173,7 +2173,7 @@
 	{
 		culture = africaine
 		religion = catholic
-		size= 19
+		size= 16
 	}
 
 	soldiers=

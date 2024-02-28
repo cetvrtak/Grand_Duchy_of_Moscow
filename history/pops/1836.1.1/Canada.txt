@@ -147,7 +147,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 2
+		size= 1
 	}
 
 	officers=
@@ -168,7 +168,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 785
+		size= 786
 	}
 
 }
@@ -319,7 +319,7 @@
 	{
 		culture = americano
 		religion = catholic
-		size= 6
+		size= 5
 	}
 
 	officers=
@@ -340,7 +340,7 @@
 	{
 		culture = americano
 		religion = catholic
-		size= 988
+		size= 989
 	}
 
 }
@@ -370,7 +370,7 @@
 	{
 		culture = americano
 		religion = catholic
-		size= 1631
+		size= 1632
 	}
 
 	artisans=
@@ -405,7 +405,7 @@
 	{
 		culture = americano
 		religion = catholic
-		size= 6
+		size= 5
 	}
 
 	officers=
@@ -435,7 +435,7 @@
 	{
 		culture = americano
 		religion = catholic
-		size= 1338
+		size= 1339
 	}
 
 	artisans=
@@ -470,7 +470,7 @@
 	{
 		culture = americano
 		religion = catholic
-		size= 5
+		size= 4
 	}
 
 	officers=
@@ -781,7 +781,7 @@
 	{
 		culture = americano
 		religion = catholic
-		size= 1285
+		size= 1286
 	}
 
 	artisans=
@@ -816,7 +816,7 @@
 	{
 		culture = americano
 		religion = catholic
-		size= 5
+		size= 4
 	}
 
 	officers=
@@ -937,7 +937,7 @@
 	{
 		culture = americano
 		religion = catholic
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -958,7 +958,7 @@
 	{
 		culture = americano
 		religion = catholic
-		size= 753
+		size= 754
 	}
 
 }
@@ -1044,7 +1044,7 @@
 	{
 		culture = americano
 		religion = catholic
-		size= 10
+		size= 9
 	}
 
 	soldiers=
@@ -1065,7 +1065,7 @@
 	{
 		culture = americano
 		religion = catholic
-		size= 1717
+		size= 1718
 	}
 
 }
@@ -1109,7 +1109,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 594
+		size= 595
 	}
 
 	artisans=
@@ -1144,7 +1144,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -1163,25 +1163,25 @@
 		size= 26
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = plains_algonquian
 		religion = totemism
-		size= 2016
+		size= 42
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = penutian
 		religion = totemism
-		size= 31
+		size= 1
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 6120
+		size= 100
 	}
 
 	artisans=
@@ -1189,20 +1189,6 @@
 		culture = nieuwereld
 		religion = protestant
 		size= 307
-	}
-
-	clerks=
-	{
-		culture = nieuwereld
-		religion = protestant
-		size= 492
-	}
-
-	capitalists=
-	{
-		culture = nieuwereld
-		religion = protestant
-		size= 88
 	}
 
 	aristocrats=
@@ -1223,7 +1209,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 9
+		size= 8
 	}
 
 	soldiers=
@@ -1267,7 +1253,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 1129
+		size= 1130
 	}
 
 	artisans=
@@ -1291,18 +1277,18 @@
 		size= 12
 	}
 
-	bureaucrats=
-	{
-		culture = nieuwereld
-		religion = protestant
-		size= 8
-	}
-
 	soldiers=
 	{
 		culture = nieuwereld
 		religion = protestant
 		size= 83
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 6
 	}
 
 	officers=
@@ -1416,7 +1402,7 @@
 	{
 		culture = americano
 		religion = catholic
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -1437,7 +1423,7 @@
 	{
 		culture = americano
 		religion = catholic
-		size= 519
+		size= 520
 	}
 
 }
@@ -1609,7 +1595,7 @@
 	{
 		culture = americano
 		religion = catholic
-		size= 1004
+		size= 1005
 	}
 
 	artisans=
@@ -1644,7 +1630,7 @@
 	{
 		culture = americano
 		religion = catholic
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -1663,39 +1649,32 @@
 		size= 7
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = plains_algonquian
 		religion = totemism
-		size= 592
+		size= 119
 	}
 
-	craftsmen=
-	{
-		culture = sonoran
-		religion = totemism
-		size= 1
-	}
-
-	craftsmen=
+	farmers=
 	{
 		culture = siouan
 		religion = totemism
-		size= 1375
+		size= 292
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = dakota
 		religion = totemism
-		size= 5
+		size= 2
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 6206
+		size= 1113
 	}
 
 	artisans=
@@ -1703,20 +1682,6 @@
 		culture = nieuwereld
 		religion = protestant
 		size= 267
-	}
-
-	clerks=
-	{
-		culture = nieuwereld
-		religion = protestant
-		size= 491
-	}
-
-	capitalists=
-	{
-		culture = nieuwereld
-		religion = protestant
-		size= 87
 	}
 
 	soldiers=
@@ -1737,7 +1702,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 9
+		size= 8
 	}
 
 	officers=
@@ -1832,7 +1797,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 417
+		size= 418
 	}
 
 	artisans=
@@ -1853,7 +1818,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 5
+		size= 4
 	}
 
 	officers=
@@ -1932,7 +1897,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 455
+		size= 456
 	}
 
 	artisans=
@@ -1967,7 +1932,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -2018,7 +1983,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 473
+		size= 474
 	}
 
 	artisans=
@@ -2053,7 +2018,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -2076,7 +2041,7 @@
 	{
 		culture = plains_algonquian
 		religion = totemism
-		size= 665
+		size= 666
 	}
 
 	artisans=
@@ -2104,7 +2069,7 @@
 	{
 		culture = plains_algonquian
 		religion = totemism
-		size= 3
+		size= 2
 	}
 
 	officers=
@@ -2148,7 +2113,7 @@
 	{
 		culture = siouan
 		religion = totemism
-		size= 798
+		size= 799
 	}
 
 	soldiers=
@@ -2204,7 +2169,7 @@
 	{
 		culture = siouan
 		religion = totemism
-		size= 5
+		size= 4
 	}
 
 	officers=
@@ -2327,7 +2292,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 619
+		size= 620
 	}
 
 	artisans=
@@ -2355,7 +2320,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 2
+		size= 1
 	}
 
 	officers=
@@ -2406,7 +2371,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 517
+		size= 518
 	}
 
 	artisans=
@@ -2434,7 +2399,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 3
+		size= 2
 	}
 
 	officers=
@@ -2499,7 +2464,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 488
+		size= 489
 	}
 
 	artisans=
@@ -2534,7 +2499,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -2571,7 +2536,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 472
+		size= 473
 	}
 
 	artisans=
@@ -2606,7 +2571,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 5
+		size= 4
 	}
 
 	officers=
@@ -2720,7 +2685,7 @@
 	{
 		culture = siouan
 		religion = totemism
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -2736,14 +2701,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 7233
-	}
-
-	craftsmen=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 8170
+		size= 4133
 	}
 
 	artisans=
@@ -2760,18 +2718,11 @@
 		size= 293
 	}
 
-	clerks=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 493
-	}
-
 	bureaucrats=
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 45
+		size= 23
 	}
 
 	officers=
@@ -2779,13 +2730,6 @@
 		culture = iroquoian
 		religion = totemism
 		size= 95
-	}
-
-	capitalists=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 88
 	}
 
 	aristocrats=
@@ -2799,7 +2743,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 21561
+		size= 33434
 	}
 
 }
@@ -2839,13 +2783,6 @@
 		size= 2
 	}
 
-	bureaucrats=
-	{
-		culture = nieuwereld
-		religion = protestant
-		size= 1
-	}
-
 	aristocrats=
 	{
 		culture = nieuwereld
@@ -2857,7 +2794,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 340
+		size= 341
 	}
 
 	farmers=
@@ -3050,7 +2987,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 1151
+		size= 1152
 	}
 
 	artisans=
@@ -3085,7 +3022,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 5
+		size= 4
 	}
 
 	officers=
@@ -3150,7 +3087,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 3
+		size= 2
 	}
 
 	officers=
@@ -3171,7 +3108,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 954
+		size= 955
 	}
 
 }
@@ -3315,7 +3252,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 86
+		size= 1033
 	}
 
 	artisans=
@@ -3336,7 +3273,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 2
+		size= 1
 	}
 
 	officers=
@@ -3357,7 +3294,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 1202
+		size= 256
 	}
 
 	soldiers=
@@ -3501,7 +3438,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -3522,7 +3459,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 9
+		size= 4
 	}
 
 	officers=
@@ -3543,7 +3480,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 6434
+		size= 3339
 	}
 
 }
@@ -3552,7 +3489,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 7233
+		size= 10333
 	}
 
 	artisans=
@@ -3573,7 +3510,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 17
+		size= 8
 	}
 
 	officers=
@@ -3594,7 +3531,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 6956
+		size= 3865
 	}
 
 }
@@ -3624,7 +3561,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 26
+		size= 17
 	}
 
 	officers=
@@ -3645,7 +3582,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 2819
+		size= 2828
 	}
 
 }
@@ -3661,14 +3598,14 @@
 	{
 		culture = eastern_algonquian
 		religion = totemism
-		size= 2368
+		size= 2370
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
 		religion = totemism
-		size= 1367
+		size= 1369
 	}
 
 	farmers=
@@ -3724,7 +3661,7 @@
 	{
 		culture = central_algonquian
 		religion = totemism
-		size= 6
+		size= 4
 	}
 
 	officers=
@@ -3745,7 +3682,7 @@
 	{
 		culture = eastern_algonquian
 		religion = totemism
-		size= 14
+		size= 12
 	}
 
 	officers=
@@ -3761,14 +3698,14 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 10333
+		size= 4133
 	}
 
 	farmers=
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 48055
+		size= 54286
 	}
 
 	soldiers=
@@ -3817,7 +3754,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 87
+		size= 56
 	}
 
 }
@@ -3847,7 +3784,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 654
+		size= 656
 	}
 
 	artisans=
@@ -3871,18 +3808,18 @@
 		size= 6
 	}
 
-	bureaucrats=
-	{
-		culture = celtic_american
-		religion = protestant
-		size= 3
-	}
-
 	aristocrats=
 	{
 		culture = celtic_american
 		religion = protestant
 		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = celtic_american
+		religion = protestant
+		size= 1
 	}
 
 	artisans=
@@ -3954,7 +3891,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 1636
+		size= 1638
 	}
 
 	artisans=
@@ -3982,7 +3919,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 5
+		size= 3
 	}
 
 	officers=
@@ -4068,7 +4005,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 315
+		size= 317
 	}
 
 	artisans=
@@ -4096,7 +4033,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 4
+		size= 2
 	}
 
 	officers=
@@ -4308,7 +4245,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 5
+		size= 4
 	}
 
 	officers=
@@ -4329,7 +4266,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 1225
+		size= 1226
 	}
 
 	farmers=
@@ -4366,7 +4303,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 12916
+		size= 12923
 	}
 
 	farmers=
@@ -4425,13 +4362,6 @@
 		size= 102
 	}
 
-	bureaucrats=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 1
-	}
-
 	officers=
 	{
 		culture = central_algonquian
@@ -4443,7 +4373,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 15
+		size= 8
 	}
 
 	officers=
@@ -4501,7 +4431,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 38582
+		size= 38606
 	}
 
 	soldiers=
@@ -4536,7 +4466,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 135
+		size= 111
 	}
 
 	officers=
@@ -4559,7 +4489,7 @@
 	{
 		culture = eastern_algonquian
 		religion = totemism
-		size= 1196
+		size= 1197
 	}
 
 	soldiers=
@@ -4601,7 +4531,7 @@
 	{
 		culture = eastern_algonquian
 		religion = totemism
-		size= 2
+		size= 1
 	}
 
 	officers=
@@ -4636,7 +4566,7 @@
 	{
 		culture = eastern_algonquian
 		religion = catholic
-		size= 14
+		size= 12
 	}
 
 	officers=
@@ -4657,7 +4587,7 @@
 	{
 		culture = eastern_algonquian
 		religion = catholic
-		size= 1849
+		size= 1851
 	}
 
 	soldiers=
@@ -4671,7 +4601,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 3387
+		size= 3389
 	}
 
 	farmers=
@@ -4741,7 +4671,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 24
+		size= 20
 	}
 
 	officers=
@@ -4762,7 +4692,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 4379
+		size= 4383
 	}
 
 	artisans=
@@ -4790,7 +4720,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 14
+		size= 12
 	}
 
 	officers=
@@ -4869,7 +4799,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 5
+		size= 4
 	}
 
 	officers=
@@ -4883,7 +4813,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 2051
+		size= 2052
 	}
 
 	farmers=
@@ -4932,7 +4862,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 50
+		size= 1033
 	}
 
 	artisans=
@@ -4953,7 +4883,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 5
+		size= 4
 	}
 
 	officers=
@@ -4974,7 +4904,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 2273
+		size= 1291
 	}
 
 }
@@ -4990,7 +4920,7 @@
 	{
 		culture = eastern_algonquian
 		religion = totemism
-		size= 3506
+		size= 3507
 	}
 
 	artisans=
@@ -5039,7 +4969,7 @@
 	{
 		culture = eastern_algonquian
 		religion = protestant
-		size= 6
+		size= 5
 	}
 
 	aristocrats=
@@ -5053,7 +4983,7 @@
 	{
 		culture = eastern_algonquian
 		religion = protestant
-		size= 3624
+		size= 3625
 	}
 
 	soldiers=
@@ -5081,7 +5011,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 59
+		size= 47
 	}
 
 	officers=
@@ -5102,7 +5032,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 18316
+		size= 18328
 	}
 
 	farmers=
@@ -5147,13 +5077,6 @@
 		size= 1
 	}
 
-	bureaucrats=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 1
-	}
-
 	officers=
 	{
 		culture = eastern_algonquian
@@ -5181,7 +5104,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 5215
+		size= 6102
 	}
 
 	artisans=
@@ -5209,14 +5132,14 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 1033
+		size= 150
 	}
 
 	bureaucrats=
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 16
+		size= 12
 	}
 
 	officers=
@@ -5253,7 +5176,7 @@
 	{
 		culture = vinlander
 		religion = catholic
-		size= 2790
+		size= 2791
 	}
 
 	artisans=
@@ -5309,7 +5232,7 @@
 	{
 		culture = vinlander
 		religion = protestant
-		size= 24
+		size= 21
 	}
 
 	aristocrats=
@@ -5323,14 +5246,14 @@
 	{
 		culture = vinlander
 		religion = protestant
-		size= 2372
+		size= 2375
 	}
 
 	bureaucrats=
 	{
 		culture = vinlander
 		religion = catholic
-		size= 6
+		size= 5
 	}
 
 	officers=
@@ -5374,7 +5297,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 14984
+		size= 14994
 	}
 
 	slaves=
@@ -5409,7 +5332,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 40
+		size= 29
 	}
 
 	officers=
@@ -5509,7 +5432,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 4133
+		size= 1033
 	}
 
 	artisans=
@@ -5530,7 +5453,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 24
+		size= 19
 	}
 
 	officers=
@@ -5551,7 +5474,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 4006
+		size= 7111
 	}
 
 	farmers=
@@ -5637,7 +5560,7 @@
 	{
 		culture = vinlander
 		religion = catholic
-		size= 370
+		size= 371
 	}
 
 	artisans=
@@ -5659,13 +5582,6 @@
 		culture = vinlander
 		religion = catholic
 		size= 2
-	}
-
-	bureaucrats=
-	{
-		culture = vinlander
-		religion = catholic
-		size= 1
 	}
 
 	aristocrats=
@@ -5742,7 +5658,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 17
+		size= 15
 	}
 
 	officers=
@@ -5763,7 +5679,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 2529
+		size= 2531
 	}
 
 }
@@ -5891,7 +5807,7 @@
 	{
 		culture = iroquoian
 		religion = protestant
-		size= 2
+		size= 1
 	}
 
 	officers=
@@ -5912,7 +5828,7 @@
 	{
 		culture = iroquoian
 		religion = protestant
-		size= 95
+		size= 96
 	}
 
 	soldiers=
@@ -5940,7 +5856,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 30
+		size= 24
 	}
 
 	officers=
@@ -5961,7 +5877,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 8296
+		size= 8302
 	}
 
 }
@@ -6054,7 +5970,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -6075,7 +5991,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 1535
+		size= 1536
 	}
 
 	farmers=
@@ -6138,7 +6054,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 7
+		size= 5
 	}
 
 	officers=
@@ -6159,7 +6075,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 1663
+		size= 1665
 	}
 
 }
@@ -6231,7 +6147,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 2
+		size= 1
 	}
 
 	officers=
@@ -6252,7 +6168,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 689
+		size= 690
 	}
 
 }
@@ -6340,7 +6256,7 @@
 	{
 		culture = cree
 		religion = totemism
-		size= 769
+		size= 770
 	}
 
 	artisans=
@@ -6375,7 +6291,7 @@
 	{
 		culture = cree
 		religion = totemism
-		size= 2
+		size= 1
 	}
 
 	officers=
@@ -6429,13 +6345,6 @@
 		size= 5
 	}
 
-	bureaucrats=
-	{
-		culture = nieuwereld
-		religion = protestant
-		size= 2
-	}
-
 	officers=
 	{
 		culture = nieuwereld
@@ -6454,7 +6363,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 584
+		size= 585
 	}
 
 	farmers=
@@ -6462,6 +6371,13 @@
 		culture = siouan
 		religion = totemism
 		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = nieuwereld
+		religion = protestant
+		size= 1
 	}
 
 }
@@ -6874,7 +6790,7 @@
 	{
 		culture = cree
 		religion = totemism
-		size= 755
+		size= 756
 	}
 
 	artisans=
@@ -6909,7 +6825,7 @@
 	{
 		culture = cree
 		religion = totemism
-		size= 2
+		size= 1
 	}
 
 	officers=

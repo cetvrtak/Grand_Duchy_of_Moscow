@@ -31,14 +31,14 @@
 	{
 		culture = caribeno
 		religion = catholic
-		size= 7233
+		size= 13433
 	}
 
 	farmers=
 	{
 		culture = caribeno
 		religion = catholic
-		size= 27312
+		size= 21132
 	}
 
 	artisans=
@@ -66,7 +66,7 @@
 	{
 		culture = caribeno
 		religion = catholic
-		size= 162
+		size= 140
 	}
 
 	officers=
@@ -101,7 +101,7 @@
 	{
 		culture = mexican
 		religion = catholic
-		size= 272
+		size= 237
 	}
 
 	officers=
@@ -122,7 +122,7 @@
 	{
 		culture = mexican
 		religion = catholic
-		size= 1809
+		size= 1844
 	}
 
 }
@@ -159,7 +159,7 @@
 	{
 		culture = caribeno
 		religion = catholic
-		size= 15628
+		size= 15637
 	}
 
 	soldiers=
@@ -194,7 +194,7 @@
 	{
 		culture = caribeno
 		religion = catholic
-		size= 56
+		size= 46
 	}
 
 	officers=
@@ -229,7 +229,7 @@
 	{
 		culture = mexican
 		religion = catholic
-		size= 93
+		size= 77
 	}
 
 	officers=
@@ -250,7 +250,7 @@
 	{
 		culture = mexican
 		religion = catholic
-		size= 1832
+		size= 1848
 	}
 
 }

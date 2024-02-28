@@ -3,7 +3,7 @@
 	{
 		culture = estonian
 		religion = orthodox
-		size= 1033
+		size= 788
 	}
 
 	artisans=
@@ -24,7 +24,7 @@
 	{
 		culture = estonian
 		religion = orthodox
-		size= 80
+		size= 58
 	}
 
 	officers=
@@ -45,7 +45,7 @@
 	{
 		culture = estonian
 		religion = orthodox
-		size= 40376
+		size= 40643
 	}
 
 	aristocrats=
@@ -110,7 +110,7 @@
 	{
 		culture = estonian
 		religion = orthodox
-		size= 66
+		size= 43
 	}
 
 	officers=
@@ -131,7 +131,7 @@
 	{
 		culture = estonian
 		religion = orthodox
-		size= 41321
+		size= 41344
 	}
 
 }
@@ -161,7 +161,7 @@
 	{
 		culture = estonian
 		religion = orthodox
-		size= 44
+		size= 32
 	}
 
 	officers=
@@ -182,7 +182,7 @@
 	{
 		culture = estonian
 		religion = orthodox
-		size= 22233
+		size= 22245
 	}
 
 }
@@ -212,7 +212,7 @@
 	{
 		culture = estonian
 		religion = orthodox
-		size= 56
+		size= 36
 	}
 
 	officers=
@@ -233,7 +233,7 @@
 	{
 		culture = estonian
 		religion = orthodox
-		size= 35154
+		size= 35174
 	}
 
 }
@@ -242,7 +242,7 @@
 	{
 		culture = estonian
 		religion = orthodox
-		size= 1033
+		size= 81
 	}
 
 	artisans=
@@ -263,7 +263,7 @@
 	{
 		culture = estonian
 		religion = orthodox
-		size= 7
+		size= 5
 	}
 
 	officers=
@@ -284,7 +284,7 @@
 	{
 		culture = estonian
 		religion = orthodox
-		size= 2593
+		size= 3547
 	}
 
 }

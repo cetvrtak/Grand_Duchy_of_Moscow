@@ -75,7 +75,7 @@
 	{
 		culture = fulbe
 		religion = sunni
-		size= 83
+		size= 62
 	}
 
 	officers=
@@ -96,7 +96,7 @@
 	{
 		culture = fulbe
 		religion = sunni
-		size= 67719
+		size= 67740
 	}
 
 	slaves=
@@ -131,7 +131,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 203
+		size= 152
 	}
 
 	officers=
@@ -152,7 +152,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 38024
+		size= 38075
 	}
 
 }
@@ -189,7 +189,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 180
+		size= 142
 	}
 
 	officers=
@@ -210,7 +210,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 56054
+		size= 56092
 	}
 
 }
@@ -247,7 +247,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 156
+		size= 124
 	}
 
 	officers=
@@ -268,7 +268,7 @@
 	{
 		culture = mande
 		religion = sunni
-		size= 52935
+		size= 52967
 	}
 
 }

@@ -516,14 +516,14 @@ army = {
 		home=367
 	}
 	regiment = {
-		name="1st Aarhus Infantry"
+		name="1st Ribe Infantry"
 		type=infantry
-		home=366
+		home=368
 	}
 	regiment = {
-		name="1st Odense Infantry"
+		name="1st Copenhagen Infantry"
 		type=infantry
-		home=373
+		home=372
 	}
 	regiment = {
 		name="1st Odense Cavalry"
@@ -531,19 +531,19 @@ army = {
 		home=373
 	}
 	regiment = {
-		name="1st Esbjerg Artillery"
+		name="1st Copenhagen Artillery"
 		type=artillery
-		home=2557
+		home=372
 	}
 	regiment = {
-		name="1st Flensburg Artillery"
+		name="2nd Copenhagen Artillery"
 		type=artillery
-		home=370
+		home=372
 	}
 	regiment = {
-		name="2nd Aalborg Infantry"
+		name="1st Aarhus Infantry"
 		type=infantry
-		home=367
+		home=366
 	}
 	regiment = {
 		name="1st Copenhagen Cavalry"
@@ -551,15 +551,15 @@ army = {
 		home=372
 	}
 	regiment = {
-		name="1st Copenhagen Artillery"
+		name="1st Aalborg Artillery"
 		type=artillery
-		home=372
+		home=367
 	}
 }
 
 navy = {
 	name="1st Fleet"
-	location=2727
+	location=2738
 	ship = {
 		name="Najaden"
 		type=frigate
@@ -610,23 +610,23 @@ navy = {
 		type=manowar
 	}
 	ship = {
+		name="1st Buenaventura Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Gävle Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
 		name="1st Aabenraa Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Balearic Islands Clipper Transport"
+		name="2nd Buenaventura Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Copenhagen Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Norrköping Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Danish Clipper Transport"
+		name="2nd Gävle Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -634,7 +634,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="2nd Danish Clipper Transport"
+		name="1st Copenhagen Clipper Transport"
 		type=clipper_transport
 	}
 }

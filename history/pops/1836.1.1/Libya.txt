@@ -10,7 +10,7 @@
 	{
 		culture = berber
 		religion = shiite
-		size= 5518
+		size= 7233
 	}
 
 	artisans=
@@ -31,7 +31,7 @@
 	{
 		culture = berber
 		religion = shiite
-		size= 197
+		size= 148
 	}
 
 	officers=
@@ -52,7 +52,7 @@
 	{
 		culture = berber
 		religion = shiite
-		size= 80744
+		size= 79078
 	}
 
 	clergymen=
@@ -82,7 +82,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 4133
+		size= 535
 	}
 
 	artisans=
@@ -103,7 +103,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 19
+		size= 14
 	}
 
 	officers=
@@ -124,7 +124,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 2955
+		size= 6558
 	}
 
 }
@@ -161,7 +161,7 @@
 	{
 		culture = berber
 		religion = shiite
-		size= 45
+		size= 34
 	}
 
 	officers=
@@ -182,7 +182,7 @@
 	{
 		culture = berber
 		religion = shiite
-		size= 14536
+		size= 14547
 	}
 
 	clergymen=
@@ -233,7 +233,7 @@
 	{
 		culture = berber
 		religion = shiite
-		size= 47
+		size= 36
 	}
 
 	officers=
@@ -254,7 +254,7 @@
 	{
 		culture = berber
 		religion = shiite
-		size= 17048
+		size= 17059
 	}
 
 }
@@ -663,7 +663,7 @@
 	{
 		culture = berber
 		religion = shiite
-		size= 8
+		size= 6
 	}
 
 	officers=
@@ -684,7 +684,7 @@
 	{
 		culture = berber
 		religion = shiite
-		size= 3311
+		size= 3313
 	}
 
 }
@@ -721,7 +721,7 @@
 	{
 		culture = berber
 		religion = shiite
-		size= 7
+		size= 5
 	}
 
 	officers=
@@ -742,7 +742,7 @@
 	{
 		culture = berber
 		religion = shiite
-		size= 2221
+		size= 2223
 	}
 
 }
@@ -914,7 +914,7 @@
 	{
 		culture = sudanese
 		religion = sunni
-		size= 16
+		size= 12
 	}
 
 	officers=
@@ -935,7 +935,7 @@
 	{
 		culture = sudanese
 		religion = sunni
-		size= 4253
+		size= 4257
 	}
 
 }

@@ -6,13 +6,6 @@
 		size= 9124
 	}
 
-	craftsmen=
-	{
-		culture = wallonian
-		religion = catholic
-		size= 8170
-	}
-
 	artisans=
 	{
 		culture = wallonian
@@ -27,18 +20,11 @@
 		size= 1059
 	}
 
-	clerks=
-	{
-		culture = wallonian
-		religion = catholic
-		size= 493
-	}
-
 	bureaucrats=
 	{
 		culture = wallonian
 		religion = catholic
-		size= 326
+		size= 244
 	}
 
 	officers=
@@ -46,13 +32,6 @@
 		culture = wallonian
 		religion = catholic
 		size= 261
-	}
-
-	capitalists=
-	{
-		culture = wallonian
-		religion = catholic
-		size= 250
 	}
 
 	aristocrats=
@@ -66,7 +45,7 @@
 	{
 		culture = wallonian
 		religion = catholic
-		size= 118383
+		size= 127378
 	}
 
 }
@@ -96,7 +75,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 242
+		size= 191
 	}
 
 	officers=
@@ -117,7 +96,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 88758
+		size= 88809
 	}
 
 }
@@ -147,7 +126,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 169
+		size= 133
 	}
 
 	officers=
@@ -168,7 +147,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 46558
+		size= 46594
 	}
 
 	soldiers=
@@ -196,7 +175,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 76
+		size= 60
 	}
 
 	officers=
@@ -217,7 +196,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 33109
+		size= 33125
 	}
 
 }
@@ -247,7 +226,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 217
+		size= 171
 	}
 
 	officers=
@@ -268,7 +247,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 68916
+		size= 68962
 	}
 
 	soldiers=
@@ -296,7 +275,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 100
+		size= 79
 	}
 
 	officers=
@@ -317,7 +296,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 47920
+		size= 47941
 	}
 
 }
@@ -347,7 +326,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 319
+		size= 253
 	}
 
 	officers=
@@ -368,7 +347,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 117194
+		size= 117260
 	}
 
 }
@@ -398,7 +377,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 156
+		size= 124
 	}
 
 	officers=
@@ -419,7 +398,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 57680
+		size= 57712
 	}
 
 	soldiers=
@@ -447,7 +426,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 22
+		size= 17
 	}
 
 	officers=
@@ -468,7 +447,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 260
+		size= 265
 	}
 
 }
@@ -498,7 +477,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 168
+		size= 133
 	}
 
 	officers=
@@ -519,7 +498,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 71494
+		size= 71529
 	}
 
 	soldiers=
@@ -547,7 +526,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 60
+		size= 48
 	}
 
 	officers=
@@ -568,7 +547,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 7913
+		size= 7925
 	}
 
 }
@@ -598,7 +577,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 129
+		size= 97
 	}
 
 	officers=
@@ -619,7 +598,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 50459
+		size= 50491
 	}
 
 }
@@ -649,7 +628,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 208
+		size= 156
 	}
 
 	officers=
@@ -670,7 +649,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 85169
+		size= 85221
 	}
 
 }
@@ -700,7 +679,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 211
+		size= 167
 	}
 
 	officers=
@@ -721,7 +700,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 77625
+		size= 77669
 	}
 
 }
@@ -731,13 +710,6 @@
 		culture = north_german
 		religion = catholic
 		size= 3452
-	}
-
-	craftsmen=
-	{
-		culture = north_german
-		religion = catholic
-		size= 4730
 	}
 
 	artisans=
@@ -754,18 +726,11 @@
 		size= 482
 	}
 
-	clerks=
-	{
-		culture = north_german
-		religion = catholic
-		size= 126
-	}
-
 	bureaucrats=
 	{
 		culture = north_german
 		religion = catholic
-		size= 122
+		size= 104
 	}
 
 	officers=
@@ -773,13 +738,6 @@
 		culture = north_german
 		religion = catholic
 		size= 56
-	}
-
-	capitalists=
-	{
-		culture = north_german
-		religion = catholic
-		size= 23
 	}
 
 	aristocrats=
@@ -793,7 +751,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 64234
+		size= 68879
 	}
 
 	soldiers=
@@ -801,13 +759,6 @@
 		culture = north_german
 		religion = protestant
 		size= 2512
-	}
-
-	craftsmen=
-	{
-		culture = north_german
-		religion = protestant
-		size= 3442
 	}
 
 	artisans=
@@ -824,18 +775,11 @@
 		size= 1397
 	}
 
-	clerks=
-	{
-		culture = north_german
-		religion = protestant
-		size= 367
-	}
-
 	bureaucrats=
 	{
 		culture = north_german
 		religion = protestant
-		size= 353
+		size= 304
 	}
 
 	officers=
@@ -843,13 +787,6 @@
 		culture = north_german
 		religion = protestant
 		size= 161
-	}
-
-	capitalists=
-	{
-		culture = north_german
-		religion = protestant
-		size= 65
 	}
 
 	aristocrats=
@@ -863,7 +800,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 32637
+		size= 36399
 	}
 
 }
@@ -893,7 +830,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 80
+		size= 70
 	}
 
 	officers=
@@ -914,7 +851,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 43494
+		size= 43504
 	}
 
 	soldiers=
@@ -942,7 +879,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 115
+		size= 100
 	}
 
 	officers=
@@ -963,7 +900,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 1565
+		size= 1566
 	}
 
 	soldiers=
@@ -991,7 +928,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 51
+		size= 44
 	}
 
 	officers=
@@ -1012,7 +949,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 24485
+		size= 24492
 	}
 
 	soldiers=
@@ -1040,7 +977,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 157
+		size= 136
 	}
 
 	officers=
@@ -1061,7 +998,7 @@
 	{
 		culture = south_german
 		religion = protestant
-		size= 20854
+		size= 20875
 	}
 
 }
@@ -1091,7 +1028,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 42
+		size= 36
 	}
 
 	officers=
@@ -1112,7 +1049,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 42200
+		size= 42206
 	}
 
 	soldiers=
@@ -1140,7 +1077,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 300
+		size= 258
 	}
 
 	officers=
@@ -1161,7 +1098,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 31453
+		size= 31495
 	}
 
 }
@@ -1191,7 +1128,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 53
+		size= 46
 	}
 
 	officers=
@@ -1212,7 +1149,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 53595
+		size= 53603
 	}
 
 	soldiers=
@@ -1240,7 +1177,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 378
+		size= 326
 	}
 
 	officers=
@@ -1261,7 +1198,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 39148
+		size= 39199
 	}
 
 }
@@ -1291,7 +1228,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 55
+		size= 48
 	}
 
 	officers=
@@ -1312,7 +1249,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 26479
+		size= 26486
 	}
 
 	soldiers=
@@ -1340,7 +1277,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 176
+		size= 152
 	}
 
 	officers=
@@ -1361,7 +1298,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 22902
+		size= 22926
 	}
 
 }
@@ -1391,7 +1328,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 39
+		size= 34
 	}
 
 	officers=
@@ -1412,7 +1349,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 39590
+		size= 39595
 	}
 
 	soldiers=
@@ -1440,7 +1377,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 280
+		size= 241
 	}
 
 	officers=
@@ -1461,7 +1398,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 29507
+		size= 29546
 	}
 
 }
@@ -1471,13 +1408,6 @@
 		culture = french
 		religion = catholic
 		size= 6035
-	}
-
-	craftsmen=
-	{
-		culture = french
-		religion = catholic
-		size= 4805
 	}
 
 	artisans=
@@ -1494,18 +1424,11 @@
 		size= 812
 	}
 
-	clerks=
-	{
-		culture = french
-		religion = catholic
-		size= 336
-	}
-
 	bureaucrats=
 	{
 		culture = french
 		religion = catholic
-		size= 300
+		size= 237
 	}
 
 	officers=
@@ -1513,13 +1436,6 @@
 		culture = french
 		religion = catholic
 		size= 200
-	}
-
-	capitalists=
-	{
-		culture = french
-		religion = catholic
-		size= 170
 	}
 
 	aristocrats=
@@ -1533,7 +1449,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 82290
+		size= 87664
 	}
 
 	soldiers=
@@ -1541,13 +1457,6 @@
 		culture = french
 		religion = protestant
 		size= 4225
-	}
-
-	craftsmen=
-	{
-		culture = french
-		religion = protestant
-		size= 3365
 	}
 
 	artisans=
@@ -1564,18 +1473,11 @@
 		size= 379
 	}
 
-	clerks=
-	{
-		culture = french
-		religion = protestant
-		size= 157
-	}
-
 	bureaucrats=
 	{
 		culture = french
 		religion = protestant
-		size= 140
+		size= 111
 	}
 
 	officers=
@@ -1583,13 +1485,6 @@
 		culture = french
 		religion = protestant
 		size= 93
-	}
-
-	capitalists=
-	{
-		culture = french
-		religion = protestant
-		size= 79
 	}
 
 	aristocrats=
@@ -1603,7 +1498,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 61038
+		size= 64668
 	}
 
 }
@@ -1633,7 +1528,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 177
+		size= 140
 	}
 
 	officers=
@@ -1654,7 +1549,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 51846
+		size= 51883
 	}
 
 	soldiers=
@@ -1682,7 +1577,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 83
+		size= 66
 	}
 
 	officers=
@@ -1703,7 +1598,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 38257
+		size= 38274
 	}
 
 }
@@ -1712,7 +1607,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 13433
+		size= 7233
 	}
 
 	artisans=
@@ -1733,7 +1628,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 221
+		size= 166
 	}
 
 	officers=
@@ -1754,7 +1649,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 83968
+		size= 90223
 	}
 
 }
@@ -1763,7 +1658,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 10333
+		size= 16533
 	}
 
 	artisans=
@@ -1784,7 +1679,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 354
+		size= 266
 	}
 
 	officers=
@@ -1805,7 +1700,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 146597
+		size= 140485
 	}
 
 }
@@ -1835,7 +1730,7 @@
 	{
 		culture = breton
 		religion = catholic
-		size= 344
+		size= 273
 	}
 
 	officers=
@@ -1856,7 +1751,7 @@
 	{
 		culture = breton
 		religion = catholic
-		size= 119870
+		size= 119941
 	}
 
 }
@@ -1886,7 +1781,7 @@
 	{
 		culture = breton
 		religion = catholic
-		size= 372
+		size= 295
 	}
 
 	officers=
@@ -1907,7 +1802,7 @@
 	{
 		culture = breton
 		religion = catholic
-		size= 121691
+		size= 121768
 	}
 
 }
@@ -1916,7 +1811,7 @@
 	{
 		culture = breton
 		religion = catholic
-		size= 4133
+		size= 1256
 	}
 
 	artisans=
@@ -1937,7 +1832,7 @@
 	{
 		culture = breton
 		religion = catholic
-		size= 176
+		size= 139
 	}
 
 	officers=
@@ -1958,7 +1853,7 @@
 	{
 		culture = breton
 		religion = catholic
-		size= 54412
+		size= 57326
 	}
 
 	soldiers=
@@ -1986,7 +1881,7 @@
 	{
 		culture = breton
 		religion = protestant
-		size= 82
+		size= 65
 	}
 
 	officers=
@@ -2007,7 +1902,7 @@
 	{
 		culture = breton
 		religion = protestant
-		size= 41788
+		size= 41805
 	}
 
 }
@@ -2037,7 +1932,7 @@
 	{
 		culture = breton
 		religion = catholic
-		size= 108
+		size= 85
 	}
 
 	officers=
@@ -2058,7 +1953,7 @@
 	{
 		culture = breton
 		religion = catholic
-		size= 32177
+		size= 32200
 	}
 
 	soldiers=
@@ -2086,7 +1981,7 @@
 	{
 		culture = breton
 		religion = protestant
-		size= 49
+		size= 39
 	}
 
 	officers=
@@ -2107,7 +2002,7 @@
 	{
 		culture = breton
 		religion = protestant
-		size= 22096
+		size= 22106
 	}
 
 }
@@ -2137,7 +2032,7 @@
 	{
 		culture = breton
 		religion = catholic
-		size= 339
+		size= 268
 	}
 
 	officers=
@@ -2158,7 +2053,7 @@
 	{
 		culture = breton
 		religion = catholic
-		size= 110946
+		size= 111017
 	}
 
 }
@@ -2188,7 +2083,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 821
+		size= 650
 	}
 
 	officers=
@@ -2209,7 +2104,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 259809
+		size= 259980
 	}
 
 	aristocrats=
@@ -2281,7 +2176,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 207
+		size= 155
 	}
 
 	officers=
@@ -2302,7 +2197,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 84966
+		size= 85018
 	}
 
 }
@@ -2332,7 +2227,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 277
+		size= 219
 	}
 
 	officers=
@@ -2353,7 +2248,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 90331
+		size= 90389
 	}
 
 }
@@ -2383,7 +2278,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 233
+		size= 184
 	}
 
 	officers=
@@ -2404,7 +2299,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 80681
+		size= 80730
 	}
 
 }
@@ -2434,7 +2329,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 215
+		size= 171
 	}
 
 	officers=
@@ -2455,7 +2350,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 77528
+		size= 77572
 	}
 
 }
@@ -2485,7 +2380,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 200
+		size= 158
 	}
 
 	officers=
@@ -2506,7 +2401,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 64539
+		size= 64581
 	}
 
 	soldiers=
@@ -2534,7 +2429,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 165
+		size= 130
 	}
 
 	officers=
@@ -2555,7 +2450,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 53148
+		size= 53183
 	}
 
 }
@@ -2585,7 +2480,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 325
+		size= 257
 	}
 
 	officers=
@@ -2606,7 +2501,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 119891
+		size= 119959
 	}
 
 }
@@ -2636,7 +2531,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 25
+		size= 20
 	}
 
 	officers=
@@ -2657,14 +2552,14 @@
 	{
 		culture = french
 		religion = catholic
-		size= 65682
+		size= 65687
 	}
 
 	soldiers=
 	{
 		culture = swiss
 		religion = catholic
-		size= 4485
+		size= 10333
 	}
 
 	artisans=
@@ -2685,7 +2580,7 @@
 	{
 		culture = swiss
 		religion = catholic
-		size= 357
+		size= 293
 	}
 
 	officers=
@@ -2706,7 +2601,7 @@
 	{
 		culture = swiss
 		religion = catholic
-		size= 54429
+		size= 48645
 	}
 
 	soldiers=
@@ -2734,7 +2629,7 @@
 	{
 		culture = swiss
 		religion = protestant
-		size= 61
+		size= 50
 	}
 
 	officers=
@@ -2755,7 +2650,7 @@
 	{
 		culture = swiss
 		religion = protestant
-		size= 3075
+		size= 3086
 	}
 
 }
@@ -2785,7 +2680,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 17
+		size= 14
 	}
 
 	officers=
@@ -2806,7 +2701,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 34403
+		size= 34406
 	}
 
 	soldiers=
@@ -2834,7 +2729,7 @@
 	{
 		culture = swiss
 		religion = catholic
-		size= 241
+		size= 208
 	}
 
 	officers=
@@ -2855,7 +2750,7 @@
 	{
 		culture = swiss
 		religion = catholic
-		size= 28303
+		size= 28336
 	}
 
 	soldiers=
@@ -2883,7 +2778,7 @@
 	{
 		culture = swiss
 		religion = protestant
-		size= 42
+		size= 36
 	}
 
 	officers=
@@ -2904,7 +2799,7 @@
 	{
 		culture = swiss
 		religion = protestant
-		size= 1574
+		size= 1580
 	}
 
 }
@@ -2914,13 +2809,6 @@
 		culture = french
 		religion = catholic
 		size= 3266
-	}
-
-	craftsmen=
-	{
-		culture = french
-		religion = catholic
-		size= 4925
 	}
 
 	artisans=
@@ -2937,18 +2825,11 @@
 		size= 433
 	}
 
-	clerks=
-	{
-		culture = french
-		religion = catholic
-		size= 340
-	}
-
 	bureaucrats=
 	{
 		culture = french
 		religion = catholic
-		size= 160
+		size= 127
 	}
 
 	officers=
@@ -2956,13 +2837,6 @@
 		culture = french
 		religion = catholic
 		size= 106
-	}
-
-	capitalists=
-	{
-		culture = french
-		religion = catholic
-		size= 172
 	}
 
 	aristocrats=
@@ -2976,7 +2850,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 39036
+		size= 44506
 	}
 
 	soldiers=
@@ -2984,13 +2858,6 @@
 		culture = french
 		religion = protestant
 		size= 2153
-	}
-
-	craftsmen=
-	{
-		culture = french
-		religion = protestant
-		size= 3245
 	}
 
 	artisans=
@@ -3007,18 +2874,11 @@
 		size= 196
 	}
 
-	clerks=
-	{
-		culture = french
-		religion = protestant
-		size= 153
-	}
-
 	bureaucrats=
 	{
 		culture = french
 		religion = protestant
-		size= 72
+		size= 57
 	}
 
 	officers=
@@ -3026,13 +2886,6 @@
 		culture = french
 		religion = protestant
 		size= 48
-	}
-
-	capitalists=
-	{
-		culture = french
-		religion = protestant
-		size= 78
 	}
 
 	aristocrats=
@@ -3046,7 +2899,7 @@
 	{
 		culture = french
 		religion = protestant
-		size= 28025
+		size= 31516
 	}
 
 }
@@ -3076,7 +2929,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 182
+		size= 136
 	}
 
 	officers=
@@ -3097,7 +2950,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 71438
+		size= 71484
 	}
 
 }
@@ -3127,7 +2980,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 236
+		size= 177
 	}
 
 	officers=
@@ -3148,7 +3001,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 92591
+		size= 92650
 	}
 
 }
@@ -3178,7 +3031,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 168
+		size= 126
 	}
 
 	officers=
@@ -3199,7 +3052,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 77358
+		size= 77400
 	}
 
 }
@@ -3229,7 +3082,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 189
+		size= 149
 	}
 
 	officers=
@@ -3250,7 +3103,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 69258
+		size= 69298
 	}
 
 }
@@ -3280,7 +3133,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 161
+		size= 127
 	}
 
 	officers=
@@ -3301,7 +3154,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 55386
+		size= 55420
 	}
 
 }
@@ -3331,7 +3184,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 144
+		size= 114
 	}
 
 	officers=
@@ -3352,7 +3205,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 51752
+		size= 51782
 	}
 
 }
@@ -3382,7 +3235,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 213
+		size= 175
 	}
 
 	officers=
@@ -3403,7 +3256,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 63368
+		size= 63406
 	}
 
 }
@@ -3433,7 +3286,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 216
+		size= 162
 	}
 
 	officers=
@@ -3454,7 +3307,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 93140
+		size= 93194
 	}
 
 }
@@ -3484,7 +3337,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 175
+		size= 138
 	}
 
 	officers=
@@ -3505,7 +3358,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 60249
+		size= 60286
 	}
 
 }
@@ -3535,7 +3388,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 210
+		size= 167
 	}
 
 	officers=
@@ -3556,7 +3409,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 73376
+		size= 73419
 	}
 
 }
@@ -3586,7 +3439,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 141
+		size= 106
 	}
 
 	officers=
@@ -3607,7 +3460,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 58361
+		size= 58396
 	}
 
 }
@@ -3637,7 +3490,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 318
+		size= 252
 	}
 
 	officers=
@@ -3658,7 +3511,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 109438
+		size= 109504
 	}
 
 }
@@ -3688,7 +3541,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 179
+		size= 135
 	}
 
 	officers=
@@ -3709,7 +3562,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 66709
+		size= 66753
 	}
 
 	soldiers=
@@ -3737,7 +3590,7 @@
 	{
 		culture = occitan
 		religion = protestant
-		size= 79
+		size= 60
 	}
 
 	officers=
@@ -3758,7 +3611,7 @@
 	{
 		culture = occitan
 		religion = protestant
-		size= 45045
+		size= 45064
 	}
 
 }
@@ -3768,13 +3621,6 @@
 		culture = occitan
 		religion = catholic
 		size= 10398
-	}
-
-	craftsmen=
-	{
-		culture = occitan
-		religion = catholic
-		size= 8170
 	}
 
 	artisans=
@@ -3791,18 +3637,11 @@
 		size= 913
 	}
 
-	clerks=
-	{
-		culture = occitan
-		religion = catholic
-		size= 493
-	}
-
 	bureaucrats=
 	{
 		culture = occitan
 		religion = catholic
-		size= 337
+		size= 267
 	}
 
 	officers=
@@ -3810,13 +3649,6 @@
 		culture = occitan
 		religion = catholic
 		size= 281
-	}
-
-	capitalists=
-	{
-		culture = occitan
-		religion = catholic
-		size= 250
 	}
 
 	aristocrats=
@@ -3830,7 +3662,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 98624
+		size= 107607
 	}
 
 }
@@ -3860,7 +3692,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 256
+		size= 203
 	}
 
 	officers=
@@ -3881,7 +3713,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 81671
+		size= 81724
 	}
 
 }
@@ -3911,7 +3743,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 153
+		size= 115
 	}
 
 	officers=
@@ -3932,7 +3764,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 63281
+		size= 63319
 	}
 
 }
@@ -3962,7 +3794,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 92
+		size= 76
 	}
 
 	officers=
@@ -3983,7 +3815,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 23727
+		size= 23743
 	}
 
 	soldiers=
@@ -4011,7 +3843,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 343
+		size= 282
 	}
 
 	officers=
@@ -4032,7 +3864,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 88123
+		size= 88184
 	}
 
 }
@@ -4062,7 +3894,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 215
+		size= 162
 	}
 
 	officers=
@@ -4083,7 +3915,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 93074
+		size= 93127
 	}
 
 }
@@ -4092,7 +3924,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 4133
+		size= 7233
 	}
 
 	artisans=
@@ -4113,7 +3945,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 304
+		size= 228
 	}
 
 	officers=
@@ -4134,7 +3966,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 130429
+		size= 127405
 	}
 
 }
@@ -4164,7 +3996,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 479
+		size= 387
 	}
 
 	officers=
@@ -4185,7 +4017,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 139955
+		size= 140047
 	}
 
 }
@@ -4194,7 +4026,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 2356
+		size= 7233
 	}
 
 	artisans=
@@ -4215,7 +4047,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 283
+		size= 224
 	}
 
 	officers=
@@ -4236,7 +4068,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 101730
+		size= 96912
 	}
 
 }
@@ -4266,7 +4098,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 282
+		size= 211
 	}
 
 	officers=
@@ -4287,7 +4119,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 116470
+		size= 116541
 	}
 
 }
@@ -4296,7 +4128,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 4133
+		size= 1697
 	}
 
 	artisans=
@@ -4317,7 +4149,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 170
+		size= 127
 	}
 
 	officers=
@@ -4338,7 +4170,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 71578
+		size= 74057
 	}
 
 }
@@ -4368,7 +4200,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 347
+		size= 275
 	}
 
 	officers=
@@ -4389,7 +4221,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 126922
+		size= 126994
 	}
 
 }
@@ -4398,7 +4230,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 13433
+		size= 4133
 	}
 
 	artisans=
@@ -4419,7 +4251,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 282
+		size= 224
 	}
 
 	officers=
@@ -4440,7 +4272,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 111330
+		size= 120688
 	}
 
 	soldiers=
@@ -4468,7 +4300,7 @@
 	{
 		culture = occitan
 		religion = protestant
-		size= 35
+		size= 28
 	}
 
 	officers=
@@ -4512,7 +4344,7 @@
 	{
 		culture = basque
 		religion = catholic
-		size= 55
+		size= 43
 	}
 
 	officers=
@@ -4533,7 +4365,7 @@
 	{
 		culture = basque
 		religion = catholic
-		size= 40885
+		size= 40897
 	}
 
 	soldiers=
@@ -4561,7 +4393,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 211
+		size= 167
 	}
 
 	officers=
@@ -4582,7 +4414,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 37012
+		size= 37056
 	}
 
 }
@@ -4612,7 +4444,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 347
+		size= 274
 	}
 
 	officers=
@@ -4633,7 +4465,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 113420
+		size= 113493
 	}
 
 }
@@ -4663,7 +4495,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 245
+		size= 183
 	}
 
 	officers=
@@ -4684,7 +4516,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 105618
+		size= 105680
 	}
 
 }
@@ -4714,7 +4546,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 137
+		size= 103
 	}
 
 	officers=
@@ -4735,7 +4567,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 56511
+		size= 56545
 	}
 
 }
@@ -4765,7 +4597,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 79
+		size= 60
 	}
 
 	officers=
@@ -4786,7 +4618,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 32864
+		size= 32883
 	}
 
 }
@@ -4795,7 +4627,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 3632
+		size= 4133
 	}
 
 	artisans=
@@ -4816,7 +4648,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 182
+		size= 149
 	}
 
 	officers=
@@ -4837,7 +4669,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 50197
+		size= 49729
 	}
 
 }
@@ -4846,7 +4678,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 3388
+		size= 4133
 	}
 
 	artisans=
@@ -4867,7 +4699,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 169
+		size= 139
 	}
 
 	officers=
@@ -4888,7 +4720,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 46826
+		size= 46111
 	}
 
 }
@@ -4918,7 +4750,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 162
+		size= 117
 	}
 
 	officers=
@@ -4939,7 +4771,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 76179
+		size= 76224
 	}
 
 	soldiers=
@@ -4967,7 +4799,7 @@
 	{
 		culture = occitan
 		religion = protestant
-		size= 22
+		size= 16
 	}
 
 	officers=
@@ -4990,7 +4822,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 7233
+		size= 5421
 	}
 
 	artisans=
@@ -5011,7 +4843,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 89
+		size= 64
 	}
 
 	officers=
@@ -5032,7 +4864,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 42615
+		size= 44452
 	}
 
 	soldiers=
@@ -5060,7 +4892,7 @@
 	{
 		culture = occitan
 		religion = protestant
-		size= 18
+		size= 13
 	}
 
 	officers=
@@ -5104,7 +4936,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 59
+		size= 43
 	}
 
 	officers=
@@ -5125,7 +4957,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 22752
+		size= 22768
 	}
 
 }
@@ -5134,7 +4966,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 3331
+		size= 4133
 	}
 
 	artisans=
@@ -5155,7 +4987,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 107
+		size= 77
 	}
 
 	officers=
@@ -5176,7 +5008,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 45225
+		size= 44453
 	}
 
 }
@@ -5206,7 +5038,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 63
+		size= 45
 	}
 
 	officers=
@@ -5227,7 +5059,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 24394
+		size= 24412
 	}
 
 }
@@ -5257,7 +5089,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 126
+		size= 102
 	}
 
 	officers=
@@ -5278,7 +5110,7 @@
 	{
 		culture = occitan
 		religion = catholic
-		size= 37537
+		size= 37561
 	}
 
 }
@@ -5308,7 +5140,7 @@
 	{
 		culture = south_italian
 		religion = catholic
-		size= 70
+		size= 53
 	}
 
 	officers=
@@ -5329,7 +5161,7 @@
 	{
 		culture = south_italian
 		religion = catholic
-		size= 23578
+		size= 23581
 	}
 
 	soldiers=
@@ -5357,7 +5189,7 @@
 	{
 		culture = south_italian
 		religion = protestant
-		size= 43
+		size= 32
 	}
 
 	officers=
@@ -5378,7 +5210,7 @@
 	{
 		culture = south_italian
 		religion = protestant
-		size= 24374
+		size= 24385
 	}
 
 }
@@ -5408,7 +5240,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 237
+		size= 188
 	}
 
 	officers=
@@ -5429,7 +5261,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 76491
+		size= 76540
 	}
 
 }

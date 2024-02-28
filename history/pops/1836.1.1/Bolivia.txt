@@ -24,7 +24,7 @@
 	{
 		culture = aimara
 		religion = inti
-		size= 30
+		size= 23
 	}
 
 	officers=
@@ -45,7 +45,7 @@
 	{
 		culture = aimara
 		religion = inti
-		size= 22856
+		size= 22863
 	}
 
 	soldiers=
@@ -73,7 +73,7 @@
 	{
 		culture = aimara
 		religion = catholic
-		size= 214
+		size= 169
 	}
 
 	officers=
@@ -94,7 +94,7 @@
 	{
 		culture = aimara
 		religion = catholic
-		size= 65137
+		size= 65182
 	}
 
 }
@@ -124,7 +124,7 @@
 	{
 		culture = south_andean
 		religion = catholic
-		size= 1689
+		size= 1691
 	}
 
 	artisans=
@@ -152,7 +152,7 @@
 	{
 		culture = south_andean
 		religion = catholic
-		size= 27
+		size= 23
 	}
 
 	officers=
@@ -187,7 +187,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 231
+		size= 193
 	}
 
 	officers=
@@ -208,7 +208,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 58031
+		size= 58069
 	}
 
 }
@@ -287,7 +287,7 @@
 	{
 		culture = aimara
 		religion = catholic
-		size= 20
+		size= 16
 	}
 
 	officers=
@@ -308,7 +308,7 @@
 	{
 		culture = aimara
 		religion = catholic
-		size= 6928
+		size= 6932
 	}
 
 }
@@ -338,7 +338,7 @@
 	{
 		culture = aimara
 		religion = inti
-		size= 8
+		size= 7
 	}
 
 	officers=
@@ -359,7 +359,7 @@
 	{
 		culture = aimara
 		religion = inti
-		size= 6470
+		size= 6471
 	}
 
 	soldiers=
@@ -387,7 +387,7 @@
 	{
 		culture = aimara
 		religion = catholic
-		size= 65
+		size= 51
 	}
 
 	officers=
@@ -408,7 +408,7 @@
 	{
 		culture = aimara
 		religion = catholic
-		size= 20167
+		size= 20181
 	}
 
 }
@@ -438,7 +438,7 @@
 	{
 		culture = aimara
 		religion = inti
-		size= 7
+		size= 5
 	}
 
 	officers=
@@ -459,7 +459,7 @@
 	{
 		culture = aimara
 		religion = inti
-		size= 5484
+		size= 5486
 	}
 
 	soldiers=
@@ -487,7 +487,7 @@
 	{
 		culture = aimara
 		religion = catholic
-		size= 61
+		size= 49
 	}
 
 	officers=
@@ -508,7 +508,7 @@
 	{
 		culture = aimara
 		religion = catholic
-		size= 19856
+		size= 19868
 	}
 
 }
@@ -538,7 +538,7 @@
 	{
 		culture = aimara
 		religion = inti
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -559,7 +559,7 @@
 	{
 		culture = aimara
 		religion = inti
-		size= 2942
+		size= 2943
 	}
 
 	soldiers=
@@ -587,7 +587,7 @@
 	{
 		culture = aimara
 		religion = catholic
-		size= 27
+		size= 21
 	}
 
 	officers=
@@ -608,7 +608,7 @@
 	{
 		culture = aimara
 		religion = catholic
-		size= 8768
+		size= 8774
 	}
 
 }
@@ -694,7 +694,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 10
+		size= 9
 	}
 
 	officers=
@@ -715,7 +715,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 2777
+		size= 2778
 	}
 
 }
@@ -794,7 +794,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 13
+		size= 10
 	}
 
 	officers=
@@ -815,7 +815,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 3156
+		size= 3159
 	}
 
 }
@@ -838,7 +838,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 1867
+		size= 1868
 	}
 
 	artisans=
@@ -873,7 +873,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 7
+		size= 6
 	}
 
 	officers=
@@ -903,7 +903,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 13159
+		size= 13167
 	}
 
 	artisans=
@@ -931,7 +931,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 57
+		size= 48
 	}
 
 	soldiers=
@@ -968,7 +968,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 1934
+		size= 1935
 	}
 
 	artisans=
@@ -992,18 +992,18 @@
 		size= 24
 	}
 
-	bureaucrats=
-	{
-		culture = platinean
-		religion = catholic
-		size= 8
-	}
-
 	soldiers=
 	{
 		culture = platinean
 		religion = catholic
 		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 6
 	}
 
 	officers=
@@ -1033,7 +1033,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 4511
+		size= 4514
 	}
 
 	artisans=
@@ -1061,7 +1061,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 19
+		size= 16
 	}
 
 	officers=

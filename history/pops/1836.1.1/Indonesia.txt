@@ -173,7 +173,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 7233
+		size= 10333
 	}
 
 	artisans=
@@ -215,7 +215,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 48335
+		size= 45235
 	}
 
 }
@@ -638,7 +638,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -680,7 +680,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 5631
+		size= 2531
 	}
 
 	farmers=
@@ -1453,7 +1453,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 41333
+		size= 35133
 	}
 
 	artisans=
@@ -1495,7 +1495,7 @@
 	{
 		culture = malay
 		religion = sunni
-		size= 20605
+		size= 26805
 	}
 
 }
@@ -1618,7 +1618,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 2362
+		size= 2363
 	}
 
 	artisans=
@@ -1653,7 +1653,7 @@
 	{
 		culture = english
 		religion = protestant
-		size= 2
+		size= 1
 	}
 
 	officers=
@@ -1688,7 +1688,7 @@
 	{
 		culture = english
 		religion = sunni
-		size= 3
+		size= 2
 	}
 
 	officers=
@@ -1709,7 +1709,7 @@
 	{
 		culture = english
 		religion = sunni
-		size= 1072
+		size= 1073
 	}
 
 	soldiers=
@@ -1737,7 +1737,7 @@
 	{
 		culture = swahili
 		religion = sunni
-		size= 7
+		size= 5
 	}
 
 	officers=
@@ -1758,14 +1758,14 @@
 	{
 		culture = swahili
 		religion = sunni
-		size= 764
+		size= 766
 	}
 
 	farmers=
 	{
 		culture = french
 		religion = catholic
-		size= 2612
+		size= 2614
 	}
 
 	artisans=
@@ -1793,7 +1793,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 8
+		size= 5
 	}
 
 	officers=
@@ -1874,7 +1874,7 @@
 	{
 		culture = javan
 		religion = hindu
-		size= 25833
+		size= 41333
 	}
 
 	artisans=
@@ -1916,7 +1916,7 @@
 	{
 		culture = javan
 		religion = hindu
-		size= 133946
+		size= 118446
 	}
 
 }
@@ -1925,7 +1925,7 @@
 	{
 		culture = javan
 		religion = hindu
-		size= 7233
+		size= 6676
 	}
 
 	artisans=
@@ -1967,7 +1967,7 @@
 	{
 		culture = javan
 		religion = hindu
-		size= 195794
+		size= 196351
 	}
 
 	soldiers=
@@ -2723,7 +2723,7 @@
 	{
 		culture = bornean
 		religion = sunni
-		size= 1033
+		size= 434
 	}
 
 	artisans=
@@ -2765,7 +2765,7 @@
 	{
 		culture = bornean
 		religion = sunni
-		size= 9150
+		size= 9749
 	}
 
 }
@@ -3561,7 +3561,7 @@
 	{
 		culture = bornean
 		religion = hindu
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -3603,7 +3603,7 @@
 	{
 		culture = bornean
 		religion = hindu
-		size= 6204
+		size= 3104
 	}
 
 	slaves=
@@ -3959,7 +3959,7 @@
 	{
 		culture = moluccan
 		religion = hindu
-		size= 7233
+		size= 1172
 	}
 
 	artisans=
@@ -4001,7 +4001,7 @@
 	{
 		culture = moluccan
 		religion = hindu
-		size= 7170
+		size= 13231
 	}
 
 }
@@ -4017,7 +4017,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 4133
+		size= 7233
 	}
 
 	artisans=
@@ -4059,7 +4059,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 8229
+		size= 5129
 	}
 
 	slaves=
@@ -4073,7 +4073,7 @@
 	{
 		culture = moluccan
 		religion = hindu
-		size= 799
+		size= 1033
 	}
 
 	artisans=
@@ -4115,7 +4115,7 @@
 	{
 		culture = moluccan
 		religion = hindu
-		size= 6849
+		size= 6615
 	}
 
 }
@@ -4131,7 +4131,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 22733
+		size= 28933
 	}
 
 	artisans=
@@ -4173,7 +4173,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 30809
+		size= 24609
 	}
 
 }
@@ -4303,7 +4303,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 10333
+		size= 16533
 	}
 
 	artisans=
@@ -4345,7 +4345,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 9781
+		size= 3581
 	}
 
 }
@@ -4403,7 +4403,7 @@
 	{
 		culture = moluccan
 		religion = hindu
-		size= 1033
+		size= 281
 	}
 
 	artisans=
@@ -4445,7 +4445,7 @@
 	{
 		culture = moluccan
 		religion = hindu
-		size= 2629
+		size= 3381
 	}
 
 }
@@ -4503,7 +4503,7 @@
 	{
 		culture = moluccan
 		religion = hindu
-		size= 1033
+		size= 373
 	}
 
 	artisans=
@@ -4545,7 +4545,7 @@
 	{
 		culture = moluccan
 		religion = hindu
-		size= 5078
+		size= 5738
 	}
 
 }
@@ -4640,7 +4640,7 @@
 	{
 		culture = javan
 		religion = animist
-		size= 21
+		size= 18
 	}
 
 	officers=
@@ -4661,7 +4661,7 @@
 	{
 		culture = javan
 		religion = animist
-		size= 26606
+		size= 26609
 	}
 
 	artisans=
@@ -4682,7 +4682,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 129
+		size= 107
 	}
 
 	officers=
@@ -4717,7 +4717,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 18105
+		size= 18123
 	}
 
 }
@@ -4754,7 +4754,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 20040
+		size= 20059
 	}
 
 	aristocrats=
@@ -4782,7 +4782,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 164
+		size= 137
 	}
 
 	officers=
@@ -4826,7 +4826,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 16265
+		size= 16282
 	}
 
 	clergymen=
@@ -4847,7 +4847,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 151
+		size= 128
 	}
 
 	soldiers=
@@ -4870,7 +4870,7 @@
 	{
 		culture = javan
 		religion = animist
-		size= 1033
+		size= 956
 	}
 
 	artisans=
@@ -4912,7 +4912,7 @@
 	{
 		culture = javan
 		religion = animist
-		size= 42957
+		size= 43034
 	}
 
 	soldiers=
@@ -5061,7 +5061,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 13
+		size= 11
 	}
 
 	officers=
@@ -5089,7 +5089,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 2048
+		size= 2050
 	}
 
 }
@@ -5119,7 +5119,7 @@
 	{
 		culture = javan
 		religion = animist
-		size= 4
+		size= 3
 	}
 
 	officers=
@@ -5140,7 +5140,7 @@
 	{
 		culture = javan
 		religion = animist
-		size= 4610
+		size= 4611
 	}
 
 	artisans=
@@ -5161,7 +5161,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 22
+		size= 18
 	}
 
 	officers=
@@ -5189,7 +5189,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 3150
+		size= 3153
 	}
 
 }
@@ -5296,7 +5296,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 14
+		size= 12
 	}
 
 	officers=
@@ -5324,7 +5324,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 2105
+		size= 2107
 	}
 
 }
@@ -5354,7 +5354,7 @@
 	{
 		culture = javan
 		religion = animist
-		size= 8
+		size= 7
 	}
 
 	officers=
@@ -5375,7 +5375,7 @@
 	{
 		culture = javan
 		religion = animist
-		size= 10371
+		size= 10372
 	}
 
 	artisans=
@@ -5396,7 +5396,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 50
+		size= 42
 	}
 
 	officers=
@@ -5424,7 +5424,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 7761
+		size= 7768
 	}
 
 }
@@ -5461,7 +5461,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 62
+		size= 52
 	}
 
 	officers=
@@ -5482,14 +5482,14 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 21829
+		size= 21839
 	}
 
 	farmers=
 	{
 		culture = andalucian
 		religion = sunni
-		size= 2743
+		size= 2746
 	}
 
 	slaves=
@@ -5524,7 +5524,7 @@
 	{
 		culture = andalucian
 		religion = sunni
-		size= 23
+		size= 19
 	}
 
 	officers=
@@ -5554,7 +5554,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 6809
+		size= 6813
 	}
 
 	farmers=
@@ -5624,7 +5624,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 23
+		size= 19
 	}
 
 	officers=
@@ -5734,18 +5734,18 @@
 		size= 10
 	}
 
-	bureaucrats=
-	{
-		culture = spanish
-		religion = catholic
-		size= 4
-	}
-
 	soldiers=
 	{
 		culture = spanish
 		religion = catholic
 		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 2
 	}
 
 	officers=
@@ -5759,7 +5759,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 371
+		size= 372
 	}
 
 }
@@ -5796,7 +5796,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 4369
+		size= 4373
 	}
 
 	clergymen=
@@ -5817,7 +5817,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 37
+		size= 31
 	}
 
 	officers=
@@ -5861,7 +5861,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 10
+		size= 9
 	}
 
 	officers=
@@ -5882,7 +5882,7 @@
 	{
 		culture = moluccan
 		religion = animist
-		size= 3921
+		size= 3922
 	}
 
 	artisans=
@@ -5903,7 +5903,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 7
+		size= 6
 	}
 
 	officers=
@@ -5931,7 +5931,7 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 1001
+		size= 1002
 	}
 
 }
@@ -5961,7 +5961,7 @@
 	{
 		culture = melanesian
 		religion = animist
-		size= 22
+		size= 18
 	}
 
 	officers=
@@ -5982,7 +5982,7 @@
 	{
 		culture = melanesian
 		religion = animist
-		size= 6558
+		size= 6562
 	}
 
 }
@@ -6012,7 +6012,7 @@
 	{
 		culture = melanesian
 		religion = animist
-		size= 58
+		size= 48
 	}
 
 	officers=
@@ -6033,7 +6033,7 @@
 	{
 		culture = melanesian
 		religion = animist
-		size= 17898
+		size= 17908
 	}
 
 }
@@ -6070,7 +6070,7 @@
 	{
 		culture = melanesian
 		religion = animist
-		size= 100
+		size= 84
 	}
 
 	officers=
@@ -6091,7 +6091,7 @@
 	{
 		culture = melanesian
 		religion = animist
-		size= 27570
+		size= 27586
 	}
 
 }
@@ -6121,7 +6121,7 @@
 	{
 		culture = melanesian
 		religion = animist
-		size= 82
+		size= 68
 	}
 
 	officers=
@@ -6142,7 +6142,7 @@
 	{
 		culture = melanesian
 		religion = animist
-		size= 24990
+		size= 25004
 	}
 
 }
@@ -6380,13 +6380,6 @@
 		size= 1
 	}
 
-	bureaucrats=
-	{
-		culture = javan
-		religion = animist
-		size= 1
-	}
-
 	aristocrats=
 	{
 		culture = javan
@@ -6398,7 +6391,7 @@
 	{
 		culture = javan
 		religion = animist
-		size= 652
+		size= 653
 	}
 
 	artisans=
@@ -6415,13 +6408,6 @@
 		size= 7
 	}
 
-	bureaucrats=
-	{
-		culture = french
-		religion = catholic
-		size= 4
-	}
-
 	aristocrats=
 	{
 		culture = french
@@ -6436,6 +6422,13 @@
 		size= 11
 	}
 
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size= 2
+	}
+
 	officers=
 	{
 		culture = french
@@ -6447,7 +6440,7 @@
 	{
 		culture = french
 		religion = catholic
-		size= 488
+		size= 489
 	}
 
 }

@@ -551,24 +551,9 @@ army = {
 	name="7th Army"
 	location=1392
 	regiment = {
-		name="1st Pattani Irregulars"
+		name="1st Ipoh Irregulars"
 		type=irregular
-		home=1392
-	}
-	regiment = {
-		name="1st Phuket Irregulars"
-		type=irregular
-		home=1352
-	}
-	regiment = {
-		name="1st Sibolga Irregulars"
-		type=irregular
-		home=1409
-	}
-	regiment = {
-		name="1st Api Irregulars"
-		type=irregular
-		home=1396
+		home=2575
 	}
 	regiment = {
 		name="1st Kelang Irregulars"
@@ -576,64 +561,14 @@ army = {
 		home=1387
 	}
 	regiment = {
-		name="1st Ipoh Irregulars"
+		name="1st Phuket Irregulars"
 		type=irregular
-		home=2575
-	}
-	regiment = {
-		name="1st Pattani Artillery"
-		type=artillery
-		home=1392
-	}
-	regiment = {
-		name="1st Kuantan Artillery"
-		type=artillery
-		home=1390
-	}
-	regiment = {
-		name="1st Phuket Artillery"
-		type=artillery
 		home=1352
 	}
 	regiment = {
-		name="2nd Phuket Artillery"
-		type=artillery
-		home=1352
-	}
-	regiment = {
-		name="3rd Ipoh Irregulars"
+		name="1st Penang Irregulars"
 		type=irregular
-		home=2575
-	}
-	regiment = {
-		name="1st Tanjungpinang Artillery"
-		type=artillery
-		home=1402
-	}
-	regiment = {
-		name="1st Kota Kubang Labu Artillery"
-		type=artillery
-		home=1391
-	}
-}
-
-army = {
-	name="18th Army"
-	location=1330
-	regiment = {
-		name="1st Kota Kubang Labu Irregulars"
-		type=irregular
-		home=1391
-	}
-	regiment = {
-		name="2nd Sibolga Irregulars"
-		type=irregular
-		home=1409
-	}
-	regiment = {
-		name="2nd Pattani Irregulars"
-		type=irregular
-		home=1392
+		home=1388
 	}
 	regiment = {
 		name="2nd Phuket Irregulars"
@@ -641,34 +576,39 @@ army = {
 		home=1352
 	}
 	regiment = {
-		name="3rd Phuket Artillery"
-		type=artillery
-		home=1352
-	}
-	regiment = {
-		name="1st Singapore Artillery"
-		type=artillery
-		home=1384
-	}
-	regiment = {
-		name="4th Phuket Artillery"
-		type=artillery
-		home=1352
-	}
-	regiment = {
-		name="5th Phuket Artillery"
-		type=artillery
-		home=1352
-	}
-	regiment = {
-		name="2nd Pattani Artillery"
-		type=artillery
-		home=1392
-	}
-	regiment = {
-		name="3rd Alor Setar Irregulars"
+		name="1st Alor Setar Irregulars"
 		type=irregular
 		home=1389
+	}
+	regiment = {
+		name="1st Phuket Artillery"
+		type=artillery
+		home=1352
+	}
+	regiment = {
+		name="1st Ipoh Artillery"
+		type=artillery
+		home=2575
+	}
+	regiment = {
+		name="1st Penang Artillery"
+		type=artillery
+		home=1388
+	}
+	regiment = {
+		name="2nd Penang Artillery"
+		type=artillery
+		home=1388
+	}
+	regiment = {
+		name="6th Sibolga Irregulars"
+		type=irregular
+		home=1409
+	}
+	regiment = {
+		name="2nd Sibolga Artillery"
+		type=artillery
+		home=1409
 	}
 	regiment = {
 		name="4th Sibolga Artillery"
@@ -677,176 +617,18 @@ army = {
 	}
 }
 
-navy = {
-	name="7th Fleet"
-	location=1386
-	ship = {
-		name="3rd La Coruña Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="5th Dunkirk Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Rotterdam Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Siak Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Penang Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Amiens Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Malacca Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Bruges Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th La Coruña Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="5th St Brieuc Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Natuna Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Pontianak Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Malacca Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Ipoh Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Natuna Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Pontianak Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Malacca Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Bencoolen Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Christimas & Cocos Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Natuna Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Nakhon Si Thammarat Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Kota Kubang Labu Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Ipoh Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Tanjung Puteri Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Palembang Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Kuantan Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Wenzhou Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Singapore Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Singapore Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Pontianak Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Kelang Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Pontianak Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Bencoolen Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Ceuta Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Tanjungpinang Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Bencoolen Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Penang Man'o'war"
-		type=manowar
-	}
-}
-
 army = {
-	name="2nd Army"
-	location=1403
+	name="18th Army"
+	location=1332
 	regiment = {
-		name="1st Kuantan Irregulars"
+		name="2nd Penang Irregulars"
 		type=irregular
-		home=1390
+		home=1388
 	}
 	regiment = {
-		name="1st Alor Setar Irregulars"
+		name="1st Kota Kubang Labu Irregulars"
 		type=irregular
-		home=1389
-	}
-	regiment = {
-		name="2nd Ipoh Irregulars"
-		type=irregular
-		home=2575
+		home=1391
 	}
 	regiment = {
 		name="2nd Alor Setar Irregulars"
@@ -859,6 +641,229 @@ army = {
 		home=1352
 	}
 	regiment = {
+		name="1st Alor Setar Artillery"
+		type=artillery
+		home=1389
+	}
+	regiment = {
+		name="2nd Ipoh Artillery"
+		type=artillery
+		home=2575
+	}
+	regiment = {
+		name="1st Pattani Artillery"
+		type=artillery
+		home=1392
+	}
+	regiment = {
+		name="2nd Pattani Artillery"
+		type=artillery
+		home=1392
+	}
+	regiment = {
+		name="3rd Ipoh Artillery"
+		type=artillery
+		home=2575
+	}
+	regiment = {
+		name="3rd Penang Irregulars"
+		type=irregular
+		home=1388
+	}
+	regiment = {
+		name="3rd Sibolga Artillery"
+		type=artillery
+		home=1409
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=1386
+	ship = {
+		name="1st Ipoh Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Pontianak Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Malaccan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Siak Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bruges Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd La Coruña Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Caen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Bruges Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd La Coruña Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd St Brieuc Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Ipoh Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Rotterdam Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Bruges Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Ipoh Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Malaccan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Malaccan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Banda Aceh Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Natuna Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Malacca Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kota Kubang Labu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Acapulco Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Alor Setar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kota Kubang Labu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Pontianak Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kuantan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tanjungpinang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Banda Aceh Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Malaccan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Malaccan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Natuna Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Api Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Banda Aceh Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Kota Kubang Labu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Malaccan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Siak Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tanjung Puteri Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Caen Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1403
+	regiment = {
+		name="4th Phuket Irregulars"
+		type=irregular
+		home=1352
+	}
+	regiment = {
+		name="1st Kuantan Irregulars"
+		type=irregular
+		home=1390
+	}
+	regiment = {
+		name="5th Phuket Irregulars"
+		type=irregular
+		home=1352
+	}
+	regiment = {
+		name="3rd Alor Setar Irregulars"
+		type=irregular
+		home=1389
+	}
+	regiment = {
+		name="4th Alor Setar Irregulars"
+		type=irregular
+		home=1389
+	}
+	regiment = {
+		name="2nd Alor Setar Artillery"
+		type=artillery
+		home=1389
+	}
+	regiment = {
 		name="1st Kelang Artillery"
 		type=artillery
 		home=1387
@@ -869,14 +874,9 @@ army = {
 		home=1409
 	}
 	regiment = {
-		name="1st Nakhon Si Thammarat Artillery"
+		name="3rd Pattani Artillery"
 		type=artillery
-		home=1354
-	}
-	regiment = {
-		name="3rd Sibolga Artillery"
-		type=artillery
-		home=1409
+		home=1392
 	}
 }
 
@@ -894,7 +894,7 @@ army = {
 		home=1386
 	}
 	regiment = {
-		name="9th Sibolga Irregulars"
+		name="7th Sibolga Irregulars"
 		type=irregular
 		home=1409
 	}
@@ -904,12 +904,12 @@ army = {
 	name="4th Army"
 	location=1353
 	regiment = {
-		name="3rd Sibolga Irregulars"
+		name="3rd Malacca Irregulars"
 		type=irregular
-		home=1409
+		home=1386
 	}
 	regiment = {
-		name="10th Sibolga Irregulars"
+		name="8th Sibolga Irregulars"
 		type=irregular
 		home=1409
 	}
@@ -919,17 +919,32 @@ army = {
 	name="Independent Army"
 	location=1353
 	regiment = {
-		name="3rd Malacca Irregulars"
-		type=irregular
-		home=1386
-	}
-	regiment = {
 		name="4th Malacca Irregulars"
 		type=irregular
 		home=1386
 	}
 	regiment = {
+		name="1st Sibolga Irregulars"
+		type=irregular
+		home=1409
+	}
+	regiment = {
+		name="2nd Sibolga Irregulars"
+		type=irregular
+		home=1409
+	}
+	regiment = {
 		name="1st Nakhon Si Thammarat Irregulars"
+		type=irregular
+		home=1354
+	}
+	regiment = {
+		name="3rd Sibolga Irregulars"
+		type=irregular
+		home=1409
+	}
+	regiment = {
+		name="2nd Nakhon Si Thammarat Irregulars"
 		type=irregular
 		home=1354
 	}
@@ -942,6 +957,21 @@ army = {
 		name="1st Inderagiri Irregulars"
 		type=irregular
 		home=1400
+	}
+}
+
+army = {
+	name="Grand Company"
+	location=1389
+	regiment = {
+		name="2nd Kelang Irregulars"
+		type=irregular
+		home=1387
+	}
+	regiment = {
+		name="3rd Kelang Irregulars"
+		type=irregular
+		home=1387
 	}
 	regiment = {
 		name="1st Tapaktuan Irregulars"
@@ -960,45 +990,39 @@ army = {
 	}
 }
 
-army = {
-	name="Grand Company"
-	location=1389
-	regiment = {
-		name="2nd Kelang Irregulars"
-		type=irregular
-		home=1387
-	}
-	regiment = {
-		name="3rd Kelang Irregulars"
-		type=irregular
-		home=1387
-	}
-	regiment = {
-		name="6th Sibolga Irregulars"
-		type=irregular
-		home=1409
-	}
-	regiment = {
-		name="7th Sibolga Irregulars"
-		type=irregular
-		home=1409
-	}
-	regiment = {
-		name="8th Sibolga Irregulars"
-		type=irregular
-		home=1409
-	}
-}
-
 navy = {
 	name="2nd Fleet"
 	location=2814
+	ship = {
+		name="1st Lake Charles Frigate"
+		type=frigate
+	}
 	ship = {
 		name="1st Río Gallegos Frigate"
 		type=frigate
 	}
 	ship = {
-		name="4th Vannes Frigate"
+		name="1st Dunkirk Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Baton Rouge Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Vannes Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Guaymas Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Vannes Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Santander Frigate"
 		type=frigate
 	}
 	ship = {
@@ -1006,35 +1030,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Malaccan Frigate"
+		name="3rd Vannes Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Rawson Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Guaymas Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st St Brieuc Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Biloxi Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Piura Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Fort Vancouver Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Biloxi Frigate"
+		name="1st Palembang Frigate"
 		type=frigate
 	}
 }
@@ -1043,31 +1043,31 @@ navy = {
 	name="3rd Fleet"
 	location=1386
 	ship = {
-		name="3rd Fort Vancouver Frigate"
+		name="1st Bencoolen Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Buenos Aires Frigate"
+		name="1st Arica Frigate"
 		type=frigate
 	}
 	ship = {
-		name="3rd Bencoolen Frigate"
+		name="1st Amiens Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Kelang Frigate"
+		name="2nd Natuna Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Quebec City Frigate"
+		name="2nd Ipoh Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Fort George Frigate"
+		name="1st Cape Breton Island Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Fort George Frigate"
+		name="1st Truro Frigate"
 		type=frigate
 	}
 	ship = {
@@ -1075,15 +1075,15 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="4th Bencoolen Frigate"
+		name="1st Oregon City Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Greenville Frigate"
+		name="1st Arequipa Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Colonia Frigate"
+		name="2nd Santander Frigate"
 		type=frigate
 	}
 }
@@ -1092,22 +1092,22 @@ army = {
 	name="5th Army"
 	location=1389
 	regiment = {
-		name="1st Penang Irregulars"
+		name="6th Phuket Irregulars"
 		type=irregular
-		home=1388
+		home=1352
 	}
 	regiment = {
-		name="2nd Sibolga Artillery"
+		name="1st Kuantan Artillery"
 		type=artillery
-		home=1409
+		home=1390
 	}
 	regiment = {
-		name="11th Sibolga Irregulars"
+		name="9th Sibolga Irregulars"
 		type=irregular
 		home=1409
 	}
 	regiment = {
-		name="1st Alor Setar Artillery"
+		name="3rd Alor Setar Artillery"
 		type=artillery
 		home=1389
 	}

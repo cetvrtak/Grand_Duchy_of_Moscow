@@ -24,7 +24,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 650
+		size= 549
 	}
 
 	officers=
@@ -45,7 +45,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 158660
+		size= 158761
 	}
 
 	clergymen=
@@ -103,7 +103,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 380
+		size= 320
 	}
 
 	officers=
@@ -124,7 +124,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 89165
+		size= 89225
 	}
 
 	clergymen=
@@ -182,7 +182,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 83
+		size= 62
 	}
 
 	officers=
@@ -203,7 +203,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 157042
+		size= 157064
 	}
 
 	soldiers=
@@ -231,7 +231,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 381
+		size= 286
 	}
 
 	officers=
@@ -252,7 +252,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 35057
+		size= 35151
 	}
 
 }
@@ -282,7 +282,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 35
+		size= 26
 	}
 
 	officers=
@@ -303,7 +303,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 67007
+		size= 67016
 	}
 
 	soldiers=
@@ -331,7 +331,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 162
+		size= 121
 	}
 
 	officers=
@@ -352,7 +352,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 14958
+		size= 14999
 	}
 
 }
@@ -382,7 +382,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 29
+		size= 25
 	}
 
 	aristocrats=
@@ -396,7 +396,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 32923
+		size= 32928
 	}
 
 	soldiers=
@@ -424,7 +424,7 @@
 	{
 		culture = romanian
 		religion = protestant
-		size= 120
+		size= 102
 	}
 
 	aristocrats=
@@ -438,7 +438,7 @@
 	{
 		culture = romanian
 		religion = protestant
-		size= 4670
+		size= 4683
 	}
 
 }
@@ -468,7 +468,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 308
+		size= 265
 	}
 
 	officers=
@@ -489,7 +489,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 65677
+		size= 65720
 	}
 
 	clergymen=
@@ -547,7 +547,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 251
+		size= 216
 	}
 
 	officers=
@@ -568,7 +568,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 53148
+		size= 53183
 	}
 
 	clergymen=
@@ -626,7 +626,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 36
+		size= 29
 	}
 
 	officers=
@@ -647,7 +647,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 27913
+		size= 27920
 	}
 
 	soldiers=
@@ -675,7 +675,7 @@
 	{
 		culture = romanian
 		religion = animist
-		size= 135
+		size= 107
 	}
 
 	officers=
@@ -696,7 +696,7 @@
 	{
 		culture = romanian
 		religion = animist
-		size= 36099
+		size= 36127
 	}
 
 }
@@ -726,7 +726,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 22
+		size= 17
 	}
 
 	officers=
@@ -747,7 +747,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 16648
+		size= 16653
 	}
 
 	soldiers=
@@ -775,7 +775,7 @@
 	{
 		culture = romanian
 		religion = animist
-		size= 82
+		size= 65
 	}
 
 	officers=
@@ -796,7 +796,7 @@
 	{
 		culture = romanian
 		religion = animist
-		size= 21531
+		size= 21548
 	}
 
 }
@@ -826,7 +826,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 175
+		size= 144
 	}
 
 	officers=
@@ -847,7 +847,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 47856
+		size= 47887
 	}
 
 	clergymen=
@@ -905,7 +905,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 42
+		size= 36
 	}
 
 	officers=
@@ -926,7 +926,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 48275
+		size= 48282
 	}
 
 	soldiers=
@@ -954,7 +954,7 @@
 	{
 		culture = romanian
 		religion = protestant
-		size= 175
+		size= 147
 	}
 
 	officers=
@@ -975,7 +975,7 @@
 	{
 		culture = romanian
 		religion = protestant
-		size= 6847
+		size= 6867
 	}
 
 }
@@ -1005,7 +1005,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 40
+		size= 32
 	}
 
 	officers=
@@ -1026,7 +1026,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 30110
+		size= 30118
 	}
 
 	soldiers=
@@ -1054,7 +1054,7 @@
 	{
 		culture = kishinyov
 		religion = orthodox
-		size= 139
+		size= 110
 	}
 
 	officers=
@@ -1075,7 +1075,7 @@
 	{
 		culture = kishinyov
 		religion = orthodox
-		size= 32546
+		size= 32575
 	}
 
 }
@@ -1094,13 +1094,6 @@
 		size= 5098
 	}
 
-	craftsmen=
-	{
-		culture = romanian
-		religion = orthodox
-		size= 8170
-	}
-
 	artisans=
 	{
 		culture = romanian
@@ -1115,18 +1108,11 @@
 		size= 1595
 	}
 
-	clerks=
-	{
-		culture = romanian
-		religion = orthodox
-		size= 493
-	}
-
 	bureaucrats=
 	{
 		culture = romanian
 		religion = orthodox
-		size= 362
+		size= 305
 	}
 
 	officers=
@@ -1134,13 +1120,6 @@
 		culture = romanian
 		religion = orthodox
 		size= 171
-	}
-
-	capitalists=
-	{
-		culture = romanian
-		religion = orthodox
-		size= 138
 	}
 
 	aristocrats=
@@ -1154,7 +1133,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 70636
+		size= 79494
 	}
 
 	slaves=
@@ -1219,7 +1198,7 @@
 	{
 		culture = szekely
 		religion = catholic
-		size= 3134
+		size= 7233
 	}
 
 	artisans=
@@ -1240,7 +1219,7 @@
 	{
 		culture = szekely
 		religion = catholic
-		size= 197
+		size= 165
 	}
 
 	officers=
@@ -1261,7 +1240,7 @@
 	{
 		culture = szekely
 		religion = catholic
-		size= 51979
+		size= 47912
 	}
 
 	slaves=
@@ -1296,7 +1275,7 @@
 	{
 		culture = szekely
 		religion = protestant
-		size= 23
+		size= 19
 	}
 
 	officers=
@@ -1347,7 +1326,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 252
+		size= 217
 	}
 
 	officers=
@@ -1368,7 +1347,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 50908
+		size= 50943
 	}
 
 	slaves=
@@ -1412,7 +1391,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 202
+		size= 171
 	}
 
 	officers=
@@ -1433,7 +1412,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 45524
+		size= 45555
 	}
 
 	slaves=
@@ -1477,7 +1456,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 184
+		size= 146
 	}
 
 	officers=
@@ -1498,7 +1477,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 55387
+		size= 55425
 	}
 
 	slaves=
@@ -1542,7 +1521,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 142
+		size= 112
 	}
 
 	officers=
@@ -1563,7 +1542,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 44359
+		size= 44389
 	}
 
 	slaves=
@@ -1607,7 +1586,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 303
+		size= 227
 	}
 
 	officers=
@@ -1628,7 +1607,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 97185
+		size= 97261
 	}
 
 	aristocrats=
@@ -1714,7 +1693,7 @@
 	{
 		culture = kishinyov
 		religion = orthodox
-		size= 176
+		size= 144
 	}
 
 	officers=
@@ -1735,7 +1714,7 @@
 	{
 		culture = kishinyov
 		religion = orthodox
-		size= 50298
+		size= 50330
 	}
 
 	slaves=
@@ -1779,7 +1758,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 231
+		size= 173
 	}
 
 	officers=
@@ -1800,7 +1779,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 82408
+		size= 82466
 	}
 
 	slaves=
@@ -1844,7 +1823,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 154
+		size= 116
 	}
 
 	officers=
@@ -1865,7 +1844,7 @@
 	{
 		culture = romanian
 		religion = orthodox
-		size= 55716
+		size= 55754
 	}
 
 	slaves=
@@ -1909,7 +1888,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 98
+		size= 73
 	}
 
 	officers=
@@ -1930,7 +1909,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 42488
+		size= 42513
 	}
 
 }
@@ -1967,7 +1946,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 21
+		size= 16
 	}
 
 	officers=
@@ -1988,7 +1967,7 @@
 	{
 		culture = bulgarian
 		religion = orthodox
-		size= 7678
+		size= 7683
 	}
 
 }
@@ -2018,7 +1997,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 252
+		size= 207
 	}
 
 	officers=
@@ -2039,7 +2018,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 67633
+		size= 67678
 	}
 
 	farmers=

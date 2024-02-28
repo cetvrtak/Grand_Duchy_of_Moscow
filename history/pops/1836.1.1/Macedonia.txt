@@ -24,7 +24,7 @@
 	{
 		culture = macedonian
 		religion = catholic
-		size= 40
+		size= 32
 	}
 
 	officers=
@@ -45,14 +45,14 @@
 	{
 		culture = macedonian
 		religion = catholic
-		size= 29544
+		size= 29552
 	}
 
 	soldiers=
 	{
 		culture = macedonian
 		religion = orthodox
-		size= 4133
+		size= 1962
 	}
 
 	artisans=
@@ -73,7 +73,7 @@
 	{
 		culture = macedonian
 		religion = orthodox
-		size= 214
+		size= 169
 	}
 
 	officers=
@@ -94,7 +94,7 @@
 	{
 		culture = macedonian
 		religion = orthodox
-		size= 53865
+		size= 56081
 	}
 
 }
@@ -124,7 +124,7 @@
 	{
 		culture = macedonian
 		religion = orthodox
-		size= 110
+		size= 83
 	}
 
 	officers=
@@ -145,7 +145,7 @@
 	{
 		culture = macedonian
 		religion = orthodox
-		size= 44485
+		size= 44512
 	}
 
 	soldiers=
@@ -182,7 +182,7 @@
 	{
 		culture = macedonian
 		religion = orthodox
-		size= 1033
+		size= 764
 	}
 
 	artisans=
@@ -203,7 +203,7 @@
 	{
 		culture = macedonian
 		religion = orthodox
-		size= 55
+		size= 41
 	}
 
 	officers=
@@ -224,7 +224,7 @@
 	{
 		culture = macedonian
 		religion = orthodox
-		size= 21890
+		size= 22173
 	}
 
 }

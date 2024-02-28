@@ -24,7 +24,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 85
+		size= 68
 	}
 
 	officers=
@@ -45,7 +45,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 31309
+		size= 31326
 	}
 
 }
@@ -75,7 +75,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 32
+		size= 26
 	}
 
 	officers=
@@ -96,7 +96,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 12405
+		size= 12411
 	}
 
 }
@@ -126,7 +126,7 @@
 	{
 		culture = sami
 		religion = catholic
-		size= 21
+		size= 17
 	}
 
 	officers=
@@ -147,7 +147,7 @@
 	{
 		culture = sami
 		religion = catholic
-		size= 7735
+		size= 7739
 	}
 
 }
@@ -177,7 +177,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 36
+		size= 27
 	}
 
 	officers=
@@ -198,7 +198,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 15044
+		size= 15053
 	}
 
 }
@@ -228,7 +228,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 106
+		size= 84
 	}
 
 	officers=
@@ -249,7 +249,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 40582
+		size= 40604
 	}
 
 }
@@ -279,7 +279,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 19
+		size= 15
 	}
 
 	officers=
@@ -300,7 +300,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 17494
+		size= 17498
 	}
 
 	soldiers=
@@ -328,7 +328,7 @@
 	{
 		culture = norwegian
 		religion = animist
-		size= 2
+		size= 1
 	}
 
 	officers=
@@ -370,7 +370,7 @@
 	{
 		culture = norwegian
 		religion = protestant
-		size= 82
+		size= 64
 	}
 
 	officers=
@@ -391,7 +391,7 @@
 	{
 		culture = norwegian
 		religion = protestant
-		size= 16335
+		size= 16352
 	}
 
 }
@@ -421,7 +421,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 10
+		size= 8
 	}
 
 	officers=
@@ -442,7 +442,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 7800
+		size= 7802
 	}
 
 	soldiers=
@@ -470,7 +470,7 @@
 	{
 		culture = norwegian
 		religion = protestant
-		size= 33
+		size= 26
 	}
 
 	officers=
@@ -491,7 +491,7 @@
 	{
 		culture = norwegian
 		religion = protestant
-		size= 8146
+		size= 8153
 	}
 
 }
@@ -521,7 +521,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 20
+		size= 16
 	}
 
 	officers=
@@ -542,14 +542,14 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 15000
+		size= 15004
 	}
 
 	soldiers=
 	{
 		culture = norwegian
 		religion = protestant
-		size= 1033
+		size= 1021
 	}
 
 	artisans=
@@ -570,7 +570,7 @@
 	{
 		culture = norwegian
 		religion = protestant
-		size= 63
+		size= 50
 	}
 
 	officers=
@@ -591,7 +591,7 @@
 	{
 		culture = norwegian
 		religion = protestant
-		size= 15649
+		size= 15674
 	}
 
 }
@@ -601,13 +601,6 @@
 		culture = norwegian
 		religion = catholic
 		size= 1744
-	}
-
-	craftsmen=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 8170
 	}
 
 	artisans=
@@ -624,18 +617,11 @@
 		size= 202
 	}
 
-	clerks=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 493
-	}
-
 	bureaucrats=
 	{
 		culture = norwegian
 		religion = catholic
-		size= 62
+		size= 47
 	}
 
 	officers=
@@ -643,13 +629,6 @@
 		culture = norwegian
 		religion = catholic
 		size= 50
-	}
-
-	capitalists=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 42
 	}
 
 	aristocrats=
@@ -663,7 +642,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 18749
+		size= 27469
 	}
 
 }
@@ -693,7 +672,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 48
+		size= 38
 	}
 
 	officers=
@@ -714,7 +693,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 12805
+		size= 12815
 	}
 
 }
@@ -744,7 +723,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 49
+		size= 36
 	}
 
 	officers=
@@ -765,7 +744,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 21386
+		size= 21399
 	}
 
 }
@@ -795,7 +774,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 46
+		size= 37
 	}
 
 	officers=
@@ -816,7 +795,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 15179
+		size= 15188
 	}
 
 }

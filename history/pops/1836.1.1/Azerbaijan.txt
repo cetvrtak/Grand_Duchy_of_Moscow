@@ -24,7 +24,7 @@
 	{
 		culture = azerbaijani
 		religion = sunni
-		size= 18
+		size= 15
 	}
 
 	officers=
@@ -45,7 +45,7 @@
 	{
 		culture = azerbaijani
 		religion = sunni
-		size= 12172
+		size= 12175
 	}
 
 	soldiers=
@@ -73,7 +73,7 @@
 	{
 		culture = azerbaijani
 		religion = orthodox
-		size= 35
+		size= 28
 	}
 
 	officers=
@@ -94,7 +94,7 @@
 	{
 		culture = azerbaijani
 		religion = orthodox
-		size= 3664
+		size= 3671
 	}
 
 }
@@ -103,7 +103,7 @@
 	{
 		culture = azerbaijani
 		religion = sunni
-		size= 4133
+		size= 948
 	}
 
 	artisans=
@@ -124,7 +124,7 @@
 	{
 		culture = azerbaijani
 		religion = sunni
-		size= 11
+		size= 9
 	}
 
 	officers=
@@ -145,7 +145,7 @@
 	{
 		culture = azerbaijani
 		religion = sunni
-		size= 5284
+		size= 8471
 	}
 
 	soldiers=
@@ -173,7 +173,7 @@
 	{
 		culture = azerbaijani
 		religion = orthodox
-		size= 22
+		size= 17
 	}
 
 	officers=
@@ -194,7 +194,7 @@
 	{
 		culture = azerbaijani
 		religion = orthodox
-		size= 2543
+		size= 2548
 	}
 
 }
@@ -273,7 +273,7 @@
 	{
 		culture = azerbaijani
 		religion = orthodox
-		size= 7
+		size= 4
 	}
 
 	officers=
@@ -294,7 +294,7 @@
 	{
 		culture = azerbaijani
 		religion = orthodox
-		size= 2785
+		size= 2788
 	}
 
 }
@@ -324,7 +324,7 @@
 	{
 		culture = georgian
 		religion = sunni
-		size= 14
+		size= 11
 	}
 
 	officers=
@@ -345,7 +345,7 @@
 	{
 		culture = georgian
 		religion = sunni
-		size= 9135
+		size= 9138
 	}
 
 	soldiers=
@@ -373,7 +373,7 @@
 	{
 		culture = georgian
 		religion = orthodox
-		size= 33
+		size= 27
 	}
 
 	officers=
@@ -394,7 +394,7 @@
 	{
 		culture = georgian
 		religion = orthodox
-		size= 4555
+		size= 4561
 	}
 
 }
@@ -403,7 +403,7 @@
 	{
 		culture = armenian
 		religion = sunni
-		size= 179
+		size= 1033
 	}
 
 	artisans=
@@ -424,7 +424,7 @@
 	{
 		culture = armenian
 		religion = sunni
-		size= 6
+		size= 4
 	}
 
 	officers=
@@ -445,7 +445,7 @@
 	{
 		culture = armenian
 		religion = sunni
-		size= 8046
+		size= 7194
 	}
 
 	soldiers=
@@ -473,7 +473,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 15
+		size= 10
 	}
 
 	officers=
@@ -494,7 +494,7 @@
 	{
 		culture = armenian
 		religion = orthodox
-		size= 4207
+		size= 4212
 	}
 
 }
@@ -524,7 +524,7 @@
 	{
 		culture = azerbaijani
 		religion = sunni
-		size= 14
+		size= 11
 	}
 
 	officers=
@@ -545,7 +545,7 @@
 	{
 		culture = azerbaijani
 		religion = sunni
-		size= 8968
+		size= 8971
 	}
 
 	soldiers=
@@ -573,7 +573,7 @@
 	{
 		culture = azerbaijani
 		religion = orthodox
-		size= 26
+		size= 21
 	}
 
 	officers=
@@ -594,7 +594,7 @@
 	{
 		culture = azerbaijani
 		religion = orthodox
-		size= 2698
+		size= 2703
 	}
 
 }

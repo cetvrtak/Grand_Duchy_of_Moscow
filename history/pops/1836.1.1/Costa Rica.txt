@@ -17,7 +17,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 9143
+		size= 9148
 	}
 
 	artisans=
@@ -45,7 +45,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 38
+		size= 32
 	}
 
 	officers=
@@ -82,7 +82,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 3319
+		size= 3322
 	}
 
 	artisans=
@@ -110,7 +110,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 14
+		size= 11
 	}
 
 	soldiers=
@@ -147,7 +147,7 @@
 	{
 		culture = central_american
 		religion = catholic
-		size= 1959
+		size= 1960
 	}
 
 	artisans=
@@ -182,7 +182,7 @@
 	{
 		culture = central_american
 		religion = catholic
-		size= 5
+		size= 4
 	}
 
 	officers=

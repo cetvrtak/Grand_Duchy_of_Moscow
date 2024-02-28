@@ -282,7 +282,7 @@
 	{
 		culture = swahili
 		religion = sunni
-		size= 33
+		size= 26
 	}
 
 	officers=
@@ -303,7 +303,7 @@
 	{
 		culture = swahili
 		religion = sunni
-		size= 8375
+		size= 8382
 	}
 
 }
@@ -347,7 +347,7 @@
 	{
 		culture = yao
 		religion = shamanism
-		size= 7206
+		size= 7208
 	}
 
 	artisans=
@@ -385,18 +385,18 @@
 		size= 1
 	}
 
-	bureaucrats=
-	{
-		culture = swahili
-		religion = sunni
-		size= 4
-	}
-
 	farmers=
 	{
 		culture = swahili
 		religion = sunni
-		size= 5
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = swahili
+		religion = sunni
+		size= 3
 	}
 
 	officers=
@@ -410,7 +410,7 @@
 	{
 		culture = yao
 		religion = shamanism
-		size= 10
+		size= 8
 	}
 
 	officers=
@@ -452,7 +452,7 @@
 	{
 		culture = yao
 		religion = sunni
-		size= 29
+		size= 24
 	}
 
 	officers=
@@ -473,7 +473,7 @@
 	{
 		culture = yao
 		religion = sunni
-		size= 3309
+		size= 3314
 	}
 
 	slaves=
@@ -508,7 +508,7 @@
 	{
 		culture = nyasa
 		religion = shamanism
-		size= 14
+		size= 12
 	}
 
 	officers=
@@ -529,7 +529,7 @@
 	{
 		culture = nyasa
 		religion = shamanism
-		size= 7161
+		size= 7163
 	}
 
 	slaves=
@@ -564,7 +564,7 @@
 	{
 		culture = nyasa
 		religion = sunni
-		size= 29
+		size= 24
 	}
 
 	officers=
@@ -585,7 +585,7 @@
 	{
 		culture = nyasa
 		religion = sunni
-		size= 3297
+		size= 3302
 	}
 
 }
@@ -622,7 +622,7 @@
 	{
 		culture = makua
 		religion = shamanism
-		size= 27
+		size= 23
 	}
 
 	officers=
@@ -643,7 +643,7 @@
 	{
 		culture = makua
 		religion = shamanism
-		size= 12215
+		size= 12219
 	}
 
 	slaves=
@@ -678,7 +678,7 @@
 	{
 		culture = makua
 		religion = sunni
-		size= 56
+		size= 47
 	}
 
 	officers=
@@ -699,7 +699,7 @@
 	{
 		culture = makua
 		religion = sunni
-		size= 5583
+		size= 5592
 	}
 
 }
@@ -736,7 +736,7 @@
 	{
 		culture = yao
 		religion = shamanism
-		size= 174
+		size= 145
 	}
 
 	officers=
@@ -757,7 +757,7 @@
 	{
 		culture = yao
 		religion = shamanism
-		size= 43382
+		size= 43411
 	}
 
 }

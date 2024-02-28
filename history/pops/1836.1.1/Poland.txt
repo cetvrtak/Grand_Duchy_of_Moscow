@@ -24,7 +24,7 @@
 	{
 		culture = oldpommeranian
 		religion = catholic
-		size= 17
+		size= 8
 	}
 
 	officers=
@@ -45,7 +45,7 @@
 	{
 		culture = oldpommeranian
 		religion = catholic
-		size= 62216
+		size= 62225
 	}
 
 	soldiers=
@@ -73,7 +73,7 @@
 	{
 		culture = oldpommeranian
 		religion = protestant
-		size= 126
+		size= 63
 	}
 
 	officers=
@@ -94,7 +94,7 @@
 	{
 		culture = oldpommeranian
 		religion = protestant
-		size= 63963
+		size= 64026
 	}
 
 }
@@ -124,7 +124,7 @@
 	{
 		culture = oldpommeranian
 		religion = catholic
-		size= 24
+		size= 20
 	}
 
 	officers=
@@ -145,7 +145,7 @@
 	{
 		culture = oldpommeranian
 		religion = catholic
-		size= 17162
+		size= 17166
 	}
 
 	soldiers=
@@ -173,7 +173,7 @@
 	{
 		culture = oldpommeranian
 		religion = protestant
-		size= 87
+		size= 70
 	}
 
 	officers=
@@ -194,7 +194,7 @@
 	{
 		culture = oldpommeranian
 		religion = protestant
-		size= 20699
+		size= 20716
 	}
 
 }
@@ -224,7 +224,7 @@
 	{
 		culture = oldpommeranian
 		religion = catholic
-		size= 15
+		size= 7
 	}
 
 	officers=
@@ -245,7 +245,7 @@
 	{
 		culture = oldpommeranian
 		religion = catholic
-		size= 26981
+		size= 26989
 	}
 
 	soldiers=
@@ -273,7 +273,7 @@
 	{
 		culture = oldpommeranian
 		religion = protestant
-		size= 28
+		size= 14
 	}
 
 	officers=
@@ -294,7 +294,7 @@
 	{
 		culture = oldpommeranian
 		religion = protestant
-		size= 11005
+		size= 11019
 	}
 
 }
@@ -324,7 +324,7 @@
 	{
 		culture = dynamic-polish-culture-num1
 		religion = catholic
-		size= 28
+		size= 21
 	}
 
 	officers=
@@ -345,7 +345,7 @@
 	{
 		culture = dynamic-polish-culture-num1
 		religion = catholic
-		size= 21582
+		size= 21589
 	}
 
 	soldiers=
@@ -373,7 +373,7 @@
 	{
 		culture = dynamic-polish-culture-num1
 		religion = protestant
-		size= 95
+		size= 74
 	}
 
 	officers=
@@ -394,7 +394,7 @@
 	{
 		culture = dynamic-polish-culture-num1
 		religion = protestant
-		size= 22148
+		size= 22169
 	}
 
 }
@@ -424,7 +424,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 78
+		size= 63
 	}
 
 	officers=
@@ -445,7 +445,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 48936
+		size= 48951
 	}
 
 	soldiers=
@@ -473,7 +473,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 270
+		size= 218
 	}
 
 	officers=
@@ -494,7 +494,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 49089
+		size= 49141
 	}
 
 	soldiers=
@@ -522,7 +522,7 @@
 	{
 		culture = dynamic-polish-culture-num1
 		religion = catholic
-		size= 37
+		size= 30
 	}
 
 	officers=
@@ -543,7 +543,7 @@
 	{
 		culture = dynamic-polish-culture-num1
 		religion = catholic
-		size= 49755
+		size= 49762
 	}
 
 	soldiers=
@@ -571,7 +571,7 @@
 	{
 		culture = dynamic-polish-culture-num1
 		religion = protestant
-		size= 299
+		size= 241
 	}
 
 	officers=
@@ -592,7 +592,7 @@
 	{
 		culture = dynamic-polish-culture-num1
 		religion = protestant
-		size= 47300
+		size= 47350
 	}
 
 }
@@ -622,7 +622,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 58
+		size= 45
 	}
 
 	officers=
@@ -643,7 +643,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 45320
+		size= 45333
 	}
 
 	soldiers=
@@ -671,7 +671,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 232
+		size= 179
 	}
 
 	officers=
@@ -692,7 +692,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 57040
+		size= 57093
 	}
 
 }
@@ -722,7 +722,7 @@
 	{
 		culture = polish
 		religion = orthodox
-		size= 54
+		size= 35
 	}
 
 	officers=
@@ -743,7 +743,7 @@
 	{
 		culture = polish
 		religion = orthodox
-		size= 63301
+		size= 63320
 	}
 
 	soldiers=
@@ -771,7 +771,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 130
+		size= 83
 	}
 
 	officers=
@@ -792,7 +792,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 33063
+		size= 33110
 	}
 
 }
@@ -822,7 +822,7 @@
 	{
 		culture = polish
 		religion = orthodox
-		size= 275
+		size= 213
 	}
 
 	officers=
@@ -843,7 +843,7 @@
 	{
 		culture = polish
 		religion = orthodox
-		size= 92588
+		size= 92650
 	}
 
 }
@@ -873,7 +873,7 @@
 	{
 		culture = oldpommeranian
 		religion = catholic
-		size= 8
+		size= 7
 	}
 
 	officers=
@@ -894,7 +894,7 @@
 	{
 		culture = oldpommeranian
 		religion = catholic
-		size= 10031
+		size= 10032
 	}
 
 	soldiers=
@@ -964,7 +964,7 @@
 	{
 		culture = oldpommeranian
 		religion = protestant
-		size= 25
+		size= 22
 	}
 
 	officers=
@@ -985,7 +985,7 @@
 	{
 		culture = oldpommeranian
 		religion = protestant
-		size= 7098
+		size= 7101
 	}
 
 	soldiers=
@@ -1013,7 +1013,7 @@
 	{
 		culture = oldpommeranian
 		religion = orthodox
-		size= 42
+		size= 36
 	}
 
 	officers=
@@ -1036,7 +1036,7 @@
 	{
 		culture = oldpommeranian
 		religion = catholic
-		size= 4133
+		size= 1033
 	}
 
 	artisans=
@@ -1057,7 +1057,7 @@
 	{
 		culture = oldpommeranian
 		religion = catholic
-		size= 6
+		size= 5
 	}
 
 	officers=
@@ -1078,7 +1078,7 @@
 	{
 		culture = oldpommeranian
 		religion = catholic
-		size= 17037
+		size= 20138
 	}
 
 	soldiers=
@@ -1106,7 +1106,7 @@
 	{
 		culture = oldpommeranian
 		religion = animist
-		size= 8
+		size= 6
 	}
 
 	officers=
@@ -1127,7 +1127,7 @@
 	{
 		culture = oldpommeranian
 		religion = animist
-		size= 2114
+		size= 2116
 	}
 
 	soldiers=
@@ -1155,7 +1155,7 @@
 	{
 		culture = oldpommeranian
 		religion = protestant
-		size= 35
+		size= 28
 	}
 
 	officers=
@@ -1176,7 +1176,7 @@
 	{
 		culture = oldpommeranian
 		religion = protestant
-		size= 14237
+		size= 14244
 	}
 
 	soldiers=
@@ -1204,7 +1204,7 @@
 	{
 		culture = oldpommeranian
 		religion = orthodox
-		size= 68
+		size= 54
 	}
 
 	officers=
@@ -1225,7 +1225,7 @@
 	{
 		culture = oldpommeranian
 		religion = orthodox
-		size= 2936
+		size= 2950
 	}
 
 }
@@ -1255,7 +1255,7 @@
 	{
 		culture = oldpommeranian
 		religion = catholic
-		size= 8
+		size= 5
 	}
 
 	officers=
@@ -1276,7 +1276,7 @@
 	{
 		culture = oldpommeranian
 		religion = catholic
-		size= 13374
+		size= 13377
 	}
 
 	soldiers=
@@ -1304,7 +1304,7 @@
 	{
 		culture = oldpommeranian
 		religion = protestant
-		size= 39
+		size= 25
 	}
 
 	officers=
@@ -1325,7 +1325,7 @@
 	{
 		culture = oldpommeranian
 		religion = protestant
-		size= 12918
+		size= 12932
 	}
 
 }
@@ -1334,7 +1334,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 1033
+		size= 10333
 	}
 
 	artisans=
@@ -1355,7 +1355,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 8
+		size= 6
 	}
 
 	officers=
@@ -1376,7 +1376,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 17509
+		size= 8211
 	}
 
 	soldiers=
@@ -1404,7 +1404,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 9
+		size= 8
 	}
 
 	officers=
@@ -1425,7 +1425,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 1395
+		size= 1396
 	}
 
 	soldiers=
@@ -1453,7 +1453,7 @@
 	{
 		culture = oldpommeranian
 		religion = protestant
-		size= 37
+		size= 31
 	}
 
 	officers=
@@ -1474,7 +1474,7 @@
 	{
 		culture = oldpommeranian
 		religion = protestant
-		size= 10382
+		size= 10388
 	}
 
 	soldiers=
@@ -1502,7 +1502,7 @@
 	{
 		culture = oldpommeranian
 		religion = orthodox
-		size= 74
+		size= 63
 	}
 
 	officers=
@@ -1523,7 +1523,7 @@
 	{
 		culture = oldpommeranian
 		religion = orthodox
-		size= 2586
+		size= 2597
 	}
 
 }
@@ -1532,7 +1532,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 798
+		size= 1033
 	}
 
 	artisans=
@@ -1553,7 +1553,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 9
+		size= 8
 	}
 
 	officers=
@@ -1574,7 +1574,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 21393
+		size= 21159
 	}
 
 	soldiers=
@@ -1602,7 +1602,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 11
+		size= 9
 	}
 
 	officers=
@@ -1623,7 +1623,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 1889
+		size= 1891
 	}
 
 	soldiers=
@@ -1651,7 +1651,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 45
+		size= 38
 	}
 
 	officers=
@@ -1672,7 +1672,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 12206
+		size= 12213
 	}
 
 	soldiers=
@@ -1700,7 +1700,7 @@
 	{
 		culture = polish
 		religion = orthodox
-		size= 90
+		size= 76
 	}
 
 	officers=
@@ -1721,7 +1721,7 @@
 	{
 		culture = polish
 		religion = orthodox
-		size= 2290
+		size= 2304
 	}
 
 }
@@ -1751,7 +1751,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 18
+		size= 16
 	}
 
 	officers=
@@ -1772,7 +1772,7 @@
 	{
 		culture = north_german
 		religion = catholic
-		size= 40546
+		size= 40548
 	}
 
 	soldiers=
@@ -1800,7 +1800,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 19
+		size= 16
 	}
 
 	officers=
@@ -1821,7 +1821,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 9207
+		size= 9210
 	}
 
 	soldiers=
@@ -1849,7 +1849,7 @@
 	{
 		culture = north_german
 		religion = orthodox
-		size= 135
+		size= 114
 	}
 
 	officers=
@@ -1870,7 +1870,7 @@
 	{
 		culture = north_german
 		religion = orthodox
-		size= 7503
+		size= 7524
 	}
 
 	soldiers=
@@ -1898,7 +1898,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 14
+		size= 12
 	}
 
 	officers=
@@ -1919,7 +1919,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 6190
+		size= 6192
 	}
 
 	soldiers=
@@ -1947,7 +1947,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 44
+		size= 37
 	}
 
 	officers=
@@ -1968,7 +1968,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 10934
+		size= 10941
 	}
 
 	soldiers=
@@ -1996,7 +1996,7 @@
 	{
 		culture = polish
 		religion = orthodox
-		size= 118
+		size= 100
 	}
 
 	officers=
@@ -2017,7 +2017,7 @@
 	{
 		culture = polish
 		religion = orthodox
-		size= 9279
+		size= 9297
 	}
 
 }
@@ -2047,7 +2047,7 @@
 	{
 		culture = dynamic-polish-culture-num1
 		religion = catholic
-		size= 60
+		size= 51
 	}
 
 	officers=
@@ -2068,7 +2068,7 @@
 	{
 		culture = dynamic-polish-culture-num1
 		religion = catholic
-		size= 60219
+		size= 60228
 	}
 
 	soldiers=
@@ -2096,7 +2096,7 @@
 	{
 		culture = dynamic-polish-culture-num1
 		religion = protestant
-		size= 177
+		size= 153
 	}
 
 	officers=
@@ -2117,7 +2117,7 @@
 	{
 		culture = dynamic-polish-culture-num1
 		religion = protestant
-		size= 53799
+		size= 53824
 	}
 
 	soldiers=
@@ -2145,7 +2145,7 @@
 	{
 		culture = dynamic-polish-culture-num1
 		religion = orthodox
-		size= 295
+		size= 254
 	}
 
 	officers=
@@ -2166,7 +2166,7 @@
 	{
 		culture = dynamic-polish-culture-num1
 		religion = orthodox
-		size= 1424
+		size= 1465
 	}
 
 }
@@ -2196,7 +2196,7 @@
 	{
 		culture = oldpommeranian
 		religion = catholic
-		size= 9
+		size= 7
 	}
 
 	officers=
@@ -2217,7 +2217,7 @@
 	{
 		culture = oldpommeranian
 		religion = catholic
-		size= 11320
+		size= 11321
 	}
 
 	soldiers=
@@ -2245,7 +2245,7 @@
 	{
 		culture = oldpommeranian
 		religion = protestant
-		size= 32
+		size= 27
 	}
 
 	officers=
@@ -2266,7 +2266,7 @@
 	{
 		culture = oldpommeranian
 		religion = protestant
-		size= 8061
+		size= 8066
 	}
 
 	soldiers=
@@ -2294,7 +2294,7 @@
 	{
 		culture = oldpommeranian
 		religion = orthodox
-		size= 54
+		size= 47
 	}
 
 	officers=
@@ -2315,14 +2315,14 @@
 	{
 		culture = oldpommeranian
 		religion = orthodox
-		size= 963
+		size= 970
 	}
 
 	soldiers=
 	{
 		culture = polish
 		religion = catholic
-		size= 4133
+		size= 7233
 	}
 
 	artisans=
@@ -2343,7 +2343,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 15
+		size= 13
 	}
 
 	officers=
@@ -2364,14 +2364,14 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 11338
+		size= 8240
 	}
 
 	soldiers=
 	{
 		culture = polish
 		religion = protestant
-		size= 465
+		size= 4133
 	}
 
 	artisans=
@@ -2392,7 +2392,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 38
+		size= 33
 	}
 
 	officers=
@@ -2413,7 +2413,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 10544
+		size= 6881
 	}
 
 	soldiers=
@@ -2441,7 +2441,7 @@
 	{
 		culture = polish
 		religion = orthodox
-		size= 72
+		size= 62
 	}
 
 	officers=
@@ -2462,7 +2462,7 @@
 	{
 		culture = polish
 		religion = orthodox
-		size= 1375
+		size= 1385
 	}
 
 }
@@ -2492,7 +2492,7 @@
 	{
 		culture = dynamic-polish-culture-num1
 		religion = catholic
-		size= 29
+		size= 25
 	}
 
 	officers=
@@ -2513,7 +2513,7 @@
 	{
 		culture = dynamic-polish-culture-num1
 		religion = catholic
-		size= 59799
+		size= 59804
 	}
 
 	soldiers=
@@ -2541,7 +2541,7 @@
 	{
 		culture = dynamic-polish-culture-num1
 		religion = protestant
-		size= 191
+		size= 165
 	}
 
 	officers=
@@ -2562,7 +2562,7 @@
 	{
 		culture = dynamic-polish-culture-num1
 		religion = protestant
-		size= 46828
+		size= 46854
 	}
 
 	soldiers=
@@ -2590,7 +2590,7 @@
 	{
 		culture = dynamic-polish-culture-num1
 		religion = orthodox
-		size= 270
+		size= 232
 	}
 
 	officers=
@@ -2611,7 +2611,7 @@
 	{
 		culture = dynamic-polish-culture-num1
 		religion = orthodox
-		size= 519
+		size= 557
 	}
 
 }
@@ -2641,7 +2641,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 32
+		size= 27
 	}
 
 	officers=
@@ -2662,7 +2662,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 14507
+		size= 14512
 	}
 
 	soldiers=
@@ -2690,7 +2690,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 109
+		size= 93
 	}
 
 	officers=
@@ -2711,7 +2711,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 14396
+		size= 14412
 	}
 
 }
@@ -2741,7 +2741,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 55
+		size= 46
 	}
 
 	officers=
@@ -2762,7 +2762,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 59312
+		size= 59323
 	}
 
 	soldiers=
@@ -2790,7 +2790,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 117
+		size= 98
 	}
 
 	officers=
@@ -2811,7 +2811,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 29747
+		size= 29766
 	}
 
 	soldiers=
@@ -2839,7 +2839,7 @@
 	{
 		culture = polish
 		religion = orthodox
-		size= 317
+		size= 268
 	}
 
 	officers=
@@ -2860,7 +2860,7 @@
 	{
 		culture = polish
 		religion = orthodox
-		size= 26536
+		size= 26583
 	}
 
 }
@@ -2890,7 +2890,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 74
+		size= 63
 	}
 
 	officers=
@@ -2911,7 +2911,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 69501
+		size= 69514
 	}
 
 	soldiers=
@@ -2939,7 +2939,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 141
+		size= 121
 	}
 
 	officers=
@@ -2960,7 +2960,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 26534
+		size= 26554
 	}
 
 	soldiers=
@@ -2988,7 +2988,7 @@
 	{
 		culture = polish
 		religion = orthodox
-		size= 396
+		size= 341
 	}
 
 	officers=
@@ -3009,7 +3009,7 @@
 	{
 		culture = polish
 		religion = orthodox
-		size= 26013
+		size= 26066
 	}
 
 }
@@ -3039,7 +3039,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 101
+		size= 87
 	}
 
 	officers=
@@ -3060,7 +3060,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 96662
+		size= 96677
 	}
 
 	soldiers=
@@ -3088,7 +3088,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 287
+		size= 247
 	}
 
 	officers=
@@ -3109,7 +3109,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 80097
+		size= 80136
 	}
 
 	soldiers=
@@ -3137,7 +3137,7 @@
 	{
 		culture = polish
 		religion = orthodox
-		size= 461
+		size= 397
 	}
 
 	officers=
@@ -3181,7 +3181,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 12
+		size= 10
 	}
 
 	officers=
@@ -3202,7 +3202,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 23628
+		size= 23631
 	}
 
 	soldiers=
@@ -3230,7 +3230,7 @@
 	{
 		culture = lithuanian
 		religion = catholic
-		size= 21
+		size= 18
 	}
 
 	officers=
@@ -3251,7 +3251,7 @@
 	{
 		culture = lithuanian
 		religion = catholic
-		size= 8484
+		size= 8487
 	}
 
 	soldiers=
@@ -3279,7 +3279,7 @@
 	{
 		culture = lithuanian
 		religion = protestant
-		size= 61
+		size= 52
 	}
 
 	officers=
@@ -3300,7 +3300,7 @@
 	{
 		culture = lithuanian
 		religion = protestant
-		size= 11372
+		size= 11381
 	}
 
 	soldiers=
@@ -3328,7 +3328,7 @@
 	{
 		culture = lithuanian
 		religion = orthodox
-		size= 174
+		size= 149
 	}
 
 	officers=
@@ -3349,7 +3349,7 @@
 	{
 		culture = lithuanian
 		religion = orthodox
-		size= 12104
+		size= 12128
 	}
 
 }
@@ -3358,7 +3358,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 1344
+		size= 4133
 	}
 
 	artisans=
@@ -3379,7 +3379,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 39
+		size= 33
 	}
 
 	officers=
@@ -3400,7 +3400,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 43741
+		size= 40959
 	}
 
 	soldiers=
@@ -3428,7 +3428,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 110
+		size= 92
 	}
 
 	officers=
@@ -3449,7 +3449,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 34642
+		size= 34660
 	}
 
 	soldiers=
@@ -3477,7 +3477,7 @@
 	{
 		culture = polish
 		religion = orthodox
-		size= 189
+		size= 159
 	}
 
 	officers=
@@ -3498,7 +3498,7 @@
 	{
 		culture = polish
 		religion = orthodox
-		size= 1652
+		size= 1681
 	}
 
 }
@@ -3528,7 +3528,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 31
+		size= 27
 	}
 
 	officers=
@@ -3549,7 +3549,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 28545
+		size= 28550
 	}
 
 	soldiers=
@@ -3577,7 +3577,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 87
+		size= 75
 	}
 
 	officers=
@@ -3598,7 +3598,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 23076
+		size= 23087
 	}
 
 	soldiers=
@@ -3626,7 +3626,7 @@
 	{
 		culture = polish
 		religion = orthodox
-		size= 139
+		size= 120
 	}
 
 	officers=
@@ -3670,7 +3670,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 36
+		size= 30
 	}
 
 	officers=
@@ -3691,7 +3691,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 43839
+		size= 43846
 	}
 
 	soldiers=
@@ -3719,7 +3719,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 132
+		size= 111
 	}
 
 	officers=
@@ -3740,7 +3740,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 38808
+		size= 38828
 	}
 
 	soldiers=
@@ -3768,7 +3768,7 @@
 	{
 		culture = polish
 		religion = orthodox
-		size= 204
+		size= 172
 	}
 
 	officers=
@@ -3789,7 +3789,7 @@
 	{
 		culture = polish
 		religion = orthodox
-		size= 688
+		size= 699
 	}
 
 }
@@ -3799,13 +3799,6 @@
 		culture = ukrainian
 		religion = orthodox
 		size= 5568
-	}
-
-	craftsmen=
-	{
-		culture = ukrainian
-		religion = orthodox
-		size= 8170
 	}
 
 	artisans=
@@ -3822,18 +3815,11 @@
 		size= 799
 	}
 
-	clerks=
-	{
-		culture = ukrainian
-		religion = orthodox
-		size= 493
-	}
-
 	bureaucrats=
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 394
+		size= 333
 	}
 
 	officers=
@@ -3841,13 +3827,6 @@
 		culture = ukrainian
 		religion = orthodox
 		size= 296
-	}
-
-	capitalists=
-	{
-		culture = ukrainian
-		religion = orthodox
-		size= 88
 	}
 
 	aristocrats=
@@ -3861,7 +3840,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 80692
+		size= 89504
 	}
 
 	clergymen=
@@ -3919,7 +3898,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 16
+		size= 14
 	}
 
 	officers=
@@ -3940,7 +3919,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 29196
+		size= 29199
 	}
 
 	soldiers=
@@ -3968,7 +3947,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 112
+		size= 96
 	}
 
 	officers=
@@ -3989,7 +3968,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 27565
+		size= 27581
 	}
 
 	soldiers=
@@ -4017,7 +3996,7 @@
 	{
 		culture = polish
 		religion = orthodox
-		size= 161
+		size= 139
 	}
 
 	officers=
@@ -4038,7 +4017,7 @@
 	{
 		culture = polish
 		religion = orthodox
-		size= 1504
+		size= 1525
 	}
 
 }
@@ -4068,7 +4047,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 52
+		size= 44
 	}
 
 	officers=
@@ -4089,7 +4068,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 47589
+		size= 47599
 	}
 
 	soldiers=
@@ -4117,7 +4096,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 99
+		size= 85
 	}
 
 	officers=
@@ -4138,7 +4117,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 18508
+		size= 18522
 	}
 
 	soldiers=
@@ -4166,7 +4145,7 @@
 	{
 		culture = polish
 		religion = orthodox
-		size= 279
+		size= 240
 	}
 
 	officers=
@@ -4187,7 +4166,7 @@
 	{
 		culture = polish
 		religion = orthodox
-		size= 18617
+		size= 18654
 	}
 
 }
@@ -4217,7 +4196,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 58
+		size= 49
 	}
 
 	officers=
@@ -4238,7 +4217,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 65764
+		size= 65774
 	}
 
 	soldiers=
@@ -4266,7 +4245,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 125
+		size= 105
 	}
 
 	officers=
@@ -4287,7 +4266,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 32984
+		size= 33004
 	}
 
 	soldiers=
@@ -4315,7 +4294,7 @@
 	{
 		culture = polish
 		religion = orthodox
-		size= 339
+		size= 286
 	}
 
 	officers=
@@ -4336,7 +4315,7 @@
 	{
 		culture = polish
 		religion = orthodox
-		size= 29421
+		size= 29473
 	}
 
 }
@@ -4366,7 +4345,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 26
+		size= 23
 	}
 
 	officers=
@@ -4387,7 +4366,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 49761
+		size= 49767
 	}
 
 	soldiers=
@@ -4415,7 +4394,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 139
+		size= 120
 	}
 
 	officers=
@@ -4436,7 +4415,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 23417
+		size= 23436
 	}
 
 	soldiers=
@@ -4464,7 +4443,7 @@
 	{
 		culture = polish
 		religion = orthodox
-		size= 305
+		size= 262
 	}
 
 	officers=
@@ -4485,7 +4464,7 @@
 	{
 		culture = polish
 		religion = orthodox
-		size= 20432
+		size= 20473
 	}
 
 }
@@ -4515,7 +4494,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 103
+		size= 88
 	}
 
 	officers=
@@ -4536,7 +4515,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 45072
+		size= 45089
 	}
 
 	soldiers=
@@ -4564,7 +4543,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 334
+		size= 287
 	}
 
 	officers=
@@ -4585,7 +4564,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 41198
+		size= 41243
 	}
 
 }
@@ -4594,7 +4573,7 @@
 	{
 		culture = dynamic-polish-culture-num1
 		religion = catholic
-		size= 680
+		size= 4133
 	}
 
 	artisans=
@@ -4615,7 +4594,7 @@
 	{
 		culture = dynamic-polish-culture-num1
 		religion = catholic
-		size= 17
+		size= 15
 	}
 
 	officers=
@@ -4636,7 +4615,7 @@
 	{
 		culture = dynamic-polish-culture-num1
 		religion = catholic
-		size= 16848
+		size= 13397
 	}
 
 	soldiers=
@@ -4664,7 +4643,7 @@
 	{
 		culture = dynamic-polish-culture-num1
 		religion = protestant
-		size= 51
+		size= 44
 	}
 
 	officers=
@@ -4685,7 +4664,7 @@
 	{
 		culture = dynamic-polish-culture-num1
 		religion = protestant
-		size= 15289
+		size= 15296
 	}
 
 	soldiers=
@@ -4713,7 +4692,7 @@
 	{
 		culture = dynamic-polish-culture-num1
 		religion = orthodox
-		size= 84
+		size= 72
 	}
 
 	officers=
@@ -4734,7 +4713,7 @@
 	{
 		culture = dynamic-polish-culture-num1
 		religion = orthodox
-		size= 111
+		size= 123
 	}
 
 	soldiers=
@@ -4762,7 +4741,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 14
+		size= 12
 	}
 
 	officers=
@@ -4783,7 +4762,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 13584
+		size= 13586
 	}
 
 	soldiers=
@@ -4811,7 +4790,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 42
+		size= 36
 	}
 
 	officers=
@@ -4832,7 +4811,7 @@
 	{
 		culture = polish
 		religion = protestant
-		size= 12669
+		size= 12675
 	}
 
 	soldiers=
@@ -4860,7 +4839,7 @@
 	{
 		culture = polish
 		religion = orthodox
-		size= 67
+		size= 58
 	}
 
 	officers=
@@ -4883,7 +4862,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 817
+		size= 1033
 	}
 
 	artisans=
@@ -4904,7 +4883,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 14
+		size= 12
 	}
 
 	officers=
@@ -4925,7 +4904,7 @@
 	{
 		culture = ukrainian
 		religion = catholic
-		size= 25217
+		size= 25006
 	}
 
 	soldiers=
@@ -4953,7 +4932,7 @@
 	{
 		culture = lithuanian
 		religion = catholic
-		size= 24
+		size= 21
 	}
 
 	officers=
@@ -4974,7 +4953,7 @@
 	{
 		culture = lithuanian
 		religion = catholic
-		size= 9056
+		size= 9059
 	}
 
 	soldiers=
@@ -5002,7 +4981,7 @@
 	{
 		culture = lithuanian
 		religion = protestant
-		size= 71
+		size= 61
 	}
 
 	officers=
@@ -5023,7 +5002,7 @@
 	{
 		culture = lithuanian
 		religion = protestant
-		size= 12135
+		size= 12144
 	}
 
 	soldiers=
@@ -5051,7 +5030,7 @@
 	{
 		culture = lithuanian
 		religion = orthodox
-		size= 202
+		size= 174
 	}
 
 	officers=
@@ -5072,7 +5051,7 @@
 	{
 		culture = lithuanian
 		religion = orthodox
-		size= 12917
+		size= 12943
 	}
 
 }
@@ -5081,7 +5060,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 1033
+		size= 957
 	}
 
 	artisans=
@@ -5102,7 +5081,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 21
+		size= 16
 	}
 
 	officers=
@@ -5123,7 +5102,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 31793
+		size= 31874
 	}
 
 	soldiers=
@@ -5151,7 +5130,7 @@
 	{
 		culture = hungarian
 		religion = protestant
-		size= 45
+		size= 36
 	}
 
 	officers=
@@ -5172,7 +5151,7 @@
 	{
 		culture = hungarian
 		religion = protestant
-		size= 17138
+		size= 17147
 	}
 
 	soldiers=
@@ -5200,7 +5179,7 @@
 	{
 		culture = slovak
 		religion = protestant
-		size= 98
+		size= 78
 	}
 
 	officers=
@@ -5221,7 +5200,7 @@
 	{
 		culture = slovak
 		religion = protestant
-		size= 6507
+		size= 6527
 	}
 
 }
