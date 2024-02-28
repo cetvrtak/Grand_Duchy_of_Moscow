@@ -503,12 +503,12 @@ army = {
 	name="3rd Army"
 	location=104
 	regiment = {
-		name="1st Truckee Infantry"
+		name="1st Mojave Infantry"
 		type=infantry
-		home=86
+		home=88
 	}
 	regiment = {
-		name="1st Mojave Infantry"
+		name="2nd Mojave Infantry"
 		type=infantry
 		home=88
 	}

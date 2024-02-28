@@ -514,174 +514,29 @@ army = {
 	name="3rd Army"
 	location=1786
 	regiment = {
+		name="1st Segu Irregulars"
+		type=irregular
+		home=1800
+	}
+	regiment = {
+		name="1st Linguere Irregulars"
+		type=irregular
+		home=1786
+	}
+	regiment = {
+		name="1st Fada Ngourma Irregulars"
+		type=irregular
+		home=1904
+	}
+	regiment = {
 		name="1st Tamale Irregulars"
 		type=irregular
 		home=1913
 	}
 	regiment = {
-		name="1st Podor Irregulars"
+		name="2nd Segu Irregulars"
 		type=irregular
-		home=1789
-	}
-	regiment = {
-		name="1st Odienne Irregulars"
-		type=irregular
-		home=1900
-	}
-	regiment = {
-		name="2nd Tamale Irregulars"
-		type=irregular
-		home=1913
-	}
-	regiment = {
-		name="1st Wagadugu Irregulars"
-		type=irregular
-		home=1901
-	}
-	regiment = {
-		name="1st Gao Artillery"
-		type=artillery
-		home=1805
-	}
-	regiment = {
-		name="1st Timbuktu Artillery"
-		type=artillery
-		home=1803
-	}
-	regiment = {
-		name="2nd Say Irregulars"
-		type=irregular
-		home=1809
-	}
-	regiment = {
-		name="2nd Kumasi Artillery"
-		type=artillery
-		home=1910
-	}
-}
-
-army = {
-	name="5th Army"
-	location=1804
-	regiment = {
-		name="2nd Wagadugu Irregulars"
-		type=irregular
-		home=1901
-	}
-	regiment = {
-		name="1st Gao Irregulars"
-		type=irregular
-		home=1805
-	}
-	regiment = {
-		name="1st Dinguiraye Irregulars"
-		type=irregular
-		home=1881
-	}
-	regiment = {
-		name="1st Bougouni Irregulars"
-		type=irregular
-		home=1798
-	}
-	regiment = {
-		name="2nd Gao Irregulars"
-		type=irregular
-		home=1805
-	}
-	regiment = {
-		name="2nd Gao Artillery"
-		type=artillery
-		home=1805
-	}
-	regiment = {
-		name="3rd Gao Artillery"
-		type=artillery
-		home=1805
-	}
-	regiment = {
-		name="1st Mourdiah Irregulars"
-		type=irregular
-		home=1801
-	}
-	regiment = {
-		name="3rd Kumasi Artillery"
-		type=artillery
-		home=1910
-	}
-}
-
-army = {
-	name="8th Army"
-	location=1772
-	regiment = {
-		name="1st Nioro Irregulars"
-		type=irregular
-		home=1796
-	}
-	regiment = {
-		name="1st Bandiagara Irregulars"
-		type=irregular
-		home=1804
-	}
-	regiment = {
-		name="1st Wa Irregulars"
-		type=irregular
-		home=1912
-	}
-	regiment = {
-		name="1st Sikasso Artillery"
-		type=artillery
-		home=1799
-	}
-	regiment = {
-		name="1st Mourdiah Artillery"
-		type=artillery
-		home=1801
-	}
-	regiment = {
-		name="1st Odienne Artillery"
-		type=artillery
-		home=1900
-	}
-	regiment = {
-		name="1st Orodaro Irregulars"
-		type=irregular
-		home=1906
-	}
-}
-
-army = {
-	name="7th Army"
-	location=1801
-	regiment = {
-		name="1st Dori Irregulars"
-		type=irregular
-		home=1903
-	}
-	regiment = {
-		name="2nd Bandiagara Irregulars"
-		type=irregular
-		home=1804
-	}
-	regiment = {
-		name="3rd Bandiagara Irregulars"
-		type=irregular
-		home=1804
-	}
-	regiment = {
-		name="4th Bandiagara Irregulars"
-		type=irregular
-		home=1804
-	}
-	regiment = {
-		name="4th Gao Artillery"
-		type=artillery
-		home=1805
-	}
-	regiment = {
-		name="5th Gao Artillery"
-		type=artillery
-		home=1805
+		home=1800
 	}
 	regiment = {
 		name="1st Bandiagara Artillery"
@@ -689,29 +544,129 @@ army = {
 		home=1804
 	}
 	regiment = {
-		name="2nd Timbuktu Artillery"
+		name="1st Orodaro Artillery"
 		type=artillery
-		home=1803
+		home=1906
 	}
 	regiment = {
-		name="1st Timbo Artillery"
+		name="5th Bandiagara Irregulars"
+		type=irregular
+		home=1804
+	}
+	regiment = {
+		name="6th Bandiagara Artillery"
 		type=artillery
-		home=1880
+		home=1804
 	}
 }
 
 army = {
-	name="11th Army"
-	location=1972
+	name="5th Army"
+	location=1804
 	regiment = {
-		name="2nd Odienne Irregulars"
+		name="1st Wagadugu Irregulars"
 		type=irregular
+		home=1901
+	}
+	regiment = {
+		name="1st Kumasi Irregulars"
+		type=irregular
+		home=1910
+	}
+	regiment = {
+		name="1st Kintampo Irregulars"
+		type=irregular
+		home=1911
+	}
+	regiment = {
+		name="1st Gao Irregulars"
+		type=irregular
+		home=1805
+	}
+	regiment = {
+		name="1st Bougouni Irregulars"
+		type=irregular
+		home=1798
+	}
+	regiment = {
+		name="1st Bambuhu Artillery"
+		type=artillery
+		home=1795
+	}
+	regiment = {
+		name="1st Kumasi Artillery"
+		type=artillery
+		home=1910
+	}
+	regiment = {
+		name="6th Bandiagara Irregulars"
+		type=irregular
+		home=1804
+	}
+	regiment = {
+		name="7th Bandiagara Artillery"
+		type=artillery
+		home=1804
+	}
+}
+
+army = {
+	name="8th Army"
+	location=1772
+	regiment = {
+		name="1st Dori Irregulars"
+		type=irregular
+		home=1903
+	}
+	regiment = {
+		name="1st Bondouku Irregulars"
+		type=irregular
+		home=1899
+	}
+	regiment = {
+		name="1st Bandiagara Irregulars"
+		type=irregular
+		home=1804
+	}
+	regiment = {
+		name="1st Kita Artillery"
+		type=artillery
+		home=1797
+	}
+	regiment = {
+		name="2nd Kumasi Artillery"
+		type=artillery
+		home=1910
+	}
+	regiment = {
+		name="1st Odienne Artillery"
+		type=artillery
 		home=1900
 	}
 	regiment = {
-		name="3rd Gao Irregulars"
+		name="7th Bandiagara Irregulars"
 		type=irregular
-		home=1805
+		home=1804
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1801
+	regiment = {
+		name="2nd Wagadugu Irregulars"
+		type=irregular
+		home=1901
+	}
+	regiment = {
+		name="2nd Kumasi Irregulars"
+		type=irregular
+		home=1910
+	}
+	regiment = {
+		name="1st Wa Irregulars"
+		type=irregular
+		home=1912
 	}
 	regiment = {
 		name="1st Say Irregulars"
@@ -719,19 +674,64 @@ army = {
 		home=1809
 	}
 	regiment = {
-		name="1st Kita Irregulars"
-		type=irregular
-		home=1797
+		name="1st Gao Artillery"
+		type=artillery
+		home=1805
 	}
 	regiment = {
-		name="1st Segu Irregulars"
-		type=irregular
-		home=1800
+		name="1st Timbo Artillery"
+		type=artillery
+		home=1880
 	}
 	regiment = {
-		name="2nd Nioro Irregulars"
+		name="1st Wahiguya Artillery"
+		type=artillery
+		home=1902
+	}
+	regiment = {
+		name="1st Wa Artillery"
+		type=artillery
+		home=1912
+	}
+	regiment = {
+		name="8th Bandiagara Artillery"
+		type=artillery
+		home=1804
+	}
+}
+
+army = {
+	name="11th Army"
+	location=1972
+	regiment = {
+		name="1st Timbo Irregulars"
 		type=irregular
-		home=1796
+		home=1880
+	}
+	regiment = {
+		name="1st Abomey Irregulars"
+		type=irregular
+		home=1920
+	}
+	regiment = {
+		name="2nd Timbo Irregulars"
+		type=irregular
+		home=1880
+	}
+	regiment = {
+		name="2nd Kintampo Irregulars"
+		type=irregular
+		home=1911
+	}
+	regiment = {
+		name="2nd Abomey Irregulars"
+		type=irregular
+		home=1920
+	}
+	regiment = {
+		name="1st Kong Irregulars"
+		type=irregular
+		home=1898
 	}
 }
 
@@ -739,11 +739,19 @@ navy = {
 	name="1st Fleet"
 	location=1877
 	ship = {
+		name="1st Ziguinchor Man'o'war"
+		type=manowar
+	}
+	ship = {
 		name="1st Baraka Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Banjul Man'o'war"
+		name="2nd Baraka Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Sekondi Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -751,31 +759,23 @@ navy = {
 		type=manowar
 	}
 	ship = {
+		name="1st Banjul Man'o'war"
+		type=manowar
+	}
+	ship = {
 		name="1st Kribi Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="2nd Kahone Man'o'war"
+		name="2nd Ziguinchor Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="2nd Banjul Man'o'war"
+		name="1st Dakar Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="3rd Banjul Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Kribi Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Saint-Louis Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Mayumbe Clipper Transport"
+		name="1st Kahone Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -783,11 +783,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Grand Bassam Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Ziguinchor Clipper Transport"
+		name="1st Sekondi Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -795,15 +791,19 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Cabinda Clipper Transport"
+		name="1st Grand Bassam Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Ziguinchor Clipper Transport"
+		name="1st Mboul Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Sekondi Clipper Transport"
+		name="3rd Bissau Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Bissau Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -816,15 +816,15 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Cabinda Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Banjul Frigate"
-		type=frigate
-	}
-	ship = {
 		name="1st Bissau Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Grand Bassam Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sekondi Frigate"
 		type=frigate
 	}
 }
@@ -833,39 +833,39 @@ army = {
 	name="2nd Army"
 	location=1807
 	regiment = {
-		name="1st Aleg Irregulars"
+		name="1st Wahiguya Irregulars"
 		type=irregular
-		home=1777
+		home=1902
 	}
 	regiment = {
-		name="2nd Aleg Irregulars"
+		name="3rd Kumasi Irregulars"
 		type=irregular
-		home=1777
+		home=1910
 	}
 	regiment = {
-		name="3rd Aleg Irregulars"
+		name="1st Ho Irregulars"
 		type=irregular
-		home=1777
+		home=1915
 	}
 	regiment = {
-		name="6th Gao Artillery"
+		name="1st Sikasso Artillery"
 		type=artillery
-		home=1805
+		home=1799
 	}
 	regiment = {
-		name="2nd Bandiagara Artillery"
+		name="1st Nioro Artillery"
 		type=artillery
+		home=1796
+	}
+	regiment = {
+		name="4th Bandiagara Irregulars"
+		type=irregular
 		home=1804
 	}
 	regiment = {
-		name="4th Gao Irregulars"
-		type=irregular
-		home=1805
-	}
-	regiment = {
-		name="1st Kumasi Artillery"
+		name="4th Bandiagara Artillery"
 		type=artillery
-		home=1910
+		home=1804
 	}
 }
 
@@ -873,47 +873,47 @@ army = {
 	name="4th Army"
 	location=1799
 	regiment = {
-		name="5th Bandiagara Irregulars"
+		name="1st Timbuktu Irregulars"
+		type=irregular
+		home=1803
+	}
+	regiment = {
+		name="2nd Bandiagara Irregulars"
 		type=irregular
 		home=1804
 	}
 	regiment = {
-		name="1st Kumasi Irregulars"
+		name="3rd Bandiagara Irregulars"
 		type=irregular
-		home=1910
+		home=1804
 	}
 	regiment = {
-		name="1st Fada Ngourma Irregulars"
-		type=irregular
-		home=1904
-	}
-	regiment = {
-		name="1st Kita Artillery"
+		name="2nd Bandiagara Artillery"
 		type=artillery
-		home=1797
+		home=1804
 	}
 	regiment = {
-		name="1st Wa Artillery"
+		name="2nd Orodaro Artillery"
 		type=artillery
-		home=1912
-	}
-	regiment = {
-		name="1st Dori Artillery"
-		type=artillery
-		home=1903
-	}
-	regiment = {
-		name="1st Araouane Artillery"
-		type=artillery
-		home=2609
-	}
-	regiment = {
-		name="2nd Fada Ngourma Irregulars"
-		type=irregular
-		home=1904
+		home=1906
 	}
 	regiment = {
 		name="3rd Bandiagara Artillery"
+		type=artillery
+		home=1804
+	}
+	regiment = {
+		name="1st Timbuktu Artillery"
+		type=artillery
+		home=1803
+	}
+	regiment = {
+		name="2nd Wa Irregulars"
+		type=irregular
+		home=1912
+	}
+	regiment = {
+		name="5th Bandiagara Artillery"
 		type=artillery
 		home=1804
 	}

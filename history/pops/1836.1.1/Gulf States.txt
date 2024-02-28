@@ -175,7 +175,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 60
+		size= 1033
 	}
 
 	artisans=
@@ -217,7 +217,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 2396
+		size= 1423
 	}
 
 }

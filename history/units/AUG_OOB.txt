@@ -494,9 +494,9 @@ army = {
 		home=612
 	}
 	regiment = {
-		name="1st Bregenz Cavalry"
+		name="1st Innsbruck Cavalry"
 		type=cavalry
-		home=614
+		home=612
 	}
 	regiment = {
 		name="2nd Innsbruck Infantry"
@@ -504,9 +504,9 @@ army = {
 		home=612
 	}
 	regiment = {
-		name="2nd Bregenz Cavalry"
+		name="2nd Innsbruck Cavalry"
 		type=cavalry
-		home=614
+		home=612
 	}
 }
 

@@ -3,7 +3,7 @@
 	{
 		culture = maori
 		religion = animist
-		size= 1033
+		size= 204
 	}
 
 	artisans=
@@ -45,14 +45,14 @@
 	{
 		culture = maori
 		religion = animist
-		size= 2509
+		size= 3338
 	}
 
 	soldiers=
 	{
 		culture = maori
 		religion = protestant
-		size= 1033
+		size= 176
 	}
 
 	artisans=
@@ -94,7 +94,7 @@
 	{
 		culture = maori
 		religion = protestant
-		size= 1814
+		size= 2671
 	}
 
 }

@@ -511,34 +511,34 @@ army = {
 	name="13th Army"
 	location=1197
 	regiment = {
+		name="1st Kashgar Infantry"
+		type=infantry
+		home=1594
+	}
+	regiment = {
+		name="1st Kashgar Artillery"
+		type=artillery
+		home=1594
+	}
+	regiment = {
+		name="1st Bishkek Artillery"
+		type=artillery
+		home=1189
+	}
+	regiment = {
 		name="1st Khorug Infantry"
 		type=infantry
 		home=1208
 	}
 	regiment = {
-		name="1st Naryn Artillery"
-		type=artillery
-		home=1190
-	}
-	regiment = {
-		name="1st Khorug Artillery"
-		type=artillery
-		home=1208
-	}
-	regiment = {
-		name="1st Bishkek Infantry"
+		name="3rd Aksu Infantry"
 		type=infantry
-		home=1189
+		home=1597
 	}
 	regiment = {
-		name="1st Khotan Infantry"
-		type=infantry
-		home=1598
-	}
-	regiment = {
-		name="2nd Khorug Artillery"
+		name="1st Aksu Artillery"
 		type=artillery
-		home=1208
+		home=1597
 	}
 }
 
@@ -551,17 +551,17 @@ army = {
 		home=1597
 	}
 	regiment = {
+		name="2nd Kashgar Infantry"
+		type=infantry
+		home=1594
+	}
+	regiment = {
+		name="1st Bishkek Infantry"
+		type=infantry
+		home=1189
+	}
+	regiment = {
 		name="2nd Aksu Infantry"
-		type=infantry
-		home=1597
-	}
-	regiment = {
-		name="3rd Aksu Infantry"
-		type=infantry
-		home=1597
-	}
-	regiment = {
-		name="4th Aksu Infantry"
 		type=infantry
 		home=1597
 	}

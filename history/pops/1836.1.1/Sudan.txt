@@ -196,7 +196,7 @@
 	{
 		culture = sudanese
 		religion = orthodox
-		size= 22733
+		size= 3863
 	}
 
 	artisans=
@@ -238,7 +238,7 @@
 	{
 		culture = sudanese
 		religion = orthodox
-		size= 11427
+		size= 30297
 	}
 
 }
@@ -596,7 +596,7 @@
 	{
 		culture = sudanese
 		religion = coptic
-		size= 1033
+		size= 420
 	}
 
 	artisans=
@@ -638,7 +638,7 @@
 	{
 		culture = sudanese
 		religion = coptic
-		size= 4904
+		size= 5517
 	}
 
 	slaves=
@@ -652,7 +652,7 @@
 	{
 		culture = sudanese
 		religion = orthodox
-		size= 13433
+		size= 1393
 	}
 
 	artisans=
@@ -694,7 +694,7 @@
 	{
 		culture = sudanese
 		religion = orthodox
-		size= 3536
+		size= 15576
 	}
 
 }
@@ -710,7 +710,7 @@
 	{
 		culture = nuer
 		religion = coptic
-		size= 4133
+		size= 949
 	}
 
 	artisans=
@@ -752,7 +752,7 @@
 	{
 		culture = nuer
 		religion = coptic
-		size= 4948
+		size= 8132
 	}
 
 	slaves=
@@ -766,7 +766,7 @@
 	{
 		culture = nuer
 		religion = orthodox
-		size= 16533
+		size= 2904
 	}
 
 	artisans=
@@ -808,7 +808,7 @@
 	{
 		culture = nuer
 		religion = orthodox
-		size= 6299
+		size= 19928
 	}
 
 	slaves=

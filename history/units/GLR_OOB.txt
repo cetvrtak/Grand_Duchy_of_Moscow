@@ -537,9 +537,19 @@ army = {
 	name="1st Army"
 	location=431
 	regiment = {
+		name="1st Osnabrück Infantry"
+		type=infantry
+		home=538
+	}
+	regiment = {
 		name="1st Utrecht Infantry"
 		type=infantry
 		home=377
+	}
+	regiment = {
+		name="2nd Osnabrück Infantry"
+		type=infantry
+		home=538
 	}
 	regiment = {
 		name="1st Münster Infantry"
@@ -547,34 +557,24 @@ army = {
 		home=581
 	}
 	regiment = {
-		name="1st Osnabrück Infantry"
-		type=infantry
-		home=538
-	}
-	regiment = {
-		name="2nd Münster Infantry"
-		type=infantry
-		home=581
-	}
-	regiment = {
-		name="1st Bielefeld Artillery"
-		type=artillery
-		home=582
-	}
-	regiment = {
-		name="1st Osnabrück Artillery"
-		type=artillery
-		home=538
-	}
-	regiment = {
 		name="1st Münster Artillery"
 		type=artillery
 		home=581
 	}
 	regiment = {
-		name="8th Osnabrück Infantry"
+		name="1st Arnhem Artillery"
+		type=artillery
+		home=382
+	}
+	regiment = {
+		name="1st Korbach Artillery"
+		type=artillery
+		home=584
+	}
+	regiment = {
+		name="4th Arnhem Infantry"
 		type=infantry
-		home=538
+		home=382
 	}
 }
 
@@ -582,7 +582,42 @@ army = {
 	name="Leger van Osnabrück"
 	location=721
 	regiment = {
-		name="2nd Bielefeld Artillery"
+		name="1st Cleves Artillery"
+		type=artillery
+		home=577
+	}
+	regiment = {
+		name="4th Arnhem Artillery"
+		type=artillery
+		home=382
+	}
+}
+
+army = {
+	name="Leger van Münster"
+	location=431
+	regiment = {
+		name="1st Amsterdam Infantry"
+		type=infantry
+		home=375
+	}
+	regiment = {
+		name="1st Arnhem Infantry"
+		type=infantry
+		home=382
+	}
+	regiment = {
+		name="2nd Amsterdam Infantry"
+		type=infantry
+		home=375
+	}
+	regiment = {
+		name="1st Limburg Infantry"
+		type=infantry
+		home=381
+	}
+	regiment = {
+		name="1st Bielefeld Artillery"
 		type=artillery
 		home=582
 	}
@@ -591,55 +626,20 @@ army = {
 		type=artillery
 		home=581
 	}
-}
-
-army = {
-	name="Leger van Münster"
-	location=431
 	regiment = {
-		name="2nd Osnabrück Infantry"
-		type=infantry
-		home=538
-	}
-	regiment = {
-		name="3rd Osnabrück Infantry"
-		type=infantry
-		home=538
-	}
-	regiment = {
-		name="4th Osnabrück Infantry"
-		type=infantry
-		home=538
-	}
-	regiment = {
-		name="5th Osnabrück Infantry"
-		type=infantry
-		home=538
-	}
-	regiment = {
-		name="1st Korbach Artillery"
+		name="1st Siegen Artillery"
 		type=artillery
-		home=584
+		home=583
 	}
 	regiment = {
-		name="1st Leeuwarden Artillery"
-		type=artillery
-		home=385
-	}
-	regiment = {
-		name="1st Lingen Artillery"
-		type=artillery
-		home=542
-	}
-	regiment = {
-		name="9th Osnabrück Infantry"
+		name="5th Arnhem Infantry"
 		type=infantry
-		home=538
+		home=382
 	}
 	regiment = {
-		name="3rd Münster Artillery"
+		name="5th Arnhem Artillery"
 		type=artillery
-		home=581
+		home=382
 	}
 }
 
@@ -655,14 +655,6 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Arnhem Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Groningen Man'o'war"
-		type=manowar
-	}
-	ship = {
 		name="2nd Utrecht Man'o'war"
 		type=manowar
 	}
@@ -675,19 +667,31 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="2nd Zwolle Man'o'war"
+		name="2nd Groningen Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Leeuwarden Clipper Transport"
-		type=clipper_transport
+		name="1st Arnhem Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Utrecht Man'o'war"
+		type=manowar
 	}
 	ship = {
 		name="1st Zwolle Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Leeuwarden Clipper Transport"
+		name="2nd Zwolle Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Groningen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Leeuwarden Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -695,15 +699,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Arnhem Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Arnhem Man'o'war"
+		name="5th Utrecht Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="2nd Zwolle Clipper Transport"
+		name="3rd Zwolle Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -712,54 +712,54 @@ army = {
 	name="Leger van Torino"
 	location=466
 	regiment = {
-		name="6th Osnabrück Infantry"
+		name="2nd Arnhem Infantry"
 		type=infantry
-		home=538
+		home=382
 	}
 	regiment = {
-		name="7th Osnabrück Infantry"
+		name="3rd Arnhem Infantry"
 		type=infantry
-		home=538
+		home=382
 	}
 	regiment = {
-		name="3rd Münster Infantry"
+		name="1st Korbach Infantry"
 		type=infantry
-		home=581
+		home=584
 	}
 	regiment = {
-		name="2nd Osnabrück Artillery"
+		name="2nd Arnhem Artillery"
 		type=artillery
-		home=538
+		home=382
 	}
 	regiment = {
-		name="1st Nienburg Artillery"
+		name="3rd Arnhem Artillery"
 		type=artillery
-		home=535
+		home=382
 	}
 	regiment = {
-		name="1st Hasselt Artillery"
+		name="1st Eindhoven Artillery"
 		type=artillery
-		home=391
+		home=379
 	}
 	regiment = {
-		name="3rd Osnabrück Artillery"
+		name="2nd Siegen Artillery"
 		type=artillery
-		home=538
+		home=583
 	}
 	regiment = {
-		name="2nd Hasselt Artillery"
+		name="2nd Bielefeld Artillery"
 		type=artillery
-		home=391
+		home=582
 	}
 	regiment = {
-		name="4th Münster Infantry"
+		name="6th Arnhem Infantry"
 		type=infantry
-		home=581
+		home=382
 	}
 	regiment = {
-		name="4th Osnabrück Artillery"
+		name="2nd Cleves Artillery"
 		type=artillery
-		home=538
+		home=577
 	}
 }
 

@@ -494,36 +494,36 @@ leader = {
 #Armies
 army = {
 	name="1st Army"
-	location=1551
+	location=1546
+	regiment = {
+		name="1st Jiujiang Irregulars"
+		type=irregular
+		home=1549
+	}
+	regiment = {
+		name="1st Guangxin Cavalry"
+		type=cavalry
+		home=1546
+	}
+	regiment = {
+		name="1st Jiujiang Artillery"
+		type=artillery
+		home=1549
+	}
 	regiment = {
 		name="1st Jian Irregulars"
 		type=irregular
 		home=1547
 	}
 	regiment = {
-		name="1st Jian Cavalry"
+		name="1st Raozhou Cavalry"
 		type=cavalry
-		home=1547
+		home=1551
 	}
 	regiment = {
 		name="1st Guangxin Artillery"
 		type=artillery
 		home=1546
-	}
-	regiment = {
-		name="2nd Jian Irregulars"
-		type=irregular
-		home=1547
-	}
-	regiment = {
-		name="2nd Jian Cavalry"
-		type=cavalry
-		home=1547
-	}
-	regiment = {
-		name="1st Raozhou Artillery"
-		type=artillery
-		home=1551
 	}
 }
 
