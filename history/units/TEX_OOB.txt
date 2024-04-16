@@ -525,26 +525,26 @@ leader = {
 #Armies
 army = {
 	name="5th Army"
-	location=2599
+	location=2631
 	regiment = {
 		name="1st Chicago Infantry"
 		type=infantry
 		home=163
 	}
 	regiment = {
-		name="1st Jackson Infantry"
+		name="1st Baton Rouge Infantry"
 		type=infantry
-		home=192
-	}
-	regiment = {
-		name="1st Fort Bonneville Infantry"
-		type=infantry
-		home=111
+		home=140
 	}
 	regiment = {
 		name="1st Peoria Infantry"
 		type=infantry
 		home=166
+	}
+	regiment = {
+		name="1st Jackson Infantry"
+		type=infantry
+		home=192
 	}
 	regiment = {
 		name="1st Indianapolis Infantry"
@@ -572,12 +572,12 @@ army = {
 		home=163
 	}
 	regiment = {
-		name="17th Chicago Infantry"
+		name="15th Chicago Infantry"
 		type=infantry
 		home=163
 	}
 	regiment = {
-		name="15th Chicago Artillery"
+		name="13th Chicago Artillery"
 		type=artillery
 		home=163
 	}
@@ -602,14 +602,14 @@ army = {
 		home=163
 	}
 	regiment = {
-		name="18th Chicago Infantry"
+		name="16th Chicago Infantry"
 		type=infantry
 		home=163
 	}
 	regiment = {
-		name="13th Chicago Artillery"
+		name="1st Hot Springs Artillery"
 		type=artillery
-		home=163
+		home=144
 	}
 }
 
@@ -620,6 +620,11 @@ army = {
 		name="4th Chicago Infantry"
 		type=infantry
 		home=163
+	}
+	regiment = {
+		name="1st Jefferson City Infantry"
+		type=infantry
+		home=149
 	}
 	regiment = {
 		name="5th Chicago Infantry"
@@ -637,11 +642,6 @@ army = {
 		home=163
 	}
 	regiment = {
-		name="8th Chicago Infantry"
-		type=infantry
-		home=163
-	}
-	regiment = {
 		name="6th Chicago Artillery"
 		type=artillery
 		home=163
@@ -652,7 +652,7 @@ army = {
 		home=163
 	}
 	regiment = {
-		name="12th Chicago Artillery"
+		name="11th Chicago Artillery"
 		type=artillery
 		home=163
 	}
@@ -660,14 +660,14 @@ army = {
 
 army = {
 	name="15th Army"
-	location=2
+	location=1
 	regiment = {
-		name="9th Chicago Infantry"
+		name="8th Chicago Infantry"
 		type=infantry
 		home=163
 	}
 	regiment = {
-		name="10th Chicago Infantry"
+		name="9th Chicago Infantry"
 		type=infantry
 		home=163
 	}
@@ -677,7 +677,7 @@ army = {
 		home=163
 	}
 	regiment = {
-		name="19th Chicago Infantry"
+		name="17th Chicago Infantry"
 		type=infantry
 		home=163
 	}
@@ -685,41 +685,61 @@ army = {
 
 navy = {
 	name="3rd Fleet"
-	location=2966
+	location=2965
 	ship = {
 		name="1st Baton Rouge Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st New Orleans Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Curacao Clipper Transport"
+		name="1st Aruba Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
 		name="2nd Baton Rouge Clipper Transport"
 		type=clipper_transport
 	}
+	ship = {
+		name="1st New Orleans Clipper Transport"
+		type=clipper_transport
+	}
 }
 
 army = {
 	name="3rd Army"
-	location=2
+	location=1
 	regiment = {
-		name="11th Chicago Infantry"
+		name="1st Malden Infantry"
+		type=infantry
+		home=148
+	}
+	regiment = {
+		name="10th Chicago Infantry"
 		type=infantry
 		home=163
 	}
 	regiment = {
-		name="12th Chicago Infantry"
-		type=infantry
-		home=163
+		name="1st Joplin Artillery"
+		type=artillery
+		home=147
 	}
 	regiment = {
 		name="9th Chicago Artillery"
 		type=artillery
+		home=163
+	}
+	regiment = {
+		name="18th Chicago Infantry"
+		type=infantry
+		home=163
+	}
+}
+
+army = {
+	name="9th Army"
+	location=3
+	regiment = {
+		name="11th Chicago Infantry"
+		type=infantry
 		home=163
 	}
 	regiment = {
@@ -728,32 +748,12 @@ army = {
 		home=163
 	}
 	regiment = {
-		name="1st Hot Springs Infantry"
-		type=infantry
-		home=144
-	}
-}
-
-army = {
-	name="9th Army"
-	location=3
-	regiment = {
-		name="13th Chicago Infantry"
+		name="14th Chicago Infantry"
 		type=infantry
 		home=163
 	}
 	regiment = {
-		name="11th Chicago Artillery"
-		type=artillery
-		home=163
-	}
-	regiment = {
-		name="16th Chicago Infantry"
-		type=infantry
-		home=163
-	}
-	regiment = {
-		name="14th Chicago Artillery"
+		name="12th Chicago Artillery"
 		type=artillery
 		home=163
 	}
@@ -761,14 +761,14 @@ army = {
 
 army = {
 	name="1st Army"
-	location=2630
+	location=4
 	regiment = {
-		name="14th Chicago Infantry"
+		name="12th Chicago Infantry"
 		type=infantry
 		home=163
 	}
 	regiment = {
-		name="15th Chicago Infantry"
+		name="13th Chicago Infantry"
 		type=infantry
 		home=163
 	}

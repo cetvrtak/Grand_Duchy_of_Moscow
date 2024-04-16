@@ -521,16 +521,16 @@ navy = {
 
 army = {
 	name="1st Army"
-	location=4
+	location=2630
 	regiment = {
 		name="1st Tucson Infantry"
 		type=infantry
 		home=102
 	}
 	regiment = {
-		name="1st Guaymas Infantry"
+		name="1st Nogales Infantry"
 		type=infantry
-		home=2141
+		home=2137
 	}
 }
 

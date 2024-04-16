@@ -480,24 +480,3 @@ YZD = {
 #Leaders
 
 #Armies
-navy = {
-	name="Balaeric Sea Squadron"
-	location=2552
-	ship = {
-		name="Fas"
-		type=manowar
-	}
-	ship = {
-		name="1st Tacna Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Marquesas Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="Murrakush"
-		type=manowar
-	}
-}
-

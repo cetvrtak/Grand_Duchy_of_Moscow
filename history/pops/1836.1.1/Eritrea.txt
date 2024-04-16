@@ -334,7 +334,7 @@
 	{
 		culture = dynamic-bedouin_arabic-beja-culture-num1
 		religion = orthodox
-		size= 96
+		size= 1033
 	}
 
 	artisans=
@@ -376,7 +376,7 @@
 	{
 		culture = dynamic-bedouin_arabic-beja-culture-num1
 		religion = orthodox
-		size= 4381
+		size= 3444
 	}
 
 }

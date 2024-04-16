@@ -506,14 +506,14 @@ army = {
 	name="4th Army"
 	location=2296
 	regiment = {
+		name="1st Pucallpa Infantry"
+		type=infantry
+		home=2300
+	}
+	regiment = {
 		name="1st Cusco Infantry"
 		type=infantry
 		home=2302
-	}
-	regiment = {
-		name="1st Lima Infantry"
-		type=infantry
-		home=2295
 	}
 	regiment = {
 		name="1st La Paz Cavalry"
@@ -526,9 +526,9 @@ army = {
 		home=2304
 	}
 	regiment = {
-		name="1st Potosí Cavalry"
+		name="1st Lima Cavalry"
 		type=cavalry
-		home=2314
+		home=2295
 	}
 }
 

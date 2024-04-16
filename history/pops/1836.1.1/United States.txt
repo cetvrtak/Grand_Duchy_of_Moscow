@@ -3093,7 +3093,7 @@
 	{
 		culture = french_canadian
 		religion = catholic
-		size= 1008
+		size= 1998
 	}
 
 	artisans=
@@ -3128,7 +3128,7 @@
 	{
 		culture = french_canadian
 		religion = catholic
-		size= 1033
+		size= 43
 	}
 
 	officers=
@@ -6133,7 +6133,7 @@
 	{
 		culture = muskogean
 		religion = totemism
-		size= 355
+		size= 1033
 	}
 
 	artisans=
@@ -6175,7 +6175,7 @@
 	{
 		culture = muskogean
 		religion = totemism
-		size= 6267
+		size= 5589
 	}
 
 }
@@ -6616,7 +6616,7 @@
 	{
 		culture = muskogean
 		religion = totemism
-		size= 95
+		size= 1033
 	}
 
 	artisans=
@@ -6658,7 +6658,7 @@
 	{
 		culture = muskogean
 		religion = totemism
-		size= 4133
+		size= 3195
 	}
 
 }
@@ -6674,7 +6674,7 @@
 	{
 		culture = central_algonquian
 		religion = totemism
-		size= 190
+		size= 1033
 	}
 
 	artisans=
@@ -6716,7 +6716,7 @@
 	{
 		culture = central_algonquian
 		religion = totemism
-		size= 5344
+		size= 4501
 	}
 
 }
@@ -6732,7 +6732,7 @@
 	{
 		culture = muskogean
 		religion = totemism
-		size= 265
+		size= 1033
 	}
 
 	artisans=
@@ -6774,7 +6774,7 @@
 	{
 		culture = muskogean
 		religion = totemism
-		size= 8731
+		size= 7963
 	}
 
 }
@@ -11537,7 +11537,7 @@
 	{
 		culture = muskogean
 		religion = totemism
-		size= 4133
+		size= 1033
 	}
 
 	artisans=
@@ -11579,7 +11579,7 @@
 	{
 		culture = muskogean
 		religion = totemism
-		size= 21388
+		size= 24488
 	}
 
 }
@@ -11595,7 +11595,7 @@
 	{
 		culture = siouan
 		religion = totemism
-		size= 4133
+		size= 1196
 	}
 
 	artisans=
@@ -11637,7 +11637,7 @@
 	{
 		culture = siouan
 		religion = totemism
-		size= 11075
+		size= 14012
 	}
 
 	artisans=

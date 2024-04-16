@@ -4,9 +4,3 @@ add_core=FRA
 add_core=OCC
 trade_goods = coal
 life_rating = 32
-state_building=
-{
-	level=1
-	building = glass_factory
-	upgrade = yes
-}

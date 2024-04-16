@@ -9,6 +9,6 @@ life_rating = 31
 state_building=
 {
 	level=1
-	building = regular_clothes_factory
+	building = glass_factory
 	upgrade = yes
 }

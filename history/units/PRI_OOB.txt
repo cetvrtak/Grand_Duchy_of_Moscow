@@ -521,6 +521,11 @@ army = {
 	name="4th Army"
 	location=2209
 	regiment = {
+		name="1st Havana Infantry"
+		type=infantry
+		home=2209
+	}
+	regiment = {
 		name="1st Jagua Infantry"
 		type=infantry
 		home=2210
@@ -529,11 +534,6 @@ army = {
 		name="1st Camagüey Infantry"
 		type=infantry
 		home=2211
-	}
-	regiment = {
-		name="1st Havana Infantry"
-		type=infantry
-		home=2209
 	}
 	regiment = {
 		name="1st Jamaica Artillery"
@@ -583,27 +583,27 @@ navy = {
 	name="1st Fleet"
 	location=2220
 	ship = {
-		name="2nd La Vega Clipper Transport"
+		name="3rd Cap Haitien Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd La Vega Clipper Transport"
+		name="1st Montserrat Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Cap Haitien Clipper Transport"
+		name="1st Saint Barths Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Guantanamo Bay Clipper Transport"
+		name="1st Antigua & Barbuda Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Barbados Clipper Transport"
+		name="1st Camagüey Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Guantanamo Bay Clipper Transport"
+		name="1st Jamaica Clipper Transport"
 		type=clipper_transport
 	}
 }

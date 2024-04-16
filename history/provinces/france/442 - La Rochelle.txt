@@ -4,3 +4,9 @@ add_core=FRA
 add_core=OCC
 trade_goods = fish
 life_rating = 31
+state_building=
+{
+	level=1
+	building = canned_food_factory
+	upgrade = yes
+}

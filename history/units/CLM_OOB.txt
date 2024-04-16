@@ -528,39 +528,9 @@ army = {
 	name="5th Army"
 	location=2253
 	regiment = {
-		name="1st Moyobamba Infantry"
+		name="1st Bogotá Infantry"
 		type=infantry
-		home=2294
-	}
-	regiment = {
-		name="1st Tunja Infantry"
-		type=infantry
-		home=2249
-	}
-	regiment = {
-		name="1st Angostura Infantry"
-		type=infantry
-		home=2275
-	}
-	regiment = {
-		name="1st Cali Artillery"
-		type=artillery
-		home=2256
-	}
-	regiment = {
-		name="1st Medellín Artillery"
-		type=artillery
-		home=2252
-	}
-	regiment = {
-		name="1st Barranquilla Infantry"
-		type=infantry
-		home=2255
-	}
-	regiment = {
-		name="1st Trujillo Infantry"
-		type=infantry
-		home=2292
+		home=2247
 	}
 	regiment = {
 		name="1st San José del Guaviare Infantry"
@@ -568,9 +538,39 @@ army = {
 		home=2260
 	}
 	regiment = {
-		name="1st El Encanto Artillery"
+		name="1st Obando Infantry"
+		type=infantry
+		home=2261
+	}
+	regiment = {
+		name="1st Casanare Artillery"
 		type=artillery
+		home=2262
+	}
+	regiment = {
+		name="1st Pasto Artillery"
+		type=artillery
+		home=2259
+	}
+	regiment = {
+		name="1st El Encanto Infantry"
+		type=infantry
 		home=2263
+	}
+	regiment = {
+		name="1st Güiria Infantry"
+		type=infantry
+		home=2269
+	}
+	regiment = {
+		name="1st Trujillo Infantry"
+		type=infantry
+		home=2292
+	}
+	regiment = {
+		name="1st Iquitos Artillery"
+		type=artillery
+		home=2286
 	}
 	regiment = {
 		name="1st Cajamarca Artillery"
@@ -591,7 +591,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Barranquilla Frigate"
+		name="1st Trujillo Frigate"
 		type=frigate
 	}
 }
@@ -729,7 +729,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Esmeraldas Clipper Transport"
+		name="3rd Quibdó Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -738,23 +738,8 @@ army = {
 	name="4th Army"
 	location=2253
 	regiment = {
-		name="1st Bogotá Infantry"
+		name="2nd Bogotá Infantry"
 		type=infantry
-		home=2247
-	}
-	regiment = {
-		name="1st Casanare Infantry"
-		type=infantry
-		home=2262
-	}
-	regiment = {
-		name="1st Barranquilla Artillery"
-		type=artillery
-		home=2255
-	}
-	regiment = {
-		name="1st Bogotá Artillery"
-		type=artillery
 		home=2247
 	}
 	regiment = {
@@ -763,19 +748,34 @@ army = {
 		home=2282
 	}
 	regiment = {
-		name="1st Buenaventura Infantry"
-		type=infantry
-		home=2258
+		name="1st Curiapo Artillery"
+		type=artillery
+		home=2276
 	}
 	regiment = {
-		name="2nd Medellín Artillery"
+		name="1st Medellín Artillery"
 		type=artillery
 		home=2252
 	}
 	regiment = {
-		name="1st El Jobal Artillery"
+		name="1st Cajamarca Infantry"
+		type=infantry
+		home=2290
+	}
+	regiment = {
+		name="1st Quito Infantry"
+		type=infantry
+		home=2279
+	}
+	regiment = {
+		name="1st Angostura Artillery"
 		type=artillery
-		home=2277
+		home=2275
+	}
+	regiment = {
+		name="2nd Cajamarca Artillery"
+		type=artillery
+		home=2290
 	}
 }
 

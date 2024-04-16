@@ -503,7 +503,7 @@ leader = {
 #Armies
 army = {
 	name="Leger van Namur"
-	location=394
+	location=393
 	regiment = {
 		name="1st Namur Infantry"
 		type=infantry
@@ -525,14 +525,14 @@ army = {
 		home=394
 	}
 	regiment = {
-		name="1st Namur Artillery"
+		name="1st Tournai Artillery"
 		type=artillery
-		home=392
+		home=393
 	}
 	regiment = {
-		name="1st Tournai Infantry"
+		name="3rd Namur Infantry"
 		type=infantry
-		home=393
+		home=392
 	}
 	regiment = {
 		name="1st Tournai Cavalry"

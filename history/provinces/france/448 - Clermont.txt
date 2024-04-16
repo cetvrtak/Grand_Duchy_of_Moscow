@@ -8,6 +8,6 @@ fort = 1
 state_building=
 {
 	level=1
-	building = furniture_factory
+	building = regular_clothes_factory
 	upgrade = yes
 }

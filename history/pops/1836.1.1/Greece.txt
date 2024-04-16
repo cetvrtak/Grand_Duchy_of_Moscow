@@ -1107,7 +1107,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 1033
+		size= 1025
 	}
 
 	artisans=
@@ -1149,7 +1149,7 @@
 	{
 		culture = greek
 		religion = catholic
-		size= 29912
+		size= 29920
 	}
 
 }

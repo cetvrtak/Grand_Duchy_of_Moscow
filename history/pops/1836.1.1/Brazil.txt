@@ -5017,7 +5017,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 460
+		size= 1033
 	}
 
 	artisans=
@@ -5059,7 +5059,7 @@
 	{
 		culture = platinean
 		religion = sunni
-		size= 8735
+		size= 8162
 	}
 
 	slaves=
@@ -9422,7 +9422,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 1033
+		size= 116
 	}
 
 	artisans=
@@ -9464,7 +9464,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 4751
+		size= 5668
 	}
 
 }

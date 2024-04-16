@@ -549,9 +549,9 @@ army = {
 		home=1553
 	}
 	regiment = {
-		name="1st Hailanpao Artillery"
+		name="2nd Aigun Artillery"
 		type=artillery
-		home=1085
+		home=1553
 	}
 }
 

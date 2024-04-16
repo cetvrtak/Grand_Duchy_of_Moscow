@@ -518,14 +518,19 @@ army = {
 	name="6th Army"
 	location=2410
 	regiment = {
+		name="1st Rio de Janeiro Infantry"
+		type=infantry
+		home=2447
+	}
+	regiment = {
 		name="1st Recife Infantry"
 		type=infantry
 		home=2432
 	}
 	regiment = {
-		name="1st Rio de Janeiro Infantry"
+		name="1st Juazeiro Infantry"
 		type=infantry
-		home=2447
+		home=2437
 	}
 	regiment = {
 		name="2nd Rio de Janeiro Infantry"
@@ -533,24 +538,24 @@ army = {
 		home=2447
 	}
 	regiment = {
-		name="1st Ouro Preto Infantry"
+		name="1st Fortaleza Infantry"
 		type=infantry
+		home=2429
+	}
+	regiment = {
+		name="1st Ouro Preto Artillery"
+		type=artillery
 		home=2441
 	}
 	regiment = {
-		name="3rd Rio de Janeiro Infantry"
-		type=infantry
+		name="1st Rio de Janeiro Artillery"
+		type=artillery
 		home=2447
 	}
 	regiment = {
 		name="1st Aracaju Artillery"
 		type=artillery
 		home=2435
-	}
-	regiment = {
-		name="1st Ouro Preto Artillery"
-		type=artillery
-		home=2441
 	}
 	regiment = {
 		name="2nd Ouro Preto Artillery"
@@ -561,11 +566,6 @@ army = {
 		name="3rd Ouro Preto Artillery"
 		type=artillery
 		home=2441
-	}
-	regiment = {
-		name="1st São Luís Artillery"
-		type=artillery
-		home=2424
 	}
 	regiment = {
 		name="5th Ouro Preto Infantry"
@@ -600,19 +600,19 @@ army = {
 	name="2nd Army"
 	location=2410
 	regiment = {
+		name="1st Ouro Preto Infantry"
+		type=infantry
+		home=2441
+	}
+	regiment = {
 		name="2nd Ouro Preto Infantry"
 		type=infantry
 		home=2441
 	}
 	regiment = {
-		name="4th Rio de Janeiro Infantry"
+		name="3rd Rio de Janeiro Infantry"
 		type=infantry
 		home=2447
-	}
-	regiment = {
-		name="3rd Ouro Preto Infantry"
-		type=infantry
-		home=2441
 	}
 	regiment = {
 		name="4th Ouro Preto Artillery"
@@ -620,9 +620,9 @@ army = {
 		home=2441
 	}
 	regiment = {
-		name="6th Ouro Preto Artillery"
+		name="1st Recife Artillery"
 		type=artillery
-		home=2441
+		home=2432
 	}
 }
 
@@ -630,9 +630,9 @@ army = {
 	name="1st Army"
 	location=2422
 	regiment = {
-		name="1st Juazeiro Infantry"
+		name="3rd Ouro Preto Infantry"
 		type=infantry
-		home=2437
+		home=2441
 	}
 	regiment = {
 		name="4th Ouro Preto Infantry"
@@ -653,15 +653,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Fortaleza Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Rio de Janeiro Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Paraíba Clipper Transport"
+		name="1st Salvador da Bahia Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -669,11 +661,23 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Fortaleza Clipper Transport"
+		name="2nd Macapá Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Belém Clipper Transport"
+		name="1st Paraíba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Salvador da Bahia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rio de Janeiro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Paraíba Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -681,11 +685,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Macapá Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Belém Clipper Transport"
+		name="3rd Paraíba Clipper Transport"
 		type=clipper_transport
 	}
 }

@@ -511,24 +511,24 @@ army = {
 		home=465
 	}
 	regiment = {
-		name="1st Chambéry Infantry"
-		type=infantry
-		home=466
-	}
-	regiment = {
-		name="1st Sitten Infantry"
-		type=infantry
-		home=609
-	}
-	regiment = {
 		name="1st Geneva Infantry"
 		type=infantry
 		home=607
 	}
 	regiment = {
-		name="2nd Geneva Infantry"
+		name="1st Lugano Infantry"
 		type=infantry
-		home=607
+		home=2568
+	}
+	regiment = {
+		name="1st Chambéry Infantry"
+		type=infantry
+		home=466
+	}
+	regiment = {
+		name="1st Basel Infantry"
+		type=infantry
+		home=604
 	}
 	regiment = {
 		name="1st Lyon Infantry"
@@ -541,14 +541,14 @@ army = {
 		home=451
 	}
 	regiment = {
-		name="1st Lugano Artillery"
-		type=artillery
-		home=2568
-	}
-	regiment = {
 		name="2nd Lyon Artillery"
 		type=artillery
 		home=451
+	}
+	regiment = {
+		name="1st Lucerne Artillery"
+		type=artillery
+		home=606
 	}
 	regiment = {
 		name="1st Basel Artillery"
@@ -559,9 +559,9 @@ army = {
 
 army = {
 	name="1st Army"
-	location=2568
+	location=611
 	regiment = {
-		name="3rd Geneva Infantry"
+		name="2nd Geneva Infantry"
 		type=infantry
 		home=607
 	}
@@ -576,9 +576,9 @@ army = {
 		home=605
 	}
 	regiment = {
-		name="1st Neuchâtel Infantry"
+		name="3rd Geneva Infantry"
 		type=infantry
-		home=608
+		home=607
 	}
 	regiment = {
 		name="1st Zurich Infantry"
@@ -606,9 +606,9 @@ army = {
 	name="Armata di Bresse"
 	location=611
 	regiment = {
-		name="1st Lucerne Infantry"
+		name="2nd Lyon Infantry"
 		type=infantry
-		home=606
+		home=451
 	}
 	regiment = {
 		name="2nd Besançon Infantry"
@@ -616,9 +616,9 @@ army = {
 		home=432
 	}
 	regiment = {
-		name="3rd Lyon Artillery"
+		name="1st Lons Artillery"
 		type=artillery
-		home=451
+		home=433
 	}
 	regiment = {
 		name="2nd Basel Artillery"
@@ -626,14 +626,14 @@ army = {
 		home=604
 	}
 	regiment = {
-		name="1st Lons Infantry"
+		name="2nd Basel Infantry"
 		type=infantry
-		home=433
+		home=604
 	}
 	regiment = {
-		name="2nd Bern Artillery"
+		name="1st Neuchâtel Artillery"
 		type=artillery
-		home=605
+		home=608
 	}
 }
 

@@ -558,7 +558,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Sawira Man'o'war"
+		name="3rd Agadir Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -566,8 +566,16 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="3rd Agadir Man'o'war"
+		name="4th Agadir Man'o'war"
 		type=manowar
+	}
+	ship = {
+		name="1st Agadir Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Casablanca Clipper Transport"
+		type=clipper_transport
 	}
 	ship = {
 		name="1st Safi Clipper Transport"
@@ -579,14 +587,6 @@ navy = {
 	}
 	ship = {
 		name="2nd Ifni Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Sawira Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Agadir Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -649,19 +649,19 @@ navy = {
 	name="4th Fleet"
 	location=2924
 	ship = {
-		name="1st Sawira Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Sawira Frigate"
-		type=frigate
-	}
-	ship = {
 		name="1st Ifni Frigate"
 		type=frigate
 	}
 	ship = {
+		name="2nd Ifni Frigate"
+		type=frigate
+	}
+	ship = {
 		name="1st Casablanca Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Agadir Frigate"
 		type=frigate
 	}
 }

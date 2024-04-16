@@ -7,7 +7,7 @@ religion = sunni
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_productivity
-literacy = 0.114308
+literacy = 0.0929127
 
 
 # Social Reforms
@@ -47,7 +47,7 @@ nonstate_consciousness= 0.000656013
 
 # Technologies
 flintlock_rifles = 1
-land_reform=yes_land_reform
+land_reform=no_land_reform
 admin_reform=no_admin_reform
 finance_reform=no_finance_reform
 education_reform=no_education_reform

@@ -511,7 +511,7 @@ leader = {
 #Armies
 army = {
 	name="1st Army"
-	location=2405
+	location=2407
 	regiment = {
 		name="1st Maracaibo Infantry"
 		type=infantry
@@ -543,9 +543,9 @@ army = {
 		home=2270
 	}
 	regiment = {
-		name="1st Valera Artillery"
+		name="2nd Maracaibo Artillery"
 		type=artillery
-		home=2271
+		home=2270
 	}
 }
 

@@ -24,7 +24,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 8288
+		size= 7358
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 103
+		size= 1033
 	}
 
 	bureaucrats=
@@ -487,7 +487,7 @@
 	{
 		culture = quechua
 		religion = catholic
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -529,7 +529,7 @@
 	{
 		culture = quechua
 		religion = catholic
-		size= 13083
+		size= 9983
 	}
 
 	soldiers=
@@ -1286,7 +1286,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 1033
+		size= 92
 	}
 
 	artisans=
@@ -1328,7 +1328,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 1933
+		size= 2874
 	}
 
 }
@@ -2264,7 +2264,7 @@
 	{
 		culture = maranon
 		religion = inti
-		size= 87
+		size= 1033
 	}
 
 	artisans=
@@ -2306,7 +2306,7 @@
 	{
 		culture = maranon
 		religion = inti
-		size= 4208
+		size= 3262
 	}
 
 	soldiers=

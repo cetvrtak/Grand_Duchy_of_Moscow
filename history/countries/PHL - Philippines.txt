@@ -43,7 +43,7 @@ consciousness = 4
 nonstate_consciousness= 2
 
 # Technologies
-land_reform=yes_land_reform
+land_reform=no_land_reform
 admin_reform=no_admin_reform
 finance_reform=no_finance_reform
 education_reform=no_education_reform
