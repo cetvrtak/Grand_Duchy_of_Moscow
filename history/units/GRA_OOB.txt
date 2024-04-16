@@ -527,11 +527,11 @@ navy = {
 	name="Balaeric Sea Squadron"
 	location=2924
 	ship = {
-		name="1st Faro Frigate"
+		name="1st Cape Verde Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Cape Verde Frigate"
+		name="2nd Cape Verde Frigate"
 		type=frigate
 	}
 }
@@ -545,9 +545,9 @@ army = {
 		home=511
 	}
 	regiment = {
-		name="1st Faro Infantry"
+		name="2nd Huelva Infantry"
 		type=infantry
-		home=527
+		home=511
 	}
 }
 
@@ -559,11 +559,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Faro Clipper Transport"
+		name="1st São Tomé Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Faro Clipper Transport"
+		name="2nd Faro Clipper Transport"
 		type=clipper_transport
 	}
 }

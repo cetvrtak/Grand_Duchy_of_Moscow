@@ -689,70 +689,80 @@ army = {
 	name="Army of the Baltic"
 	location=360
 	regiment = {
-		name="1st Moscow Infantry"
+		name="1st Peremyshl Infantry"
 		type=infantry
-		home=1008
+		home=1015
 	}
 	regiment = {
-		name="2nd Moscow Infantry"
+		name="1st Staritsa Infantry"
 		type=infantry
-		home=1008
+		home=1000
 	}
 	regiment = {
-		name="1st Borodino Infantry"
+		name="1st Gdov Infantry"
 		type=infantry
-		home=1009
+		home=997
 	}
 	regiment = {
-		name="2nd Borodino Infantry"
+		name="2nd Peremyshl Infantry"
 		type=infantry
-		home=1009
+		home=1015
 	}
 	regiment = {
-		name="3rd Moscow Infantry"
+		name="1st Stavropol Infantry"
 		type=infantry
-		home=1008
+		home=1050
 	}
 	regiment = {
-		name="1st Luga Infantry"
+		name="1st Arkhangelsk Infantry"
 		type=infantry
-		home=996
+		home=981
 	}
 	regiment = {
-		name="1st Novgorod Artillery"
+		name="1st Daugavpils Artillery"
 		type=artillery
-		home=1003
+		home=356
 	}
 	regiment = {
-		name="1st Minsk Artillery"
+		name="1st Chernigov Artillery"
 		type=artillery
-		home=718
+		home=962
 	}
 	regiment = {
-		name="1st Valmiera Artillery"
+		name="1st Stavropol Artillery"
 		type=artillery
-		home=355
+		home=1050
 	}
 	regiment = {
-		name="1st Bryansk Artillery"
+		name="1st Poltava Artillery"
 		type=artillery
-		home=1016
+		home=963
 	}
 	regiment = {
-		name="1st Voronezh Infantry"
+		name="1st Mogilev Infantry"
 		type=infantry
-		home=1019
-	}
-	regiment = {
-		name="1st Mogilev Artillery"
-		type=artillery
 		home=948
+	}
+	regiment = {
+		name="3rd Orel Artillery"
+		type=artillery
+		home=1017
 	}
 }
 
 army = {
 	name="Army of Astrakhan"
 	location=1184
+	regiment = {
+		name="1st St Petersburg Infantry"
+		type=infantry
+		home=994
+	}
+	regiment = {
+		name="1st Moscow Infantry"
+		type=infantry
+		home=1008
+	}
 	regiment = {
 		name="1st Elista Infantry"
 		type=infantry
@@ -764,55 +774,45 @@ army = {
 		home=1046
 	}
 	regiment = {
-		name="1st Astrakhan Infantry"
-		type=infantry
-		home=1036
-	}
-	regiment = {
-		name="1st St Petersburg Infantry"
-		type=infantry
-		home=994
-	}
-	regiment = {
 		name="1st Poltava Infantry"
 		type=infantry
 		home=963
 	}
 	regiment = {
-		name="1st Stavropol Infantry"
+		name="1st Astrakhan Infantry"
 		type=infantry
-		home=1050
-	}
-	regiment = {
-		name="1st Stavropol Artillery"
-		type=artillery
-		home=1050
-	}
-	regiment = {
-		name="1st Ekaterinburg Artillery"
-		type=artillery
-		home=1058
-	}
-	regiment = {
-		name="1st Poltava Artillery"
-		type=artillery
-		home=963
-	}
-	regiment = {
-		name="1st Glasov Artillery"
-		type=artillery
-		home=1029
+		home=1036
 	}
 	regiment = {
 		name="1st Orsk Artillery"
 		type=artillery
 		home=1060
 	}
+	regiment = {
+		name="1st Verkhoturye Artillery"
+		type=artillery
+		home=2685
+	}
+	regiment = {
+		name="1st St Petersburg Artillery"
+		type=artillery
+		home=994
+	}
+	regiment = {
+		name="2nd Poltava Artillery"
+		type=artillery
+		home=963
+	}
+	regiment = {
+		name="4th Orel Artillery"
+		type=artillery
+		home=1017
+	}
 }
 
 navy = {
 	name="Baltic Squadron"
-	location=2709
+	location=2708
 	ship = {
 		name="Kulevtcha"
 		type=frigate
@@ -855,114 +855,29 @@ army = {
 	name="Army of Crimea"
 	location=2612
 	regiment = {
-		name="3rd Borodino Infantry"
-		type=infantry
-		home=1009
-	}
-	regiment = {
-		name="1st Kirensk Infantry"
-		type=infantry
-		home=2676
-	}
-	regiment = {
-		name="4th Moscow Infantry"
+		name="2nd Moscow Infantry"
 		type=infantry
 		home=1008
 	}
 	regiment = {
-		name="4th Borodino Infantry"
+		name="1st Borodino Infantry"
 		type=infantry
 		home=1009
 	}
 	regiment = {
-		name="2nd Poltava Artillery"
-		type=artillery
-		home=963
-	}
-	regiment = {
-		name="3rd Poltava Artillery"
-		type=artillery
-		home=963
-	}
-	regiment = {
-		name="1st Chelyabinsk Artillery"
-		type=artillery
-		home=1059
-	}
-	regiment = {
-		name="1st Orel Artillery"
-		type=artillery
-		home=1017
-	}
-	regiment = {
-		name="1st Yaroslavl Infantry"
+		name="2nd Borodino Infantry"
 		type=infantry
-		home=1001
+		home=1009
 	}
 	regiment = {
-		name="1st Cherkassy Artillery"
-		type=artillery
-		home=961
-	}
-}
-
-army = {
-	name="Army of Finland"
-	location=343
-	regiment = {
-		name="1st Pinsk Infantry"
-		type=infantry
-		home=940
-	}
-	regiment = {
-		name="1st Borovichi Artillery"
-		type=artillery
-		home=1005
-	}
-}
-
-army = {
-	name="Army of Poland"
-	location=718
-	regiment = {
-		name="5th Moscow Infantry"
+		name="3rd Moscow Infantry"
 		type=infantry
 		home=1008
 	}
 	regiment = {
-		name="1st Staritsa Infantry"
-		type=infantry
-		home=1000
-	}
-	regiment = {
-		name="2nd Staritsa Infantry"
-		type=infantry
-		home=1000
-	}
-	regiment = {
-		name="1st Kaluga Infantry"
-		type=infantry
-		home=1010
-	}
-	regiment = {
-		name="5th Borodino Infantry"
-		type=infantry
-		home=1009
-	}
-	regiment = {
-		name="1st St Petersburg Artillery"
+		name="1st Ufa Artillery"
 		type=artillery
-		home=994
-	}
-	regiment = {
-		name="1st Vladimir Artillery"
-		type=artillery
-		home=1013
-	}
-	regiment = {
-		name="1st Tver Artillery"
-		type=artillery
-		home=998
+		home=1042
 	}
 	regiment = {
 		name="2nd St Petersburg Artillery"
@@ -970,14 +885,99 @@ army = {
 		home=994
 	}
 	regiment = {
-		name="1st Ryazan Infantry"
+		name="1st Ekaterinburg Artillery"
+		type=artillery
+		home=1058
+	}
+	regiment = {
+		name="1st Tula Artillery"
+		type=artillery
+		home=1011
+	}
+	regiment = {
+		name="1st Orsha Infantry"
 		type=infantry
-		home=1012
+		home=944
+	}
+	regiment = {
+		name="6th Orel Artillery"
+		type=artillery
+		home=1017
+	}
+}
+
+army = {
+	name="Army of Finland"
+	location=340
+	regiment = {
+		name="1st Proskorov Infantry"
+		type=infantry
+		home=955
+	}
+	regiment = {
+		name="1st Vladimir Artillery"
+		type=artillery
+		home=1013
+	}
+}
+
+army = {
+	name="Army of Poland"
+	location=718
+	regiment = {
+		name="1st Kaluga Infantry"
+		type=infantry
+		home=1010
+	}
+	regiment = {
+		name="1st Tula Infantry"
+		type=infantry
+		home=1011
+	}
+	regiment = {
+		name="1st Tver Infantry"
+		type=infantry
+		home=998
+	}
+	regiment = {
+		name="2nd Staritsa Infantry"
+		type=infantry
+		home=1000
+	}
+	regiment = {
+		name="1st Vladimir Infantry"
+		type=infantry
+		home=1013
+	}
+	regiment = {
+		name="1st Borodino Artillery"
+		type=artillery
+		home=1009
+	}
+	regiment = {
+		name="1st Moscow Artillery"
+		type=artillery
+		home=1008
 	}
 	regiment = {
 		name="1st Yaroslavl Artillery"
 		type=artillery
 		home=1001
+	}
+	regiment = {
+		name="2nd Borodino Artillery"
+		type=artillery
+		home=1009
+	}
+	regiment = {
+		name="2nd Rovne Infantry"
+		type=infantry
+		home=956
+	}
+	regiment = {
+		name="1st Tver Artillery"
+		type=artillery
+		home=998
 	}
 }
 
@@ -1005,50 +1005,10 @@ army = {
 		home=994
 	}
 	regiment = {
-		name="1st Tula Infantry"
-		type=infantry
-		home=1011
-	}
-	regiment = {
-		name="2nd Tula Infantry"
-		type=infantry
-		home=1011
-	}
-	regiment = {
 		name="1st Luhansk Infantry"
 		type=infantry
 		home=980
 	}
-	regiment = {
-		name="1st Ventspils Artillery"
-		type=artillery
-		home=358
-	}
-	regiment = {
-		name="1st  Artillery"
-		type=artillery
-		home=353
-	}
-	regiment = {
-		name="1st Riga Artillery"
-		type=artillery
-		home=354
-	}
-	regiment = {
-		name="2nd Valmiera Artillery"
-		type=artillery
-		home=355
-	}
-	regiment = {
-		name="1st Panevezys Artillery"
-		type=artillery
-		home=363
-	}
-}
-
-army = {
-	name="1st Army"
-	location=1105
 	regiment = {
 		name="1st Nizhni Novgorod Infantry"
 		type=infantry
@@ -1060,14 +1020,44 @@ army = {
 		home=980
 	}
 	regiment = {
+		name="1st Riga Artillery"
+		type=artillery
+		home=354
+	}
+	regiment = {
+		name="1st Panevezys Artillery"
+		type=artillery
+		home=363
+	}
+	regiment = {
+		name="1st Ventspils Artillery"
+		type=artillery
+		home=358
+	}
+	regiment = {
+		name="2nd Panevezys Artillery"
+		type=artillery
+		home=363
+	}
+	regiment = {
+		name="1st Siauliai Artillery"
+		type=artillery
+		home=364
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1105
+	regiment = {
+		name="2nd Poltava Infantry"
+		type=infantry
+		home=963
+	}
+	regiment = {
 		name="1st Kharkov Infantry"
 		type=infantry
 		home=978
-	}
-	regiment = {
-		name="1st Chernigov Infantry"
-		type=infantry
-		home=962
 	}
 	regiment = {
 		name="2nd Nizhni Novgorod Infantry"
@@ -1085,45 +1075,45 @@ army = {
 		home=1055
 	}
 	regiment = {
+		name="1st Chernigov Infantry"
+		type=infantry
+		home=962
+	}
+	regiment = {
+		name="2nd Tula Infantry"
+		type=infantry
+		home=1011
+	}
+	regiment = {
+		name="2nd Daugavpils Artillery"
+		type=artillery
+		home=356
+	}
+	regiment = {
 		name="1st Velikiye Luki Artillery"
 		type=artillery
 		home=1007
 	}
 	regiment = {
-		name="1st Gdov Artillery"
+		name="2nd Velikiye Luki Artillery"
 		type=artillery
-		home=997
+		home=1007
 	}
 	regiment = {
-		name="1st Polotsk Artillery"
+		name="1st Pskov Artillery"
 		type=artillery
-		home=946
+		home=1006
 	}
 	regiment = {
-		name="2nd Gdov Artillery"
+		name="7th Orel Artillery"
 		type=artillery
-		home=997
-	}
-	regiment = {
-		name="1st Ryazan Artillery"
-		type=artillery
-		home=1012
+		home=1017
 	}
 }
 
 army = {
 	name="3rd Army"
 	location=2612
-	regiment = {
-		name="2nd Chernigov Infantry"
-		type=infantry
-		home=962
-	}
-	regiment = {
-		name="3rd Tula Infantry"
-		type=infantry
-		home=1011
-	}
 	regiment = {
 		name="2nd Grozny Infantry"
 		type=infantry
@@ -1135,7 +1125,7 @@ army = {
 		home=980
 	}
 	regiment = {
-		name="2nd Poltava Infantry"
+		name="3rd Poltava Infantry"
 		type=infantry
 		home=963
 	}
@@ -1150,18 +1140,13 @@ army = {
 		home=1010
 	}
 	regiment = {
-		name="4th Poltava Artillery"
-		type=artillery
+		name="4th Poltava Infantry"
+		type=infantry
 		home=963
 	}
 	regiment = {
-		name="2nd Novgorod Artillery"
-		type=artillery
-		home=1003
-	}
-	regiment = {
-		name="1st Kharkov Artillery"
-		type=artillery
+		name="3rd Kharkov Infantry"
+		type=infantry
 		home=978
 	}
 	regiment = {
@@ -1170,9 +1155,24 @@ army = {
 		home=339
 	}
 	regiment = {
-		name="1st Tikhvin Artillery"
+		name="2nd Chernigov Artillery"
 		type=artillery
-		home=1004
+		home=962
+	}
+	regiment = {
+		name="2nd Viipuri Artillery"
+		type=artillery
+		home=339
+	}
+	regiment = {
+		name="1st Novgorod Artillery"
+		type=artillery
+		home=1003
+	}
+	regiment = {
+		name="8th Orel Artillery"
+		type=artillery
+		home=1017
 	}
 }
 
@@ -1180,14 +1180,19 @@ army = {
 	name="Army of Georgia"
 	location=1091
 	regiment = {
-		name="3rd Chernigov Infantry"
+		name="1st Agdam Infantry"
 		type=infantry
-		home=962
+		home=1106
 	}
 	regiment = {
-		name="4th Tula Infantry"
+		name="3rd Tula Infantry"
 		type=infantry
 		home=1011
+	}
+	regiment = {
+		name="1st Batum Infantry"
+		type=infantry
+		home=1096
 	}
 	regiment = {
 		name="3rd Grozny Infantry"
@@ -1195,19 +1200,19 @@ army = {
 		home=1055
 	}
 	regiment = {
-		name="1st Peremyshl Infantry"
+		name="1st Bryansk Infantry"
 		type=infantry
-		home=1015
+		home=1016
 	}
 	regiment = {
-		name="1st Tver Infantry"
-		type=infantry
-		home=998
-	}
-	regiment = {
-		name="1st Kutaisi Artillery"
+		name="1st Grodno Artillery"
 		type=artillery
-		home=1092
+		home=936
+	}
+	regiment = {
+		name="1st Orel Artillery"
+		type=artillery
+		home=1017
 	}
 	regiment = {
 		name="1st Pinsk Artillery"
@@ -1215,24 +1220,19 @@ army = {
 		home=940
 	}
 	regiment = {
-		name="2nd Minsk Artillery"
+		name="1st Minsk Artillery"
 		type=artillery
 		home=718
 	}
 	regiment = {
-		name="2nd Kutaisi Artillery"
+		name="1st Kutaisi Artillery"
 		type=artillery
 		home=1092
 	}
 	regiment = {
-		name="3rd Minsk Artillery"
-		type=artillery
-		home=718
-	}
-	regiment = {
-		name="1st Agdam Infantry"
+		name="1st Kovel Infantry"
 		type=infantry
-		home=1106
+		home=957
 	}
 }
 
@@ -1268,7 +1268,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Grosseto Frigate"
+		name="2nd Khalkis Frigate"
 		type=frigate
 	}
 }
@@ -1277,9 +1277,19 @@ army = {
 	name="Russian Imperial Army"
 	location=994
 	regiment = {
-		name="1st Novgorod Infantry"
+		name="4th Moscow Infantry"
 		type=infantry
-		home=1003
+		home=1008
+	}
+	regiment = {
+		name="3rd Borodino Infantry"
+		type=infantry
+		home=1009
+	}
+	regiment = {
+		name="2nd Tver Infantry"
+		type=infantry
+		home=998
 	}
 	regiment = {
 		name="4th Luhansk Infantry"
@@ -1287,9 +1297,9 @@ army = {
 		home=980
 	}
 	regiment = {
-		name="1st Viipuri Infantry"
+		name="1st Novgorod Infantry"
 		type=infantry
-		home=339
+		home=1003
 	}
 	regiment = {
 		name="1st Kazan Infantry"
@@ -1297,13 +1307,18 @@ army = {
 		home=1030
 	}
 	regiment = {
-		name="1st Bryansk Infantry"
-		type=infantry
+		name="1st Bryansk Artillery"
+		type=artillery
 		home=1016
 	}
 	regiment = {
-		name="4th Nizhni Novgorod Infantry"
-		type=infantry
+		name="1st Tikhvin Artillery"
+		type=artillery
+		home=1004
+	}
+	regiment = {
+		name="1st Nizhni Novgorod Artillery"
+		type=artillery
 		home=1020
 	}
 	regiment = {
@@ -1312,24 +1327,9 @@ army = {
 		home=1017
 	}
 	regiment = {
-		name="1st Kaluga Artillery"
+		name="9th Orel Artillery"
 		type=artillery
-		home=1010
-	}
-	regiment = {
-		name="1st Luga Artillery"
-		type=artillery
-		home=996
-	}
-	regiment = {
-		name="1st Peremyshl Artillery"
-		type=artillery
-		home=1015
-	}
-	regiment = {
-		name="1st Voronezh Artillery"
-		type=artillery
-		home=1019
+		home=1017
 	}
 }
 
@@ -1337,19 +1337,19 @@ army = {
 	name="Black Marine Corps"
 	location=355
 	regiment = {
-		name="1st Jelgava Infantry"
+		name="1st Valmiera Infantry"
 		type=infantry
-		home=357
+		home=355
 	}
 	regiment = {
-		name="1st Ivanovo Infantry"
+		name="3rd Kaluga Infantry"
 		type=infantry
-		home=1022
+		home=1010
 	}
 	regiment = {
-		name="1st Narva Infantry"
+		name="2nd Novgorod Infantry"
 		type=infantry
-		home=350
+		home=1003
 	}
 	regiment = {
 		name="1st Reval Infantry"
@@ -1357,19 +1357,24 @@ army = {
 		home=349
 	}
 	regiment = {
-		name="1st Valmiera Infantry"
+		name="1st Narva Infantry"
+		type=infantry
+		home=350
+	}
+	regiment = {
+		name="2nd Valmiera Infantry"
 		type=infantry
 		home=355
 	}
 	regiment = {
-		name="2nd Jelgava Infantry"
-		type=infantry
-		home=357
+		name="1st Sarapul Artillery"
+		type=artillery
+		home=1031
 	}
 	regiment = {
-		name="1st Vitebsk Artillery"
+		name="2nd Tula Artillery"
 		type=artillery
-		home=945
+		home=1011
 	}
 	regiment = {
 		name="1st Ivanovo Artillery"
@@ -1377,19 +1382,14 @@ army = {
 		home=1022
 	}
 	regiment = {
-		name="1st Chistopol Artillery"
+		name="1st Luhansk Artillery"
 		type=artillery
-		home=1032
+		home=980
 	}
 	regiment = {
-		name="1st Nizhni Novgorod Artillery"
+		name="3rd Tula Artillery"
 		type=artillery
-		home=1020
-	}
-	regiment = {
-		name="1st Slutsk Artillery"
-		type=artillery
-		home=941
+		home=1011
 	}
 }
 
@@ -1412,14 +1412,14 @@ army = {
 	name="4th Army"
 	location=336
 	regiment = {
-		name="1st Vladimir Infantry"
+		name="3rd Staritsa Infantry"
 		type=infantry
-		home=1013
+		home=1000
 	}
 	regiment = {
-		name="1st Mozyr Artillery"
+		name="2nd Yaroslavl Artillery"
 		type=artillery
-		home=942
+		home=1001
 	}
 }
 
@@ -1427,7 +1427,7 @@ army = {
 	name="6th Army"
 	location=338
 	regiment = {
-		name="2nd Tver Infantry"
+		name="3rd Tver Infantry"
 		type=infantry
 		home=998
 	}
@@ -1437,39 +1437,29 @@ army = {
 	name="Army of the Caucasus"
 	location=1054
 	regiment = {
-		name="5th Luhansk Infantry"
-		type=infantry
-		home=980
-	}
-	regiment = {
-		name="3rd Poltava Infantry"
+		name="5th Poltava Infantry"
 		type=infantry
 		home=963
 	}
 	regiment = {
-		name="3rd Kharkov Infantry"
+		name="4th Kharkov Infantry"
 		type=infantry
 		home=978
 	}
 	regiment = {
-		name="4th Chernigov Infantry"
+		name="2nd Chernigov Infantry"
 		type=infantry
 		home=962
 	}
 	regiment = {
-		name="1st Voronezh Cavalry"
-		type=cavalry
+		name="1st Voronezh Infantry"
+		type=infantry
 		home=1019
 	}
 	regiment = {
-		name="1st Elista Artillery"
-		type=artillery
-		home=1041
-	}
-	regiment = {
-		name="1st Grozny Artillery"
-		type=artillery
-		home=1055
+		name="1st Yakutsk Cavalry"
+		type=cavalry
+		home=2648
 	}
 	regiment = {
 		name="1st Pyatigorsk Artillery"
@@ -1477,24 +1467,34 @@ army = {
 		home=1056
 	}
 	regiment = {
+		name="1st Elista Artillery"
+		type=artillery
+		home=1041
+	}
+	regiment = {
 		name="1st Kazan Artillery"
 		type=artillery
 		home=1030
 	}
 	regiment = {
-		name="1st Pokrovsk Infantry"
+		name="1st Grozny Artillery"
+		type=artillery
+		home=1055
+	}
+	regiment = {
+		name="1st Zhitomir Infantry"
 		type=infantry
-		home=2672
+		home=960
 	}
 	regiment = {
-		name="1st Vinnitsa Cavalry"
+		name="1st Ryazan Cavalry"
 		type=cavalry
-		home=954
+		home=1012
 	}
 	regiment = {
-		name="1st Vyazma Cavalry"
+		name="1st Tsaritsyn Cavalry"
 		type=cavalry
-		home=1014
+		home=1039
 	}
 }
 
@@ -1626,27 +1626,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Riga Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Kerch Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Riga Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Russian Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Jelgava Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Catanzaro Clipper Transport"
+		name="1st Russian Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -1654,67 +1634,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Riga Clipper Transport"
+		name="1st Ventspils Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Grosseto Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="4th Riga Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="5th Burgas Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Valmiera Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Ventspils Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Silistre Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Mugla Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Ventspils Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Izmit Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="4th Russian Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Nikolaev Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="5th Riga Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Mugla Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Liepaja Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="6th Riga Clipper Transport"
+		name="2nd Russian Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -1726,11 +1650,87 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Polygyros Clipper Transport"
+		name="5th Savona Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Athens Clipper Transport"
+		name="1st Memel Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mugla Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Jelgava Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Liepaja Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Danzig Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Riga Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Riga Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Gallipoli Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Gallipoli Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Athens Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Jelgava Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Pärnu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Jelgava Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Silistre Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Amfissa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kavala Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Lübeck Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Mugla Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Narva Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Dedeagatch Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -1823,51 +1823,51 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="2nd Valmiera Clipper Transport"
+		name="1st Beirut Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Sidon Clipper Transport"
+		name="3rd Burgas Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Kalamata Clipper Transport"
+		name="3rd Üsküdar Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Corinth Clipper Transport"
+		name="4th Athens Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Myteline Clipper Transport"
+		name="1st Trablos Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Sinop Clipper Transport"
+		name="2nd Sidon Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Gerona Clipper Transport"
+		name="3rd Silistre Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Tulcea Clipper Transport"
+		name="1st Kerch Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Mugla Clipper Transport"
+		name="2nd Narva Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="4th Mugla Clipper Transport"
+		name="2nd Grosseto Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Trablos Clipper Transport"
+		name="1st Constanta Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Trabzon Clipper Transport"
+		name="4th Üsküdar Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -1911,11 +1911,16 @@ navy = {
 
 army = {
 	name="Army of Buryatia"
-	location=938
+	location=936
 	regiment = {
-		name="1st Kansk Infantry"
+		name="1st Pokrovsk Infantry"
 		type=infantry
-		home=2701
+		home=2672
+	}
+	regiment = {
+		name="1st Orsk Infantry"
+		type=infantry
+		home=1060
 	}
 	regiment = {
 		name="1st Vinnitsa Infantry"
@@ -1928,11 +1933,6 @@ army = {
 		home=1017
 	}
 	regiment = {
-		name="1st Ekaterinburg Infantry"
-		type=infantry
-		home=1058
-	}
-	regiment = {
 		name="1st Kiev Infantry"
 		type=infantry
 		home=958
@@ -1943,9 +1943,14 @@ army = {
 		home=1081
 	}
 	regiment = {
-		name="1st Minusk Artillery"
+		name="1st Kansk Artillery"
 		type=artillery
-		home=2691
+		home=2701
+	}
+	regiment = {
+		name="1st Vinnitsa Artillery"
+		type=artillery
+		home=954
 	}
 	regiment = {
 		name="1st Nyurba Artillery"
@@ -1953,29 +1958,24 @@ army = {
 		home=2650
 	}
 	regiment = {
-		name="2nd Proskorov Artillery"
+		name="1st Zhitomir Artillery"
 		type=artillery
-		home=955
+		home=960
 	}
 	regiment = {
-		name="1st Kuznetsk Artillery"
-		type=artillery
-		home=2698
-	}
-	regiment = {
-		name="1st Tambov Infantry"
+		name="1st Cherkassy Infantry"
 		type=infantry
-		home=1025
+		home=961
 	}
 	regiment = {
-		name="1st Jingkiri Cavalry"
+		name="1st Valmiera Cavalry"
 		type=cavalry
-		home=2697
+		home=355
 	}
 	regiment = {
-		name="1st Rovne Cavalry"
+		name="2nd Orel Cavalry"
 		type=cavalry
-		home=956
+		home=1017
 	}
 }
 
@@ -1988,59 +1988,59 @@ army = {
 		home=1030
 	}
 	regiment = {
-		name="1st Chistopol Infantry"
+		name="1st Rovne Infantry"
 		type=infantry
-		home=1032
-	}
-	regiment = {
-		name="2nd Chistopol Infantry"
-		type=infantry
-		home=1032
-	}
-	regiment = {
-		name="1st Chistopol Cavalry"
-		type=cavalry
-		home=1032
-	}
-	regiment = {
-		name="1st Zhitomir Artillery"
-		type=artillery
-		home=960
-	}
-	regiment = {
-		name="1st Vetluga Artillery"
-		type=artillery
-		home=1027
-	}
-	regiment = {
-		name="1st Rovne Artillery"
-		type=artillery
 		home=956
 	}
 	regiment = {
-		name="2nd Vetluga Artillery"
-		type=artillery
-		home=1027
-	}
-	regiment = {
-		name="4th Kharkov Infantry"
+		name="1st Sarapul Infantry"
 		type=infantry
-		home=978
+		home=1031
 	}
 	regiment = {
-		name="1st Orel Cavalry"
+		name="1st Ivanovo Cavalry"
 		type=cavalry
-		home=1017
+		home=1022
 	}
 	regiment = {
-		name="1st Orsha Cavalry"
-		type=cavalry
-		home=944
+		name="2nd Nizhni Novgorod Artillery"
+		type=artillery
+		home=1020
+	}
+	regiment = {
+		name="3rd Nizhni Novgorod Artillery"
+		type=artillery
+		home=1020
 	}
 	regiment = {
 		name="1st Kovel Artillery"
 		type=artillery
 		home=957
+	}
+	regiment = {
+		name="1st Cherkassy Artillery"
+		type=artillery
+		home=961
+	}
+	regiment = {
+		name="1st Chistopol Infantry"
+		type=infantry
+		home=1032
+	}
+	regiment = {
+		name="1st Sarapul Cavalry"
+		type=cavalry
+		home=1031
+	}
+	regiment = {
+		name="1st Tambov Cavalry"
+		type=cavalry
+		home=1025
+	}
+	regiment = {
+		name="5th Orel Artillery"
+		type=artillery
+		home=1017
 	}
 }
 
@@ -2048,69 +2048,69 @@ army = {
 	name="Army of Ukraine"
 	location=2702
 	regiment = {
-		name="1st Vyterga Infantry"
+		name="5th Kharkov Infantry"
 		type=infantry
-		home=993
+		home=978
 	}
 	regiment = {
-		name="5th Tula Infantry"
+		name="1st Ryazan Infantry"
 		type=infantry
-		home=1011
+		home=1012
 	}
 	regiment = {
-		name="1st Kovel Infantry"
+		name="3rd Chernigov Infantry"
 		type=infantry
-		home=957
-	}
-	regiment = {
-		name="3rd Staritsa Infantry"
-		type=infantry
-		home=1000
-	}
-	regiment = {
-		name="1st Cherkassy Infantry"
-		type=infantry
-		home=961
-	}
-	regiment = {
-		name="1st Onega Infantry"
-		type=infantry
-		home=2588
-	}
-	regiment = {
-		name="1st Kiev Cavalry"
-		type=cavalry
-		home=958
-	}
-	regiment = {
-		name="1st Chernigov Artillery"
-		type=artillery
 		home=962
 	}
 	regiment = {
-		name="2nd Tver Artillery"
-		type=artillery
-		home=998
+		name="2nd Voronezh Infantry"
+		type=infantry
+		home=1019
 	}
 	regiment = {
-		name="2nd Bryansk Artillery"
-		type=artillery
-		home=1016
+		name="1st Tambov Infantry"
+		type=infantry
+		home=1025
 	}
 	regiment = {
-		name="1st Ufa Artillery"
-		type=artillery
-		home=1042
-	}
-	regiment = {
-		name="1st Rzhev Cavalry"
-		type=cavalry
+		name="1st Rzhev Infantry"
+		type=infantry
 		home=999
 	}
 	regiment = {
-		name="1st Zhitomir Cavalry"
+		name="1st Orel Cavalry"
 		type=cavalry
-		home=960
+		home=1017
+	}
+	regiment = {
+		name="1st Luga Artillery"
+		type=artillery
+		home=996
+	}
+	regiment = {
+		name="1st Kiev Artillery"
+		type=artillery
+		home=958
+	}
+	regiment = {
+		name="1st Vyazma Artillery"
+		type=artillery
+		home=1014
+	}
+	regiment = {
+		name="1st Perm Artillery"
+		type=artillery
+		home=1026
+	}
+	regiment = {
+		name="1st Voronezh Cavalry"
+		type=cavalry
+		home=1019
+	}
+	regiment = {
+		name="1st Bryansk Cavalry"
+		type=cavalry
+		home=1016
 	}
 }
 

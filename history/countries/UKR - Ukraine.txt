@@ -1,7 +1,8 @@
 capital = 662
-primary_culture = ukrainian
+primary_culture = dummy
 culture = kishinyov
 culture = tatar
+culture = ukrainian
 culture = zzz_religion_orthodox
 religion = orthodox
 government = absolute_monarchy

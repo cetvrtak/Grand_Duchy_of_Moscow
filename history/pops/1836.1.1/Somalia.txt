@@ -493,193 +493,81 @@
 
 }
 1870 = {
-	slaves=
+	aristocrats=
 	{
 		culture = somali
 		religion = sunni
-		size= 949
+		size= 275
+	}
+
+	clergymen=
+	{
+		culture = somali
+		religion = sunni
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = somali
+		religion = sunni
+		size= 650
 	}
 
 	soldiers=
 	{
 		culture = somali
 		religion = sunni
-		size= 1020
-	}
-
-	artisans=
-	{
-		culture = somali
-		religion = sunni
-		size= 2654
-	}
-
-	clergymen=
-	{
-		culture = somali
-		religion = sunni
-		size= 284
-	}
-
-	bureaucrats=
-	{
-		culture = somali
-		religion = sunni
-		size= 32
-	}
-
-	officers=
-	{
-		culture = somali
-		religion = sunni
-		size= 31
-	}
-
-	aristocrats=
-	{
-		culture = somali
-		religion = sunni
-		size= 319
+		size= 150
 	}
 
 	farmers=
 	{
 		culture = somali
 		religion = sunni
-		size= 12924
+		size= 13775
 	}
 
-	slaves=
+	aristocrats=
 	{
-		culture = sidama
-		religion = coptic
-		size= 103
+		culture = cushitic
+		religion = animist
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = cushitic
+		religion = animist
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = cushitic
+		religion = animist
+		size= 250
 	}
 
 	soldiers=
 	{
-		culture = sidama
-		religion = coptic
-		size= 110
-	}
-
-	artisans=
-	{
-		culture = sidama
-		religion = coptic
-		size= 276
-	}
-
-	clergymen=
-	{
-		culture = sidama
-		religion = coptic
-		size= 30
-	}
-
-	bureaucrats=
-	{
-		culture = sidama
-		religion = coptic
-		size= 3
-	}
-
-	officers=
-	{
-		culture = sidama
-		religion = coptic
-		size= 3
-	}
-
-	aristocrats=
-	{
-		culture = sidama
-		religion = coptic
-		size= 33
+		culture = cushitic
+		religion = animist
+		size= 50
 	}
 
 	farmers=
 	{
-		culture = sidama
-		religion = coptic
-		size= 1412
+		culture = cushitic
+		religion = animist
+		size= 4575
 	}
 
 	slaves=
 	{
-		culture = dynamic-bedouin_arabic-somali-culture-num1
-		religion = sunni
-		size= 77
-	}
-
-	soldiers=
-	{
-		culture = dynamic-bedouin_arabic-somali-culture-num1
-		religion = sunni
-		size= 83
-	}
-
-	artisans=
-	{
-		culture = dynamic-bedouin_arabic-somali-culture-num1
-		religion = sunni
-		size= 91
-	}
-
-	clergymen=
-	{
-		culture = dynamic-bedouin_arabic-somali-culture-num1
-		religion = sunni
-		size= 9
-	}
-
-	aristocrats=
-	{
-		culture = dynamic-bedouin_arabic-somali-culture-num1
-		religion = sunni
-		size= 11
-	}
-
-	farmers=
-	{
-		culture = dynamic-bedouin_arabic-somali-culture-num1
-		religion = sunni
-		size= 1212
-	}
-
-	artisans=
-	{
-		culture = dynamic-bedouin_arabic-somali-culture-num1
-		religion = sunni_heresy
-		size= 13
-	}
-
-	clergymen=
-	{
-		culture = dynamic-bedouin_arabic-somali-culture-num1
-		religion = sunni_heresy
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = dynamic-bedouin_arabic-somali-culture-num1
-		religion = sunni_heresy
-		size= 2
-	}
-
-	bureaucrats=
-	{
-		culture = dynamic-bedouin_arabic-somali-culture-num1
-		religion = sunni
-		size= 1
-	}
-
-	officers=
-	{
-		culture = dynamic-bedouin_arabic-somali-culture-num1
-		religion = sunni
-		size= 1
+		culture = cushitic
+		religion = animist
+		size= 1100
 	}
 
 }

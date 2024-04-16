@@ -103,7 +103,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 80
+		size= 1033
 	}
 
 	artisans=
@@ -145,7 +145,7 @@
 	{
 		culture = mashriqi
 		religion = orthodox
-		size= 2392
+		size= 1439
 	}
 
 }

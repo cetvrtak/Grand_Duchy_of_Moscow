@@ -643,160 +643,153 @@
 
 }
 2031 = {
-	slaves=
+	aristocrats=
 	{
-		culture = sidama
-		religion = coptic
-		size= 938
-	}
-
-	soldiers=
-	{
-		culture = sidama
-		religion = coptic
-		size= 426
-	}
-
-	artisans=
-	{
-		culture = sidama
-		religion = coptic
-		size= 2985
+		culture = somali
+		religion = sunni
+		size= 400
 	}
 
 	clergymen=
 	{
-		culture = sidama
-		religion = coptic
-		size= 160
+		culture = somali
+		religion = sunni
+		size= 200
 	}
 
-	bureaucrats=
+	artisans=
 	{
-		culture = sidama
-		religion = coptic
-		size= 11
+		culture = somali
+		religion = sunni
+		size= 850
 	}
 
-	officers=
+	soldiers=
 	{
-		culture = sidama
-		religion = coptic
-		size= 17
-	}
-
-	aristocrats=
-	{
-		culture = sidama
-		religion = coptic
-		size= 358
+		culture = somali
+		religion = sunni
+		size= 225
 	}
 
 	farmers=
 	{
-		culture = sidama
-		religion = coptic
-		size= 16425
+		culture = somali
+		religion = sunni
+		size= 18225
+	}
+
+	aristocrats=
+	{
+		culture = cushitic
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = cushitic
+		religion = animist
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = cushitic
+		religion = animist
+		size= 200
+	}
+
+	soldiers=
+	{
+		culture = cushitic
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = cushitic
+		religion = animist
+		size= 3650
+	}
+
+	slaves=
+	{
+		culture = cushitic
+		religion = animist
+		size= 1100
 	}
 
 }
 2032 = {
-	soldiers=
-	{
-		culture = somali
-		religion = sunni
-		size= 635
-	}
-
-	farmers=
-	{
-		culture = somali
-		religion = sunni
-		size= 20834
-	}
-
-	farmers=
-	{
-		culture = swahili
-		religion = sunni
-		size= 9565
-	}
-
-	soldiers=
-	{
-		culture = swahili
-		religion = sunni
-		size= 293
-	}
-
-	artisans=
-	{
-		culture = swahili
-		religion = sunni
-		size= 474
-	}
-
-	clergymen=
-	{
-		culture = swahili
-		religion = sunni
-		size= 77
-	}
-
 	aristocrats=
 	{
-		culture = swahili
-		religion = sunni
-		size= 99
-	}
-
-	officers=
-	{
-		culture = swahili
-		religion = sunni
-		size= 19
-	}
-
-	bureaucrats=
-	{
-		culture = swahili
-		religion = sunni
-		size= 5
-	}
-
-	artisans=
-	{
-		culture = somali
-		religion = sunni
-		size= 854
+		culture = kikuyu
+		religion = animist
+		size= 650
 	}
 
 	clergymen=
 	{
-		culture = somali
-		religion = sunni
-		size= 139
+		culture = kikuyu
+		religion = animist
+		size= 375
 	}
 
-	bureaucrats=
+	artisans=
 	{
-		culture = somali
-		religion = sunni
-		size= 11
+		culture = kikuyu
+		religion = animist
+		size= 1750
 	}
 
-	officers=
+	soldiers=
 	{
-		culture = somali
-		religion = sunni
-		size= 34
+		culture = kikuyu
+		religion = animist
+		size= 350
+	}
+
+	farmers=
+	{
+		culture = kikuyu
+		religion = animist
+		size= 31875
 	}
 
 	aristocrats=
 	{
 		culture = somali
 		religion = sunni
-		size= 179
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = somali
+		religion = sunni
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = somali
+		religion = sunni
+		size= 150
+	}
+
+	soldiers=
+	{
+		culture = somali
+		religion = sunni
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = somali
+		religion = sunni
+		size= 2700
 	}
 
 }

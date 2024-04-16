@@ -514,14 +514,14 @@ army = {
 	name="1st Army"
 	location=1395
 	regiment = {
-		name="1st Iloilo Irregulars"
-		type=irregular
-		home=1460
-	}
-	regiment = {
 		name="1st Menado Irregulars"
 		type=irregular
 		home=1433
+	}
+	regiment = {
+		name="1st Iloilo Irregulars"
+		type=irregular
+		home=1460
 	}
 	regiment = {
 		name="1st Zamboanga Irregulars"
@@ -544,16 +544,6 @@ army = {
 		home=1462
 	}
 	regiment = {
-		name="1st Palu Artillery"
-		type=artillery
-		home=1435
-	}
-	regiment = {
-		name="1st Bone Artillery"
-		type=artillery
-		home=1431
-	}
-	regiment = {
 		name="1st Zamboanga Artillery"
 		type=artillery
 		home=1462
@@ -564,12 +554,22 @@ army = {
 		home=1462
 	}
 	regiment = {
-		name="15th Zamboanga Irregulars"
+		name="3rd Zamboanga Artillery"
+		type=artillery
+		home=1462
+	}
+	regiment = {
+		name="4th Zamboanga Artillery"
+		type=artillery
+		home=1462
+	}
+	regiment = {
+		name="13th Zamboanga Irregulars"
 		type=irregular
 		home=1462
 	}
 	regiment = {
-		name="9th Zamboanga Artillery"
+		name="11th Zamboanga Artillery"
 		type=artillery
 		home=1462
 	}
@@ -648,16 +648,6 @@ army = {
 		home=1462
 	}
 	regiment = {
-		name="3rd Zamboanga Artillery"
-		type=artillery
-		home=1462
-	}
-	regiment = {
-		name="4th Zamboanga Artillery"
-		type=artillery
-		home=1462
-	}
-	regiment = {
 		name="5th Zamboanga Artillery"
 		type=artillery
 		home=1462
@@ -673,12 +663,22 @@ army = {
 		home=1462
 	}
 	regiment = {
-		name="13th Zamboanga Irregulars"
+		name="8th Zamboanga Artillery"
+		type=artillery
+		home=1462
+	}
+	regiment = {
+		name="9th Zamboanga Artillery"
+		type=artillery
+		home=1462
+	}
+	regiment = {
+		name="11th Zamboanga Irregulars"
 		type=irregular
 		home=1462
 	}
 	regiment = {
-		name="11th Zamboanga Artillery"
+		name="13th Zamboanga Artillery"
 		type=artillery
 		home=1462
 	}
@@ -693,12 +693,12 @@ army = {
 		home=1462
 	}
 	regiment = {
-		name="10th Zamboanga Irregulars"
+		name="1st Bone Irregulars"
 		type=irregular
-		home=1462
+		home=1431
 	}
 	regiment = {
-		name="14th Zamboanga Irregulars"
+		name="12th Zamboanga Irregulars"
 		type=irregular
 		home=1462
 	}
@@ -708,22 +708,22 @@ army = {
 	name="2nd Army"
 	location=1459
 	regiment = {
-		name="11th Zamboanga Irregulars"
+		name="10th Zamboanga Irregulars"
 		type=irregular
 		home=1462
 	}
 	regiment = {
-		name="12th Zamboanga Irregulars"
+		name="1st Palu Irregulars"
 		type=irregular
-		home=1462
+		home=1435
 	}
 	regiment = {
-		name="8th Zamboanga Artillery"
+		name="10th Zamboanga Artillery"
 		type=artillery
 		home=1462
 	}
 	regiment = {
-		name="10th Zamboanga Artillery"
+		name="12th Zamboanga Artillery"
 		type=artillery
 		home=1462
 	}
@@ -757,23 +757,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Cirebon Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st uMgungundlovu Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Tanjungpinang Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Davao Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Bintulu Clipper Transport"
+		name="1st Mahajanga Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -781,19 +765,19 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
+		name="2nd Jolo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Menado Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Jolo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
 		name="1st Sandakan Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Tombara Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd uMgungundlovu Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Oviedo Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -801,15 +785,31 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st New Caledonia Clipper Transport"
+		name="1st Semarang Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Brunei Clipper Transport"
+		name="1st Natuna Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Oviedo Clipper Transport"
+		name="1st Cirebon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Palawan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tanjungpinang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Lake Charles Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Davao Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -825,7 +825,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="3rd Bogor Clipper Transport"
+		name="1st Bintulu Clipper Transport"
 		type=clipper_transport
 	}
 }

@@ -839,7 +839,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 4133
+		size= 1033
 	}
 
 	artisans=
@@ -881,7 +881,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 14234
+		size= 17334
 	}
 
 	soldiers=
@@ -1034,7 +1034,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 1033
+		size= 87
 	}
 
 	artisans=
@@ -1076,7 +1076,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 508
+		size= 1454
 	}
 
 }

@@ -312,7 +312,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -347,7 +347,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 21307
+		size= 18207
 	}
 
 	aristocrats=
@@ -405,7 +405,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 4133
+		size= 1324
 	}
 
 	artisans=
@@ -447,7 +447,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 53650
+		size= 56459
 	}
 
 	slaves=
@@ -1261,7 +1261,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -1303,7 +1303,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 21231
+		size= 18131
 	}
 
 	slaves=
@@ -1368,7 +1368,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 349
+		size= 1033
 	}
 
 	artisans=
@@ -1410,7 +1410,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 15672
+		size= 14988
 	}
 
 	soldiers=
@@ -1464,81 +1464,32 @@
 
 }
 1716 = {
-	soldiers=
+	aristocrats=
 	{
-		culture = ifriqi
+		culture = tuareg
 		religion = sunni
-		size= 101
+		size= 25
 	}
 
-	artisans=
+	clergymen=
 	{
-		culture = ifriqi
+		culture = tuareg
 		religion = sunni
-		size= 216
+		size= 15
+	}
+
+	soldiers=
+	{
+		culture = tuareg
+		religion = sunni
+		size= 65
 	}
 
 	farmers=
 	{
-		culture = ifriqi
+		culture = tuareg
 		religion = sunni
-		size= 1455
-	}
-
-	clergymen=
-	{
-		culture = ifriqi
-		religion = sunni
-		size= 11
-	}
-
-	aristocrats=
-	{
-		culture = ifriqi
-		religion = sunni
-		size= 12
-	}
-
-	soldiers=
-	{
-		culture = ifriqi
-		religion = shiite
-		size= 1
-	}
-
-	artisans=
-	{
-		culture = ifriqi
-		religion = shiite
-		size= 37
-	}
-
-	clergymen=
-	{
-		culture = ifriqi
-		religion = shiite
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = ifriqi
-		religion = shiite
-		size= 2
-	}
-
-	bureaucrats=
-	{
-		culture = ifriqi
-		religion = sunni
-		size= 2
-	}
-
-	officers=
-	{
-		culture = ifriqi
-		religion = sunni
-		size= 2
+		size= 1900
 	}
 
 }
@@ -1547,7 +1498,7 @@
 	{
 		culture = ifriqi
 		religion = shamanism
-		size= 34
+		size= 1033
 	}
 
 	artisans=
@@ -1589,7 +1540,7 @@
 	{
 		culture = ifriqi
 		religion = shamanism
-		size= 1392
+		size= 393
 	}
 
 }

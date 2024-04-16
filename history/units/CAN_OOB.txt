@@ -538,19 +538,14 @@ army = {
 	name="12th Army"
 	location=2630
 	regiment = {
-		name="1st Montreal Infantry"
-		type=infantry
-		home=58
-	}
-	regiment = {
-		name="1st Hamilton Infantry"
-		type=infantry
-		home=55
-	}
-	regiment = {
 		name="1st Toronto Infantry"
 		type=infantry
 		home=46
+	}
+	regiment = {
+		name="1st Montreal Infantry"
+		type=infantry
+		home=58
 	}
 	regiment = {
 		name="2nd Montreal Infantry"
@@ -563,9 +558,14 @@ army = {
 		home=58
 	}
 	regiment = {
-		name="1st Windsor Artillery"
+		name="4th Montreal Infantry"
+		type=infantry
+		home=58
+	}
+	regiment = {
+		name="1st Sept-Îles Artillery"
 		type=artillery
-		home=54
+		home=62
 	}
 	regiment = {
 		name="1st Montreal Artillery"
@@ -578,14 +578,14 @@ army = {
 		home=58
 	}
 	regiment = {
-		name="14th Montreal Infantry"
+		name="16th Montreal Infantry"
 		type=infantry
 		home=58
 	}
 	regiment = {
-		name="1st Sept-Îles Artillery"
+		name="11th Montreal Artillery"
 		type=artillery
-		home=62
+		home=58
 	}
 }
 
@@ -593,22 +593,22 @@ army = {
 	name="6th Army"
 	location=1
 	regiment = {
-		name="1st Bytown Infantry"
+		name="5th Montreal Infantry"
 		type=infantry
-		home=57
+		home=58
 	}
 	regiment = {
-		name="3rd Montreal Artillery"
+		name="1st Hamilton Artillery"
 		type=artillery
-		home=58
+		home=55
 	}
 	regiment = {
-		name="13th Montreal Infantry"
+		name="15th Montreal Infantry"
 		type=infantry
 		home=58
 	}
 	regiment = {
-		name="9th Montreal Artillery"
+		name="8th Montreal Artillery"
 		type=artillery
 		home=58
 	}
@@ -618,21 +618,6 @@ army = {
 	name="2nd Army"
 	location=1
 	regiment = {
-		name="1st Trois-Rivières Infantry"
-		type=infantry
-		home=64
-	}
-	regiment = {
-		name="4th Montreal Infantry"
-		type=infantry
-		home=58
-	}
-	regiment = {
-		name="5th Montreal Infantry"
-		type=infantry
-		home=58
-	}
-	regiment = {
 		name="6th Montreal Infantry"
 		type=infantry
 		home=58
@@ -640,6 +625,26 @@ army = {
 	regiment = {
 		name="7th Montreal Infantry"
 		type=infantry
+		home=58
+	}
+	regiment = {
+		name="1st Windsor Infantry"
+		type=infantry
+		home=54
+	}
+	regiment = {
+		name="8th Montreal Infantry"
+		type=infantry
+		home=58
+	}
+	regiment = {
+		name="9th Montreal Infantry"
+		type=infantry
+		home=58
+	}
+	regiment = {
+		name="3rd Montreal Artillery"
+		type=artillery
 		home=58
 	}
 	regiment = {
@@ -653,17 +658,12 @@ army = {
 		home=58
 	}
 	regiment = {
-		name="6th Montreal Artillery"
-		type=artillery
-		home=58
-	}
-	regiment = {
-		name="15th Montreal Infantry"
+		name="17th Montreal Infantry"
 		type=infantry
 		home=58
 	}
 	regiment = {
-		name="11th Montreal Artillery"
+		name="10th Montreal Artillery"
 		type=artillery
 		home=58
 	}
@@ -689,15 +689,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Churchill Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st French Canadian Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd French Canadian Clipper Transport"
+		name="1st Truro Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -705,47 +697,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd French Canadian Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="4th French Canadian Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Rimouski Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="1st Ungava Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="5th French Canadian Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="6th French Canadian Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Truro Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Rimouski Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st North West River Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Fort Albany Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="7th French Canadian Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -753,15 +705,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
+		name="2nd Quebec City Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
 		name="2nd Ungava Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Fort Severn Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="8th French Canadian Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -769,19 +717,71 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
+		name="3rd Quebec City Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rimouski Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Fort George Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
 		name="3rd Ungava Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Rimouski Clipper Transport"
+		name="4th Ungava Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Fort Albany Clipper Transport"
+		name="5th Ungava Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Fort Severn Clipper Transport"
+		name="4th Quebec City Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Petit-Sault Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st French Canadian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st St Brieuc Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Truro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Quebec City Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Petit-Sault Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd French Canadian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Quebec City Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Petit-Sault Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd French Canadian Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -802,7 +802,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="3rd Rimouski Frigate"
+		name="2nd North West River Frigate"
 		type=frigate
 	}
 }
@@ -824,12 +824,12 @@ army = {
 	name="1st Army"
 	location=1
 	regiment = {
-		name="7th Montreal Artillery"
+		name="6th Montreal Artillery"
 		type=artillery
 		home=58
 	}
 	regiment = {
-		name="10th Montreal Artillery"
+		name="9th Montreal Artillery"
 		type=artillery
 		home=58
 	}
@@ -839,12 +839,12 @@ army = {
 	name="11th Army"
 	location=2209
 	regiment = {
-		name="8th Montreal Infantry"
+		name="10th Montreal Infantry"
 		type=infantry
 		home=58
 	}
 	regiment = {
-		name="17th Montreal Infantry"
+		name="19th Montreal Infantry"
 		type=infantry
 		home=58
 	}
@@ -854,24 +854,9 @@ army = {
 	name="4th Army"
 	location=2209
 	regiment = {
-		name="9th Montreal Infantry"
-		type=infantry
-		home=58
-	}
-	regiment = {
-		name="10th Montreal Infantry"
-		type=infantry
-		home=58
-	}
-	regiment = {
 		name="11th Montreal Infantry"
 		type=infantry
 		home=58
-	}
-	regiment = {
-		name="1st Quebec City Infantry"
-		type=infantry
-		home=65
 	}
 	regiment = {
 		name="12th Montreal Infantry"
@@ -879,12 +864,27 @@ army = {
 		home=58
 	}
 	regiment = {
-		name="8th Montreal Artillery"
+		name="13th Montreal Infantry"
+		type=infantry
+		home=58
+	}
+	regiment = {
+		name="14th Montreal Infantry"
+		type=infantry
+		home=58
+	}
+	regiment = {
+		name="1st Saint Johns Infantry"
+		type=infantry
+		home=74
+	}
+	regiment = {
+		name="7th Montreal Artillery"
 		type=artillery
 		home=58
 	}
 	regiment = {
-		name="16th Montreal Infantry"
+		name="18th Montreal Infantry"
 		type=infantry
 		home=58
 	}

@@ -1,79 +1,72 @@
 1954 = {
-	slaves=
+	aristocrats=
 	{
-		culture = yoruba
-		religion = shamanism
-		size= 694
-	}
-
-	soldiers=
-	{
-		culture = yoruba
-		religion = shamanism
-		size= 9
-	}
-
-	farmers=
-	{
-		culture = yoruba
-		religion = shamanism
-		size= 180
-	}
-
-	slaves=
-	{
-		culture = afro_caribeno
-		religion = sunni
-		size= 2410
-	}
-
-	farmers=
-	{
-		culture = ifriqi
-		religion = sunni
-		size= 423
-	}
-
-	artisans=
-	{
-		culture = ifriqi
-		religion = sunni
-		size= 158
+		culture = portuguese
+		religion = catholic
+		size= 20
 	}
 
 	clergymen=
 	{
-		culture = ifriqi
-		religion = sunni
-		size= 25
-	}
-
-	aristocrats=
-	{
-		culture = ifriqi
-		religion = sunni
-		size= 32
-	}
-
-	soldiers=
-	{
-		culture = ifriqi
-		religion = sunni
-		size= 30
+		culture = portuguese
+		religion = catholic
+		size= 5
 	}
 
 	bureaucrats=
 	{
-		culture = ifriqi
-		religion = sunni
+		culture = portuguese
+		religion = catholic
 		size= 5
 	}
 
-	officers=
+	artisans=
 	{
-		culture = ifriqi
-		religion = sunni
-		size= 3
+		culture = portuguese
+		religion = catholic
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = kreol
+		religion = catholic
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = kreol
+		religion = catholic
+		size= 200
+	}
+
+	soldiers=
+	{
+		culture = kreol
+		religion = catholic
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = kreol
+		religion = catholic
+		size= 550
+	}
+
+	slaves=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 3450
 	}
 
 }

@@ -550,86 +550,6 @@ army = {
 		home=474
 	}
 	regiment = {
-		name="1st Setubal Infantry"
-		type=infantry
-		home=524
-	}
-	regiment = {
-		name="1st Vila Real Infantry"
-		type=infantry
-		home=519
-	}
-	regiment = {
-		name="2nd La Coruña Infantry"
-		type=infantry
-		home=474
-	}
-	regiment = {
-		name="2nd Vila Real Infantry"
-		type=infantry
-		home=519
-	}
-	regiment = {
-		name="1st Badajoz Infantry"
-		type=infantry
-		home=484
-	}
-	regiment = {
-		name="1st Vigo Infantry"
-		type=infantry
-		home=476
-	}
-	regiment = {
-		name="1st Vigo Artillery"
-		type=artillery
-		home=476
-	}
-	regiment = {
-		name="1st La Coruña Artillery"
-		type=artillery
-		home=474
-	}
-	regiment = {
-		name="1st Covilhã Artillery"
-		type=artillery
-		home=520
-	}
-	regiment = {
-		name="1st Oporto Artillery"
-		type=artillery
-		home=518
-	}
-	regiment = {
-		name="2nd Oporto Artillery"
-		type=artillery
-		home=518
-	}
-	regiment = {
-		name="8th Coimbra Infantry"
-		type=infantry
-		home=522
-	}
-	regiment = {
-		name="7th Coimbra Artillery"
-		type=artillery
-		home=522
-	}
-}
-
-army = {
-	name="4th Army"
-	location=523
-	regiment = {
-		name="1st Oporto Infantry"
-		type=infantry
-		home=518
-	}
-	regiment = {
-		name="1st Almendralejo Infantry"
-		type=infantry
-		home=485
-	}
-	regiment = {
 		name="1st Coimbra Infantry"
 		type=infantry
 		home=522
@@ -640,14 +560,89 @@ army = {
 		home=520
 	}
 	regiment = {
-		name="1st Coimbra Artillery"
+		name="1st Oporto Infantry"
+		type=infantry
+		home=518
+	}
+	regiment = {
+		name="2nd Oporto Infantry"
+		type=infantry
+		home=518
+	}
+	regiment = {
+		name="3rd Oporto Infantry"
+		type=infantry
+		home=518
+	}
+	regiment = {
+		name="1st Setubal Infantry"
+		type=infantry
+		home=524
+	}
+	regiment = {
+		name="1st Vila Real Artillery"
 		type=artillery
+		home=519
+	}
+	regiment = {
+		name="1st Covilhã Artillery"
+		type=artillery
+		home=520
+	}
+	regiment = {
+		name="1st La Coruña Artillery"
+		type=artillery
+		home=474
+	}
+	regiment = {
+		name="2nd La Coruña Artillery"
+		type=artillery
+		home=474
+	}
+	regiment = {
+		name="2nd Vila Real Artillery"
+		type=artillery
+		home=519
+	}
+	regiment = {
+		name="10th Coimbra Infantry"
+		type=infantry
 		home=522
 	}
 	regiment = {
-		name="1st Lisbon Artillery"
+		name="8th Coimbra Artillery"
 		type=artillery
+		home=522
+	}
+}
+
+army = {
+	name="4th Army"
+	location=523
+	regiment = {
+		name="1st Almendralejo Infantry"
+		type=infantry
+		home=485
+	}
+	regiment = {
+		name="2nd Coimbra Infantry"
+		type=infantry
+		home=522
+	}
+	regiment = {
+		name="1st Lisbon Infantry"
+		type=infantry
 		home=521
+	}
+	regiment = {
+		name="1st Vigo Infantry"
+		type=infantry
+		home=476
+	}
+	regiment = {
+		name="1st Coimbra Artillery"
+		type=artillery
+		home=522
 	}
 	regiment = {
 		name="2nd Coimbra Artillery"
@@ -659,21 +654,16 @@ army = {
 		type=artillery
 		home=522
 	}
+	regiment = {
+		name="4th Coimbra Artillery"
+		type=artillery
+		home=522
+	}
 }
 
 army = {
 	name="5th Army"
 	location=523
-	regiment = {
-		name="2nd Badajoz Infantry"
-		type=infantry
-		home=484
-	}
-	regiment = {
-		name="2nd Coimbra Infantry"
-		type=infantry
-		home=522
-	}
 	regiment = {
 		name="3rd Coimbra Infantry"
 		type=infantry
@@ -690,11 +680,6 @@ army = {
 		home=522
 	}
 	regiment = {
-		name="1st Abrantes Infantry"
-		type=infantry
-		home=523
-	}
-	regiment = {
 		name="6th Coimbra Infantry"
 		type=infantry
 		home=522
@@ -705,8 +690,18 @@ army = {
 		home=522
 	}
 	regiment = {
-		name="4th Coimbra Artillery"
-		type=artillery
+		name="8th Coimbra Infantry"
+		type=infantry
+		home=522
+	}
+	regiment = {
+		name="1st Évora Infantry"
+		type=infantry
+		home=525
+	}
+	regiment = {
+		name="9th Coimbra Infantry"
+		type=infantry
 		home=522
 	}
 	regiment = {
@@ -715,12 +710,17 @@ army = {
 		home=522
 	}
 	regiment = {
-		name="9th Coimbra Infantry"
+		name="6th Coimbra Artillery"
+		type=artillery
+		home=522
+	}
+	regiment = {
+		name="11th Coimbra Infantry"
 		type=infantry
 		home=522
 	}
 	regiment = {
-		name="6th Coimbra Artillery"
+		name="7th Coimbra Artillery"
 		type=artillery
 		home=522
 	}
@@ -741,7 +741,7 @@ navy = {
 
 navy = {
 	name="4th Fleet"
-	location=3021
+	location=3020
 	ship = {
 		name="Royal Albert"
 		type=manowar
@@ -839,39 +839,27 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd La Coruña Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Vigo Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Galician Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="4th La Coruña Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="3rd Vigo Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Lisbon Clipper Transport"
+		name="2nd Coimbra Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Lisbon Clipper Transport"
+		name="1st Setubal Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="5th La Coruña Clipper Transport"
+		name="3rd Coimbra Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Bermuda Clipper Transport"
+		name="4th Coimbra Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Galician Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -883,15 +871,27 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Setubal Clipper Transport"
+		name="1st Oporto Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="6th La Coruña Clipper Transport"
+		name="5th Coimbra Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Beja Clipper Transport"
+		name="2nd Lisbon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ezorongondo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Solomon Islands Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Lisbon Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -903,7 +903,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Bougainville Clipper Transport"
+		name="6th Coimbra Clipper Transport"
 		type=clipper_transport
 	}
 }

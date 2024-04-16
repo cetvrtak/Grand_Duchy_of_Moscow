@@ -429,7 +429,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 308
+		size= 1033
 	}
 
 	artisans=
@@ -457,7 +457,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 11554
+		size= 10829
 	}
 
 	artisans=
@@ -1755,7 +1755,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 1033
+		size= 240
 	}
 
 	artisans=
@@ -1797,7 +1797,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 9148
+		size= 9941
 	}
 
 }
@@ -2055,7 +2055,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 4133
+		size= 1033
 	}
 
 	artisans=
@@ -2097,7 +2097,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 30826
+		size= 33926
 	}
 
 }
@@ -2106,7 +2106,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 4133
+		size= 1423
 	}
 
 	artisans=
@@ -2148,7 +2148,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 55034
+		size= 57744
 	}
 
 }
@@ -2834,7 +2834,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 1033
+		size= 968
 	}
 
 	artisans=
@@ -2876,7 +2876,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 36511
+		size= 36576
 	}
 
 	soldiers=
@@ -6120,7 +6120,7 @@
 	{
 		culture = tatar
 		religion = sunni
-		size= 991
+		size= 7233
 	}
 
 	artisans=
@@ -6162,7 +6162,7 @@
 	{
 		culture = tatar
 		religion = sunni
-		size= 42790
+		size= 36548
 	}
 
 }
@@ -6171,7 +6171,7 @@
 	{
 		culture = tatar
 		religion = sunni
-		size= 10333
+		size= 3110
 	}
 
 	artisans=
@@ -6213,7 +6213,7 @@
 	{
 		culture = tatar
 		religion = sunni
-		size= 127057
+		size= 134280
 	}
 
 }
@@ -9205,7 +9205,7 @@
 	{
 		culture = tatar
 		religion = sunni
-		size= 4133
+		size= 1174
 	}
 
 	artisans=
@@ -9247,7 +9247,7 @@
 	{
 		culture = tatar
 		religion = sunni
-		size= 47993
+		size= 50952
 	}
 
 }
@@ -9305,7 +9305,7 @@
 	{
 		culture = tatar
 		religion = sunni
-		size= 1033
+		size= 593
 	}
 
 	artisans=
@@ -9347,7 +9347,7 @@
 	{
 		culture = tatar
 		religion = sunni
-		size= 23928
+		size= 24368
 	}
 
 }
@@ -9356,7 +9356,7 @@
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -9398,7 +9398,7 @@
 	{
 		culture = tatar
 		religion = tengri_pagan_reformed
-		size= 17064
+		size= 13964
 	}
 
 	soldiers=
@@ -12134,7 +12134,7 @@
 	{
 		culture = manchu
 		religion = tengri_pagan_reformed
-		size= 1033
+		size= 260
 	}
 
 	artisans=
@@ -12162,7 +12162,7 @@
 	{
 		culture = manchu
 		religion = tengri_pagan_reformed
-		size= 9582
+		size= 10355
 	}
 
 	slaves=
@@ -12813,7 +12813,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 1033
+		size= 46
 	}
 
 	artisans=
@@ -12855,7 +12855,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 1116
+		size= 2103
 	}
 
 }
@@ -14278,7 +14278,7 @@
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
-		size= 184
+		size= 1033
 	}
 
 	artisans=
@@ -14320,7 +14320,7 @@
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
-		size= 8928
+		size= 8079
 	}
 
 	artisans=
@@ -15840,7 +15840,7 @@
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
-		size= 1033
+		size= 41
 	}
 
 	artisans=
@@ -15868,7 +15868,7 @@
 	{
 		culture = yakut
 		religion = tengri_pagan_reformed
-		size= 957
+		size= 1949
 	}
 
 	artisans=
@@ -16809,7 +16809,7 @@
 	{
 		culture = yakut
 		religion = animist
-		size= 1033
+		size= 315
 	}
 
 	artisans=
@@ -16851,7 +16851,7 @@
 	{
 		culture = yakut
 		religion = animist
-		size= 14089
+		size= 14807
 	}
 
 	artisans=
@@ -17248,7 +17248,7 @@
 	{
 		culture = manchu
 		religion = nestorian
-		size= 1033
+		size= 89
 	}
 
 	artisans=
@@ -17290,7 +17290,7 @@
 	{
 		culture = manchu
 		religion = nestorian
-		size= 2933
+		size= 3877
 	}
 
 	slaves=

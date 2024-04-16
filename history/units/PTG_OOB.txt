@@ -527,6 +527,16 @@ army = {
 	name="3rd Army"
 	location=2449
 	regiment = {
+		name="1st Montevideo Infantry"
+		type=infantry
+		home=2344
+	}
+	regiment = {
+		name="1st Pilar Infantry"
+		type=infantry
+		home=2340
+	}
+	regiment = {
 		name="1st Asuncion Infantry"
 		type=infantry
 		home=2339
@@ -542,14 +552,44 @@ army = {
 		home=2339
 	}
 	regiment = {
-		name="2nd Buenos Aires Infantry"
+		name="1st Concepción Infantry"
 		type=infantry
+		home=2343
+	}
+	regiment = {
+		name="1st Buenos Aires Artillery"
+		type=artillery
 		home=2348
 	}
 	regiment = {
-		name="3rd Asuncion Infantry"
-		type=infantry
+		name="1st Asuncion Artillery"
+		type=artillery
 		home=2339
+	}
+	regiment = {
+		name="1st Desterro Infantry"
+		type=infantry
+		home=2461
+	}
+	regiment = {
+		name="4th Córdoba de Argentina Infantry"
+		type=infantry
+		home=2379
+	}
+	regiment = {
+		name="4th Córdoba de Argentina Artillery"
+		type=artillery
+		home=2379
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2448
+	regiment = {
+		name="2nd Montevideo Infantry"
+		type=infantry
+		home=2344
 	}
 	regiment = {
 		name="1st Córdoba de Argentina Infantry"
@@ -557,9 +597,24 @@ army = {
 		home=2379
 	}
 	regiment = {
-		name="1st Buenos Aires Artillery"
-		type=artillery
+		name="2nd Buenos Aires Infantry"
+		type=infantry
 		home=2348
+	}
+	regiment = {
+		name="2nd Córdoba de Argentina Infantry"
+		type=infantry
+		home=2379
+	}
+	regiment = {
+		name="1st Santiago Infantry"
+		type=infantry
+		home=2324
+	}
+	regiment = {
+		name="1st Paraná Infantry"
+		type=infantry
+		home=2360
 	}
 	regiment = {
 		name="1st Córdoba de Argentina Artillery"
@@ -572,67 +627,12 @@ army = {
 		home=2379
 	}
 	regiment = {
-		name="5th Córdoba de Argentina Infantry"
-		type=infantry
-		home=2379
-	}
-	regiment = {
-		name="1st Pilar Artillery"
-		type=artillery
-		home=2340
-	}
-}
-
-army = {
-	name="4th Army"
-	location=2448
-	regiment = {
-		name="1st Santa Maria Infantry"
-		type=infantry
-		home=2466
-	}
-	regiment = {
-		name="1st Santiago Infantry"
-		type=infantry
-		home=2324
-	}
-	regiment = {
-		name="1st Montevideo Infantry"
-		type=infantry
-		home=2344
-	}
-	regiment = {
-		name="1st Paraná Infantry"
-		type=infantry
-		home=2360
-	}
-	regiment = {
-		name="2nd Montevideo Infantry"
-		type=infantry
-		home=2344
-	}
-	regiment = {
-		name="2nd Córdoba de Argentina Infantry"
-		type=infantry
-		home=2379
-	}
-	regiment = {
-		name="1st Concepción Artillery"
-		type=artillery
-		home=2343
-	}
-	regiment = {
-		name="4th Córdoba de Argentina Infantry"
-		type=infantry
-		home=2379
-	}
-	regiment = {
 		name="2nd Córdoba de Argentina Artillery"
 		type=artillery
 		home=2379
 	}
 	regiment = {
-		name="4th Córdoba de Argentina Artillery"
+		name="5th Córdoba de Argentina Artillery"
 		type=artillery
 		home=2379
 	}
@@ -709,11 +709,11 @@ navy = {
 
 army = {
 	name="2nd Army"
-	location=2339
+	location=2342
 	regiment = {
-		name="1st Desterro Artillery"
+		name="1st Copiapó Artillery"
 		type=artillery
-		home=2461
+		home=2322
 	}
 	regiment = {
 		name="3rd Córdoba de Argentina Artillery"
@@ -721,15 +721,15 @@ army = {
 		home=2379
 	}
 	regiment = {
-		name="1st São Miguel Artillery"
+		name="1st Santa Maria Artillery"
 		type=artillery
-		home=2462
+		home=2466
 	}
 }
 
 navy = {
 	name="7th Fleet"
-	location=3020
+	location=3033
 	ship = {
 		name="Aisén"
 		type=frigate

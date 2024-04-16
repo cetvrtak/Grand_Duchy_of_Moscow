@@ -606,15 +606,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
+		name="1st Rotterdam Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
 		name="2nd Caracas Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st San Felipe Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd San Felipe Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -622,7 +618,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd San Felipe Clipper Transport"
+		name="4th Caracas Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st San Felipe Clipper Transport"
 		type=clipper_transport
 	}
 }

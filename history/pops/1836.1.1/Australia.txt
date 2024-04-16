@@ -2177,7 +2177,7 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 106
+		size= 1033
 	}
 
 	bureaucrats=
@@ -2198,7 +2198,7 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 1643
+		size= 716
 	}
 
 	clergymen=
@@ -2728,7 +2728,7 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 1033
+		size= 195
 	}
 
 	artisans=
@@ -2770,7 +2770,7 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 1916
+		size= 2754
 	}
 
 }
