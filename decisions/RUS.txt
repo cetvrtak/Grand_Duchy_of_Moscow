@@ -233,36 +233,13 @@ political_decisions = {
         potential = {
             tag = RUS
             is_greater_power = yes
-            1082 = {
-                owner = {
-                    OR = {
-                        tag = QNG
-                        vassal_of = QNG
-                        substate_of = QNG
-                    }
-                }
-            }
             NOT = { has_global_flag = convention_of_peking }
-            QNG = {
-                exists = yes
-                OR = {
-                    has_country_flag = arrow_incident
-                    AND = {
-                        has_global_flag = taiping_has_happened
-                        1082 = { owner = { in_sphere = RUS } }
-                    }
-                }
-            }
+            1082 = { owner = { in_sphere = RUS } }
         }
 
         allow = {
             war = no
-            NOT = { truce_with = QNG }
-            OR = {
-                QNG = { war_exhaustion = 30 }
-                1082 = { owner = { in_sphere = RUS } }
-                QNG = { war = yes }
-            }
+            1082 = { owner = { in_sphere = RUS } }
         }
 
         effect = {
@@ -274,7 +251,7 @@ political_decisions = {
             1085 = { add_core = RUS }
             2617 = { add_core = RUS }
             2697 = { add_core = RUS }
-            QNG = { country_event = 80110 }
+            1082 = { owner = { country_event = 80110 } }
         }
     }
 
