@@ -517,7 +517,7 @@ leader = {
 #Armies
 navy = {
 	name="2nd Fleet"
-	location=2727
+	location=2726
 	ship = {
 		name="1st San Felipe Frigate"
 		type=frigate
@@ -561,7 +561,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="4th Caracas Man'o'war"
+		name="1st San Felipe Man'o'war"
 		type=manowar
 	}
 }
@@ -602,11 +602,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Caracas Clipper Transport"
+		name="1st San Felipe Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Rotterdam Clipper Transport"
+		name="1st Caracas Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -622,7 +622,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st San Felipe Clipper Transport"
+		name="2nd San Felipe Clipper Transport"
 		type=clipper_transport
 	}
 }

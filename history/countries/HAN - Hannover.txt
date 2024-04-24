@@ -47,5 +47,6 @@ nonstate_consciousness= 1
 # Technologies
 prestige=0
 oob = "HAN_OOB.txt"
+set_country_flag = europe_superregion
 set_country_flag = religi
 set_country_flag = vic2_country_HAN

@@ -67,6 +67,7 @@ private_banks = 1
 prestige=0.00542674
 oob = "CRS_OOB.txt"
 set_country_flag = member_hre
+set_country_flag = europe_superregion
 set_country_flag = religi
 set_country_flag = vic2_country_CRS
 set_country_flag = eu4_country_COR

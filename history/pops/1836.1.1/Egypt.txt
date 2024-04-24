@@ -1266,7 +1266,7 @@
 	{
 		culture = bedouin
 		religion = orthodox
-		size= 79
+		size= 1033
 	}
 
 	artisans=
@@ -1308,7 +1308,7 @@
 	{
 		culture = bedouin
 		religion = orthodox
-		size= 3585
+		size= 2631
 	}
 
 }
@@ -2538,7 +2538,7 @@
 	{
 		culture = bedouin
 		religion = orthodox
-		size= 29
+		size= 1033
 	}
 
 	artisans=
@@ -2580,7 +2580,7 @@
 	{
 		culture = bedouin
 		religion = orthodox
-		size= 1283
+		size= 279
 	}
 
 }

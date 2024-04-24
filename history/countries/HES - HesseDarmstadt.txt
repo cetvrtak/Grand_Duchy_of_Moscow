@@ -68,6 +68,7 @@ private_banks = 1
 prestige=0.936666
 oob = "HES_OOB.txt"
 set_country_flag = member_hre
+set_country_flag = europe_superregion
 set_country_flag = religi
 set_country_flag = vic2_country_HES
 set_country_flag = eu4_country_HES

@@ -7504,7 +7504,7 @@
 	{
 		culture = ealimi
 		religion = catholic
-		size= 7233
+		size= 4133
 	}
 
 	artisans=
@@ -7546,7 +7546,7 @@
 	{
 		culture = ealimi
 		religion = catholic
-		size= 61427
+		size= 64527
 	}
 
 }
@@ -9017,7 +9017,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 87
+		size= 1033
 	}
 
 	artisans=
@@ -9059,7 +9059,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 4974
+		size= 4028
 	}
 
 }
@@ -9422,7 +9422,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 116
+		size= 1033
 	}
 
 	artisans=
@@ -9464,7 +9464,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 5668
+		size= 4751
 	}
 
 }

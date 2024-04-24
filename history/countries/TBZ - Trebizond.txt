@@ -64,6 +64,7 @@ piston_steam_engine = 1
 post_napoleonic_thought = 1
 prestige=0.00662059
 oob = "TBZ_OOB.txt"
+set_country_flag = persia_superregion
 set_country_flag = religi
 set_country_flag = vic2_country_TBZ
 set_country_flag = eu4_country_TRE

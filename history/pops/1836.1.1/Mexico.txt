@@ -2349,14 +2349,14 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 19853
+		size= 16753
 	}
 
 	soldiers=
 	{
 		culture = yankee
 		religion = protestant
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -3166,7 +3166,7 @@
 	{
 		culture = nahua
 		religion = protestant
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -3194,7 +3194,7 @@
 	{
 		culture = nahua
 		religion = protestant
-		size= 12205
+		size= 9105
 	}
 
 	soldiers=
@@ -3420,7 +3420,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 206
+		size= 1033
 	}
 
 	artisans=
@@ -3462,7 +3462,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 7705
+		size= 6878
 	}
 
 	soldiers=

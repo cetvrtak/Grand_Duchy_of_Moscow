@@ -487,7 +487,7 @@
 	{
 		culture = quechua
 		religion = catholic
-		size= 4133
+		size= 1033
 	}
 
 	artisans=
@@ -529,7 +529,7 @@
 	{
 		culture = quechua
 		religion = catholic
-		size= 9983
+		size= 13083
 	}
 
 	soldiers=
@@ -932,7 +932,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 1033
+		size= 94
 	}
 
 	artisans=
@@ -974,7 +974,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 6661
+		size= 7600
 	}
 
 	slaves=
@@ -1286,7 +1286,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 92
+		size= 1033
 	}
 
 	artisans=
@@ -1328,7 +1328,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 2874
+		size= 1933
 	}
 
 }
@@ -2264,7 +2264,7 @@
 	{
 		culture = maranon
 		religion = inti
-		size= 1033
+		size= 87
 	}
 
 	artisans=
@@ -2306,7 +2306,7 @@
 	{
 		culture = maranon
 		religion = inti
-		size= 3262
+		size= 4208
 	}
 
 	soldiers=

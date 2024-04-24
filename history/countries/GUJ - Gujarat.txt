@@ -63,6 +63,7 @@ naval_schools=no_naval_schools
 foreign_navies=no_foreign_navies
 prestige=21.8499
 oob = "GUJ_OOB.txt"
+set_country_flag = india_superregion
 set_country_flag = religi
 set_country_flag = vic2_country_GUJ
 set_country_flag = eu4_country_GUJ

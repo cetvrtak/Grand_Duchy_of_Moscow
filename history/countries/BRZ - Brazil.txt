@@ -73,6 +73,7 @@ prestige=0
 oob = "BRZ_OOB.txt"
 set_country_flag = new_world_nation
 set_country_flag = religi
+set_country_flag = south_america_superregion
 decision = BRZ_1836_setup
 set_country_flag = vic2_country_BRZ
 set_country_flag = eu4_country_C14

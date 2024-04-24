@@ -47,6 +47,7 @@ nonstate_consciousness= 0
 # Technologies
 prestige=0
 oob = "LPL_OOB.txt"
+set_country_flag = andes_superregion
 set_country_flag = new_world_nation
 set_country_flag = religi
 set_country_flag = vic2_country_LPL

@@ -545,12 +545,12 @@ army = {
 		home=2468
 	}
 	regiment = {
-		name="11th Sydney Infantry"
+		name="9th Sydney Infantry"
 		type=infantry
 		home=2468
 	}
 	regiment = {
-		name="8th Sydney Artillery"
+		name="9th Sydney Artillery"
 		type=artillery
 		home=2468
 	}
@@ -558,7 +558,7 @@ army = {
 
 army = {
 	name="4th Army"
-	location=2507
+	location=2506
 	regiment = {
 		name="1st Sydney Infantry"
 		type=infantry
@@ -600,7 +600,7 @@ army = {
 		home=2468
 	}
 	regiment = {
-		name="9th Sydney Artillery"
+		name="10th Sydney Artillery"
 		type=artillery
 		home=2468
 	}
@@ -610,19 +610,14 @@ army = {
 	name="8th Army"
 	location=2604
 	regiment = {
+		name="1st Perth Infantry"
+		type=infantry
+		home=2497
+	}
+	regiment = {
 		name="6th Sydney Infantry"
 		type=infantry
 		home=2468
-	}
-	regiment = {
-		name="7th Sydney Infantry"
-		type=infantry
-		home=2468
-	}
-	regiment = {
-		name="1st Adelaide Artillery"
-		type=artillery
-		home=2491
 	}
 	regiment = {
 		name="5th Sydney Artillery"
@@ -639,25 +634,18 @@ army = {
 		type=artillery
 		home=2468
 	}
+	regiment = {
+		name="8th Sydney Artillery"
+		type=artillery
+		home=2468
+	}
 }
 
 navy = {
 	name="2nd Fleet"
 	location=2864
 	ship = {
-		name="1st Aru Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Townsville Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Normanton Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Port Macquarie Clipper Transport"
+		name="2nd Inhambane Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -665,15 +653,27 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Port Macquarie Clipper Transport"
+		name="1st Normanton Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Townsville Clipper Transport"
+		name="2nd Normanton Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="4th Gladstone Clipper Transport"
+		name="2nd Gladstone Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Gladstone Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Port Macquarie Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Aru Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -686,11 +686,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Van Diemen's Land Frigate"
+		name="2nd Gladstone Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Gladstone Frigate"
+		name="2nd Port Macquarie Frigate"
 		type=frigate
 	}
 }
@@ -699,17 +699,17 @@ army = {
 	name="1st Army"
 	location=2604
 	regiment = {
+		name="7th Sydney Infantry"
+		type=infantry
+		home=2468
+	}
+	regiment = {
+		name="1st Townsville Infantry"
+		type=infantry
+		home=2487
+	}
+	regiment = {
 		name="8th Sydney Infantry"
-		type=infantry
-		home=2468
-	}
-	regiment = {
-		name="9th Sydney Infantry"
-		type=infantry
-		home=2468
-	}
-	regiment = {
-		name="10th Sydney Infantry"
 		type=infantry
 		home=2468
 	}
@@ -723,27 +723,19 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Van Diemen's Land Man'o'war"
+		name="2nd Gladstone Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="2nd Van Diemen's Land Man'o'war"
+		name="3rd Gladstone Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Port Macquarie Man'o'war"
+		name="4th Gladstone Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="3rd Port Macquarie Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Tombara Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Eden Clipper Transport"
+		name="1st Sale Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -751,11 +743,19 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Gladstone Clipper Transport"
+		name="4th Gladstone Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="4th Port Macquarie Clipper Transport"
+		name="5th Gladstone Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Sale Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Townsville Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -763,11 +763,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Gladstone Clipper Transport"
+		name="6th Gladstone Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Sale Clipper Transport"
+		name="7th Gladstone Clipper Transport"
 		type=clipper_transport
 	}
 }

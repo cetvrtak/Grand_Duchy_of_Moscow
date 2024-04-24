@@ -511,24 +511,9 @@ army = {
 	name="4th Army"
 	location=2165
 	regiment = {
-		name="1st Zacatecas Infantry"
+		name="1st Tampico Infantry"
 		type=infantry
-		home=2158
-	}
-	regiment = {
-		name="1st Mexico City Infantry"
-		type=infantry
-		home=2172
-	}
-	regiment = {
-		name="2nd Zacatecas Infantry"
-		type=infantry
-		home=2158
-	}
-	regiment = {
-		name="1st Puebla Infantry"
-		type=infantry
-		home=2176
+		home=2163
 	}
 	regiment = {
 		name="1st Veracruz Infantry"
@@ -536,9 +521,24 @@ army = {
 		home=2162
 	}
 	regiment = {
-		name="1st Mexico City Artillery"
-		type=artillery
+		name="1st San Pedro Sula Infantry"
+		type=infantry
+		home=2194
+	}
+	regiment = {
+		name="1st Mexico City Infantry"
+		type=infantry
 		home=2172
+	}
+	regiment = {
+		name="1st Toluca Infantry"
+		type=infantry
+		home=2174
+	}
+	regiment = {
+		name="1st Ciudad Acuña Artillery"
+		type=artillery
+		home=2147
 	}
 	regiment = {
 		name="1st Puebla Artillery"
@@ -546,9 +546,9 @@ army = {
 		home=2176
 	}
 	regiment = {
-		name="7th San Luis Potosí Infantry"
+		name="2nd Veracruz Infantry"
 		type=infantry
-		home=2159
+		home=2162
 	}
 }
 
@@ -594,19 +594,49 @@ army = {
 	name="6th Army"
 	location=2192
 	regiment = {
-		name="1st Ciudad Acuña Infantry"
+		name="1st La Ceiba Infantry"
 		type=infantry
-		home=2147
+		home=2195
 	}
 	regiment = {
-		name="1st Toluca Infantry"
+		name="2nd Mexico City Infantry"
 		type=infantry
-		home=2174
+		home=2172
+	}
+	regiment = {
+		name="1st Mazatlán Infantry"
+		type=infantry
+		home=2156
+	}
+	regiment = {
+		name="1st Puebla Infantry"
+		type=infantry
+		home=2176
 	}
 	regiment = {
 		name="1st Querétaro Infantry"
 		type=infantry
 		home=2173
+	}
+	regiment = {
+		name="2nd San Luis Potosí Infantry"
+		type=infantry
+		home=2159
+	}
+}
+
+army = {
+	name="14th Army"
+	location=2159
+	regiment = {
+		name="1st Zacatecas Infantry"
+		type=infantry
+		home=2158
+	}
+	regiment = {
+		name="2nd Mazatlán Infantry"
+		type=infantry
+		home=2156
 	}
 	regiment = {
 		name="1st San Luis Potosí Infantry"
@@ -619,18 +649,13 @@ army = {
 		home=2173
 	}
 	regiment = {
-		name="8th San Luis Potosí Infantry"
+		name="2nd Zacatecas Infantry"
 		type=infantry
-		home=2159
+		home=2158
 	}
-}
-
-army = {
-	name="14th Army"
-	location=2159
 	regiment = {
-		name="2nd San Luis Potosí Infantry"
-		type=infantry
+		name="1st San Luis Potosí Artillery"
+		type=artillery
 		home=2159
 	}
 	regiment = {
@@ -639,34 +664,9 @@ army = {
 		home=2159
 	}
 	regiment = {
-		name="4th San Luis Potosí Infantry"
-		type=infantry
-		home=2159
-	}
-	regiment = {
-		name="5th San Luis Potosí Infantry"
-		type=infantry
-		home=2159
-	}
-	regiment = {
-		name="6th San Luis Potosí Infantry"
-		type=infantry
-		home=2159
-	}
-	regiment = {
-		name="1st San Luis Potosí Artillery"
+		name="4th San Luis Potosí Artillery"
 		type=artillery
 		home=2159
-	}
-	regiment = {
-		name="9th San Luis Potosí Infantry"
-		type=infantry
-		home=2159
-	}
-	regiment = {
-		name="1st Guatemala City Artillery"
-		type=artillery
-		home=2186
 	}
 }
 
@@ -679,9 +679,9 @@ army = {
 		home=2159
 	}
 	regiment = {
-		name="1st Mazatlán Artillery"
+		name="3rd San Luis Potosí Artillery"
 		type=artillery
-		home=2156
+		home=2159
 	}
 }
 

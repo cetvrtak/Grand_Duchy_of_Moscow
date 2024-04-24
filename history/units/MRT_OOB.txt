@@ -501,12 +501,12 @@ army = {
 	name="2nd Army"
 	location=1285
 	regiment = {
-		name="1st Poona Irregulars"
+		name="1st Nizamabad Irregulars"
 		type=irregular
-		home=1299
+		home=1285
 	}
 	regiment = {
-		name="1st Nizamabad Irregulars"
+		name="2nd Nizamabad Irregulars"
 		type=irregular
 		home=1285
 	}
@@ -516,37 +516,7 @@ army = {
 		home=1299
 	}
 	regiment = {
-		name="3rd Poona Irregulars"
-		type=irregular
-		home=1299
-	}
-	regiment = {
-		name="1st Aurangabad Artillery"
-		type=artillery
-		home=1284
-	}
-}
-
-army = {
-	name="5th Army"
-	location=1285
-	regiment = {
-		name="2nd Nizamabad Irregulars"
-		type=irregular
-		home=1285
-	}
-	regiment = {
-		name="2nd Poona Irregulars"
-		type=irregular
-		home=1299
-	}
-	regiment = {
-		name="3rd Nizamabad Irregulars"
-		type=irregular
-		home=1285
-	}
-	regiment = {
-		name="4th Nizamabad Irregulars"
+		name="5th Nizamabad Irregulars"
 		type=irregular
 		home=1285
 	}
@@ -555,25 +525,55 @@ army = {
 		type=artillery
 		home=1285
 	}
+}
+
+army = {
+	name="5th Army"
+	location=1285
+	regiment = {
+		name="3rd Nizamabad Irregulars"
+		type=irregular
+		home=1285
+	}
+	regiment = {
+		name="1st Poona Irregulars"
+		type=irregular
+		home=1299
+	}
+	regiment = {
+		name="4th Nizamabad Irregulars"
+		type=irregular
+		home=1285
+	}
+	regiment = {
+		name="1st Hoshangabad Irregulars"
+		type=irregular
+		home=1276
+	}
+	regiment = {
+		name="1st Amarati Artillery"
+		type=artillery
+		home=1278
+	}
 	regiment = {
 		name="1st Hoshangabad Artillery"
 		type=artillery
 		home=1276
 	}
 	regiment = {
-		name="2nd Nizamabad Artillery"
+		name="1st Aurangabad Artillery"
 		type=artillery
-		home=1285
-	}
-	regiment = {
-		name="1st Aurangabad Irregulars"
-		type=irregular
 		home=1284
 	}
 	regiment = {
-		name="1st Nagpur Artillery"
+		name="2nd Poona Irregulars"
+		type=irregular
+		home=1299
+	}
+	regiment = {
+		name="2nd Hoshangabad Artillery"
 		type=artillery
-		home=1277
+		home=1276
 	}
 }
 

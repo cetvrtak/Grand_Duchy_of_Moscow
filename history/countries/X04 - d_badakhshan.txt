@@ -66,5 +66,6 @@ foreign_navies=no_foreign_navies
 prestige=0
 oob = "X04_OOB.txt"
 set_country_flag = religi
+set_country_flag = tartary_superregion
 set_country_flag = vic2_country_X04
 set_country_flag = eu4_country_Z0M

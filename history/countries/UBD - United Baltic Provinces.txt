@@ -47,6 +47,7 @@ nonstate_consciousness= 0
 # Technologies
 prestige=0
 oob = "UBD_OOB.txt"
+set_country_flag = eastern_europe_superregion
 set_country_flag = religi
 decision = UBD_1836_setup
 set_country_flag = vic2_country_UBD

@@ -60,6 +60,7 @@ naval_schools=no_naval_schools
 foreign_navies=no_foreign_navies
 prestige=0
 oob = "EGY_OOB.txt"
+set_country_flag = near_east_superregion
 set_country_flag = religi
 decision = EGY_1836_setup
 decision = LEB_1836_setup

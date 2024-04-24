@@ -261,7 +261,7 @@
 	{
 		culture = berber
 		religion = catholic
-		size= 1033
+		size= 896
 	}
 
 	artisans=
@@ -303,7 +303,7 @@
 	{
 		culture = berber
 		religion = catholic
-		size= 40798
+		size= 40935
 	}
 
 }
@@ -405,7 +405,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 1324
+		size= 4133
 	}
 
 	artisans=
@@ -447,7 +447,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 56459
+		size= 53650
 	}
 
 	slaves=
@@ -1261,7 +1261,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 4133
+		size= 1033
 	}
 
 	artisans=
@@ -1303,7 +1303,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 18131
+		size= 21231
 	}
 
 	slaves=
@@ -1498,7 +1498,7 @@
 	{
 		culture = ifriqi
 		religion = shamanism
-		size= 1033
+		size= 34
 	}
 
 	artisans=
@@ -1540,7 +1540,7 @@
 	{
 		culture = ifriqi
 		religion = shamanism
-		size= 393
+		size= 1392
 	}
 
 }

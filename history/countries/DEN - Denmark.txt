@@ -69,6 +69,7 @@ steamers = 1
 the_command_principle = 1
 prestige=0.0259554
 oob = "DEN_OOB.txt"
+set_country_flag = europe_superregion
 set_country_flag = religi
 decision = 1836_denmark_setup
 set_country_flag = vic2_country_DEN

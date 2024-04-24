@@ -68,6 +68,7 @@ prestige=0
 	decision = syrian_question
 }
 oob = "AFG_OOB.txt"
+set_country_flag = persia_superregion
 set_country_flag = religi
 set_country_flag = vic2_country_AFG
 set_country_flag = eu4_country_AFG

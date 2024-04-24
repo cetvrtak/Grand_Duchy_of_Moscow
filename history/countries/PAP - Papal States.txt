@@ -67,6 +67,7 @@ post_napoleonic_thought = 1
 private_banks = 1
 prestige=0.100347
 oob = "PAP_OOB.txt"
+set_country_flag = europe_superregion
 set_country_flag = religi
 decision = PAP_1836_setup
 set_country_flag = vic2_country_PAP

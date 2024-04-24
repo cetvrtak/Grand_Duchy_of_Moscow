@@ -523,9 +523,9 @@ army = {
 		home=2270
 	}
 	regiment = {
-		name="1st Maracaibo Cavalry"
+		name="1st Barquisimeto Cavalry"
 		type=cavalry
-		home=2270
+		home=2273
 	}
 	regiment = {
 		name="1st Maracaibo Artillery"
@@ -538,7 +538,7 @@ army = {
 		home=2270
 	}
 	regiment = {
-		name="3rd Maracaibo Cavalry"
+		name="2nd Maracaibo Cavalry"
 		type=cavalry
 		home=2270
 	}
@@ -619,7 +619,7 @@ army = {
 	name="2nd Army"
 	location=2275
 	regiment = {
-		name="2nd Maracaibo Cavalry"
+		name="1st Maracaibo Cavalry"
 		type=cavalry
 		home=2270
 	}

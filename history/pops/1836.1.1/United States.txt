@@ -1293,7 +1293,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 1846
+		size= 834
 	}
 
 	artisans=
@@ -1314,7 +1314,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 21
+		size= 1033
 	}
 
 	clergymen=
@@ -3093,7 +3093,7 @@
 	{
 		culture = french_canadian
 		religion = catholic
-		size= 1998
+		size= 1008
 	}
 
 	artisans=
@@ -3128,7 +3128,7 @@
 	{
 		culture = french_canadian
 		religion = catholic
-		size= 43
+		size= 1033
 	}
 
 	officers=
@@ -6133,7 +6133,7 @@
 	{
 		culture = muskogean
 		religion = totemism
-		size= 1033
+		size= 355
 	}
 
 	artisans=
@@ -6175,7 +6175,7 @@
 	{
 		culture = muskogean
 		religion = totemism
-		size= 5589
+		size= 6267
 	}
 
 }
@@ -6407,7 +6407,7 @@
 	{
 		culture = caddoan
 		religion = totemism
-		size= 1033
+		size= 74
 	}
 
 	artisans=
@@ -6449,7 +6449,7 @@
 	{
 		culture = caddoan
 		religion = totemism
-		size= 2223
+		size= 3182
 	}
 
 }
@@ -6516,14 +6516,14 @@
 	{
 		culture = central_algonquian
 		religion = totemism
-		size= 895
+		size= 4133
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
 		religion = totemism
-		size= 36706
+		size= 33468
 	}
 
 	soldiers=
@@ -6616,7 +6616,7 @@
 	{
 		culture = muskogean
 		religion = totemism
-		size= 1033
+		size= 95
 	}
 
 	artisans=
@@ -6658,7 +6658,7 @@
 	{
 		culture = muskogean
 		religion = totemism
-		size= 3195
+		size= 4133
 	}
 
 }
@@ -6674,7 +6674,7 @@
 	{
 		culture = central_algonquian
 		religion = totemism
-		size= 1033
+		size= 190
 	}
 
 	artisans=
@@ -6716,7 +6716,7 @@
 	{
 		culture = central_algonquian
 		religion = totemism
-		size= 4501
+		size= 5344
 	}
 
 }
@@ -6732,7 +6732,7 @@
 	{
 		culture = muskogean
 		religion = totemism
-		size= 1033
+		size= 265
 	}
 
 	artisans=
@@ -6774,7 +6774,7 @@
 	{
 		culture = muskogean
 		religion = totemism
-		size= 7963
+		size= 8731
 	}
 
 }
@@ -10901,7 +10901,7 @@
 	{
 		culture = muskogean
 		religion = totemism
-		size= 471
+		size= 1033
 	}
 
 	artisans=
@@ -10943,7 +10943,7 @@
 	{
 		culture = muskogean
 		religion = totemism
-		size= 7216
+		size= 6654
 	}
 
 }
@@ -11191,7 +11191,7 @@
 	{
 		culture = muskogean
 		religion = totemism
-		size= 162
+		size= 1033
 	}
 
 	artisans=
@@ -11233,7 +11233,7 @@
 	{
 		culture = muskogean
 		religion = totemism
-		size= 2781
+		size= 1910
 	}
 
 }
@@ -11307,7 +11307,7 @@
 	{
 		culture = muskogean
 		religion = totemism
-		size= 1033
+		size= 51
 	}
 
 	artisans=
@@ -11349,7 +11349,7 @@
 	{
 		culture = muskogean
 		religion = totemism
-		size= 655
+		size= 1637
 	}
 
 	slaves=
@@ -11537,7 +11537,7 @@
 	{
 		culture = muskogean
 		religion = totemism
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -11579,7 +11579,7 @@
 	{
 		culture = muskogean
 		religion = totemism
-		size= 24488
+		size= 21388
 	}
 
 }

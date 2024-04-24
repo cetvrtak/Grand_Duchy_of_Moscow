@@ -65,6 +65,7 @@ stock_exchange = 1
 prestige=0.156275
 oob = "HLL_OOB.txt"
 set_country_flag = member_hre
+set_country_flag = europe_superregion
 set_country_flag = religi
 set_country_flag = vic2_country_HLL
 set_country_flag = eu4_country_HOL

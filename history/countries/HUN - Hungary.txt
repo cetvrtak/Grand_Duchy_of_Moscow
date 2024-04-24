@@ -67,6 +67,7 @@ post_napoleonic_thought = 1
 private_banks = 1
 prestige=2.04118
 oob = "HUN_OOB.txt"
+set_country_flag = eastern_europe_superregion
 set_country_flag = religi
 set_country_flag = vic2_country_HUN
 set_country_flag = eu4_country_HUN

@@ -74,6 +74,7 @@ the_command_principle = 1
 prestige=0.0158308
 oob = "USA_OOB.txt"
 set_country_flag = new_world_nation
+set_country_flag = north_america_superregion
 set_country_flag = religi
 decision = USA_1836_setup
 set_country_flag = vic2_country_USA

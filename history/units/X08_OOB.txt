@@ -557,19 +557,19 @@ navy = {
 	name="4th Fleet"
 	location=2788
 	ship = {
-		name="2nd Bushire Frigate"
+		name="3rd Bushire Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Lengeh Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Lengeh Frigate"
+		name="4th Bushire Frigate"
 		type=frigate
 	}
 	ship = {
 		name="4th Lengeh Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Lengeh Frigate"
 		type=frigate
 	}
 }
@@ -578,7 +578,15 @@ navy = {
 	name="2nd Fleet"
 	location=1132
 	ship = {
-		name="3rd Bushire Frigate"
+		name="1st Lengeh Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Bushire Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Lengeh Frigate"
 		type=frigate
 	}
 	ship = {
@@ -586,19 +594,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="2nd Abadan Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Abadan Frigate"
-		type=frigate
-	}
-	ship = {
-		name="4th Abadan Frigate"
-		type=frigate
-	}
-	ship = {
 		name="3rd Lengeh Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Lengeh Frigate"
 		type=frigate
 	}
 }

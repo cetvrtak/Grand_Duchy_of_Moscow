@@ -62,6 +62,7 @@ piston_steam_engine = 1
 post_napoleonic_thought = 1
 prestige=0.00114718
 oob = "CYP_OOB.txt"
+set_country_flag = near_east_superregion
 set_country_flag = religi
 set_country_flag = vic2_country_CYP
 set_country_flag = eu4_country_CYP

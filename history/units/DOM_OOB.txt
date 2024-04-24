@@ -571,9 +571,9 @@ army = {
 		home=2214
 	}
 	regiment = {
-		name="1st La Vega Artillery"
+		name="3rd Santo Domingo Artillery"
 		type=artillery
-		home=2216
+		home=2214
 	}
 }
 

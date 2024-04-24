@@ -81,6 +81,7 @@ prestige=0
 oob = "CLM_OOB.txt"
 set_country_flag = new_world_nation
 set_country_flag = religi
+set_country_flag = south_america_superregion
 decision = CLM_1836_setup
 set_country_flag = vic2_country_CLM
 set_country_flag = eu4_country_C05

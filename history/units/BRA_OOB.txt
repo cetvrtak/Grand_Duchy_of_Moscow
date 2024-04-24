@@ -512,12 +512,17 @@ army = {
 	name="1st Army"
 	location=585
 	regiment = {
+		name="1st Stade Infantry"
+		type=infantry
+		home=531
+	}
+	regiment = {
 		name="1st Hanover Infantry"
 		type=infantry
 		home=534
 	}
 	regiment = {
-		name="1st Stade Infantry"
+		name="2nd Stade Infantry"
 		type=infantry
 		home=531
 	}
@@ -532,11 +537,6 @@ army = {
 		home=532
 	}
 	regiment = {
-		name="2nd Stade Infantry"
-		type=infantry
-		home=531
-	}
-	regiment = {
 		name="1st Stendal Artillery"
 		type=artillery
 		home=557
@@ -547,14 +547,14 @@ army = {
 		home=532
 	}
 	regiment = {
+		name="1st Hanover Artillery"
+		type=artillery
+		home=534
+	}
+	regiment = {
 		name="2nd Stendal Artillery"
 		type=artillery
 		home=557
-	}
-	regiment = {
-		name="1st Hamburg Artillery"
-		type=artillery
-		home=528
 	}
 }
 
@@ -587,7 +587,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Emden Clipper Transport"
+		name="1st Heligoland Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -595,15 +595,15 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
+		name="1st Emden Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
 		name="1st Bremen Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Emden Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Hamburg Clipper Transport"
+		name="1st Stade Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -617,11 +617,6 @@ army = {
 		home=534
 	}
 	regiment = {
-		name="1st Oldenburg Infantry"
-		type=infantry
-		home=540
-	}
-	regiment = {
 		name="4th Hanover Infantry"
 		type=infantry
 		home=534
@@ -632,13 +627,13 @@ army = {
 		home=534
 	}
 	regiment = {
-		name="2nd Oldenburg Infantry"
+		name="6th Hanover Infantry"
 		type=infantry
-		home=540
+		home=534
 	}
 	regiment = {
-		name="1st Hanover Artillery"
-		type=artillery
+		name="7th Hanover Infantry"
+		type=infantry
 		home=534
 	}
 	regiment = {
@@ -652,7 +647,12 @@ army = {
 		home=534
 	}
 	regiment = {
-		name="6th Hanover Infantry"
+		name="1st Emden Artillery"
+		type=artillery
+		home=543
+	}
+	regiment = {
+		name="8th Hanover Infantry"
 		type=infantry
 		home=534
 	}

@@ -525,17 +525,7 @@ leader = {
 #Armies
 army = {
 	name="5th Army"
-	location=2631
-	regiment = {
-		name="1st Chicago Infantry"
-		type=infantry
-		home=163
-	}
-	regiment = {
-		name="1st Baton Rouge Infantry"
-		type=infantry
-		home=140
-	}
+	location=5
 	regiment = {
 		name="1st Peoria Infantry"
 		type=infantry
@@ -545,6 +535,16 @@ army = {
 		name="1st Jackson Infantry"
 		type=infantry
 		home=192
+	}
+	regiment = {
+		name="1st Fort Bonneville Infantry"
+		type=infantry
+		home=111
+	}
+	regiment = {
+		name="1st Chicago Infantry"
+		type=infantry
+		home=163
 	}
 	regiment = {
 		name="1st Indianapolis Infantry"
@@ -577,7 +577,7 @@ army = {
 		home=163
 	}
 	regiment = {
-		name="13th Chicago Artillery"
+		name="14th Chicago Artillery"
 		type=artillery
 		home=163
 	}
@@ -607,24 +607,19 @@ army = {
 		home=163
 	}
 	regiment = {
-		name="1st Hot Springs Artillery"
+		name="12th Chicago Artillery"
 		type=artillery
-		home=144
+		home=163
 	}
 }
 
 army = {
 	name="4th Army"
-	location=2630
+	location=4
 	regiment = {
 		name="4th Chicago Infantry"
 		type=infantry
 		home=163
-	}
-	regiment = {
-		name="1st Jefferson City Infantry"
-		type=infantry
-		home=149
 	}
 	regiment = {
 		name="5th Chicago Infantry"
@@ -642,14 +637,19 @@ army = {
 		home=163
 	}
 	regiment = {
+		name="1st St Louis Infantry"
+		type=infantry
+		home=146
+	}
+	regiment = {
 		name="6th Chicago Artillery"
 		type=artillery
 		home=163
 	}
 	regiment = {
-		name="7th Chicago Artillery"
+		name="1st St Louis Artillery"
 		type=artillery
-		home=163
+		home=146
 	}
 	regiment = {
 		name="11th Chicago Artillery"
@@ -660,7 +660,7 @@ army = {
 
 army = {
 	name="15th Army"
-	location=1
+	location=2
 	regiment = {
 		name="8th Chicago Infantry"
 		type=infantry
@@ -672,7 +672,7 @@ army = {
 		home=163
 	}
 	regiment = {
-		name="8th Chicago Artillery"
+		name="7th Chicago Artillery"
 		type=artillery
 		home=163
 	}
@@ -685,42 +685,42 @@ army = {
 
 navy = {
 	name="3rd Fleet"
-	location=2965
+	location=2966
 	ship = {
-		name="1st Baton Rouge Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Aruba Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Baton Rouge Clipper Transport"
+		name="1st Lake Charles Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
 		name="1st New Orleans Clipper Transport"
 		type=clipper_transport
 	}
+	ship = {
+		name="1st Biloxi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Baton Rouge Clipper Transport"
+		type=clipper_transport
+	}
 }
 
 army = {
 	name="3rd Army"
-	location=1
-	regiment = {
-		name="1st Malden Infantry"
-		type=infantry
-		home=148
-	}
+	location=2
 	regiment = {
 		name="10th Chicago Infantry"
 		type=infantry
 		home=163
 	}
 	regiment = {
-		name="1st Joplin Artillery"
+		name="11th Chicago Infantry"
+		type=infantry
+		home=163
+	}
+	regiment = {
+		name="8th Chicago Artillery"
 		type=artillery
-		home=147
+		home=163
 	}
 	regiment = {
 		name="9th Chicago Artillery"
@@ -738,7 +738,7 @@ army = {
 	name="9th Army"
 	location=3
 	regiment = {
-		name="11th Chicago Infantry"
+		name="12th Chicago Infantry"
 		type=infantry
 		home=163
 	}
@@ -753,7 +753,7 @@ army = {
 		home=163
 	}
 	regiment = {
-		name="12th Chicago Artillery"
+		name="13th Chicago Artillery"
 		type=artillery
 		home=163
 	}
@@ -761,11 +761,11 @@ army = {
 
 army = {
 	name="1st Army"
-	location=4
+	location=2630
 	regiment = {
-		name="12th Chicago Infantry"
+		name="1st Greenwood Infantry"
 		type=infantry
-		home=163
+		home=193
 	}
 	regiment = {
 		name="13th Chicago Infantry"

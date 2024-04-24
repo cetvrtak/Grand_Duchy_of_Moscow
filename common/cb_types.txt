@@ -3316,21 +3316,12 @@ great_game_cb = {
             any_neighbor_country = { vassal_of = THIS }
         }
         OR = {
-            tag = SIN
-            tag = KAL
-            tag = MAK
-            tag = AFG
-            tag = KAS
-            tag = KOK
-            tag = KHI
-            tag = BUK
-            tag = CRL
-            tag = KAZ
-            tag = BDK
-            AND = {
-                tag = PNJ
-                has_country_flag = ranjit_singh_dead
-            }
+            has_country_flag = tartary_superregion
+            has_country_flag = persia_superregion
+        }
+        OR = {
+            NOT = { tag = PNJ }
+            has_country_flag = ranjit_singh_dead
         }
         ENG = { is_greater_power = yes }
         RUS = { is_greater_power = yes }

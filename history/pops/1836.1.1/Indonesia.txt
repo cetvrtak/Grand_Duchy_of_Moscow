@@ -1925,7 +1925,7 @@
 	{
 		culture = javan
 		religion = hindu
-		size= 13433
+		size= 10333
 	}
 
 	artisans=
@@ -1967,7 +1967,7 @@
 	{
 		culture = javan
 		religion = hindu
-		size= 189594
+		size= 192694
 	}
 
 	soldiers=
@@ -2823,7 +2823,7 @@
 	{
 		culture = bornean
 		religion = sunni
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -2865,7 +2865,7 @@
 	{
 		culture = bornean
 		religion = sunni
-		size= 21054
+		size= 17954
 	}
 
 }
@@ -3731,7 +3731,7 @@
 	{
 		culture = bornean
 		religion = sunni
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -3773,7 +3773,7 @@
 	{
 		culture = bornean
 		religion = sunni
-		size= 10789
+		size= 7689
 	}
 
 }
@@ -4870,7 +4870,7 @@
 	{
 		culture = javan
 		religion = animist
-		size= 1033
+		size= 956
 	}
 
 	artisans=
@@ -4912,7 +4912,7 @@
 	{
 		culture = javan
 		religion = animist
-		size= 42957
+		size= 43034
 	}
 
 	soldiers=

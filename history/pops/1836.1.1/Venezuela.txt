@@ -601,7 +601,7 @@
 	{
 		culture = guyanese
 		religion = protestant
-		size= 6170
+		size= 6955
 	}
 
 	slaves=
@@ -636,7 +636,7 @@
 	{
 		culture = guyanese
 		religion = protestant
-		size= 1033
+		size= 248
 	}
 
 	bureaucrats=
@@ -1239,7 +1239,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 282
+		size= 1033
 	}
 
 	artisans=
@@ -1281,7 +1281,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 8380
+		size= 7629
 	}
 
 }

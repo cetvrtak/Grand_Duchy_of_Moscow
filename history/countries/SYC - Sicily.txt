@@ -65,6 +65,7 @@ piston_steam_engine = 1
 private_banks = 1
 prestige=0.240359
 oob = "SYC_OOB.txt"
+set_country_flag = europe_superregion
 set_country_flag = religi
 set_country_flag = vic2_country_SYC
 set_country_flag = eu4_country_SIC

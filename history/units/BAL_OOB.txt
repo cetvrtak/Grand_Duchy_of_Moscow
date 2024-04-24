@@ -517,14 +517,14 @@ army = {
 		home=1420
 	}
 	regiment = {
-		name="1st Surakarta Irregulars"
+		name="2nd Probolinggo Irregulars"
 		type=irregular
-		home=1419
+		home=1420
 	}
 	regiment = {
-		name="1st Lombok Irregulars"
+		name="3rd Probolinggo Irregulars"
 		type=irregular
-		home=1442
+		home=1420
 	}
 }
 
@@ -532,11 +532,11 @@ navy = {
 	name="2nd Fleet"
 	location=1438
 	ship = {
-		name="1st Surakarta Clipper Transport"
+		name="1st Bonny Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Lombok Clipper Transport"
+		name="1st Surakarta Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {

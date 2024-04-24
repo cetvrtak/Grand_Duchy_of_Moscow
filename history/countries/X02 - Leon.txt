@@ -58,6 +58,7 @@ piston_steam_engine = 1
 post_napoleonic_thought = 1
 prestige=3.36492
 oob = "X02_OOB.txt"
+set_country_flag = europe_superregion
 set_country_flag = religi
 set_country_flag = vic2_country_X02
 set_country_flag = eu4_country_LON

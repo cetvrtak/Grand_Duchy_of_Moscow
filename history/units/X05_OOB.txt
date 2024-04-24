@@ -511,15 +511,15 @@ navy = {
 	name="2nd Fleet"
 	location=2925
 	ship = {
+		name="1st Azores Frigate"
+		type=frigate
+	}
+	ship = {
 		name="1st Madeira Frigate"
 		type=frigate
 	}
 	ship = {
 		name="1st Canary Islands Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Canary Islands Frigate"
 		type=frigate
 	}
 }
@@ -543,17 +543,17 @@ army = {
 		home=2134
 	}
 	regiment = {
-		name="1st Azores Cavalry"
+		name="1st Madeira Cavalry"
 		type=cavalry
-		home=2134
-	}
-	regiment = {
-		name="1st Madeira Artillery"
-		type=artillery
 		home=2135
 	}
 	regiment = {
 		name="1st Azores Artillery"
+		type=artillery
+		home=2134
+	}
+	regiment = {
+		name="2nd Azores Artillery"
 		type=artillery
 		home=2134
 	}
@@ -563,12 +563,12 @@ army = {
 		home=2134
 	}
 	regiment = {
-		name="2nd Azores Cavalry"
+		name="1st Azores Cavalry"
 		type=cavalry
 		home=2134
 	}
 	regiment = {
-		name="2nd Azores Artillery"
+		name="3rd Azores Artillery"
 		type=artillery
 		home=2134
 	}
@@ -582,19 +582,23 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="2nd Azores Man'o'war"
-		type=manowar
-	}
-	ship = {
 		name="1st Canary Islands Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Madeira Clipper Transport"
-		type=clipper_transport
+		name="2nd Azores Man'o'war"
+		type=manowar
 	}
 	ship = {
 		name="1st Azores Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Azores Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Azores Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -602,11 +606,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Canary Islands Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Azores Clipper Transport"
+		name="1st Madeira Clipper Transport"
 		type=clipper_transport
 	}
 }

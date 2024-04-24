@@ -64,6 +64,7 @@ naval_schools=no_naval_schools
 foreign_navies=no_foreign_navies
 prestige=0.0958653
 oob = "DLH_OOB.txt"
+set_country_flag = india_superregion
 set_country_flag = religi
 set_country_flag = vic2_country_DLH
 set_country_flag = eu4_country_DLH

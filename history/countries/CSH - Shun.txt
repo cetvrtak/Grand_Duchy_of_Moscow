@@ -64,5 +64,6 @@ foreign_navies=no_foreign_navies
 prestige=0.525451
 oob = "CSH_OOB.txt"
 set_country_flag = religi
+set_country_flag = tartary_superregion
 set_country_flag = vic2_country_CSH
 set_country_flag = eu4_country_CSH

@@ -495,6 +495,10 @@ navy = {
 	name="1st Fleet"
 	location=467
 	ship = {
+		name="1st Marseilles Frigate"
+		type=frigate
+	}
+	ship = {
 		name="1st Toulon Frigate"
 		type=frigate
 	}
@@ -503,23 +507,19 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Marseilles Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Nice Frigate"
-		type=frigate
-	}
-	ship = {
 		name="2nd Marseilles Frigate"
 		type=frigate
 	}
 	ship = {
-		name="3rd Marseilles Frigate"
+		name="2nd Toulon Frigate"
 		type=frigate
 	}
 	ship = {
-		name="4th Marseilles Frigate"
+		name="3rd Toulon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Toulon Frigate"
 		type=frigate
 	}
 }
@@ -533,9 +533,9 @@ army = {
 		home=468
 	}
 	regiment = {
-		name="1st Frejus Infantry"
+		name="1st Nice Infantry"
 		type=infantry
-		home=471
+		home=472
 	}
 	regiment = {
 		name="1st Toulon Cavalry"
@@ -548,12 +548,52 @@ army = {
 		home=454
 	}
 	regiment = {
-		name="1st Grenoble Infantry"
+		name="1st Frejus Infantry"
 		type=infantry
+		home=471
+	}
+	regiment = {
+		name="2nd Grenoble Cavalry"
+		type=cavalry
 		home=454
 	}
 	regiment = {
+		name="1st Digne Artillery"
+		type=artillery
+		home=469
+	}
+}
+
+army = {
+	name="Armée d'Orange"
+	location=467
+	regiment = {
+		name="1st Marseilles Infantry"
+		type=infantry
+		home=467
+	}
+	regiment = {
+		name="2nd Marseilles Infantry"
+		type=infantry
+		home=467
+	}
+	regiment = {
 		name="1st Grenoble Cavalry"
+		type=cavalry
+		home=454
+	}
+	regiment = {
+		name="2nd Grenoble Artillery"
+		type=artillery
+		home=454
+	}
+	regiment = {
+		name="1st Avignon Artillery"
+		type=artillery
+		home=468
+	}
+	regiment = {
+		name="3rd Grenoble Cavalry"
 		type=cavalry
 		home=454
 	}
@@ -564,59 +604,19 @@ army = {
 	}
 }
 
-army = {
-	name="Armée d'Orange"
-	location=467
-	regiment = {
-		name="1st Digne Infantry"
-		type=infantry
-		home=469
-	}
-	regiment = {
-		name="1st Marseilles Infantry"
-		type=infantry
-		home=467
-	}
-	regiment = {
-		name="1st Avignon Cavalry"
-		type=cavalry
-		home=468
-	}
-	regiment = {
-		name="2nd Grenoble Artillery"
-		type=artillery
-		home=454
-	}
-	regiment = {
-		name="1st Marseilles Artillery"
-		type=artillery
-		home=467
-	}
-	regiment = {
-		name="2nd Grenoble Cavalry"
-		type=cavalry
-		home=454
-	}
-	regiment = {
-		name="4th Grenoble Artillery"
-		type=artillery
-		home=454
-	}
-}
-
 navy = {
 	name="2nd Fleet"
 	location=2750
 	ship = {
+		name="2nd Nice Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Nice Frigate"
+		type=frigate
+	}
+	ship = {
 		name="1st Provencal Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Bizerte Frigate"
-		type=frigate
-	}
-	ship = {
-		name="3rd Bizerte Frigate"
 		type=frigate
 	}
 }

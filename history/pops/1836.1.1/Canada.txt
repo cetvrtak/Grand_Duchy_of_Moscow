@@ -3591,14 +3591,14 @@
 	{
 		culture = eastern_algonquian
 		religion = totemism
-		size= 152
+		size= 1033
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
 		religion = totemism
-		size= 6351
+		size= 5470
 	}
 
 	farmers=
@@ -4296,14 +4296,14 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 323
+		size= 1033
 	}
 
 	farmers=
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 13633
+		size= 12923
 	}
 
 	farmers=
@@ -5104,7 +5104,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 6102
+		size= 5219
 	}
 
 	artisans=
@@ -5132,7 +5132,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 150
+		size= 1033
 	}
 
 	bureaucrats=
@@ -5835,7 +5835,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 1033
+		size= 226
 	}
 
 	artisans=
@@ -5877,7 +5877,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 8302
+		size= 9109
 	}
 
 }

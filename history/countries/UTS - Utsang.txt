@@ -69,6 +69,7 @@ post_napoleonic_thought = 1
 private_banks = 1
 prestige=0
 oob = "UTS_OOB.txt"
+set_country_flag = china_superregion
 set_country_flag = religi
 set_country_flag = vic2_country_UTS
 set_country_flag = eu4_country_UTS

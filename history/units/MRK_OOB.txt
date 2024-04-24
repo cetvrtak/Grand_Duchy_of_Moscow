@@ -520,11 +520,6 @@ army = {
 	name="1st Army"
 	location=2563
 	regiment = {
-		name="1st Warzazat Irregulars"
-		type=irregular
-		home=1699
-	}
-	regiment = {
 		name="1st Marrakesh Irregulars"
 		type=irregular
 		home=1690
@@ -533,6 +528,11 @@ army = {
 		name="2nd Marrakesh Irregulars"
 		type=irregular
 		home=1690
+	}
+	regiment = {
+		name="1st Warzazat Irregulars"
+		type=irregular
+		home=1699
 	}
 	regiment = {
 		name="1st Safi Artillery"
@@ -550,6 +550,10 @@ navy = {
 	name="2nd Fleet"
 	location=1694
 	ship = {
+		name="1st Ifni Man'o'war"
+		type=manowar
+	}
+	ship = {
 		name="1st Agadir Man'o'war"
 		type=manowar
 	}
@@ -558,15 +562,11 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="3rd Agadir Man'o'war"
+		name="2nd Ifni Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Ifni Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th Agadir Man'o'war"
+		name="3rd Ifni Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -574,11 +574,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Casablanca Clipper Transport"
+		name="2nd Agadir Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Safi Clipper Transport"
+		name="2nd Casablanca Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -586,11 +586,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Ifni Clipper Transport"
+		name="3rd Agadir Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Agadir Clipper Transport"
+		name="1st Safi Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -657,11 +657,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Casablanca Frigate"
+		name="3rd Ifni Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Agadir Frigate"
+		name="4th Ifni Frigate"
 		type=frigate
 	}
 }

@@ -529,7 +529,27 @@ army = {
 	name="Erste Fränkische Armee"
 	location=595
 	regiment = {
+		name="1st Stuttgart Infantry"
+		type=infantry
+		home=589
+	}
+	regiment = {
+		name="1st Munich Infantry"
+		type=infantry
+		home=599
+	}
+	regiment = {
+		name="1st Landshut Infantry"
+		type=infantry
+		home=600
+	}
+	regiment = {
 		name="1st Bayreuth Infantry"
+		type=infantry
+		home=598
+	}
+	regiment = {
+		name="2nd Bayreuth Infantry"
 		type=infantry
 		home=598
 	}
@@ -539,89 +559,9 @@ army = {
 		home=590
 	}
 	regiment = {
-		name="1st Landshut Infantry"
-		type=infantry
-		home=600
-	}
-	regiment = {
-		name="1st Meiningen Infantry"
-		type=infantry
-		home=563
-	}
-	regiment = {
-		name="2nd Heilbronn Infantry"
-		type=infantry
-		home=590
-	}
-	regiment = {
-		name="3rd Heilbronn Infantry"
-		type=infantry
-		home=590
-	}
-	regiment = {
-		name="1st Stuttgart Artillery"
-		type=artillery
-		home=589
-	}
-	regiment = {
-		name="1st Augsburg Artillery"
-		type=artillery
-		home=592
-	}
-	regiment = {
-		name="1st Regensburg Artillery"
-		type=artillery
-		home=602
-	}
-	regiment = {
 		name="1st Nuremberg Artillery"
 		type=artillery
 		home=595
-	}
-	regiment = {
-		name="1st Würzburg Artillery"
-		type=artillery
-		home=597
-	}
-	regiment = {
-		name="2nd Nuremberg Artillery"
-		type=artillery
-		home=595
-	}
-	regiment = {
-		name="2nd Munich Artillery"
-		type=artillery
-		home=599
-	}
-}
-
-army = {
-	name="Armee von Rothenburg"
-	location=602
-	regiment = {
-		name="1st Gotha Infantry"
-		type=infantry
-		home=562
-	}
-	regiment = {
-		name="2nd Bayreuth Infantry"
-		type=infantry
-		home=598
-	}
-	regiment = {
-		name="1st Augsburg Infantry"
-		type=infantry
-		home=592
-	}
-	regiment = {
-		name="1st Nuremberg Infantry"
-		type=infantry
-		home=595
-	}
-	regiment = {
-		name="1st Munich Infantry"
-		type=infantry
-		home=599
 	}
 	regiment = {
 		name="1st Meiningen Artillery"
@@ -634,9 +574,54 @@ army = {
 		home=598
 	}
 	regiment = {
+		name="1st Regensburg Artillery"
+		type=artillery
+		home=602
+	}
+	regiment = {
+		name="2nd Nuremberg Artillery"
+		type=artillery
+		home=595
+	}
+	regiment = {
 		name="2nd Bayreuth Artillery"
 		type=artillery
 		home=598
+	}
+	regiment = {
+		name="1st Stuttgart Artillery"
+		type=artillery
+		home=589
+	}
+}
+
+army = {
+	name="Armee von Rothenburg"
+	location=602
+	regiment = {
+		name="2nd Heilbronn Infantry"
+		type=infantry
+		home=590
+	}
+	regiment = {
+		name="3rd Heilbronn Infantry"
+		type=infantry
+		home=590
+	}
+	regiment = {
+		name="1st Nuremberg Infantry"
+		type=infantry
+		home=595
+	}
+	regiment = {
+		name="1st Regensburg Infantry"
+		type=infantry
+		home=602
+	}
+	regiment = {
+		name="1st Würzburg Infantry"
+		type=infantry
+		home=597
 	}
 	regiment = {
 		name="3rd Nuremberg Artillery"
@@ -644,38 +629,13 @@ army = {
 		home=595
 	}
 	regiment = {
-		name="4th Nuremberg Infantry"
-		type=infantry
-		home=595
-	}
-	regiment = {
-		name="2nd Regensburg Artillery"
+		name="1st Göttingen Artillery"
 		type=artillery
-		home=602
-	}
-}
-
-army = {
-	name="Armee von Würzburg"
-	location=598
-	regiment = {
-		name="1st Würzburg Infantry"
-		type=infantry
-		home=597
+		home=537
 	}
 	regiment = {
-		name="2nd Nuremberg Infantry"
-		type=infantry
-		home=595
-	}
-	regiment = {
-		name="2nd Munich Infantry"
-		type=infantry
-		home=599
-	}
-	regiment = {
-		name="3rd Nuremberg Infantry"
-		type=infantry
+		name="4th Nuremberg Artillery"
+		type=artillery
 		home=595
 	}
 	regiment = {
@@ -684,9 +644,44 @@ army = {
 		home=599
 	}
 	regiment = {
-		name="2nd Stuttgart Artillery"
+		name="2nd Munich Infantry"
+		type=infantry
+		home=599
+	}
+	regiment = {
+		name="1st Erfurt Artillery"
 		type=artillery
+		home=554
+	}
+}
+
+army = {
+	name="Armee von Würzburg"
+	location=598
+	regiment = {
+		name="2nd Nuremberg Infantry"
+		type=infantry
+		home=595
+	}
+	regiment = {
+		name="2nd Stuttgart Infantry"
+		type=infantry
 		home=589
+	}
+	regiment = {
+		name="1st Meiningen Infantry"
+		type=infantry
+		home=563
+	}
+	regiment = {
+		name="2nd Würzburg Infantry"
+		type=infantry
+		home=597
+	}
+	regiment = {
+		name="2nd Munich Artillery"
+		type=artillery
+		home=599
 	}
 	regiment = {
 		name="1st Gotha Artillery"
@@ -694,9 +689,14 @@ army = {
 		home=562
 	}
 	regiment = {
-		name="1st Stuttgart Infantry"
+		name="2nd Gotha Artillery"
+		type=artillery
+		home=562
+	}
+	regiment = {
+		name="3rd Nuremberg Infantry"
 		type=infantry
-		home=589
+		home=595
 	}
 }
 

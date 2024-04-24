@@ -65,6 +65,7 @@ romanticism = 1
 stock_exchange = 1
 prestige=0
 oob = "GRA_OOB.txt"
+set_country_flag = europe_superregion
 set_country_flag = religi
 set_country_flag = vic2_country_GRA
 set_country_flag = eu4_country_GRA

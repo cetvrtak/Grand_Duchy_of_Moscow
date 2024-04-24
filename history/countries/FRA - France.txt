@@ -66,6 +66,7 @@ private_banks = 1
 romanticism = 1
 prestige=32.5028
 oob = "FRA_OOB.txt"
+set_country_flag = europe_superregion
 set_country_flag = religi
 decision = france_1836_setup
 set_country_flag = vic2_country_FRA

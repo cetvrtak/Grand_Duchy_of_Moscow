@@ -66,6 +66,7 @@ post_napoleonic_thought = 1
 private_banks = 1
 prestige=41.001
 oob = "RUS_OOB.txt"
+set_country_flag = eastern_europe_superregion
 set_country_flag = religi
 decision = RUS_setup_1836
 set_country_flag = vic2_country_RUS

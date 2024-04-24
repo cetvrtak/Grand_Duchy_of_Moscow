@@ -69,6 +69,7 @@ private_banks = 1
 romanticism = 1
 prestige=0
 oob = "PRU_OOB.txt"
+set_country_flag = eastern_europe_superregion
 set_country_flag = religi
 decision = literacy_PRU
 set_country_flag = vic2_country_PRU

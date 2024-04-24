@@ -60,6 +60,7 @@ naval_schools=no_naval_schools
 foreign_navies=no_foreign_navies
 prestige=0
 oob = "BNB_OOB.txt"
+set_country_flag = persia_superregion
 set_country_flag = religi
 decision = kurdish_1836_setup
 set_country_flag = vic2_country_BNB

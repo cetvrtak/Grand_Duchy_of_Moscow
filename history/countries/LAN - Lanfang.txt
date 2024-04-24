@@ -63,6 +63,7 @@ naval_schools=no_naval_schools
 foreign_navies=no_foreign_navies
 prestige=0
 oob = "LAN_OOB.txt"
+set_country_flag = east_indies_superregion
 set_country_flag = religi
 set_country_flag = vic2_country_LAN
 set_country_flag = eu4_country_LFA

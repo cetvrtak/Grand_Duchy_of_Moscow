@@ -4509,7 +4509,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 1750
+		size= 4133
 	}
 
 	artisans=
@@ -4551,7 +4551,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 25598
+		size= 23215
 	}
 
 }
@@ -4909,7 +4909,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 4133
+		size= 1288
 	}
 
 	artisans=
@@ -4951,7 +4951,7 @@
 	{
 		culture = north_german
 		religion = protestant
-		size= 30707
+		size= 33552
 	}
 
 }
@@ -7279,7 +7279,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 4133
+		size= 1168
 	}
 
 	artisans=
@@ -7321,7 +7321,7 @@
 	{
 		culture = south_german
 		religion = catholic
-		size= 19438
+		size= 22403
 	}
 
 	soldiers=
@@ -8212,7 +8212,7 @@
 	{
 		culture = north_german
 		religion = orthodox
-		size= 7233
+		size= 1984
 	}
 
 	artisans=
@@ -8254,7 +8254,7 @@
 	{
 		culture = north_german
 		religion = orthodox
-		size= 57042
+		size= 62291
 	}
 
 }
@@ -8361,7 +8361,7 @@
 	{
 		culture = lithuanian
 		religion = orthodox
-		size= 4133
+		size= 950
 	}
 
 	artisans=
@@ -8403,7 +8403,7 @@
 	{
 		culture = lithuanian
 		religion = orthodox
-		size= 21542
+		size= 24725
 	}
 
 }

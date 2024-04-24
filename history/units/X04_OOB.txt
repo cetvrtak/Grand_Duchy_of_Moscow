@@ -516,14 +516,14 @@ army = {
 		home=1597
 	}
 	regiment = {
-		name="1st Kashgar Artillery"
-		type=artillery
-		home=1594
-	}
-	regiment = {
 		name="1st Khorug Artillery"
 		type=artillery
 		home=1208
+	}
+	regiment = {
+		name="1st Kashgar Artillery"
+		type=artillery
+		home=1594
 	}
 	regiment = {
 		name="2nd Bishkek Irregulars"

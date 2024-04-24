@@ -60,5 +60,6 @@ naval_schools=no_naval_schools
 foreign_navies=no_foreign_navies
 prestige=0
 oob = "CHK_OOB.txt"
+set_country_flag = east_indies_superregion
 set_country_flag = religi
 set_country_flag = vic2_country_CHK

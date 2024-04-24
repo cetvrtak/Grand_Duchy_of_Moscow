@@ -531,21 +531,6 @@ army = {
 	name="Armata di Eger"
 	location=750
 	regiment = {
-		name="1st Florence Infantry"
-		type=infantry
-		home=744
-	}
-	regiment = {
-		name="2nd Florence Infantry"
-		type=infantry
-		home=744
-	}
-	regiment = {
-		name="3rd Florence Infantry"
-		type=infantry
-		home=744
-	}
-	regiment = {
 		name="1st Perugia Infantry"
 		type=infantry
 		home=751
@@ -556,9 +541,9 @@ army = {
 		home=751
 	}
 	regiment = {
-		name="4th Florence Infantry"
+		name="3rd Perugia Infantry"
 		type=infantry
-		home=744
+		home=751
 	}
 	regiment = {
 		name="1st Pescara Infantry"
@@ -566,14 +551,19 @@ army = {
 		home=10
 	}
 	regiment = {
-		name="1st Gjirokaster Infantry"
+		name="1st Gaeta Infantry"
 		type=infantry
-		home=853
+		home=2567
 	}
 	regiment = {
-		name="3rd Perugia Infantry"
+		name="1st Florence Infantry"
 		type=infantry
-		home=751
+		home=744
+	}
+	regiment = {
+		name="1st Aquila Infantry"
+		type=infantry
+		home=753
 	}
 	regiment = {
 		name="1st Rome Infantry"
@@ -581,9 +571,19 @@ army = {
 		home=749
 	}
 	regiment = {
-		name="1st Rome Artillery"
+		name="1st Foggia Infantry"
+		type=infantry
+		home=757
+	}
+	regiment = {
+		name="1st Ancona Infantry"
+		type=infantry
+		home=752
+	}
+	regiment = {
+		name="1st Florence Artillery"
 		type=artillery
-		home=749
+		home=744
 	}
 	regiment = {
 		name="1st Ancona Artillery"
@@ -591,9 +591,14 @@ army = {
 		home=752
 	}
 	regiment = {
-		name="1st Aquila Artillery"
+		name="2nd Florence Artillery"
 		type=artillery
-		home=753
+		home=744
+	}
+	regiment = {
+		name="1st Rome Artillery"
+		type=artillery
+		home=749
 	}
 	regiment = {
 		name="2nd Rome Artillery"
@@ -606,14 +611,9 @@ army = {
 		home=749
 	}
 	regiment = {
-		name="1st Pescara Artillery"
-		type=artillery
-		home=10
-	}
-	regiment = {
-		name="1st Gaeta Infantry"
+		name="2nd Florence Infantry"
 		type=infantry
-		home=2567
+		home=744
 	}
 	regiment = {
 		name="4th Rome Artillery"
@@ -657,7 +657,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="5th Ancona Frigate"
+		name="2nd Gaeta Frigate"
 		type=frigate
 	}
 }
@@ -678,7 +678,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="2nd Bari Frigate"
+		name="1st Corfu Frigate"
 		type=frigate
 	}
 	ship = {
@@ -686,47 +686,35 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="3rd Ancona Frigate"
-		type=frigate
-	}
-	ship = {
 		name="1st Volos Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Janina Frigate"
+		name="1st Shkoder Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Rome Frigate"
+		name="1st Gaeta Frigate"
 		type=frigate
 	}
 	ship = {
-		name="4th Ancona Frigate"
+		name="2nd Volos Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Pescara Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Janina Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Gaeta Clipper Transport"
-		type=clipper_transport
+		name="1st Nafplion Frigate"
+		type=frigate
 	}
 	ship = {
 		name="1st Bari Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Arta Clipper Transport"
+		name="1st Shkoder Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Missolonghi Clipper Transport"
+		name="1st Gjirokaster Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -738,11 +726,23 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Gaeta Clipper Transport"
+		name="2nd Pescara Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Gaeta Clipper Transport"
+		name="3rd Pescara Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Rome Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Grosseto Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Durres Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -750,11 +750,11 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Shkoder Frigate"
+		name="1st Viterbo Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Viterbo Clipper Transport"
+		name="1st Gaeta Clipper Transport"
 		type=clipper_transport
 	}
 }

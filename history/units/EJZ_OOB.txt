@@ -519,12 +519,12 @@ army = {
 		home=1553
 	}
 	regiment = {
-		name="2nd Aigun Irregulars"
+		name="1st Hailanpao Irregulars"
 		type=irregular
-		home=1553
+		home=1085
 	}
 	regiment = {
-		name="3rd Aigun Irregulars"
+		name="2nd Aigun Irregulars"
 		type=irregular
 		home=1553
 	}
@@ -539,7 +539,7 @@ army = {
 		home=1553
 	}
 	regiment = {
-		name="4th Aigun Irregulars"
+		name="3rd Aigun Irregulars"
 		type=irregular
 		home=1553
 	}

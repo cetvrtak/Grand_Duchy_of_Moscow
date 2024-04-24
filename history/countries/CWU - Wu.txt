@@ -64,6 +64,7 @@ foreign_navies=no_foreign_navies
 prestige=11.0354
 oob = "CWU_OOB.txt"
 set_country_flag = celestial_emperor
+set_country_flag = china_superregion
 set_country_flag = religi
 set_country_flag = vic2_country_CWU
 set_country_flag = eu4_country_WUU

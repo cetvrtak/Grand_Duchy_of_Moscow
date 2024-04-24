@@ -47,4 +47,5 @@ nonstate_consciousness= 0
 prestige=0
 oob = "CRB_OOB.txt"
 set_country_flag = religi
+set_country_flag = south_america_superregion
 set_country_flag = vic2_country_CRB
