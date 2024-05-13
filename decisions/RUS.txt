@@ -234,7 +234,6 @@ political_decisions = {
             tag = RUS
             is_greater_power = yes
             NOT = { has_global_flag = convention_of_peking }
-            1082 = { owner = { in_sphere = RUS } }
         }
 
         allow = {
