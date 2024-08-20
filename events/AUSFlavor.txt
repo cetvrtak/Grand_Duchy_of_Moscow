@@ -655,6 +655,7 @@ country_event = {
         OR = {
             tag = AUS
             tag = KUK
+            has_country_flag = annexed_bosnia
         }
         OR = {
             government = absolute_monarchy
