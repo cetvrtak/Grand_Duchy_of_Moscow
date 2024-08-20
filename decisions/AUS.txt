@@ -566,10 +566,7 @@ political_decisions = {
             badboy = 5
             inherit = BOS
             any_pop = {
-                limit = {
-                    location = { is_core = SER }
-                    has_pop_culture = serb
-                }
+                limit = { has_pop_culture = serb }
                 militancy = 6
             }
             random_owned = {
