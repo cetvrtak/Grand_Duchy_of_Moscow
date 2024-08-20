@@ -666,7 +666,7 @@ country_event = {
         exists = SER
         SER = { neighbour = THIS }
         any_owned_province = {
-            is_core = SER
+            is_primary_culture = SER
             average_militancy = 4
         }
         NOT = { truce_with = SER }
@@ -808,10 +808,7 @@ country_event = {
             }
         }
         any_pop = {
-            limit = {
-                location = { is_core = SER }
-                has_pop_culture = serb
-            }
+            limit = { has_pop_culture = serb }
             militancy = 6
         }
         relation = {
@@ -853,10 +850,7 @@ country_event = {
             }
         }
         any_pop = {
-            limit = {
-                location = { is_core = SER }
-                has_pop_culture = serb
-            }
+            limit = { has_pop_culture = serb }
             militancy = 6
         }
         any_pop = {
