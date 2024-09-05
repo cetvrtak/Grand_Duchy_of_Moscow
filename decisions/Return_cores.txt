@@ -18166,6 +18166,56 @@ political_decisions = {
 		}
 	}
 
+	return_cores_KHA = {
+		picture = return_cores_img
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = return_cores_decision
+			KHA = {
+				NOT = { substate_of = THIS }
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			any_owned_province = {
+				is_core = KHA
+				OR = {
+					NOT = { is_core = THIS }
+					owner = { has_country_flag = transfer_own_cores }
+				}
+			}
+		}
+
+		allow = {
+			war = no
+			KHA = { war = no }
+		}
+
+		effect = {
+			prestige = -5
+			relation = { who = KHA value = 50 }
+			any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					is_core = KHA
+				}
+				secede_province = KHA
+			}
+			any_owned = {
+				limit = {
+					is_core = THIS
+					is_core = KHA
+					owner = { has_country_flag = transfer_own_cores }
+				}
+				secede_province = KHA
+				remove_core = THIS
+			}
+		}
+	}
+
 	return_cores_KHI = {
 		picture = return_cores_img
 		alert = no

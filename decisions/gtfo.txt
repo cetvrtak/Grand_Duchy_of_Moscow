@@ -9089,6 +9089,31 @@ political_decisions = {
 		}
 	}
 
+	gtfo_KHA = {
+		picture = gtfo
+		alert = no
+
+		potential = {
+			ai = no
+			has_country_flag = gtfo
+			KHA = {
+				vassal_of = THIS
+				NOT = { substate_of = THIS }
+			}
+		}
+
+		allow = {
+			war = no
+			KHA = { war = no }
+		}
+
+		effect = {
+			prestige_factor = -0.1
+			release_vassal = KHA
+			diplomatic_influence = { who = KHA value = -100 }
+		}
+	}
+
 	gtfo_KHI = {
 		picture = gtfo
 		alert = no
