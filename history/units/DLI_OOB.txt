@@ -535,11 +535,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Padang Clipper Transport"
+		name="1st Delian Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Delian Clipper Transport"
+		name="1st Padang Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {

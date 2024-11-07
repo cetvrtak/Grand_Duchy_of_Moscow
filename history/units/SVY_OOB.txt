@@ -506,16 +506,6 @@ army = {
 	name="Armata di Eger"
 	location=2568
 	regiment = {
-		name="1st Besançon Infantry"
-		type=infantry
-		home=432
-	}
-	regiment = {
-		name="2nd Besançon Infantry"
-		type=infantry
-		home=432
-	}
-	regiment = {
 		name="1st Annecy Infantry"
 		type=infantry
 		home=465
@@ -531,14 +521,19 @@ army = {
 		home=466
 	}
 	regiment = {
-		name="2nd Annecy Infantry"
+		name="1st Sitten Infantry"
 		type=infantry
-		home=465
+		home=609
 	}
 	regiment = {
-		name="1st Chambéry Artillery"
-		type=artillery
-		home=466
+		name="2nd Geneva Infantry"
+		type=infantry
+		home=607
+	}
+	regiment = {
+		name="1st Besançon Infantry"
+		type=infantry
+		home=432
 	}
 	regiment = {
 		name="1st Lugano Artillery"
@@ -546,25 +541,25 @@ army = {
 		home=2568
 	}
 	regiment = {
+		name="1st Chur Artillery"
+		type=artillery
+		home=611
+	}
+	regiment = {
 		name="1st Annecy Artillery"
 		type=artillery
 		home=465
 	}
 	regiment = {
-		name="1st Chur Artillery"
+		name="2nd Lugano Artillery"
 		type=artillery
-		home=611
+		home=2568
 	}
 }
 
 army = {
 	name="1st Army"
 	location=611
-	regiment = {
-		name="3rd Annecy Infantry"
-		type=infantry
-		home=465
-	}
 	regiment = {
 		name="2nd Chambéry Infantry"
 		type=infantry
@@ -576,35 +571,40 @@ army = {
 		home=2568
 	}
 	regiment = {
+		name="3rd Geneva Infantry"
+		type=infantry
+		home=607
+	}
+	regiment = {
+		name="1st Neuchâtel Infantry"
+		type=infantry
+		home=608
+	}
+	regiment = {
 		name="2nd Lugano Infantry"
 		type=infantry
 		home=2568
 	}
 	regiment = {
-		name="3rd Besançon Infantry"
-		type=infantry
-		home=432
-	}
-	regiment = {
-		name="2nd Lugano Artillery"
+		name="1st Lons Artillery"
 		type=artillery
-		home=2568
-	}
-	regiment = {
-		name="1st Sitten Artillery"
-		type=artillery
-		home=609
+		home=433
 	}
 	regiment = {
 		name="3rd Lugano Artillery"
 		type=artillery
 		home=2568
 	}
+	regiment = {
+		name="2nd Annecy Artillery"
+		type=artillery
+		home=465
+	}
 }
 
 army = {
 	name="Armata di Bresse"
-	location=611
+	location=2568
 	regiment = {
 		name="1st Lucerne Infantry"
 		type=infantry
@@ -621,19 +621,19 @@ army = {
 		home=611
 	}
 	regiment = {
-		name="3rd Chur Artillery"
-		type=artillery
-		home=611
-	}
-	regiment = {
-		name="2nd Lucerne Infantry"
-		type=infantry
-		home=606
-	}
-	regiment = {
 		name="1st Bern Artillery"
 		type=artillery
 		home=605
+	}
+	regiment = {
+		name="1st Chur Infantry"
+		type=infantry
+		home=611
+	}
+	regiment = {
+		name="1st Geneva Artillery"
+		type=artillery
+		home=607
 	}
 }
 

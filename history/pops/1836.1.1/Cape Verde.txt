@@ -1,58 +1,79 @@
 1876 = {
-	slaves=
-	{
-		culture = afro_caribeno
-		religion = sunni
-		size= 3961
-	}
-
-	soldiers=
-	{
-		culture = ifriqi
-		religion = sunni
-		size= 528
-	}
-
-	farmers=
-	{
-		culture = ifriqi
-		religion = sunni
-		size= 13304
-	}
-
-	artisans=
-	{
-		culture = ifriqi
-		religion = sunni
-		size= 756
-	}
-
 	aristocrats=
 	{
-		culture = ifriqi
-		religion = sunni
-		size= 238
-	}
-
-	clergymen=
-	{
-		culture = ifriqi
-		religion = sunni
-		size= 122
-	}
-
-	bureaucrats=
-	{
-		culture = ifriqi
-		religion = sunni
-		size= 28
+		culture = portuguese
+		religion = catholic
+		size= 100
 	}
 
 	officers=
 	{
-		culture = ifriqi
-		religion = sunni
-		size= 30
+		culture = portuguese
+		religion = catholic
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = kreol
+		religion = catholic
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = kreol
+		religion = catholic
+		size= 700
+	}
+
+	soldiers=
+	{
+		culture = kreol
+		religion = catholic
+		size= 150
+	}
+
+	farmers=
+	{
+		culture = kreol
+		religion = catholic
+		size= 13500
+	}
+
+	slaves=
+	{
+		culture = kreol
+		religion = catholic
+		size= 4000
 	}
 
 }

@@ -545,14 +545,9 @@ army = {
 	name="8th Army"
 	location=523
 	regiment = {
-		name="1st Vigo Infantry"
+		name="1st Oporto Infantry"
 		type=infantry
-		home=476
-	}
-	regiment = {
-		name="1st Badajoz Infantry"
-		type=infantry
-		home=484
+		home=518
 	}
 	regiment = {
 		name="1st La Coruña Infantry"
@@ -560,9 +555,9 @@ army = {
 		home=474
 	}
 	regiment = {
-		name="1st Lisbon Infantry"
+		name="1st Vila Real Infantry"
 		type=infantry
-		home=521
+		home=519
 	}
 	regiment = {
 		name="2nd La Coruña Infantry"
@@ -570,9 +565,14 @@ army = {
 		home=474
 	}
 	regiment = {
-		name="1st Vila Real Infantry"
+		name="1st Coimbra Infantry"
 		type=infantry
-		home=519
+		home=522
+	}
+	regiment = {
+		name="1st Vigo Infantry"
+		type=infantry
+		home=476
 	}
 	regiment = {
 		name="3rd La Coruña Infantry"
@@ -590,27 +590,27 @@ army = {
 		home=520
 	}
 	regiment = {
-		name="2nd La Coruña Artillery"
-		type=artillery
-		home=474
-	}
-	regiment = {
 		name="2nd Covilhã Artillery"
 		type=artillery
 		home=520
 	}
 	regiment = {
-		name="3rd Covilhã Artillery"
+		name="2nd La Coruña Artillery"
 		type=artillery
-		home=520
+		home=474
 	}
 	regiment = {
-		name="3rd Vigo Infantry"
+		name="1st Lisbon Artillery"
+		type=artillery
+		home=521
+	}
+	regiment = {
+		name="2nd Coimbra Infantry"
 		type=infantry
-		home=476
+		home=522
 	}
 	regiment = {
-		name="5th La Coruña Artillery"
+		name="8th La Coruña Artillery"
 		type=artillery
 		home=474
 	}
@@ -620,14 +620,54 @@ army = {
 	name="4th Army"
 	location=523
 	regiment = {
+		name="1st Almendralejo Infantry"
+		type=infantry
+		home=485
+	}
+	regiment = {
+		name="2nd Oporto Infantry"
+		type=infantry
+		home=518
+	}
+	regiment = {
+		name="2nd Almendralejo Infantry"
+		type=infantry
+		home=485
+	}
+	regiment = {
 		name="1st Covilhã Infantry"
 		type=infantry
 		home=520
 	}
 	regiment = {
-		name="1st Oporto Infantry"
+		name="3rd La Coruña Artillery"
+		type=artillery
+		home=474
+	}
+	regiment = {
+		name="4th La Coruña Artillery"
+		type=artillery
+		home=474
+	}
+	regiment = {
+		name="5th La Coruña Artillery"
+		type=artillery
+		home=474
+	}
+	regiment = {
+		name="1st Setubal Artillery"
+		type=artillery
+		home=524
+	}
+}
+
+army = {
+	name="5th Army"
+	location=523
+	regiment = {
+		name="4th La Coruña Infantry"
 		type=infantry
-		home=518
+		home=474
 	}
 	regiment = {
 		name="2nd Covilhã Infantry"
@@ -640,34 +680,9 @@ army = {
 		home=476
 	}
 	regiment = {
-		name="1st Coimbra Artillery"
-		type=artillery
-		home=522
-	}
-	regiment = {
-		name="3rd La Coruña Artillery"
-		type=artillery
-		home=474
-	}
-	regiment = {
-		name="2nd Coimbra Artillery"
-		type=artillery
-		home=522
-	}
-	regiment = {
-		name="4th La Coruña Artillery"
-		type=artillery
-		home=474
-	}
-}
-
-army = {
-	name="5th Army"
-	location=523
-	regiment = {
-		name="2nd Vila Real Infantry"
+		name="5th La Coruña Infantry"
 		type=infantry
-		home=519
+		home=474
 	}
 	regiment = {
 		name="3rd Covilhã Infantry"
@@ -675,9 +690,9 @@ army = {
 		home=520
 	}
 	regiment = {
-		name="4th La Coruña Infantry"
+		name="3rd Vigo Infantry"
 		type=infantry
-		home=474
+		home=476
 	}
 	regiment = {
 		name="4th Covilhã Infantry"
@@ -685,44 +700,29 @@ army = {
 		home=520
 	}
 	regiment = {
-		name="5th La Coruña Infantry"
+		name="5th Covilhã Infantry"
 		type=infantry
-		home=474
-	}
-	regiment = {
-		name="3rd Vila Real Infantry"
-		type=infantry
-		home=519
-	}
-	regiment = {
-		name="6th La Coruña Infantry"
-		type=infantry
-		home=474
-	}
-	regiment = {
-		name="4th Vila Real Infantry"
-		type=infantry
-		home=519
-	}
-	regiment = {
-		name="4th Covilhã Artillery"
-		type=artillery
 		home=520
 	}
 	regiment = {
-		name="1st Almendralejo Artillery"
+		name="6th La Coruña Artillery"
 		type=artillery
-		home=485
+		home=474
 	}
 	regiment = {
-		name="1st Almendralejo Infantry"
+		name="7th La Coruña Artillery"
+		type=artillery
+		home=474
+	}
+	regiment = {
+		name="3rd Almendralejo Infantry"
 		type=infantry
 		home=485
 	}
 	regiment = {
-		name="1st Abrantes Artillery"
+		name="1st Vila Real Artillery"
 		type=artillery
-		home=523
+		home=519
 	}
 }
 
@@ -741,7 +741,7 @@ navy = {
 
 navy = {
 	name="4th Fleet"
-	location=3020
+	location=3021
 	ship = {
 		name="Royal Albert"
 		type=manowar
@@ -835,23 +835,23 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Oporto Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Lisbon Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="4th Oviedo Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Maracaibo Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="1st Bermuda Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Beja Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Coimbra Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Coimbra Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st La Coruña Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -859,27 +859,31 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
+		name="4th Oviedo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Benin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Coimbra Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd La Coruña Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Beja Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
 		name="4th Coimbra Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Oporto Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Lisbon Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Lisbon Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Galician Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Setubal Clipper Transport"
+		name="5th Coimbra Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -887,11 +891,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Bermuda Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Bermuda Clipper Transport"
+		name="2nd Vigo Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -903,7 +903,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st La Coruña Clipper Transport"
+		name="2nd Lisbon Clipper Transport"
 		type=clipper_transport
 	}
 }

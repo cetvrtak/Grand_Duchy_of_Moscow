@@ -469,7 +469,7 @@
 	{
 		culture = kurdish
 		religion = sunni
-		size= 1033
+		size= 241
 	}
 
 	artisans=
@@ -511,7 +511,7 @@
 	{
 		culture = kurdish
 		religion = sunni
-		size= 6990
+		size= 7782
 	}
 
 	soldiers=
@@ -983,7 +983,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 750
+		size= 1033
 	}
 
 	artisans=
@@ -1025,7 +1025,7 @@
 	{
 		culture = mashriqi
 		religion = sunni
-		size= 21073
+		size= 20790
 	}
 
 }

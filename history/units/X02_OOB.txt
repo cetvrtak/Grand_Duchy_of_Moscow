@@ -553,64 +553,64 @@ army = {
 	name="Ejército de Calabar"
 	location=520
 	regiment = {
-		name="1st Nampula Infantry"
-		type=infantry
-		home=2064
-	}
-	regiment = {
-		name="1st León Infantry"
-		type=infantry
-		home=477
-	}
-	regiment = {
 		name="1st Ávila Infantry"
 		type=infantry
 		home=483
 	}
 	regiment = {
-		name="1st Burgos Infantry"
+		name="1st Cáceres Infantry"
 		type=infantry
+		home=486
+	}
+	regiment = {
+		name="2nd Ávila Infantry"
+		type=infantry
+		home=483
+	}
+	regiment = {
+		name="3rd Ávila Infantry"
+		type=infantry
+		home=483
+	}
+	regiment = {
+		name="1st Valladolid Infantry"
+		type=infantry
+		home=480
+	}
+	regiment = {
+		name="1st Oviedo Infantry"
+		type=infantry
+		home=475
+	}
+	regiment = {
+		name="1st Cáceres Artillery"
+		type=artillery
+		home=486
+	}
+	regiment = {
+		name="1st Burgos Artillery"
+		type=artillery
 		home=479
 	}
 	regiment = {
-		name="1st Salamanca Infantry"
-		type=infantry
-		home=482
-	}
-	regiment = {
-		name="2nd León Infantry"
-		type=infantry
-		home=477
-	}
-	regiment = {
-		name="1st Valladolid Artillery"
+		name="2nd Burgos Artillery"
 		type=artillery
-		home=480
+		home=479
 	}
 	regiment = {
-		name="1st Salamanca Artillery"
+		name="1st Oviedo Artillery"
 		type=artillery
-		home=482
+		home=475
 	}
 	regiment = {
-		name="1st Ávila Artillery"
-		type=artillery
-		home=483
-	}
-	regiment = {
-		name="2nd Valladolid Artillery"
-		type=artillery
-		home=480
-	}
-	regiment = {
-		name="4th Ávila Infantry"
+		name="6th Ávila Infantry"
 		type=infantry
 		home=483
 	}
 	regiment = {
-		name="1st Santander Artillery"
+		name="3rd Ávila Artillery"
 		type=artillery
-		home=478
+		home=483
 	}
 }
 
@@ -618,7 +618,7 @@ navy = {
 	name="2nd Fleet"
 	location=2743
 	ship = {
-		name="2nd Galway Man'o'war"
+		name="4th Galway Man'o'war"
 		type=manowar
 	}
 }
@@ -627,17 +627,17 @@ army = {
 	name="1st Army"
 	location=2057
 	regiment = {
-		name="2nd Ávila Infantry"
+		name="2nd Cáceres Infantry"
 		type=infantry
-		home=483
+		home=486
 	}
 	regiment = {
-		name="2nd Ávila Artillery"
+		name="1st Ávila Artillery"
 		type=artillery
 		home=483
 	}
 	regiment = {
-		name="5th Ávila Infantry"
+		name="7th Ávila Infantry"
 		type=infantry
 		home=483
 	}
@@ -647,15 +647,15 @@ navy = {
 	name="Flota de Lusitanian Sea"
 	location=2908
 	ship = {
-		name="1st Puerto Deseado Man'o'war"
+		name="1st Santander Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="3rd New Caledonia Man'o'war"
+		name="2nd Santander Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="2nd Oviedo Man'o'war"
+		name="3rd Santander Man'o'war"
 		type=manowar
 	}
 }
@@ -664,27 +664,15 @@ navy = {
 	name="Flota de Romanche Gap"
 	location=1404
 	ship = {
-		name="9th Plymouth Man'o'war"
+		name="3rd Canterbury Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Oviedo Man'o'war"
+		name="1st Donegal Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Ezorongondo Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Ibo Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Sofala Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="2nd Sofala Man'o'war"
+		name="11th Plymouth Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -692,7 +680,19 @@ navy = {
 		type=manowar
 	}
 	ship = {
+		name="2nd Donegal Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="12th Plymouth Man'o'war"
+		type=manowar
+	}
+	ship = {
 		name="1st Palak Pinang Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ezorongondo Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -700,31 +700,31 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="3rd Trujillo Frigate"
+		name="1st Huaraz Frigate"
 		type=frigate
+	}
+	ship = {
+		name="3rd Rawson Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Falkland & South Georgia Clipper Transport"
+		type=clipper_transport
 	}
 	ship = {
 		name="1st Aru Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="4th Aberdeen Clipper Transport"
+		name="2nd Falkland & South Georgia Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Donegal Clipper Transport"
+		name="2nd Aru Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Santander Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="5th Aberdeen Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Huaraz Frigate"
+		name="1st Campos Frigate"
 		type=frigate
 	}
 }
@@ -733,14 +733,19 @@ army = {
 	name="Ejército de Espirito Santo"
 	location=2415
 	regiment = {
+		name="4th Ávila Infantry"
+		type=infantry
+		home=483
+	}
+	regiment = {
+		name="5th Ávila Infantry"
+		type=infantry
+		home=483
+	}
+	regiment = {
 		name="1st Santander Infantry"
 		type=infantry
 		home=478
-	}
-	regiment = {
-		name="3rd Ávila Infantry"
-		type=infantry
-		home=483
 	}
 	regiment = {
 		name="2nd Santander Infantry"
@@ -753,42 +758,37 @@ army = {
 		home=478
 	}
 	regiment = {
-		name="1st Oviedo Infantry"
+		name="3rd Cáceres Infantry"
 		type=infantry
-		home=475
+		home=486
 	}
 	regiment = {
-		name="2nd Oviedo Infantry"
+		name="1st Burgos Infantry"
 		type=infantry
-		home=475
+		home=479
 	}
 	regiment = {
-		name="4th Santander Infantry"
-		type=infantry
+		name="2nd Ávila Artillery"
+		type=artillery
+		home=483
+	}
+	regiment = {
+		name="1st Valladolid Artillery"
+		type=artillery
+		home=480
+	}
+	regiment = {
+		name="1st Santander Artillery"
+		type=artillery
 		home=478
 	}
 	regiment = {
-		name="3rd Valladolid Artillery"
-		type=artillery
-		home=480
-	}
-	regiment = {
-		name="3rd Ávila Artillery"
-		type=artillery
-		home=483
-	}
-	regiment = {
-		name="4th Valladolid Artillery"
-		type=artillery
-		home=480
-	}
-	regiment = {
-		name="6th Ávila Infantry"
+		name="2nd Burgos Infantry"
 		type=infantry
-		home=483
+		home=479
 	}
 	regiment = {
-		name="5th Valladolid Artillery"
+		name="2nd Valladolid Artillery"
 		type=artillery
 		home=480
 	}

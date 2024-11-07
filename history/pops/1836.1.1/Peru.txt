@@ -932,7 +932,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 94
+		size= 1033
 	}
 
 	artisans=
@@ -974,7 +974,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 7597
+		size= 6658
 	}
 
 	slaves=
@@ -3609,7 +3609,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 1033
+		size= 125
 	}
 
 	artisans=
@@ -3651,7 +3651,7 @@
 	{
 		culture = platinean
 		religion = catholic
-		size= 5068
+		size= 5976
 	}
 
 	soldiers=

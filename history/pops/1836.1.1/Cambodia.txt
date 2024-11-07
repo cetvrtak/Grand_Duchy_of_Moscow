@@ -10,7 +10,7 @@
 	{
 		culture = khmer
 		religion = theravada
-		size= 6163
+		size= 10333
 	}
 
 	artisans=
@@ -52,7 +52,7 @@
 	{
 		culture = khmer
 		religion = theravada
-		size= 61687
+		size= 57517
 	}
 
 	slaves=
@@ -238,7 +238,7 @@
 	{
 		culture = khmer
 		religion = theravada
-		size= 4133
+		size= 1884
 	}
 
 	artisans=
@@ -280,7 +280,7 @@
 	{
 		culture = khmer
 		religion = theravada
-		size= 24084
+		size= 26333
 	}
 
 	slaves=
@@ -401,7 +401,7 @@
 	{
 		culture = khmer
 		religion = theravada
-		size= 1033
+		size= 585
 	}
 
 	artisans=
@@ -443,7 +443,7 @@
 	{
 		culture = khmer
 		religion = theravada
-		size= 7221
+		size= 7669
 	}
 
 	slaves=

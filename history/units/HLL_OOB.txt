@@ -517,13 +517,13 @@ leader = {
 #Armies
 navy = {
 	name="2nd Fleet"
-	location=2726
+	location=2738
 	ship = {
 		name="1st San Felipe Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd San Felipe Frigate"
+		name="3rd San Felipe Frigate"
 		type=frigate
 	}
 }
@@ -532,14 +532,14 @@ army = {
 	name="Leger van Caracas"
 	location=376
 	regiment = {
-		name="1st Rotterdam Infantry"
+		name="1st Calabozo Infantry"
 		type=infantry
-		home=376
+		home=2266
 	}
 	regiment = {
-		name="1st San Felipe Artillery"
+		name="1st Rotterdam Artillery"
 		type=artillery
-		home=2268
+		home=376
 	}
 	regiment = {
 		name="3rd Rotterdam Infantry"
@@ -547,9 +547,9 @@ army = {
 		home=376
 	}
 	regiment = {
-		name="2nd Rotterdam Artillery"
+		name="1st Caracas Artillery"
 		type=artillery
-		home=376
+		home=2264
 	}
 }
 
@@ -561,7 +561,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st San Felipe Man'o'war"
+		name="4th Caracas Man'o'war"
 		type=manowar
 	}
 }
@@ -570,9 +570,9 @@ army = {
 	name="1st Army"
 	location=2264
 	regiment = {
-		name="1st Calabozo Infantry"
+		name="1st Rotterdam Infantry"
 		type=infantry
-		home=2266
+		home=376
 	}
 	regiment = {
 		name="2nd Rotterdam Infantry"
@@ -580,7 +580,7 @@ army = {
 		home=376
 	}
 	regiment = {
-		name="1st Rotterdam Artillery"
+		name="2nd Rotterdam Artillery"
 		type=artillery
 		home=376
 	}
@@ -598,15 +598,19 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Caracas Frigate"
+		name="2nd San Felipe Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st San Felipe Clipper Transport"
+		name="1st Caracas Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Caracas Clipper Transport"
+		name="2nd Caracas Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st San Felipe Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -618,11 +622,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="4th San Felipe Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="5th San Felipe Clipper Transport"
+		name="3rd Caracas Clipper Transport"
 		type=clipper_transport
 	}
 }

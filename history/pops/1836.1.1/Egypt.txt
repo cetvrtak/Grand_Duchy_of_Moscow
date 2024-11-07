@@ -2352,7 +2352,7 @@
 	{
 		culture = misri
 		religion = orthodox
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -2394,7 +2394,7 @@
 	{
 		culture = misri
 		religion = orthodox
-		size= 7077
+		size= 3977
 	}
 
 }
@@ -2538,7 +2538,7 @@
 	{
 		culture = bedouin
 		religion = orthodox
-		size= 29
+		size= 1033
 	}
 
 	artisans=
@@ -2580,7 +2580,7 @@
 	{
 		culture = bedouin
 		religion = orthodox
-		size= 1283
+		size= 279
 	}
 
 }
@@ -2745,7 +2745,7 @@
 	{
 		culture = bedouin
 		religion = orthodox
-		size= 30
+		size= 1033
 	}
 
 	artisans=
@@ -2787,7 +2787,7 @@
 	{
 		culture = bedouin
 		religion = orthodox
-		size= 1376
+		size= 373
 	}
 
 }

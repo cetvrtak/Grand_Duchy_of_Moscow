@@ -533,29 +533,19 @@ army = {
 	name="Armee von Rethélois"
 	location=451
 	regiment = {
-		name="1st Darmstadt Infantry"
-		type=infantry
-		home=2560
-	}
-	regiment = {
-		name="1st Kaiserslautern Infantry"
-		type=infantry
-		home=571
-	}
-	regiment = {
 		name="1st Trier Infantry"
 		type=infantry
 		home=572
 	}
 	regiment = {
-		name="2nd Trier Infantry"
+		name="1st Koblenz Infantry"
 		type=infantry
-		home=572
+		home=574
 	}
 	regiment = {
-		name="2nd Darmstadt Infantry"
+		name="1st Mannheim Infantry"
 		type=infantry
-		home=2560
+		home=569
 	}
 	regiment = {
 		name="1st Wiesbaden Infantry"
@@ -563,9 +553,14 @@ army = {
 		home=565
 	}
 	regiment = {
-		name="1st Mainz Artillery"
-		type=artillery
-		home=570
+		name="1st Kaiserslautern Infantry"
+		type=infantry
+		home=571
+	}
+	regiment = {
+		name="1st Aachen Infantry"
+		type=infantry
+		home=576
 	}
 	regiment = {
 		name="1st Trier Artillery"
@@ -578,25 +573,35 @@ army = {
 		home=2560
 	}
 	regiment = {
-		name="2nd Trier Artillery"
+		name="1st Aachen Artillery"
 		type=artillery
-		home=572
+		home=576
 	}
 	regiment = {
-		name="1st Giessen Artillery"
+		name="1st Kaiserslautern Artillery"
 		type=artillery
-		home=567
+		home=571
 	}
 	regiment = {
 		name="1st Saarbrücken Artillery"
 		type=artillery
 		home=573
 	}
+	regiment = {
+		name="3rd Kaiserslautern Artillery"
+		type=artillery
+		home=571
+	}
 }
 
 army = {
 	name="Armee von Rioja"
 	location=721
+	regiment = {
+		name="2nd Trier Infantry"
+		type=infantry
+		home=572
+	}
 	regiment = {
 		name="3rd Trier Infantry"
 		type=infantry
@@ -608,24 +613,19 @@ army = {
 		home=572
 	}
 	regiment = {
-		name="5th Trier Infantry"
-		type=infantry
+		name="2nd Kaiserslautern Artillery"
+		type=artillery
+		home=571
+	}
+	regiment = {
+		name="2nd Trier Artillery"
+		type=artillery
 		home=572
 	}
 	regiment = {
-		name="1st Koblenz Artillery"
+		name="1st Frankfurt Artillery"
 		type=artillery
-		home=574
-	}
-	regiment = {
-		name="2nd Koblenz Artillery"
-		type=artillery
-		home=574
-	}
-	regiment = {
-		name="1st Strasbourg Artillery"
-		type=artillery
-		home=409
+		home=564
 	}
 }
 
@@ -633,17 +633,12 @@ army = {
 	name="Armee von Coblenz"
 	location=584
 	regiment = {
-		name="1st Aachen Infantry"
-		type=infantry
-		home=576
-	}
-	regiment = {
-		name="1st Mannheim Infantry"
-		type=infantry
-		home=569
-	}
-	regiment = {
 		name="2nd Kaiserslautern Infantry"
+		type=infantry
+		home=571
+	}
+	regiment = {
+		name="3rd Kaiserslautern Infantry"
 		type=infantry
 		home=571
 	}
@@ -653,29 +648,24 @@ army = {
 		home=576
 	}
 	regiment = {
-		name="1st Mainz Infantry"
+		name="4th Kaiserslautern Infantry"
 		type=infantry
-		home=570
+		home=571
 	}
 	regiment = {
-		name="1st Aschaffenburg Infantry"
+		name="5th Trier Infantry"
 		type=infantry
-		home=596
+		home=572
 	}
 	regiment = {
-		name="2nd Darmstadt Artillery"
-		type=artillery
-		home=2560
+		name="5th Kaiserslautern Infantry"
+		type=infantry
+		home=571
 	}
 	regiment = {
-		name="3rd Koblenz Artillery"
+		name="1st Koblenz Artillery"
 		type=artillery
 		home=574
-	}
-	regiment = {
-		name="1st Kaiserslautern Artillery"
-		type=artillery
-		home=571
 	}
 	regiment = {
 		name="3rd Trier Artillery"
@@ -683,20 +673,35 @@ army = {
 		home=572
 	}
 	regiment = {
-		name="1st Düsseldorf Infantry"
-		type=infantry
-		home=578
+		name="2nd Koblenz Artillery"
+		type=artillery
+		home=574
 	}
 	regiment = {
-		name="1st Mannheim Artillery"
+		name="2nd Darmstadt Artillery"
 		type=artillery
-		home=569
+		home=2560
+	}
+	regiment = {
+		name="1st Strasbourg Infantry"
+		type=infantry
+		home=409
+	}
+	regiment = {
+		name="1st Strasbourg Artillery"
+		type=artillery
+		home=409
 	}
 }
 
 army = {
 	name="Armee von Trier"
 	location=432
+	regiment = {
+		name="6th Trier Infantry"
+		type=infantry
+		home=572
+	}
 	regiment = {
 		name="3rd Aachen Infantry"
 		type=infantry
@@ -708,19 +713,19 @@ army = {
 		home=576
 	}
 	regiment = {
-		name="3rd Kaiserslautern Infantry"
-		type=infantry
-		home=571
-	}
-	regiment = {
-		name="6th Trier Infantry"
-		type=infantry
-		home=572
-	}
-	regiment = {
 		name="5th Aachen Infantry"
 		type=infantry
 		home=576
+	}
+	regiment = {
+		name="6th Aachen Infantry"
+		type=infantry
+		home=576
+	}
+	regiment = {
+		name="3rd Koblenz Artillery"
+		type=artillery
+		home=574
 	}
 	regiment = {
 		name="4th Koblenz Artillery"
@@ -728,19 +733,14 @@ army = {
 		home=574
 	}
 	regiment = {
-		name="1st Wiesbaden Artillery"
-		type=artillery
-		home=565
-	}
-	regiment = {
 		name="4th Trier Artillery"
 		type=artillery
 		home=572
 	}
 	regiment = {
-		name="1st Korbach Artillery"
+		name="2nd Aachen Artillery"
 		type=artillery
-		home=584
+		home=576
 	}
 	regiment = {
 		name="5th Trier Artillery"
@@ -748,24 +748,29 @@ army = {
 		home=572
 	}
 	regiment = {
-		name="3rd Karlsruhe Infantry"
+		name="7th Aachen Infantry"
 		type=infantry
-		home=586
+		home=576
 	}
 	regiment = {
-		name="3rd Darmstadt Artillery"
+		name="1st Karlsruhe Artillery"
 		type=artillery
-		home=2560
+		home=586
 	}
 }
 
 army = {
 	name="Armee von Torino"
-	location=720
+	location=721
 	regiment = {
-		name="7th Trier Infantry"
+		name="2nd Koblenz Infantry"
 		type=infantry
-		home=572
+		home=574
+	}
+	regiment = {
+		name="6th Kaiserslautern Infantry"
+		type=infantry
+		home=571
 	}
 	regiment = {
 		name="2nd Mannheim Infantry"
@@ -773,24 +778,19 @@ army = {
 		home=569
 	}
 	regiment = {
-		name="3rd Mannheim Infantry"
-		type=infantry
-		home=569
-	}
-	regiment = {
-		name="1st Frankfurt Artillery"
+		name="3rd Aachen Artillery"
 		type=artillery
-		home=564
+		home=576
 	}
 	regiment = {
-		name="4th Mannheim Infantry"
+		name="7th Kaiserslautern Infantry"
 		type=infantry
-		home=569
+		home=571
 	}
 	regiment = {
-		name="1st Metz Artillery"
+		name="5th Koblenz Artillery"
 		type=artillery
-		home=412
+		home=574
 	}
 }
 
@@ -798,14 +798,14 @@ army = {
 	name="1st Army"
 	location=720
 	regiment = {
-		name="3rd Darmstadt Infantry"
-		type=infantry
-		home=2560
-	}
-	regiment = {
-		name="1st Koblenz Infantry"
+		name="3rd Koblenz Infantry"
 		type=infantry
 		home=574
+	}
+	regiment = {
+		name="7th Trier Infantry"
+		type=infantry
+		home=572
 	}
 	regiment = {
 		name="1st Karlsruhe Infantry"
@@ -813,14 +813,14 @@ army = {
 		home=586
 	}
 	regiment = {
+		name="3rd Mannheim Infantry"
+		type=infantry
+		home=569
+	}
+	regiment = {
 		name="2nd Karlsruhe Infantry"
 		type=infantry
 		home=586
-	}
-	regiment = {
-		name="1st Strasbourg Infantry"
-		type=infantry
-		home=409
 	}
 }
 

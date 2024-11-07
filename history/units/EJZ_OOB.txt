@@ -523,17 +523,32 @@ army = {
 	name="3rd Army"
 	location=1554
 	regiment = {
+		name="1st Qiqihar Irregulars"
+		type=irregular
+		home=1552
+	}
+	regiment = {
 		name="1st Ninguta Irregulars"
 		type=irregular
 		home=1554
 	}
 	regiment = {
-		name="2nd Ninguta Irregulars"
+		name="2nd Qiqihar Irregulars"
 		type=irregular
+		home=1552
+	}
+	regiment = {
+		name="1st Ninguta Cavalry"
+		type=cavalry
 		home=1554
 	}
 	regiment = {
-		name="3rd Ninguta Irregulars"
+		name="1st Qiqihar Artillery"
+		type=artillery
+		home=1552
+	}
+	regiment = {
+		name="2nd Ninguta Irregulars"
 		type=irregular
 		home=1554
 	}
@@ -544,21 +559,6 @@ army = {
 	}
 	regiment = {
 		name="1st Ninguta Artillery"
-		type=artillery
-		home=1554
-	}
-	regiment = {
-		name="1st Qiqihar Irregulars"
-		type=irregular
-		home=1552
-	}
-	regiment = {
-		name="2nd Qiqihar Cavalry"
-		type=cavalry
-		home=1552
-	}
-	regiment = {
-		name="2nd Ninguta Artillery"
 		type=artillery
 		home=1554
 	}

@@ -591,6 +591,11 @@ army = {
 		home=1831
 	}
 	regiment = {
+		name="1st Khartoum Artillery"
+		type=artillery
+		home=1827
+	}
+	regiment = {
 		name="1st Rabak Artillery"
 		type=artillery
 		home=1831
@@ -599,11 +604,6 @@ army = {
 		name="2nd Rabak Artillery"
 		type=artillery
 		home=1831
-	}
-	regiment = {
-		name="1st Khartoum Artillery"
-		type=artillery
-		home=1827
 	}
 	regiment = {
 		name="10th Khartoum Artillery"
@@ -676,6 +676,10 @@ navy = {
 	name="1st Fleet"
 	location=1923
 	ship = {
+		name="1st Grand Lahou Man'o'war"
+		type=manowar
+	}
+	ship = {
 		name="1st Sassandra Man'o'war"
 		type=manowar
 	}
@@ -684,27 +688,31 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Lagos Man'o'war"
-		type=manowar
-	}
-	ship = {
 		name="2nd Monrovia Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="2nd Lagos Man'o'war"
+		name="1st Lagos Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="3rd Lagos Man'o'war"
+		name="1st Kahone Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Grand Lahou Man'o'war"
+		name="2nd Sassandra Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Monrovia Clipper Transport"
+		name="1st Cotonou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Harper Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Warri Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -712,7 +720,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Freetown Clipper Transport"
+		name="2nd Cotonou Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -720,27 +728,19 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Freetown Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="2nd Lagos Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Cotonou Clipper Transport"
+		name="1st Boffa Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Rosso Clipper Transport"
+		name="1st Grand Bassam Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Lagos Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Harper Clipper Transport"
+		name="2nd Warri Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -827,7 +827,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="2nd Warri Frigate"
+		name="1st Lagos Frigate"
 		type=frigate
 	}
 }
@@ -840,7 +840,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Accra Frigate"
+		name="1st Monrovia Frigate"
 		type=frigate
 	}
 }

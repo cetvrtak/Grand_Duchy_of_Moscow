@@ -626,7 +626,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 10333
+		size= 4133
 	}
 
 	artisans=
@@ -668,7 +668,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 5648
+		size= 11848
 	}
 
 	soldiers=
@@ -1005,7 +1005,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 332
+		size= 4133
 	}
 
 	artisans=
@@ -1047,7 +1047,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 5342
+		size= 1541
 	}
 
 	soldiers=
@@ -1368,7 +1368,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 349
+		size= 1033
 	}
 
 	artisans=
@@ -1410,7 +1410,7 @@
 	{
 		culture = berber
 		religion = sunni
-		size= 15668
+		size= 14984
 	}
 
 	soldiers=
@@ -1464,81 +1464,32 @@
 
 }
 1716 = {
-	soldiers=
+	aristocrats=
 	{
-		culture = ifriqi
+		culture = tuareg
 		religion = sunni
-		size= 101
+		size= 25
 	}
 
-	artisans=
+	clergymen=
 	{
-		culture = ifriqi
+		culture = tuareg
 		religion = sunni
-		size= 216
+		size= 15
+	}
+
+	soldiers=
+	{
+		culture = tuareg
+		religion = sunni
+		size= 65
 	}
 
 	farmers=
 	{
-		culture = ifriqi
+		culture = tuareg
 		religion = sunni
-		size= 1455
-	}
-
-	clergymen=
-	{
-		culture = ifriqi
-		religion = sunni
-		size= 11
-	}
-
-	aristocrats=
-	{
-		culture = ifriqi
-		religion = sunni
-		size= 12
-	}
-
-	soldiers=
-	{
-		culture = ifriqi
-		religion = shiite
-		size= 1
-	}
-
-	artisans=
-	{
-		culture = ifriqi
-		religion = shiite
-		size= 37
-	}
-
-	clergymen=
-	{
-		culture = ifriqi
-		religion = shiite
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = ifriqi
-		religion = shiite
-		size= 2
-	}
-
-	bureaucrats=
-	{
-		culture = ifriqi
-		religion = sunni
-		size= 2
-	}
-
-	officers=
-	{
-		culture = ifriqi
-		religion = sunni
-		size= 2
+		size= 1900
 	}
 
 }

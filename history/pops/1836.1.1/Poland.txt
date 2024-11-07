@@ -203,7 +203,7 @@
 	{
 		culture = oldpommeranian
 		religion = catholic
-		size= 4133
+		size= 1652
 	}
 
 	artisans=
@@ -245,7 +245,7 @@
 	{
 		culture = oldpommeranian
 		religion = catholic
-		size= 24500
+		size= 26981
 	}
 
 	soldiers=
@@ -1283,7 +1283,7 @@
 	{
 		culture = oldpommeranian
 		religion = protestant
-		size= 1048
+		size= 7233
 	}
 
 	artisans=
@@ -1325,7 +1325,7 @@
 	{
 		culture = oldpommeranian
 		religion = protestant
-		size= 12918
+		size= 6733
 	}
 
 }
@@ -1334,7 +1334,7 @@
 	{
 		culture = pruthenian
 		religion = catholic
-		size= 530
+		size= 4133
 	}
 
 	artisans=
@@ -1376,7 +1376,7 @@
 	{
 		culture = pruthenian
 		religion = catholic
-		size= 18012
+		size= 14409
 	}
 
 	soldiers=
@@ -1730,7 +1730,7 @@
 	{
 		culture = pruthenian
 		religion = catholic
-		size= 13433
+		size= 7233
 	}
 
 	artisans=
@@ -1772,7 +1772,7 @@
 	{
 		culture = pruthenian
 		religion = catholic
-		size= 31246
+		size= 37446
 	}
 
 	soldiers=
@@ -2322,7 +2322,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 4133
+		size= 7233
 	}
 
 	artisans=
@@ -2364,7 +2364,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 11338
+		size= 8238
 	}
 
 	soldiers=
@@ -3530,7 +3530,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 7233
+		size= 1942
 	}
 
 	artisans=
@@ -3572,7 +3572,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 40739
+		size= 46030
 	}
 
 	soldiers=
@@ -3779,7 +3779,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 4133
+		size= 1033
 	}
 
 	artisans=
@@ -3821,7 +3821,7 @@
 	{
 		culture = polish
 		religion = catholic
-		size= 29196
+		size= 32296
 	}
 
 	soldiers=
@@ -4475,7 +4475,7 @@
 	{
 		culture = dynamic-polish-culture-num1
 		religion = catholic
-		size= 4133
+		size= 680
 	}
 
 	artisans=
@@ -4517,7 +4517,7 @@
 	{
 		culture = dynamic-polish-culture-num1
 		religion = catholic
-		size= 13395
+		size= 16848
 	}
 
 	soldiers=
@@ -4962,7 +4962,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 1033
+		size= 957
 	}
 
 	artisans=
@@ -5004,7 +5004,7 @@
 	{
 		culture = hungarian
 		religion = catholic
-		size= 31793
+		size= 31869
 	}
 
 	soldiers=

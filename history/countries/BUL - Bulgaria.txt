@@ -29,13 +29,13 @@ press_rights=censored_press
 trade_unions=non_socialist
 political_parties=gerrymandering
 
-ruling_party = BUL_conservative
+ruling_party = BUL_liberal
 upper_house = 
 {
 	fascist = 0
-	liberal = 14
-	conservative = 80
-	reactionary = 6
+	liberal = 46
+	conservative = 52
+	reactionary = 2
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0

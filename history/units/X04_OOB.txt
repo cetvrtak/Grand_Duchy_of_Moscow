@@ -516,29 +516,29 @@ army = {
 		home=1597
 	}
 	regiment = {
-		name="1st Kashgar Artillery"
+		name="1st Khorug Artillery"
 		type=artillery
-		home=1594
-	}
-	regiment = {
-		name="2nd Kashgar Artillery"
-		type=artillery
-		home=1594
-	}
-	regiment = {
-		name="5th Aksu Irregulars"
-		type=irregular
-		home=1597
-	}
-	regiment = {
-		name="1st Khorug Irregulars"
-		type=irregular
 		home=1208
 	}
 	regiment = {
-		name="1st Aksu Artillery"
+		name="1st Naryn Artillery"
 		type=artillery
-		home=1597
+		home=1190
+	}
+	regiment = {
+		name="2nd Khotan Irregulars"
+		type=irregular
+		home=1598
+	}
+	regiment = {
+		name="1st Kashgar Irregulars"
+		type=irregular
+		home=1594
+	}
+	regiment = {
+		name="2nd Khorug Artillery"
+		type=artillery
+		home=1208
 	}
 }
 
@@ -551,6 +551,11 @@ army = {
 		home=1597
 	}
 	regiment = {
+		name="1st Khotan Irregulars"
+		type=irregular
+		home=1598
+	}
+	regiment = {
 		name="3rd Aksu Irregulars"
 		type=irregular
 		home=1597
@@ -559,11 +564,6 @@ army = {
 		name="4th Aksu Irregulars"
 		type=irregular
 		home=1597
-	}
-	regiment = {
-		name="1st Khotan Irregulars"
-		type=irregular
-		home=1598
 	}
 }
 

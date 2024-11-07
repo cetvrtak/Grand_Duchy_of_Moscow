@@ -523,9 +523,9 @@ army = {
 	name="1st Army"
 	location=4
 	regiment = {
-		name="1st Tucson Infantry"
+		name="1st Guaymas Infantry"
 		type=infantry
-		home=102
+		home=2141
 	}
 	regiment = {
 		name="1st Nogales Infantry"

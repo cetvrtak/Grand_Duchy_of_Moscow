@@ -507,12 +507,12 @@ army = {
 		home=1135
 	}
 	regiment = {
-		name="1st Shiraz Artillery"
+		name="1st Ahvaz Artillery"
 		type=artillery
-		home=1135
+		home=1131
 	}
 	regiment = {
-		name="2nd Shiraz Artillery"
+		name="1st Shiraz Artillery"
 		type=artillery
 		home=1135
 	}
@@ -522,9 +522,9 @@ army = {
 		home=1135
 	}
 	regiment = {
-		name="1st Dehkord Artillery"
+		name="1st Bushire Artillery"
 		type=artillery
-		home=1134
+		home=1136
 	}
 }
 
@@ -532,22 +532,22 @@ army = {
 	name="2nd Army"
 	location=1134
 	regiment = {
-		name="1st Ahvaz Irregulars"
+		name="1st Dehkord Irregulars"
 		type=irregular
-		home=1131
+		home=1134
 	}
 	regiment = {
-		name="2nd Ahvaz Irregulars"
+		name="1st Lengeh Irregulars"
 		type=irregular
-		home=1131
+		home=1141
 	}
 	regiment = {
-		name="1st Ahvaz Artillery"
+		name="2nd Ahvaz Artillery"
 		type=artillery
 		home=1131
 	}
 	regiment = {
-		name="1st Dehkord Irregulars"
+		name="2nd Dehkord Irregulars"
 		type=irregular
 		home=1134
 	}
@@ -557,10 +557,6 @@ navy = {
 	name="4th Fleet"
 	location=2788
 	ship = {
-		name="1st Lengeh Frigate"
-		type=frigate
-	}
-	ship = {
 		name="2nd Bushire Frigate"
 		type=frigate
 	}
@@ -569,7 +565,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="3rd Abadan Frigate"
+		name="5th Bushire Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Abadan Frigate"
 		type=frigate
 	}
 }
@@ -578,11 +578,15 @@ navy = {
 	name="2nd Fleet"
 	location=1132
 	ship = {
+		name="3rd Abadan Frigate"
+		type=frigate
+	}
+	ship = {
 		name="3rd Bushire Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Lengeh Frigate"
+		name="1st Lengeh Frigate"
 		type=frigate
 	}
 	ship = {
@@ -590,15 +594,11 @@ navy = {
 		type=frigate
 	}
 	ship = {
+		name="2nd Lengeh Frigate"
+		type=frigate
+	}
+	ship = {
 		name="3rd Lengeh Frigate"
-		type=frigate
-	}
-	ship = {
-		name="5th Bushire Frigate"
-		type=frigate
-	}
-	ship = {
-		name="6th Bushire Frigate"
 		type=frigate
 	}
 }

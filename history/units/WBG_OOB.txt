@@ -529,9 +529,9 @@ army = {
 	name="Erste Fränkische Armee"
 	location=595
 	regiment = {
-		name="1st Munich Infantry"
+		name="1st Regensburg Infantry"
 		type=infantry
-		home=599
+		home=602
 	}
 	regiment = {
 		name="1st Heilbronn Infantry"
@@ -539,14 +539,9 @@ army = {
 		home=590
 	}
 	regiment = {
-		name="1st Würzburg Infantry"
+		name="1st Bayreuth Infantry"
 		type=infantry
-		home=597
-	}
-	regiment = {
-		name="2nd Würzburg Infantry"
-		type=infantry
-		home=597
+		home=598
 	}
 	regiment = {
 		name="2nd Heilbronn Infantry"
@@ -559,29 +554,19 @@ army = {
 		home=590
 	}
 	regiment = {
-		name="1st Bayreuth Artillery"
-		type=artillery
-		home=598
+		name="4th Heilbronn Infantry"
+		type=infantry
+		home=590
 	}
 	regiment = {
-		name="1st Landshut Artillery"
+		name="1st Augsburg Artillery"
 		type=artillery
-		home=600
+		home=592
 	}
 	regiment = {
-		name="2nd Landshut Artillery"
+		name="1st Heilbronn Artillery"
 		type=artillery
-		home=600
-	}
-	regiment = {
-		name="2nd Bayreuth Artillery"
-		type=artillery
-		home=598
-	}
-	regiment = {
-		name="1st Meiningen Artillery"
-		type=artillery
-		home=563
+		home=590
 	}
 	regiment = {
 		name="1st Stuttgart Artillery"
@@ -589,9 +574,24 @@ army = {
 		home=589
 	}
 	regiment = {
-		name="6th Bayreuth Artillery"
+		name="1st Nuremberg Artillery"
 		type=artillery
-		home=598
+		home=595
+	}
+	regiment = {
+		name="2nd Heilbronn Artillery"
+		type=artillery
+		home=590
+	}
+	regiment = {
+		name="1st Munich Artillery"
+		type=artillery
+		home=599
+	}
+	regiment = {
+		name="2nd Augsburg Artillery"
+		type=artillery
+		home=592
 	}
 }
 
@@ -599,29 +599,34 @@ army = {
 	name="Armee von Rothenburg"
 	location=602
 	regiment = {
-		name="4th Heilbronn Infantry"
-		type=infantry
-		home=590
-	}
-	regiment = {
-		name="1st Bayreuth Infantry"
-		type=infantry
-		home=598
-	}
-	regiment = {
 		name="5th Heilbronn Infantry"
 		type=infantry
 		home=590
 	}
 	regiment = {
-		name="1st Landshut Infantry"
+		name="1st Munich Infantry"
 		type=infantry
-		home=600
+		home=599
 	}
 	regiment = {
-		name="1st Nuremberg Infantry"
+		name="2nd Regensburg Infantry"
 		type=infantry
-		home=595
+		home=602
+	}
+	regiment = {
+		name="2nd Bayreuth Infantry"
+		type=infantry
+		home=598
+	}
+	regiment = {
+		name="6th Heilbronn Infantry"
+		type=infantry
+		home=590
+	}
+	regiment = {
+		name="1st Bayreuth Artillery"
+		type=artillery
+		home=598
 	}
 	regiment = {
 		name="1st Regensburg Artillery"
@@ -629,27 +634,22 @@ army = {
 		home=602
 	}
 	regiment = {
-		name="3rd Bayreuth Artillery"
+		name="1st Göttingen Artillery"
 		type=artillery
-		home=598
+		home=537
 	}
 	regiment = {
-		name="4th Bayreuth Artillery"
+		name="1st Meiningen Artillery"
 		type=artillery
-		home=598
+		home=563
 	}
 	regiment = {
-		name="5th Bayreuth Artillery"
-		type=artillery
-		home=598
-	}
-	regiment = {
-		name="2nd Munich Infantry"
+		name="9th Heilbronn Infantry"
 		type=infantry
-		home=599
+		home=590
 	}
 	regiment = {
-		name="7th Bayreuth Artillery"
+		name="2nd Bayreuth Artillery"
 		type=artillery
 		home=598
 	}
@@ -659,14 +659,14 @@ army = {
 	name="Armee von Würzburg"
 	location=598
 	regiment = {
-		name="2nd Landshut Infantry"
+		name="1st Meiningen Infantry"
 		type=infantry
-		home=600
+		home=563
 	}
 	regiment = {
-		name="6th Heilbronn Infantry"
+		name="1st Landshut Infantry"
 		type=infantry
-		home=590
+		home=600
 	}
 	regiment = {
 		name="7th Heilbronn Infantry"
@@ -674,9 +674,9 @@ army = {
 		home=590
 	}
 	regiment = {
-		name="3rd Landshut Infantry"
+		name="8th Heilbronn Infantry"
 		type=infantry
-		home=600
+		home=590
 	}
 	regiment = {
 		name="2nd Regensburg Artillery"
@@ -684,17 +684,17 @@ army = {
 		home=602
 	}
 	regiment = {
-		name="1st Heilbronn Artillery"
+		name="1st Landshut Artillery"
 		type=artillery
-		home=590
+		home=600
 	}
 	regiment = {
-		name="1st Nuremberg Artillery"
+		name="2nd Nuremberg Artillery"
 		type=artillery
 		home=595
 	}
 	regiment = {
-		name="4th Landshut Infantry"
+		name="2nd Landshut Infantry"
 		type=infantry
 		home=600
 	}

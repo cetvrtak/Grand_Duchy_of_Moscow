@@ -268,7 +268,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 6202
+		size= 10333
 	}
 
 	artisans=
@@ -310,7 +310,7 @@
 	{
 		culture = romanian
 		religion = catholic
-		size= 179616
+		size= 175485
 	}
 
 	clergymen=
@@ -907,7 +907,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 10333
+		size= 6645
 	}
 
 	artisans=
@@ -949,7 +949,7 @@
 	{
 		culture = ukrainian
 		religion = orthodox
-		size= 85010
+		size= 88698
 	}
 
 	soldiers=

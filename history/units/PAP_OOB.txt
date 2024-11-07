@@ -531,34 +531,14 @@ army = {
 	name="Armata di Eger"
 	location=749
 	regiment = {
-		name="1st Pescara Infantry"
+		name="1st Corfu Infantry"
 		type=infantry
-		home=10
-	}
-	regiment = {
-		name="1st Gaeta Infantry"
-		type=infantry
-		home=2567
-	}
-	regiment = {
-		name="2nd Gaeta Infantry"
-		type=infantry
-		home=2567
-	}
-	regiment = {
-		name="1st Florence Infantry"
-		type=infantry
-		home=744
+		home=826
 	}
 	regiment = {
 		name="1st Foggia Infantry"
 		type=infantry
 		home=757
-	}
-	regiment = {
-		name="2nd Florence Infantry"
-		type=infantry
-		home=744
 	}
 	regiment = {
 		name="2nd Foggia Infantry"
@@ -571,9 +551,19 @@ army = {
 		home=751
 	}
 	regiment = {
-		name="1st Corfu Infantry"
+		name="1st Pescara Infantry"
 		type=infantry
-		home=826
+		home=10
+	}
+	regiment = {
+		name="1st Florence Infantry"
+		type=infantry
+		home=744
+	}
+	regiment = {
+		name="2nd Perugia Infantry"
+		type=infantry
+		home=751
 	}
 	regiment = {
 		name="1st Aquila Infantry"
@@ -581,14 +571,24 @@ army = {
 		home=753
 	}
 	regiment = {
+		name="3rd Perugia Infantry"
+		type=infantry
+		home=751
+	}
+	regiment = {
+		name="4th Perugia Infantry"
+		type=infantry
+		home=751
+	}
+	regiment = {
 		name="1st Florence Artillery"
 		type=artillery
 		home=744
 	}
 	regiment = {
-		name="1st Pescara Artillery"
+		name="1st Gaeta Artillery"
 		type=artillery
-		home=10
+		home=2567
 	}
 	regiment = {
 		name="1st Perugia Artillery"
@@ -596,9 +596,9 @@ army = {
 		home=751
 	}
 	regiment = {
-		name="2nd Perugia Artillery"
+		name="1st Pescara Artillery"
 		type=artillery
-		home=751
+		home=10
 	}
 	regiment = {
 		name="1st Ancona Artillery"
@@ -611,19 +611,19 @@ army = {
 		home=749
 	}
 	regiment = {
-		name="3rd Florence Infantry"
+		name="3rd Foggia Infantry"
 		type=infantry
-		home=744
+		home=757
 	}
 	regiment = {
-		name="2nd Rome Artillery"
+		name="2nd Gaeta Artillery"
 		type=artillery
-		home=749
+		home=2567
 	}
 	regiment = {
-		name="3rd Rome Artillery"
+		name="2nd Perugia Artillery"
 		type=artillery
-		home=749
+		home=751
 	}
 }
 
@@ -657,14 +657,14 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Corfu Frigate"
+		name="2nd Arta Frigate"
 		type=frigate
 	}
 }
 
 navy = {
 	name="1st Fleet"
-	location=750
+	location=749
 	ship = {
 		name="San Lorenzo"
 		type=manowar
@@ -678,71 +678,71 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="2nd Bari Frigate"
+		name="1st Gaeta Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Shkoder Frigate"
+		name="1st Missolonghi Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Pescara Frigate"
+		name="1st Janina Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Foggia Frigate"
+		name="1st Durres Frigate"
 		type=frigate
 	}
 	ship = {
-		name="3rd Pescara Frigate"
+		name="1st Zante Frigate"
 		type=frigate
 	}
 	ship = {
-		name="4th Pescara Frigate"
+		name="2nd Durres Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd Foggia Frigate"
+		name="1st Volos Frigate"
 		type=frigate
-	}
-	ship = {
-		name="1st Gjirokaster Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Grosseto Clipper Transport"
-		type=clipper_transport
 	}
 	ship = {
 		name="1st Durres Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Grosseto Clipper Transport"
+		name="2nd Viterbo Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Foggia Clipper Transport"
+		name="1st Pescara Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Gaeta Clipper Transport"
+		name="1st Rome Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Gaeta Clipper Transport"
+		name="1st Vlore Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Durres Clipper Transport"
+		name="1st Zante Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Janina Clipper Transport"
+		name="1st Corfu Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Foggia Clipper Transport"
+		name="1st Shkoder Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Viterbo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Rome Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -750,11 +750,11 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Zante Frigate"
+		name="1st Grosseto Frigate"
 		type=frigate
 	}
 	ship = {
-		name="3rd Gaeta Clipper Transport"
+		name="1st Gaeta Clipper Transport"
 		type=clipper_transport
 	}
 }

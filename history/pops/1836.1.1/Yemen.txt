@@ -522,7 +522,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 7233
+		size= 3372
 	}
 
 	artisans=
@@ -564,7 +564,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 40433
+		size= 44294
 	}
 
 	slaves=
@@ -862,7 +862,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 1033
+		size= 4133
 	}
 
 	artisans=
@@ -904,7 +904,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 10433
+		size= 7333
 	}
 
 }
@@ -976,7 +976,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 720
+		size= 1033
 	}
 
 	artisans=
@@ -1018,7 +1018,7 @@
 	{
 		culture = bedouin
 		religion = sunni
-		size= 10015
+		size= 9702
 	}
 
 }

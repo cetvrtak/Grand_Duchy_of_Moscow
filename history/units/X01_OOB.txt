@@ -505,6 +505,26 @@ army = {
 	name="1st Army"
 	location=926
 	regiment = {
+		name="1st Hamadan Irregulars"
+		type=irregular
+		home=1122
+	}
+	regiment = {
+		name="1st Mahabad Irregulars"
+		type=irregular
+		home=1111
+	}
+	regiment = {
+		name="2nd Mahabad Irregulars"
+		type=irregular
+		home=1111
+	}
+	regiment = {
+		name="2nd Hamadan Irregulars"
+		type=irregular
+		home=1122
+	}
+	regiment = {
 		name="1st Kermanshah Irregulars"
 		type=irregular
 		home=1117
@@ -515,7 +535,82 @@ army = {
 		home=925
 	}
 	regiment = {
+		name="1st Baghdad Cavalry"
+		type=cavalry
+		home=926
+	}
+	regiment = {
+		name="1st Baqubah Artillery"
+		type=artillery
+		home=928
+	}
+	regiment = {
+		name="1st Karbala Artillery"
+		type=artillery
+		home=929
+	}
+	regiment = {
+		name="1st Baghdad Artillery"
+		type=artillery
+		home=926
+	}
+	regiment = {
+		name="1st Rasht Artillery"
+		type=artillery
+		home=1113
+	}
+	regiment = {
+		name="3rd Hamadan Irregulars"
+		type=irregular
+		home=1122
+	}
+	regiment = {
+		name="1st Qazvin Cavalry"
+		type=cavalry
+		home=1124
+	}
+	regiment = {
+		name="1st Rasht Cavalry"
+		type=cavalry
+		home=1113
+	}
+	regiment = {
+		name="2nd Rasht Artillery"
+		type=artillery
+		home=1113
+	}
+}
+
+army = {
+	name="16th Army"
+	location=1122
+	regiment = {
+		name="1st Ilam Irregulars"
+		type=irregular
+		home=1119
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1113
+	regiment = {
+		name="1st Kut Irregulars"
+		type=irregular
+		home=930
+	}
+	regiment = {
+		name="3rd Mahabad Irregulars"
+		type=irregular
+		home=1111
+	}
+	regiment = {
 		name="2nd Sulaymania Irregulars"
+		type=irregular
+		home=925
+	}
+	regiment = {
+		name="3rd Sulaymania Irregulars"
 		type=irregular
 		home=925
 	}
@@ -525,119 +620,24 @@ army = {
 		home=1117
 	}
 	regiment = {
-		name="1st Mahabad Irregulars"
-		type=irregular
-		home=1111
-	}
-	regiment = {
-		name="3rd Kermanshah Irregulars"
-		type=irregular
-		home=1117
-	}
-	regiment = {
-		name="1st Baghdad Cavalry"
-		type=cavalry
-		home=926
-	}
-	regiment = {
 		name="1st Kermanshah Artillery"
 		type=artillery
 		home=1117
 	}
 	regiment = {
-		name="2nd Kermanshah Artillery"
+		name="1st Mahabad Artillery"
 		type=artillery
-		home=1117
-	}
-	regiment = {
-		name="1st Qazvin Artillery"
-		type=artillery
-		home=1124
-	}
-	regiment = {
-		name="1st Sulaymania Artillery"
-		type=artillery
-		home=925
-	}
-	regiment = {
-		name="1st Ilam Irregulars"
-		type=irregular
-		home=1119
-	}
-	regiment = {
-		name="2nd Baghdad Cavalry"
-		type=cavalry
-		home=926
-	}
-	regiment = {
-		name="1st Rasht Cavalry"
-		type=cavalry
-		home=1113
-	}
-	regiment = {
-		name="1st Sanandaj Artillery"
-		type=artillery
-		home=1118
-	}
-}
-
-army = {
-	name="16th Army"
-	location=1122
-	regiment = {
-		name="3rd Sulaymania Irregulars"
-		type=irregular
-		home=925
-	}
-}
-
-army = {
-	name="3rd Army"
-	location=1113
-	regiment = {
-		name="1st Karbala Irregulars"
-		type=irregular
-		home=929
-	}
-	regiment = {
-		name="1st Baqubah Irregulars"
-		type=irregular
-		home=928
-	}
-	regiment = {
-		name="2nd Baqubah Irregulars"
-		type=irregular
-		home=928
-	}
-	regiment = {
-		name="1st Sanandaj Irregulars"
-		type=irregular
-		home=1118
-	}
-	regiment = {
-		name="2nd Mahabad Irregulars"
-		type=irregular
 		home=1111
 	}
 	regiment = {
-		name="1st Ilam Artillery"
-		type=artillery
-		home=1119
-	}
-	regiment = {
-		name="1st Khoramabad Artillery"
-		type=artillery
-		home=1120
-	}
-	regiment = {
-		name="4th Kermanshah Irregulars"
+		name="4th Hamadan Irregulars"
 		type=irregular
-		home=1117
+		home=1122
 	}
 	regiment = {
-		name="3rd Kermanshah Artillery"
+		name="2nd Baqubah Artillery"
 		type=artillery
-		home=1117
+		home=928
 	}
 }
 

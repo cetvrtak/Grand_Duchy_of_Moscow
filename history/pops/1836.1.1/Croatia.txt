@@ -626,7 +626,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 589
+		size= 1033
 	}
 
 	artisans=
@@ -668,7 +668,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 16875
+		size= 16431
 	}
 
 }
@@ -728,7 +728,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 896
+		size= 1033
 	}
 
 	artisans=
@@ -770,7 +770,7 @@
 	{
 		culture = croat
 		religion = catholic
-		size= 25702
+		size= 25565
 	}
 
 }

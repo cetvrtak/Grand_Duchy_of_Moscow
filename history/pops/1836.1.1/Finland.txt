@@ -303,7 +303,7 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 325
+		size= 4133
 	}
 
 	artisans=
@@ -345,14 +345,14 @@
 	{
 		culture = finnish
 		religion = catholic
-		size= 15741
+		size= 11933
 	}
 
 	soldiers=
 	{
 		culture = finnish
 		religion = orthodox
-		size= 10333
+		size= 13433
 	}
 
 	artisans=
@@ -394,7 +394,7 @@
 	{
 		culture = finnish
 		religion = orthodox
-		size= 11519
+		size= 8419
 	}
 
 	soldiers=

@@ -401,7 +401,7 @@
 	{
 		culture = swiss
 		religion = catholic
-		size= 4133
+		size= 1504
 	}
 
 	artisans=
@@ -443,7 +443,7 @@
 	{
 		culture = swiss
 		religion = catholic
-		size= 17978
+		size= 20607
 	}
 
 	soldiers=
@@ -501,7 +501,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 7485
+		size= 10333
 	}
 
 	artisans=
@@ -543,7 +543,7 @@
 	{
 		culture = north_italian
 		religion = catholic
-		size= 61318
+		size= 58470
 	}
 
 	soldiers=
