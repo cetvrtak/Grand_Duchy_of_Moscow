@@ -508,9 +508,9 @@ army = {
 		home=88
 	}
 	regiment = {
-		name="2nd Mojave Infantry"
+		name="1st Truckee Infantry"
 		type=infantry
-		home=88
+		home=86
 	}
 }
 

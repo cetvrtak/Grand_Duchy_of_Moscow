@@ -539,34 +539,9 @@ army = {
 	name="1st Army"
 	location=2522
 	regiment = {
-		name="1st Baoqing Irregulars"
-		type=irregular
-		home=1526
-	}
-	regiment = {
-		name="1st Daming Irregulars"
-		type=irregular
-		home=1614
-	}
-	regiment = {
-		name="2nd Daming Irregulars"
-		type=irregular
-		home=1614
-	}
-	regiment = {
 		name="1st Tianjin Irregulars"
 		type=irregular
 		home=1617
-	}
-	regiment = {
-		name="1st Runing Irregulars"
-		type=irregular
-		home=1514
-	}
-	regiment = {
-		name="2nd Runing Irregulars"
-		type=irregular
-		home=1514
 	}
 	regiment = {
 		name="2nd Tianjin Irregulars"
@@ -574,35 +549,20 @@ army = {
 		home=1617
 	}
 	regiment = {
-		name="8th Tianjin Irregulars"
+		name="1st Zhongding Irregulars"
 		type=irregular
-		home=1617
-	}
-}
-
-army = {
-	name="20th Army"
-	location=2522
-	regiment = {
-		name="1st Huizhou Irregulars"
-		type=irregular
-		home=1473
+		home=1618
 	}
 	regiment = {
-		name="1st Ningguo Irregulars"
+		name="1st Changsha Irregulars"
 		type=irregular
-		home=1475
+		home=1524
 	}
 	regiment = {
-		name="7th Tianjin Irregulars"
+		name="1st Daming Irregulars"
 		type=irregular
-		home=1617
+		home=1614
 	}
-}
-
-army = {
-	name="29th Army"
-	location=1501
 	regiment = {
 		name="3rd Tianjin Irregulars"
 		type=irregular
@@ -614,8 +574,43 @@ army = {
 		home=1617
 	}
 	regiment = {
-		name="1st Zhongding Artillery"
-		type=artillery
+		name="2nd Changsha Irregulars"
+		type=irregular
+		home=1524
+	}
+}
+
+army = {
+	name="20th Army"
+	location=2522
+	regiment = {
+		name="5th Tianjin Irregulars"
+		type=irregular
+		home=1617
+	}
+	regiment = {
+		name="6th Tianjin Irregulars"
+		type=irregular
+		home=1617
+	}
+	regiment = {
+		name="1st Kaifeng Irregulars"
+		type=irregular
+		home=1508
+	}
+}
+
+army = {
+	name="29th Army"
+	location=1501
+	regiment = {
+		name="7th Tianjin Irregulars"
+		type=irregular
+		home=1617
+	}
+	regiment = {
+		name="2nd Zhongding Irregulars"
+		type=irregular
 		home=1618
 	}
 	regiment = {
@@ -629,24 +624,29 @@ army = {
 		home=1499
 	}
 	regiment = {
-		name="1st Hainan Irregulars"
-		type=irregular
-		home=1499
-	}
-	regiment = {
 		name="2nd Tianjin Artillery"
 		type=artillery
 		home=1617
 	}
 	regiment = {
-		name="1st Jinhua Artillery"
-		type=artillery
-		home=1607
+		name="10th Tianjin Irregulars"
+		type=irregular
+		home=1617
 	}
 	regiment = {
-		name="3rd Tianjin Artillery"
+		name="1st Quanzhou Artillery"
 		type=artillery
-		home=1617
+		home=1484
+	}
+	regiment = {
+		name="1st Jizhou Artillery"
+		type=artillery
+		home=1615
+	}
+	regiment = {
+		name="1st Zhongding Artillery"
+		type=artillery
+		home=1618
 	}
 }
 
@@ -654,12 +654,12 @@ army = {
 	name="8th Army"
 	location=2230
 	regiment = {
-		name="5th Tianjin Irregulars"
+		name="8th Tianjin Irregulars"
 		type=irregular
 		home=1617
 	}
 	regiment = {
-		name="6th Tianjin Irregulars"
+		name="9th Tianjin Irregulars"
 		type=irregular
 		home=1617
 	}
@@ -673,43 +673,23 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Jiaxing Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Hangzhou Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Huaian Man'o'war"
-		type=manowar
-	}
-	ship = {
 		name="1st Macao Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Shaoxing Frigate"
-		type=frigate
+		name="1st Wenzhou Man'o'war"
+		type=manowar
 	}
 	ship = {
-		name="1st Fuzhou Frigate"
-		type=frigate
+		name="1st Wun Man'o'war"
+		type=manowar
 	}
 	ship = {
-		name="1st Laizhou Frigate"
-		type=frigate
+		name="2nd Taizhou Man'o'war"
+		type=manowar
 	}
 	ship = {
 		name="1st Xuzhou Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Xuzhou Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Tianjin Frigate"
 		type=frigate
 	}
 	ship = {
@@ -717,39 +697,31 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="3rd Xuzhou Frigate"
+		name="1st Tianjin Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Taliabu Clipper Transport"
-		type=clipper_transport
+		name="1st Canton Frigate"
+		type=frigate
 	}
 	ship = {
-		name="1st Tacloban Clipper Transport"
-		type=clipper_transport
+		name="1st Quanzhou Frigate"
+		type=frigate
 	}
 	ship = {
-		name="1st Hangzhou Clipper Transport"
-		type=clipper_transport
+		name="2nd Chaozhou Frigate"
+		type=frigate
 	}
 	ship = {
-		name="1st Ningbo Clipper Transport"
-		type=clipper_transport
+		name="1st Laizhou Frigate"
+		type=frigate
 	}
 	ship = {
-		name="1st Taipei Clipper Transport"
-		type=clipper_transport
+		name="1st Huaian Frigate"
+		type=frigate
 	}
 	ship = {
-		name="1st Wenzhou Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Yizhou Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Ningbo Clipper Transport"
+		name="1st Weihaiwei Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -761,39 +733,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Pago Pago Clipper Transport"
+		name="1st Wuding Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Wun Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Hangzhou Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Wenzhou Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Shaoxing Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Shaoxing Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Xuzhou Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Wenzhou Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Wun Clipper Transport"
+		name="1st Taitung Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -801,35 +745,91 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Shaoxing Clipper Transport"
+		name="1st Utchan Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Wuding Clipper Transport"
+		name="1st Marcus Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="4th Shaoxing Clipper Transport"
+		name="1st Shanghai Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Qingzhou Clipper Transport"
+		name="1st Wun Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Yizhou Man'o'war"
+		name="1st Manila Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Wun Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Fuzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Wuding Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Manila Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Wenzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Utchan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Jiaxing Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Vigan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Wuding Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Jiaxing Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Shanghai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Jiaxing Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Manila Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Hangzhou Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Madurai Man'o'war"
+		name="3rd Taizhou Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="4th Xuzhou Frigate"
+		name="1st Ningbo Frigate"
 		type=frigate
 	}
 	ship = {
-		name="3rd Hangzhou Clipper Transport"
+		name="7th Jiaxing Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -838,23 +838,23 @@ navy = {
 	name="7th Fleet"
 	location=1617
 	ship = {
+		name="1st Zhaoqing Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Shanghai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kochi Frigate"
+		type=frigate
+	}
+	ship = {
 		name="1st Jiaxing Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Huizhou Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Yizhou Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Trivandrum Frigate"
-		type=frigate
-	}
-	ship = {
-		name="1st Matsuyama Frigate"
+		name="1st Pondicherry Frigate"
 		type=frigate
 	}
 }
@@ -863,11 +863,11 @@ navy = {
 	name="5th Fleet"
 	location=1617
 	ship = {
-		name="4th Wenzhou Clipper Transport"
+		name="1st Taizhou Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Shanghai Clipper Transport"
+		name="1st Shaoxing Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -876,19 +876,19 @@ navy = {
 	name="6th Fleet"
 	location=2823
 	ship = {
-		name="1st Apia Frigate"
+		name="1st Tokelau Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Calcutta Frigate"
+		name="1st Marshall Islands Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Hangzhou Frigate"
+		name="1st Shaoxing Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Taizhou Frigate"
+		name="1st Macao Frigate"
 		type=frigate
 	}
 }

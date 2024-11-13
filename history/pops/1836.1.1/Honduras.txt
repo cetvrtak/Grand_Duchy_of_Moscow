@@ -152,7 +152,7 @@
 	{
 		culture = mayan
 		religion = protestant
-		size= 267
+		size= 1033
 	}
 
 	artisans=
@@ -187,7 +187,7 @@
 	{
 		culture = mayan
 		religion = protestant
-		size= 11902
+		size= 11136
 	}
 
 	bureaucrats=
@@ -315,7 +315,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 195
+		size= 1033
 	}
 
 	artisans=
@@ -357,7 +357,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 7326
+		size= 6488
 	}
 
 	farmers=

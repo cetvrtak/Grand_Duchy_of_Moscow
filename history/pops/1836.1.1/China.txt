@@ -2208,7 +2208,7 @@
 	{
 		culture = beifaren
 		religion = gelugpa
-		size= 4133
+		size= 2740
 	}
 
 	artisans=
@@ -2250,7 +2250,7 @@
 	{
 		culture = beifaren
 		religion = gelugpa
-		size= 73501
+		size= 74894
 	}
 
 }
@@ -7449,63 +7449,7 @@
 	{
 		culture = manchu
 		religion = mahayana
-		size= 20922
-	}
-
-	slaves=
-	{
-		culture = manchu
-		religion = shinto
-		size= 420
-	}
-
-	soldiers=
-	{
-		culture = manchu
-		religion = shinto
-		size= 284
-	}
-
-	artisans=
-	{
-		culture = manchu
-		religion = shinto
-		size= 1443
-	}
-
-	clergymen=
-	{
-		culture = manchu
-		religion = shinto
-		size= 134
-	}
-
-	bureaucrats=
-	{
-		culture = manchu
-		religion = shinto
-		size= 28
-	}
-
-	officers=
-	{
-		culture = manchu
-		religion = shinto
-		size= 16
-	}
-
-	aristocrats=
-	{
-		culture = manchu
-		religion = shinto
-		size= 101
-	}
-
-	farmers=
-	{
-		culture = manchu
-		religion = shinto
-		size= 2638
+		size= 52200
 	}
 
 }

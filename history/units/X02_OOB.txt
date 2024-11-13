@@ -558,16 +558,6 @@ army = {
 		home=477
 	}
 	regiment = {
-		name="1st Burgos Infantry"
-		type=infantry
-		home=479
-	}
-	regiment = {
-		name="1st Lindi Infantry"
-		type=infantry
-		home=2039
-	}
-	regiment = {
 		name="1st Ávila Infantry"
 		type=infantry
 		home=483
@@ -576,6 +566,16 @@ army = {
 		name="1st Salamanca Infantry"
 		type=infantry
 		home=482
+	}
+	regiment = {
+		name="1st Burgos Infantry"
+		type=infantry
+		home=479
+	}
+	regiment = {
+		name="1st Lindi Infantry"
+		type=infantry
+		home=2039
 	}
 	regiment = {
 		name="2nd León Infantry"
@@ -598,9 +598,9 @@ army = {
 		home=478
 	}
 	regiment = {
-		name="2nd Santander Artillery"
+		name="3rd León Artillery"
 		type=artillery
-		home=478
+		home=477
 	}
 	regiment = {
 		name="9th León Infantry"
@@ -608,7 +608,7 @@ army = {
 		home=477
 	}
 	regiment = {
-		name="6th León Artillery"
+		name="7th León Artillery"
 		type=artillery
 		home=477
 	}
@@ -618,7 +618,7 @@ navy = {
 	name="2nd Fleet"
 	location=2743
 	ship = {
-		name="4th Galway Man'o'war"
+		name="7th Southampton Man'o'war"
 		type=manowar
 	}
 }
@@ -627,14 +627,14 @@ army = {
 	name="1st Army"
 	location=2057
 	regiment = {
-		name="1st Valladolid Infantry"
+		name="3rd León Infantry"
 		type=infantry
-		home=480
+		home=477
 	}
 	regiment = {
-		name="3rd León Artillery"
+		name="2nd Santander Artillery"
 		type=artillery
-		home=477
+		home=478
 	}
 	regiment = {
 		name="10th León Infantry"
@@ -651,11 +651,11 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Oviedo Man'o'war"
+		name="2nd Santander Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st New Caledonia Man'o'war"
+		name="3rd Oviedo Man'o'war"
 		type=manowar
 	}
 }
@@ -664,15 +664,11 @@ navy = {
 	name="Flota de Romanche Gap"
 	location=1404
 	ship = {
-		name="1st Palak Pinang Man'o'war"
+		name="1st Sofala Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="3rd La Coruña Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="4th La Coruña Man'o'war"
+		name="1st Oviedo Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -680,11 +676,15 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Quelimane Man'o'war"
+		name="6th La Coruña Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Comoros Man'o'war"
+		name="2nd Oviedo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Sofala Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -692,39 +692,39 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="4th Isle of Man Man'o'war"
+		name="7th La Coruña Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="9th Canterbury Man'o'war"
+		name="1st Palak Pinang Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Huaraz Frigate"
+		name="2nd Huaraz Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Unalaska Clipper Transport"
+		name="1st La Coruña Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Santander Clipper Transport"
+		name="1st Aru Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Rawson Clipper Transport"
+		name="6th Aberdeen Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Cork Clipper Transport"
+		name="1st Santander Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="4th Cork Clipper Transport"
+		name="1st Tombara Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Trujillo Frigate"
+		name="3rd Huaraz Frigate"
 		type=frigate
 	}
 }
@@ -733,19 +733,14 @@ army = {
 	name="Ejército de Espirito Santo"
 	location=2415
 	regiment = {
-		name="3rd León Infantry"
-		type=infantry
-		home=477
-	}
-	regiment = {
 		name="4th León Infantry"
 		type=infantry
 		home=477
 	}
 	regiment = {
-		name="1st Oviedo Infantry"
+		name="1st Cáceres Infantry"
 		type=infantry
-		home=475
+		home=486
 	}
 	regiment = {
 		name="5th León Infantry"
@@ -756,6 +751,11 @@ army = {
 		name="6th León Infantry"
 		type=infantry
 		home=477
+	}
+	regiment = {
+		name="1st Valladolid Infantry"
+		type=infantry
+		home=480
 	}
 	regiment = {
 		name="7th León Infantry"
@@ -773,12 +773,12 @@ army = {
 		home=477
 	}
 	regiment = {
-		name="1st Cáceres Artillery"
+		name="5th León Artillery"
 		type=artillery
-		home=486
+		home=477
 	}
 	regiment = {
-		name="5th León Artillery"
+		name="6th León Artillery"
 		type=artillery
 		home=477
 	}
@@ -788,7 +788,7 @@ army = {
 		home=477
 	}
 	regiment = {
-		name="7th León Artillery"
+		name="8th León Artillery"
 		type=artillery
 		home=477
 	}

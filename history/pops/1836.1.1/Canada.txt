@@ -2701,14 +2701,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 10333
-	}
-
-	craftsmen=
-	{
-		culture = iroquoian
-		religion = totemism
-		size= 8170
+		size= 2522
 	}
 
 	artisans=
@@ -3598,14 +3591,14 @@
 	{
 		culture = eastern_algonquian
 		religion = totemism
-		size= 152
+		size= 1033
 	}
 
 	farmers=
 	{
 		culture = eastern_algonquian
 		religion = totemism
-		size= 6351
+		size= 5470
 	}
 
 	farmers=
@@ -4012,7 +4005,7 @@
 	{
 		culture = celtic_american
 		religion = protestant
-		size= 317
+		size= 1321
 	}
 
 	artisans=
@@ -4303,14 +4296,14 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 323
+		size= 1033
 	}
 
 	farmers=
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 13633
+		size= 12923
 	}
 
 	farmers=
@@ -4438,14 +4431,14 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 38790
+		size= 38606
 	}
 
 	soldiers=
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 849
+		size= 1033
 	}
 
 	artisans=
@@ -5111,7 +5104,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 6102
+		size= 5219
 	}
 
 	artisans=
@@ -5139,7 +5132,7 @@
 	{
 		culture = nieuwereld
 		religion = protestant
-		size= 150
+		size= 1033
 	}
 
 	bureaucrats=

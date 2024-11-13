@@ -531,14 +531,14 @@ army = {
 	name="2nd Army"
 	location=758
 	regiment = {
-		name="1st Naples Infantry"
-		type=infantry
-		home=754
-	}
-	regiment = {
 		name="1st Salerno Infantry"
 		type=infantry
 		home=755
+	}
+	regiment = {
+		name="1st Naples Infantry"
+		type=infantry
+		home=754
 	}
 	regiment = {
 		name="1st Salerno Cavalry"

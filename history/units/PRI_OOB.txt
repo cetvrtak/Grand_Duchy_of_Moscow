@@ -526,26 +526,6 @@ army = {
 		home=2209
 	}
 	regiment = {
-		name="1st Jagua Infantry"
-		type=infantry
-		home=2210
-	}
-	regiment = {
-		name="1st Camagüey Infantry"
-		type=infantry
-		home=2211
-	}
-	regiment = {
-		name="1st Jamaica Artillery"
-		type=artillery
-		home=2217
-	}
-	regiment = {
-		name="1st Havana Artillery"
-		type=artillery
-		home=2209
-	}
-	regiment = {
 		name="1st Santiago de Cuba Infantry"
 		type=infantry
 		home=2212
@@ -554,6 +534,26 @@ army = {
 		name="1st Jamaica Infantry"
 		type=infantry
 		home=2217
+	}
+	regiment = {
+		name="1st Camagüey Artillery"
+		type=artillery
+		home=2211
+	}
+	regiment = {
+		name="1st Havana Artillery"
+		type=artillery
+		home=2209
+	}
+	regiment = {
+		name="2nd Jamaica Infantry"
+		type=infantry
+		home=2217
+	}
+	regiment = {
+		name="1st Jagua Infantry"
+		type=infantry
+		home=2210
 	}
 	regiment = {
 		name="1st Jagua Artillery"
@@ -583,15 +583,11 @@ navy = {
 	name="1st Fleet"
 	location=2220
 	ship = {
-		name="3rd Cap Haitien Clipper Transport"
+		name="1st Barbados Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Montserrat Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Saint Barths Clipper Transport"
+		name="1st Cap Haitien Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -599,11 +595,15 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Camagüey Clipper Transport"
+		name="2nd Cap Haitien Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Jamaica Clipper Transport"
+		name="2nd Barbados Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Isle of Man Clipper Transport"
 		type=clipper_transport
 	}
 }

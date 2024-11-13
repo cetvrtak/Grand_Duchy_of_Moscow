@@ -676,19 +676,7 @@ navy = {
 	name="1st Fleet"
 	location=1923
 	ship = {
-		name="1st Lagos Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Grand Bassam Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="3rd Benin Man'o'war"
-		type=manowar
-	}
-	ship = {
-		name="1st Lome Man'o'war"
+		name="1st Benin Man'o'war"
 		type=manowar
 	}
 	ship = {
@@ -696,19 +684,35 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="2nd Monrovia Man'o'war"
+		name="1st Kahone Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="2nd Lagos Man'o'war"
+		name="2nd Benin Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st Boffa Clipper Transport"
+		name="1st Lome Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Grand Lahou Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Harper Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Grand Bassam Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Cotonou Clipper Transport"
+		name="1st Warri Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Grand Bassam Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -720,31 +724,27 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Warri Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Benin Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Harper Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Sekondi Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="3rd Lagos Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="4th Lagos Clipper Transport"
+		name="1st Rosso Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Saint-Louis Man'o'war"
+		name="3rd Grand Bassam Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Monrovia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Monrovia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Lagos Man'o'war"
 		type=manowar
 	}
 }
@@ -823,11 +823,11 @@ navy = {
 	name="2nd Fleet"
 	location=2921
 	ship = {
-		name="1st Lome Frigate"
+		name="1st Lagos Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Warri Frigate"
+		name="1st Freetown Frigate"
 		type=frigate
 	}
 }
@@ -836,11 +836,11 @@ navy = {
 	name="3rd Fleet"
 	location=2924
 	ship = {
-		name="1st Freetown Frigate"
+		name="1st Cotonou Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st Accra Frigate"
+		name="1st Lome Frigate"
 		type=frigate
 	}
 }

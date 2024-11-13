@@ -504,12 +504,12 @@ army = {
 		home=2669
 	}
 	regiment = {
-		name="1st Trent Infantry"
+		name="2nd Sondrio Infantry"
 		type=infantry
-		home=734
+		home=2669
 	}
 	regiment = {
-		name="2nd Trent Infantry"
+		name="1st Trent Infantry"
 		type=infantry
 		home=734
 	}

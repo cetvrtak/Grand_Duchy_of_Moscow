@@ -1135,7 +1135,7 @@
 	{
 		culture = kashmiri
 		religion = sunni
-		size= 4080
+		size= 10333
 	}
 
 	artisans=
@@ -1177,7 +1177,7 @@
 	{
 		culture = kashmiri
 		religion = sunni
-		size= 114770
+		size= 108517
 	}
 
 	soldiers=
@@ -1775,7 +1775,7 @@
 	{
 		culture = panjabi
 		religion = sunni
-		size= 10333
+		size= 4231
 	}
 
 	artisans=
@@ -1817,7 +1817,7 @@
 	{
 		culture = panjabi
 		religion = sunni
-		size= 66219
+		size= 72321
 	}
 
 	soldiers=
@@ -10326,7 +10326,7 @@
 	{
 		culture = kanauji
 		religion = hindu
-		size= 4133
+		size= 3908
 	}
 
 	artisans=
@@ -10368,7 +10368,7 @@
 	{
 		culture = kanauji
 		religion = hindu
-		size= 60858
+		size= 61083
 	}
 
 	soldiers=
@@ -14323,7 +14323,7 @@
 	{
 		culture = telegu
 		religion = hindu
-		size= 16533
+		size= 11146
 	}
 
 	artisans=
@@ -14365,7 +14365,7 @@
 	{
 		culture = telegu
 		religion = hindu
-		size= 156122
+		size= 161509
 	}
 
 }

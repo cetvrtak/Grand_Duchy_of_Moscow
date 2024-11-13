@@ -511,19 +511,19 @@ army = {
 	name="1st Army"
 	location=372
 	regiment = {
-		name="1st Odense Infantry"
-		type=infantry
-		home=373
-	}
-	regiment = {
 		name="1st Aalborg Infantry"
 		type=infantry
 		home=367
 	}
 	regiment = {
-		name="1st Aarhus Infantry"
+		name="1st Odense Infantry"
 		type=infantry
-		home=366
+		home=373
+	}
+	regiment = {
+		name="2nd Odense Infantry"
+		type=infantry
+		home=373
 	}
 	regiment = {
 		name="1st Aarhus Cavalry"
@@ -541,9 +541,9 @@ army = {
 		home=368
 	}
 	regiment = {
-		name="2nd Odense Infantry"
+		name="1st Copenhagen Infantry"
 		type=infantry
-		home=373
+		home=372
 	}
 	regiment = {
 		name="1st Copenhagen Cavalry"
@@ -551,9 +551,9 @@ army = {
 		home=372
 	}
 	regiment = {
-		name="2nd Copenhagen Artillery"
+		name="1st Flensburg Artillery"
 		type=artillery
-		home=372
+		home=370
 	}
 }
 
@@ -614,7 +614,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Luleå Clipper Transport"
+		name="1st Gävle Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -622,11 +622,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Flensburg Clipper Transport"
+		name="1st Odense Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Luleå Clipper Transport"
+		name="1st Aabenraa Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -634,7 +634,7 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="1st Sundsvall Clipper Transport"
+		name="1st Aalborg Clipper Transport"
 		type=clipper_transport
 	}
 }

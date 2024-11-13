@@ -512,34 +512,24 @@ army = {
 	name="1st Army"
 	location=1129
 	regiment = {
-		name="1st Tehran Irregulars"
-		type=irregular
-		home=1121
-	}
-	regiment = {
-		name="2nd Tehran Irregulars"
-		type=irregular
-		home=1121
-	}
-	regiment = {
 		name="1st Isfahan Irregulars"
 		type=irregular
 		home=1127
 	}
 	regiment = {
-		name="2nd Isfahan Irregulars"
+		name="1st Kashan Irregulars"
 		type=irregular
-		home=1127
+		home=1129
 	}
 	regiment = {
-		name="1st Qom Artillery"
-		type=artillery
-		home=1125
+		name="1st Yasuj Irregulars"
+		type=irregular
+		home=1137
 	}
 	regiment = {
-		name="2nd Qom Artillery"
-		type=artillery
-		home=1125
+		name="1st Tehran Irregulars"
+		type=irregular
+		home=1121
 	}
 	regiment = {
 		name="1st Isfahan Artillery"
@@ -547,44 +537,19 @@ army = {
 		home=1127
 	}
 	regiment = {
-		name="1st Arak Artillery"
+		name="1st Tehran Artillery"
 		type=artillery
-		home=1128
-	}
-	regiment = {
-		name="5th Yasuj Artillery"
-		type=artillery
-		home=1137
-	}
-}
-
-army = {
-	name="6th Army"
-	location=1125
-	regiment = {
-		name="1st Yazd Irregulars"
-		type=irregular
-		home=1130
-	}
-	regiment = {
-		name="3rd Tehran Irregulars"
-		type=irregular
 		home=1121
 	}
 	regiment = {
-		name="2nd Isfahan Artillery"
+		name="1st Qom Artillery"
 		type=artillery
-		home=1127
+		home=1125
 	}
 	regiment = {
-		name="1st Kashan Artillery"
+		name="2nd Tehran Artillery"
 		type=artillery
-		home=1129
-	}
-	regiment = {
-		name="6th Yasuj Irregulars"
-		type=irregular
-		home=1137
+		home=1121
 	}
 	regiment = {
 		name="4th Yasuj Artillery"
@@ -594,13 +559,43 @@ army = {
 }
 
 army = {
-	name="3rd Army"
-	location=1137
+	name="6th Army"
+	location=1128
 	regiment = {
-		name="1st Yasuj Irregulars"
+		name="2nd Isfahan Irregulars"
+		type=irregular
+		home=1127
+	}
+	regiment = {
+		name="1st Qom Irregulars"
+		type=irregular
+		home=1125
+	}
+	regiment = {
+		name="2nd Isfahan Artillery"
+		type=artillery
+		home=1127
+	}
+	regiment = {
+		name="1st Yazd Artillery"
+		type=artillery
+		home=1130
+	}
+	regiment = {
+		name="7th Yasuj Irregulars"
 		type=irregular
 		home=1137
 	}
+	regiment = {
+		name="1st Arak Artillery"
+		type=artillery
+		home=1128
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1137
 	regiment = {
 		name="2nd Yasuj Irregulars"
 		type=irregular
@@ -617,6 +612,11 @@ army = {
 		home=1137
 	}
 	regiment = {
+		name="5th Yasuj Irregulars"
+		type=irregular
+		home=1137
+	}
+	regiment = {
 		name="1st Yasuj Artillery"
 		type=artillery
 		home=1137
@@ -627,7 +627,7 @@ army = {
 		home=1137
 	}
 	regiment = {
-		name="5th Yasuj Irregulars"
+		name="6th Yasuj Irregulars"
 		type=irregular
 		home=1137
 	}

@@ -521,9 +521,29 @@ army = {
 	name="Armata di Sirt"
 	location=755
 	regiment = {
-		name="1st Palermo Infantry"
+		name="1st Brindisi Infantry"
 		type=infantry
-		home=762
+		home=758
+	}
+	regiment = {
+		name="2nd Brindisi Infantry"
+		type=infantry
+		home=758
+	}
+	regiment = {
+		name="1st Tripoli Infantry"
+		type=infantry
+		home=1731
+	}
+	regiment = {
+		name="1st Potenza Infantry"
+		type=infantry
+		home=761
+	}
+	regiment = {
+		name="1st Reggio di Calabria Infantry"
+		type=infantry
+		home=759
 	}
 	regiment = {
 		name="1st Messina Infantry"
@@ -536,44 +556,24 @@ army = {
 		home=763
 	}
 	regiment = {
-		name="1st Catania Infantry"
-		type=infantry
-		home=764
-	}
-	regiment = {
-		name="1st Tripoli Infantry"
-		type=infantry
-		home=1731
-	}
-	regiment = {
-		name="2nd Palermo Infantry"
+		name="1st Palermo Infantry"
 		type=infantry
 		home=762
 	}
 	regiment = {
-		name="2nd Catania Infantry"
-		type=infantry
-		home=764
-	}
-	regiment = {
-		name="1st Catanzaro Infantry"
-		type=infantry
+		name="1st Catanzaro Artillery"
+		type=artillery
 		home=760
 	}
 	regiment = {
-		name="1st Chania Artillery"
+		name="1st Catania Artillery"
 		type=artillery
-		home=847
+		home=764
 	}
 	regiment = {
-		name="1st Tripoli Artillery"
+		name="1st Tozeur Artillery"
 		type=artillery
-		home=1731
-	}
-	regiment = {
-		name="1st Brindisi Artillery"
-		type=artillery
-		home=758
+		home=1729
 	}
 	regiment = {
 		name="1st Potenza Artillery"
@@ -581,24 +581,24 @@ army = {
 		home=761
 	}
 	regiment = {
-		name="1st Sirt Artillery"
+		name="2nd Catanzaro Artillery"
 		type=artillery
-		home=1734
+		home=760
+	}
+	regiment = {
+		name="1st Palermo Artillery"
+		type=artillery
+		home=762
+	}
+	regiment = {
+		name="2nd Palermo Infantry"
+		type=infantry
+		home=762
 	}
 	regiment = {
 		name="1st Reggio di Calabria Artillery"
 		type=artillery
 		home=759
-	}
-	regiment = {
-		name="2nd Catanzaro Infantry"
-		type=infantry
-		home=760
-	}
-	regiment = {
-		name="2nd Potenza Artillery"
-		type=artillery
-		home=761
 	}
 }
 
@@ -708,14 +708,14 @@ army = {
 	name="Armata di Salente"
 	location=755
 	regiment = {
-		name="1st Iraklion Infantry"
+		name="1st Catania Infantry"
 		type=infantry
-		home=848
+		home=764
 	}
 	regiment = {
-		name="3rd Palermo Infantry"
+		name="1st Chania Infantry"
 		type=infantry
-		home=762
+		home=847
 	}
 }
 

@@ -3,14 +3,14 @@
 	{
 		culture = sonoran
 		religion = totemism
-		size= 1033
+		size= 266
 	}
 
 	farmers=
 	{
 		culture = sonoran
 		religion = totemism
-		size= 11103
+		size= 11870
 	}
 
 	farmers=
@@ -473,14 +473,14 @@
 	{
 		culture = sonoran
 		religion = totemism
-		size= 255
+		size= 1033
 	}
 
 	farmers=
 	{
 		culture = sonoran
 		religion = totemism
-		size= 11348
+		size= 10570
 	}
 
 	artisans=
@@ -566,161 +566,7 @@
 	{
 		culture = sonoran
 		religion = totemism
-		size= 2837
-	}
-
-	soldiers=
-	{
-		culture = na_dene
-		religion = protestant
-		size= 2
-	}
-
-	artisans=
-	{
-		culture = na_dene
-		religion = protestant
-		size= 99
-	}
-
-	clergymen=
-	{
-		culture = na_dene
-		religion = protestant
-		size= 5
-	}
-
-	bureaucrats=
-	{
-		culture = na_dene
-		religion = protestant
-		size= 1
-	}
-
-	officers=
-	{
-		culture = na_dene
-		religion = protestant
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = na_dene
-		religion = protestant
-		size= 12
-	}
-
-	soldiers=
-	{
-		culture = yankee
-		religion = protestant
-		size= 4133
-	}
-
-	artisans=
-	{
-		culture = yankee
-		religion = protestant
-		size= 1434
-	}
-
-	clergymen=
-	{
-		culture = yankee
-		religion = protestant
-		size= 67
-	}
-
-	bureaucrats=
-	{
-		culture = yankee
-		religion = protestant
-		size= 20
-	}
-
-	officers=
-	{
-		culture = yankee
-		religion = protestant
-		size= 13
-	}
-
-	aristocrats=
-	{
-		culture = yankee
-		religion = protestant
-		size= 172
-	}
-
-	farmers=
-	{
-		culture = yankee
-		religion = protestant
-		size= 3028
-	}
-
-	soldiers=
-	{
-		culture = native_american_minor
-		religion = animist
-		size= 36
-	}
-
-	farmers=
-	{
-		culture = native_american_minor
-		religion = animist
-		size= 1792
-	}
-
-	farmers=
-	{
-		culture = texan
-		religion = protestant
-		size= 4600
-	}
-
-	artisans=
-	{
-		culture = texan
-		religion = protestant
-		size= 1807
-	}
-
-	aristocrats=
-	{
-		culture = texan
-		religion = protestant
-		size= 217
-	}
-
-	clergymen=
-	{
-		culture = texan
-		religion = protestant
-		size= 84
-	}
-
-	bureaucrats=
-	{
-		culture = texan
-		religion = protestant
-		size= 26
-	}
-
-	officers=
-	{
-		culture = texan
-		religion = protestant
-		size= 16
-	}
-
-	soldiers=
-	{
-		culture = texan
-		religion = protestant
-		size= 4133
+		size= 21850
 	}
 
 }
@@ -2696,7 +2542,7 @@
 	{
 		culture = native_american_minor
 		religion = protestant
-		size= 4133
+		size= 1849
 	}
 
 	artisans=
@@ -3320,7 +3166,7 @@
 	{
 		culture = nahua
 		religion = protestant
-		size= 1033
+		size= 305
 	}
 
 	artisans=
@@ -3348,7 +3194,7 @@
 	{
 		culture = nahua
 		religion = protestant
-		size= 12205
+		size= 12933
 	}
 
 	soldiers=
@@ -3574,7 +3420,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 206
+		size= 1033
 	}
 
 	artisans=
@@ -3616,7 +3462,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 7705
+		size= 6878
 	}
 
 	soldiers=

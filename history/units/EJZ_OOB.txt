@@ -534,9 +534,9 @@ army = {
 		home=1553
 	}
 	regiment = {
-		name="1st Aigun Artillery"
+		name="1st Hailanpao Artillery"
 		type=artillery
-		home=1553
+		home=1085
 	}
 	regiment = {
 		name="4th Aigun Irregulars"
@@ -549,7 +549,7 @@ army = {
 		home=1553
 	}
 	regiment = {
-		name="2nd Aigun Artillery"
+		name="1st Aigun Artillery"
 		type=artillery
 		home=1553
 	}

@@ -536,9 +536,9 @@ army = {
 		home=2612
 	}
 	regiment = {
-		name="1st Aqtobe Irregulars"
+		name="5th Aktash Irregulars"
 		type=irregular
-		home=1183
+		home=2612
 	}
 	regiment = {
 		name="2nd Aktash Cavalry"

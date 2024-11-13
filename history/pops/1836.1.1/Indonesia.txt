@@ -1925,7 +1925,7 @@
 	{
 		culture = javan
 		religion = hindu
-		size= 13433
+		size= 10333
 	}
 
 	artisans=
@@ -1967,7 +1967,7 @@
 	{
 		culture = javan
 		religion = hindu
-		size= 189594
+		size= 192694
 	}
 
 	soldiers=
@@ -4245,7 +4245,7 @@
 	{
 		culture = moluccan
 		religion = hindu
-		size= 1033
+		size= 456
 	}
 
 	artisans=
@@ -4287,7 +4287,7 @@
 	{
 		culture = moluccan
 		religion = hindu
-		size= 5154
+		size= 5731
 	}
 
 }
@@ -4870,7 +4870,7 @@
 	{
 		culture = javan
 		religion = animist
-		size= 1033
+		size= 956
 	}
 
 	artisans=
@@ -4912,7 +4912,7 @@
 	{
 		culture = javan
 		religion = animist
-		size= 42957
+		size= 43034
 	}
 
 	soldiers=

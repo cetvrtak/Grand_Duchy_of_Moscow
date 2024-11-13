@@ -3,7 +3,7 @@
 	{
 		culture = estonian
 		religion = orthodox
-		size= 1033
+		size= 788
 	}
 
 	artisans=
@@ -45,7 +45,7 @@
 	{
 		culture = estonian
 		religion = orthodox
-		size= 40398
+		size= 40643
 	}
 
 	aristocrats=
@@ -89,7 +89,7 @@
 	{
 		culture = estonian
 		religion = orthodox
-		size= 1033
+		size= 950
 	}
 
 	artisans=
@@ -131,7 +131,7 @@
 	{
 		culture = estonian
 		religion = orthodox
-		size= 41344
+		size= 41427
 	}
 
 }

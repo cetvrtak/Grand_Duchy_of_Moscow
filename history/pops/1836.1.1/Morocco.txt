@@ -117,7 +117,7 @@
 	{
 		culture = maghrebi
 		religion = sunni
-		size= 658
+		size= 1033
 	}
 
 	artisans=
@@ -159,7 +159,7 @@
 	{
 		culture = maghrebi
 		religion = sunni
-		size= 29660
+		size= 29285
 	}
 
 	soldiers=
@@ -217,7 +217,7 @@
 	{
 		culture = maghrebi
 		religion = sunni
-		size= 328
+		size= 1033
 	}
 
 	artisans=
@@ -259,7 +259,7 @@
 	{
 		culture = maghrebi
 		religion = sunni
-		size= 14764
+		size= 14059
 	}
 
 	soldiers=
@@ -587,7 +587,7 @@
 	{
 		culture = maghrebi
 		religion = sunni
-		size= 4133
+		size= 1033
 	}
 
 	artisans=
@@ -629,7 +629,7 @@
 	{
 		culture = maghrebi
 		religion = sunni
-		size= 15312
+		size= 18412
 	}
 
 	slaves=
@@ -808,7 +808,7 @@
 	{
 		culture = maghrebi
 		religion = sunni
-		size= 294
+		size= 1033
 	}
 
 	artisans=
@@ -850,7 +850,7 @@
 	{
 		culture = maghrebi
 		religion = sunni
-		size= 14007
+		size= 13268
 	}
 
 	soldiers=
@@ -957,7 +957,7 @@
 	{
 		culture = maghrebi
 		religion = catholic
-		size= 425
+		size= 1033
 	}
 
 	artisans=
@@ -999,7 +999,7 @@
 	{
 		culture = maghrebi
 		religion = catholic
-		size= 19387
+		size= 18779
 	}
 
 }

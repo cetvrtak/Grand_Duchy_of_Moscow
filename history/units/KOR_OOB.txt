@@ -508,16 +508,11 @@ leader = {
 #Armies
 army = {
 	name="5th Army"
-	location=1628
+	location=1624
 	regiment = {
-		name="1st Hamhung Irregulars"
+		name="1st Taejon Irregulars"
 		type=irregular
-		home=1621
-	}
-	regiment = {
-		name="1st Sariwon Irregulars"
-		type=irregular
-		home=1627
+		home=1636
 	}
 	regiment = {
 		name="1st Kwangju Irregulars"
@@ -525,112 +520,22 @@ army = {
 		home=1635
 	}
 	regiment = {
-		name="1st Pyongyang Irregulars"
+		name="1st Hamhung Irregulars"
 		type=irregular
-		home=1619
+		home=1621
 	}
 	regiment = {
-		name="1st Haeju Irregulars"
+		name="1st Pohang Irregulars"
 		type=irregular
-		home=1626
+		home=1634
 	}
 	regiment = {
-		name="1st Chonchon Irregulars"
-		type=irregular
-		home=1620
-	}
-	regiment = {
-		name="1st Kangnung Artillery"
-		type=artillery
-		home=1630
-	}
-	regiment = {
-		name="2nd Kangnung Artillery"
-		type=artillery
-		home=1630
-	}
-	regiment = {
-		name="4th Wonju Artillery"
-		type=artillery
-		home=1631
-	}
-}
-
-army = {
-	name="7th Army"
-	location=1082
-	regiment = {
-		name="1st Ninguta Irregulars"
-		type=irregular
-		home=1554
-	}
-	regiment = {
-		name="1st Kaesong Irregulars"
-		type=irregular
-		home=1625
-	}
-	regiment = {
-		name="2nd Sariwon Irregulars"
-		type=irregular
-		home=1627
-	}
-	regiment = {
-		name="1st Taejon Irregulars"
+		name="2nd Taejon Irregulars"
 		type=irregular
 		home=1636
 	}
 	regiment = {
 		name="1st Wonsan Irregulars"
-		type=irregular
-		home=1629
-	}
-	regiment = {
-		name="2nd Kwangju Irregulars"
-		type=irregular
-		home=1635
-	}
-	regiment = {
-		name="1st Haeju Artillery"
-		type=artillery
-		home=1626
-	}
-	regiment = {
-		name="3rd Kangnung Artillery"
-		type=artillery
-		home=1630
-	}
-}
-
-army = {
-	name="1st Army"
-	location=1634
-	regiment = {
-		name="1st Kimchaek Irregulars"
-		type=irregular
-		home=1623
-	}
-	regiment = {
-		name="2nd Kimchaek Irregulars"
-		type=irregular
-		home=1623
-	}
-	regiment = {
-		name="1st Pusan Irregulars"
-		type=irregular
-		home=1632
-	}
-	regiment = {
-		name="3rd Kwangju Irregulars"
-		type=irregular
-		home=1635
-	}
-	regiment = {
-		name="2nd Hamhung Irregulars"
-		type=irregular
-		home=1621
-	}
-	regiment = {
-		name="2nd Wonsan Irregulars"
 		type=irregular
 		home=1629
 	}
@@ -645,9 +550,104 @@ army = {
 		home=1621
 	}
 	regiment = {
-		name="2nd Hamhung Artillery"
+		name="2nd Baoding Artillery"
 		type=artillery
+		home=1612
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1082
+	regiment = {
+		name="1st Sariwon Irregulars"
+		type=irregular
+		home=1627
+	}
+	regiment = {
+		name="2nd Pohang Irregulars"
+		type=irregular
+		home=1634
+	}
+	regiment = {
+		name="1st Kangnung Irregulars"
+		type=irregular
+		home=1630
+	}
+	regiment = {
+		name="1st Hanseong Irregulars"
+		type=irregular
+		home=1624
+	}
+	regiment = {
+		name="1st Wonju Irregulars"
+		type=irregular
+		home=1631
+	}
+	regiment = {
+		name="2nd Kangnung Irregulars"
+		type=irregular
+		home=1630
+	}
+	regiment = {
+		name="1st Inchon Artillery"
+		type=artillery
+		home=1628
+	}
+	regiment = {
+		name="1st Wonsan Artillery"
+		type=artillery
+		home=1629
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1634
+	regiment = {
+		name="2nd Hamhung Irregulars"
+		type=irregular
 		home=1621
+	}
+	regiment = {
+		name="3rd Hamhung Irregulars"
+		type=irregular
+		home=1621
+	}
+	regiment = {
+		name="1st Chengde Irregulars"
+		type=irregular
+		home=1613
+	}
+	regiment = {
+		name="1st Mukden Irregulars"
+		type=irregular
+		home=1479
+	}
+	regiment = {
+		name="1st Jilin Irregulars"
+		type=irregular
+		home=1555
+	}
+	regiment = {
+		name="2nd Chengde Irregulars"
+		type=irregular
+		home=1613
+	}
+	regiment = {
+		name="1st Wonju Artillery"
+		type=artillery
+		home=1631
+	}
+	regiment = {
+		name="2nd Hanseong Artillery"
+		type=artillery
+		home=1624
+	}
+	regiment = {
+		name="1st Chengde Artillery"
+		type=artillery
+		home=1613
 	}
 }
 
@@ -655,7 +655,27 @@ army = {
 	name="3rd Army"
 	location=1555
 	regiment = {
-		name="1st Kangnung Irregulars"
+		name="1st Haeju Irregulars"
+		type=irregular
+		home=1626
+	}
+	regiment = {
+		name="1st Kaesong Irregulars"
+		type=irregular
+		home=1625
+	}
+	regiment = {
+		name="1st Chonchon Irregulars"
+		type=irregular
+		home=1620
+	}
+	regiment = {
+		name="3rd Chengde Irregulars"
+		type=irregular
+		home=1613
+	}
+	regiment = {
+		name="3rd Kangnung Irregulars"
 		type=irregular
 		home=1630
 	}
@@ -665,34 +685,14 @@ army = {
 		home=1620
 	}
 	regiment = {
-		name="1st Pohang Irregulars"
-		type=irregular
+		name="1st Sariwon Artillery"
+		type=artillery
+		home=1627
+	}
+	regiment = {
+		name="1st Pohang Artillery"
+		type=artillery
 		home=1634
-	}
-	regiment = {
-		name="2nd Kaesong Irregulars"
-		type=irregular
-		home=1625
-	}
-	regiment = {
-		name="2nd Taejon Irregulars"
-		type=irregular
-		home=1636
-	}
-	regiment = {
-		name="1st Chengde Irregulars"
-		type=irregular
-		home=1613
-	}
-	regiment = {
-		name="1st Chengde Artillery"
-		type=artillery
-		home=1613
-	}
-	regiment = {
-		name="1st Wonju Artillery"
-		type=artillery
-		home=1631
 	}
 	regiment = {
 		name="2nd Wonju Artillery"
@@ -705,53 +705,28 @@ army = {
 	name="2nd Army"
 	location=1613
 	regiment = {
-		name="3rd Sariwon Irregulars"
-		type=irregular
-		home=1627
-	}
-	regiment = {
-		name="2nd Chengde Irregulars"
-		type=irregular
-		home=1613
-	}
-	regiment = {
-		name="2nd Pohang Irregulars"
-		type=irregular
-		home=1634
-	}
-	regiment = {
-		name="3rd Taejon Irregulars"
-		type=irregular
-		home=1636
-	}
-	regiment = {
 		name="2nd Haeju Irregulars"
 		type=irregular
 		home=1626
 	}
 	regiment = {
-		name="4th Taejon Irregulars"
+		name="2nd Wonju Irregulars"
 		type=irregular
-		home=1636
-	}
-	regiment = {
-		name="2nd Hanseong Artillery"
-		type=artillery
-		home=1624
-	}
-	regiment = {
-		name="1st Taejon Artillery"
-		type=artillery
-		home=1636
-	}
-	regiment = {
-		name="3rd Wonju Artillery"
-		type=artillery
 		home=1631
 	}
 	regiment = {
-		name="1st Inchon Artillery"
-		type=artillery
+		name="2nd Kwangju Irregulars"
+		type=irregular
+		home=1635
+	}
+	regiment = {
+		name="4th Chengde Irregulars"
+		type=irregular
+		home=1613
+	}
+	regiment = {
+		name="1st Inchon Irregulars"
+		type=irregular
 		home=1628
 	}
 	regiment = {
@@ -760,9 +735,34 @@ army = {
 		home=1612
 	}
 	regiment = {
-		name="2nd Inchon Artillery"
+		name="2nd Chengde Artillery"
 		type=artillery
-		home=1628
+		home=1613
+	}
+	regiment = {
+		name="1st Baoding Artillery"
+		type=artillery
+		home=1612
+	}
+	regiment = {
+		name="1st Peking Artillery"
+		type=artillery
+		home=1616
+	}
+	regiment = {
+		name="2nd Peking Artillery"
+		type=artillery
+		home=1616
+	}
+	regiment = {
+		name="2nd Peking Irregulars"
+		type=irregular
+		home=1616
+	}
+	regiment = {
+		name="3rd Peking Artillery"
+		type=artillery
+		home=1616
 	}
 }
 
@@ -803,46 +803,6 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="4th Kobe Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Tokushima Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Wonsan Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Yamaguchi Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Sariwon Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Sariwon Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Hiroshima Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="5th Amami Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Boli Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Jinzhou Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="1st Inchon Clipper Transport"
 		type=clipper_transport
 	}
@@ -851,7 +811,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Tokushima Clipper Transport"
+		name="2nd Amami Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -863,11 +823,35 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
+		name="1st Sariwon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Tokushima Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Tokushima Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Hamhung Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Pusan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
 		name="3rd Inchon Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Haeju Clipper Transport"
+		name="1st Wonsan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kwangju Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -883,19 +867,35 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Wonsan Clipper Transport"
+		name="3rd Hamhung Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Pusan Clipper Transport"
+		name="7th Inchon Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Haeju Clipper Transport"
+		name="4th Hamhung Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Inchon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="9th Inchon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Okinawa Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
 		name="2nd Pusan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Amami Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -904,52 +904,52 @@ army = {
 	name="6th Army"
 	location=1002
 	regiment = {
-		name="3rd Chengde Irregulars"
-		type=irregular
-		home=1613
-	}
-	regiment = {
-		name="3rd Kaesong Irregulars"
+		name="2nd Kaesong Irregulars"
 		type=irregular
 		home=1625
 	}
 	regiment = {
-		name="3rd Chonchon Irregulars"
+		name="5th Chengde Irregulars"
 		type=irregular
-		home=1620
+		home=1613
 	}
 	regiment = {
-		name="4th Sariwon Irregulars"
+		name="2nd Baoding Irregulars"
 		type=irregular
-		home=1627
+		home=1612
 	}
 	regiment = {
-		name="4th Chonchon Irregulars"
+		name="1st Peking Irregulars"
 		type=irregular
-		home=1620
+		home=1616
 	}
 	regiment = {
-		name="2nd Chengde Artillery"
+		name="4th Kangnung Irregulars"
+		type=irregular
+		home=1630
+	}
+	regiment = {
+		name="3rd Chengde Artillery"
 		type=artillery
 		home=1613
 	}
 	regiment = {
-		name="1st Pohang Artillery"
+		name="1st Taejon Artillery"
 		type=artillery
-		home=1634
+		home=1636
 	}
 	regiment = {
-		name="2nd Pohang Artillery"
+		name="1st Kwangju Artillery"
 		type=artillery
-		home=1634
+		home=1635
 	}
 	regiment = {
-		name="1st Hanseong Irregulars"
+		name="3rd Baoding Irregulars"
 		type=irregular
-		home=1624
+		home=1612
 	}
 	regiment = {
-		name="3rd Chengde Artillery"
+		name="4th Chengde Artillery"
 		type=artillery
 		home=1613
 	}
